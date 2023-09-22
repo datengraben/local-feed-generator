@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-09-22T14:04:25.059472+00:00</updated>
+  <updated>2023-09-22T16:22:06.949438+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -261,6 +261,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nahbar-uberraschend-unkompliziert-unsere-previews/" rel="alternate"/>
     <published>2023-09-18T15:15:17+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/claus-leggewie-wer-sitzt-im-parlament-der-dinge/</id>
+    <title>Claus Leggewie: &amp;quot;Wer sitzt im Parlament der Dinge?&amp;quot; - Neue Reihe startet mit brandak...</title>
+    <updated>2023-09-22T18:22:06.233340+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/claus-leggewie-wer-sitzt-im-parlament-der-dinge/" rel="alternate"/>
+    <published>2023-09-22T18:22:06.233340+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-wieder-premiumpartner-beim-giessener-kultursommer</id>
