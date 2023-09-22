@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-09-22T13:15:18.934193+00:00</updated>
+  <updated>2023-09-22T13:38:55.291789+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -208,114 +208,59 @@
     <published>2023-09-09T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/rostfrei-klingt-nicht/</id>
-    <title>Rostfrei klingt nicht - Gordon Kampes Partitur zu „Gef...</title>
-    <updated>2023-05-19T15:15:17.718066+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/rostfrei-klingt-nicht/" rel="alternate"/>
-    <published>2023-05-19T15:15:17.718066+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/versiegelte-zeit-oder-klaenge-des-gesellschaftsraums/</id>
-    <title>Versiegelte Zeit oder Klänge des Gesellschaftsraums - Ein Gespräch mit den beiden Ko...</title>
-    <updated>2023-05-27T15:15:17.718055+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/versiegelte-zeit-oder-klaenge-des-gesellschaftsraums/" rel="alternate"/>
-    <published>2023-05-27T15:15:17.718055+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-2/</id>
-    <title>Liebes Publikum! - Ein Text von Simone Sterr zum ...</title>
-    <updated>2023-06-15T15:15:17.718044+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-2/" rel="alternate"/>
-    <published>2023-06-15T15:15:17.718044+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/operette-ein-zum-kase-igel-gewordenes-genre/</id>
-    <title>Operette: Ein zum Käse-Igel gewordenes Genre - Ist die Operette der Käse-Igel...</title>
-    <updated>2023-06-25T15:15:17.718033+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/operette-ein-zum-kase-igel-gewordenes-genre/" rel="alternate"/>
-    <published>2023-06-25T15:15:17.718033+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/neue-orte-neue-begegnungen/</id>
-    <title>Neue Orte, neue Begegnungen - Die Spielzeit 2022/2023 geht z...</title>
-    <updated>2023-07-01T15:15:17.718022+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/neue-orte-neue-begegnungen/" rel="alternate"/>
-    <published>2023-07-01T15:15:17.718022+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/auf-zum-theaterfest/</id>
     <title>Auf zum Theaterfest! - Schnuppern, Eintauchen, Mitmac...</title>
-    <updated>2023-08-17T15:15:17.718011+02:00</updated>
+    <updated>2023-08-17T15:15:17+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/auf-zum-theaterfest/" rel="alternate"/>
-    <published>2023-08-17T15:15:17.718011+02:00</published>
+    <published>2023-08-17T15:15:17+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/</id>
     <title>Liebes Publikum! - Vorfreude, Furcht und Hoffnung...</title>
-    <updated>2023-08-18T15:15:17.718000+02:00</updated>
+    <updated>2023-08-18T15:15:17+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/" rel="alternate"/>
-    <published>2023-08-18T15:15:17.718000+02:00</published>
+    <published>2023-08-18T15:15:17+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielplanshow-zuhoren-zuschauen-zusammenwachsen/</id>
     <title>Spielplanshow: Zuhören, Zuschauen, Zusammenwachsen - Bei der großen Spielplanshow a...</title>
-    <updated>2023-08-22T15:15:17.717988+02:00</updated>
+    <updated>2023-08-22T15:15:17+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/spielplanshow-zuhoren-zuschauen-zusammenwachsen/" rel="alternate"/>
-    <published>2023-08-22T15:15:17.717988+02:00</published>
+    <published>2023-08-22T15:15:17+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/eine-geschichte-die-nicht-alt-wird/</id>
     <title>Eine Geschichte, die nicht alt wird - Mit Georg Büchners „Woyzeck“ e...</title>
-    <updated>2023-09-01T15:15:17.717973+02:00</updated>
+    <updated>2023-09-01T15:15:17+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/eine-geschichte-die-nicht-alt-wird/" rel="alternate"/>
-    <published>2023-09-01T15:15:17.717973+02:00</published>
+    <published>2023-09-01T15:15:17+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/nahbar-uberraschend-unkompliziert-unsere-previews/</id>
     <title>Nahbar, überraschend, unkompliziert: unsere Previews - In einer neuen repräsentativen...</title>
-    <updated>2023-09-18T15:15:17.717925+02:00</updated>
+    <updated>2023-09-18T15:15:17+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nahbar-uberraschend-unkompliziert-unsere-previews/" rel="alternate"/>
-    <published>2023-09-18T15:15:17.717925+02:00</published>
+    <published>2023-09-18T15:15:17+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-wieder-premiumpartner-beim-giessener-kultursommer</id>
