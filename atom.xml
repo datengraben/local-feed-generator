@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-09-22T07:49:16.570634+00:00</updated>
+  <updated>2023-09-22T12:59:39.181178+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
-  <link href="http://datengraben.com/giessen-lokal.atom" rel="self"/>
+  <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Trinkbrunnen-sprudeln-wieder.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.58274.1&amp;NavID=2874.584&amp;La=1</id>
@@ -208,59 +208,114 @@
     <published>2023-09-09T00:00:00+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielplanshow-zuhoren-zuschauen-zusammenwachsen/</id>
+    <title>Spielplanshow: Zuhören, Zuschauen, Zusammenwachsen - Bei der großen Spielplanshow a...</title>
+    <updated>2023-09-22T15:09:34.893479+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/spielplanshow-zuhoren-zuschauen-zusammenwachsen/" rel="alternate"/>
+    <published>2023-09-22T15:09:34.893479+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/</id>
+    <title>Liebes Publikum! - Vorfreude, Furcht und Hoffnung...</title>
+    <updated>2023-09-22T15:09:34.893467+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/" rel="alternate"/>
+    <published>2023-09-22T15:09:34.893467+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/auf-zum-theaterfest/</id>
+    <title>Auf zum Theaterfest! - Schnuppern, Eintauchen, Mitmac...</title>
+    <updated>2023-09-22T15:09:34.893457+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/auf-zum-theaterfest/" rel="alternate"/>
+    <published>2023-09-22T15:09:34.893457+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/neue-orte-neue-begegnungen/</id>
+    <title>Neue Orte, neue Begegnungen - Die Spielzeit 2022/2023 geht z...</title>
+    <updated>2023-09-22T15:09:34.893446+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/neue-orte-neue-begegnungen/" rel="alternate"/>
+    <published>2023-09-22T15:09:34.893446+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/operette-ein-zum-kase-igel-gewordenes-genre/</id>
+    <title>Operette: Ein zum Käse-Igel gewordenes Genre - Ist die Operette der Käse-Igel...</title>
+    <updated>2023-09-22T15:09:34.893435+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/operette-ein-zum-kase-igel-gewordenes-genre/" rel="alternate"/>
+    <published>2023-09-22T15:09:34.893435+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-2/</id>
     <title>Liebes Publikum! - Ein Text von Simone Sterr zum ...</title>
-    <updated>2023-09-22T09:48:54+02:00</updated>
+    <updated>2023-09-22T15:09:34.893423+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-2/" rel="alternate"/>
-    <published>2023-09-22T09:48:54+02:00</published>
+    <published>2023-09-22T15:09:34.893423+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/versiegelte-zeit-oder-klaenge-des-gesellschaftsraums/</id>
     <title>Versiegelte Zeit oder Klänge des Gesellschaftsraums - Ein Gespräch mit den beiden Ko...</title>
-    <updated>2023-09-22T09:48:54+02:00</updated>
+    <updated>2023-09-22T15:09:34.893411+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/versiegelte-zeit-oder-klaenge-des-gesellschaftsraums/" rel="alternate"/>
-    <published>2023-09-22T09:48:54+02:00</published>
+    <published>2023-09-22T15:09:34.893411+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/rostfrei-klingt-nicht/</id>
     <title>Rostfrei klingt nicht - Gordon Kampes Partitur zu „Gef...</title>
-    <updated>2023-09-22T09:48:54+02:00</updated>
+    <updated>2023-09-22T15:09:34.893398+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/rostfrei-klingt-nicht/" rel="alternate"/>
-    <published>2023-09-22T09:48:54+02:00</published>
+    <published>2023-09-22T15:09:34.893398+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/funkenflug/</id>
     <title>Funkenflug - Cennet Alkan ist neu im Team u...</title>
-    <updated>2023-09-22T09:48:54+02:00</updated>
+    <updated>2023-09-22T15:09:34.893385+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/funkenflug/" rel="alternate"/>
-    <published>2023-09-22T09:48:54+02:00</published>
+    <published>2023-09-22T15:09:34.893385+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/kulturpass-fur-jugendliche/</id>
     <title>KulturPass für Jugendliche - Wir sind beim KulturPass dabei...</title>
-    <updated>2023-09-22T09:48:54+02:00</updated>
+    <updated>2023-09-22T15:09:34.893342+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kulturpass-fur-jugendliche/" rel="alternate"/>
-    <published>2023-09-22T09:48:54+02:00</published>
+    <published>2023-09-22T15:09:34.893342+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-wieder-premiumpartner-beim-giessener-kultursommer</id>
@@ -393,17 +448,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/endhaltestelle-der-linie-1-bis-november-verlegt" rel="alternate"/>
     <published>2023-09-21T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Breitband-f%C3%BCr-alle-Haushalte-in-Stadt-und-Landkreis-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61064.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Breitband für alle Haushalte in Stadt und Landkreis Gießen</title>
-    <updated>2023-08-23T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Breitband-f%C3%BCr-alle-Haushalte-in-Stadt-und-Landkreis-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61064.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-08-23T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A45-Anschlussstelle-Gie%C3%9Fen-L%C3%BCtzellinden-erneut-f%C3%BCr-eine-Nacht-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61075.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -668,6 +712,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/S%C3%BCdanlage-wird-wieder-in-beiden-Richtungen-f%C3%BCr-Kraftfahrzeuge-befahrbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62102.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-09-21T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erstes-Treffen-der-Spitzenebene-nachhaltige-und-nutzerzentrierte-Digitalisierung-im-Fokus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62103.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Erstes Treffen der Spitzenebene - nachhaltige und nutzerzentrierte Digitalisierung im Fokus</title>
+    <updated>2023-09-22T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erstes-Treffen-der-Spitzenebene-nachhaltige-und-nutzerzentrierte-Digitalisierung-im-Fokus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62103.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-09-22T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/veranstaltung/tomorrathon-24-26-juni-2022/</id>
