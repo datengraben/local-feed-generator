@@ -24,6 +24,8 @@ from feedgen.feed import FeedGenerator
 import pytz
 import locale
 
+import html
+
 arguments = docopt(__doc__, version='0.0.1')
 locale.setlocale(
     category=locale.LC_ALL,
@@ -185,7 +187,7 @@ data = json.loads(resp.text)
 LIMIT=10
 posts = list(map(lambda x:
                     {
-                        'title': x['title'] + " - " + x['magazine_excerpt'][:30] + "...",
+                        'title': html.unescape(x['title'] + " - " + x['magazine_excerpt'][:60] + "..."),
                         'link': 'http://stadttheater-giessen.de' + x['url'],
                         'date-posted': pytz.timezone('Europe/Berlin').localize(datetime.datetime.now()),
                         'author-name': 'Stadttheater',
