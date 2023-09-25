@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-09-22T16:22:06.949438+00:00</updated>
+  <updated>2023-09-23T12:32:28.204192+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -219,17 +219,6 @@
     <published>2023-08-17T15:15:17+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/</id>
-    <title>Liebes Publikum! - Vorfreude, Furcht und Hoffnung...</title>
-    <updated>2023-08-18T15:15:17+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/" rel="alternate"/>
-    <published>2023-08-18T15:15:17+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielplanshow-zuhoren-zuschauen-zusammenwachsen/</id>
     <title>Spielplanshow: Zuhören, Zuschauen, Zusammenwachsen - Bei der großen Spielplanshow a...</title>
     <updated>2023-08-22T15:15:17+02:00</updated>
@@ -265,13 +254,24 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/claus-leggewie-wer-sitzt-im-parlament-der-dinge/</id>
     <title>Claus Leggewie: &amp;quot;Wer sitzt im Parlament der Dinge?&amp;quot; - Neue Reihe startet mit brandak...</title>
-    <updated>2023-09-22T18:22:06.233340+02:00</updated>
+    <updated>2023-09-22T18:22:06+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/claus-leggewie-wer-sitzt-im-parlament-der-dinge/" rel="alternate"/>
-    <published>2023-09-22T18:22:06.233340+02:00</published>
+    <published>2023-09-22T18:22:06+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/</id>
+    <title>Liebes Publikum! - Vorfreude, Furcht und Hoffnung...</title>
+    <updated>2023-08-18T15:15:17+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/" rel="alternate"/>
+    <published>2023-08-18T15:15:17+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-wieder-premiumpartner-beim-giessener-kultursommer</id>
@@ -406,6 +406,17 @@
     <published>2023-09-21T00:00:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Entspannte-Pgelst%C3%A4nde-Landkreis-hebt-Verbot-der-Wasserentnahme-auf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61034.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Entspannte Pegelstände: Landkreis hebt Verbot der Wasserentnahme auf</title>
+    <updated>2023-08-18T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Entspannte-Pgelst%C3%A4nde-Landkreis-hebt-Verbot-der-Wasserentnahme-auf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61034.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-08-18T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A45-Anschlussstelle-Gie%C3%9Fen-L%C3%BCtzellinden-erneut-f%C3%BCr-eine-Nacht-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61075.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>A45: Anschlussstelle Gießen-Lützellinden erneut für eine Nacht gesperrt</title>
     <updated>2023-08-28T00:00:00+02:00</updated>
@@ -437,17 +448,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/VGH-stuft-Verkehrsversuch-als-rechtswidrig-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61087.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-08-30T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verwaltungsstellen der Stadtteile schließen vorübergehend</title>
-    <updated>2023-08-31T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-08-31T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-nimmt-Stellung-zum-Aus-f%C3%BCr-den-Gie%C3%9Fener-Verkehrsversuch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
