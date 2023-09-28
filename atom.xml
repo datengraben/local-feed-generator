@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-09-27T15:59:43.507453+00:00</updated>
+  <updated>2023-09-28T13:30:31.290439+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -252,6 +252,17 @@
     <published>2023-09-22T18:22:06+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theater für alle! - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
+    <updated>2023-09-28T15:30:29.578980+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/" rel="alternate"/>
+    <published>2023-09-28T15:30:29.578980+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/</id>
     <title>Liebes Publikum! - Vorfreude, Furcht und Hoffnung - Simone Sterr zum Start in d...</title>
     <updated>2023-08-18T15:15:17+02:00</updated>
@@ -261,17 +272,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/" rel="alternate"/>
     <published>2023-08-18T15:15:17+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-wieder-premiumpartner-beim-giessener-kultursommer</id>
-    <title>Stadtwerke Gießen wieder Premiumpartner beim Gießener Kultursommer</title>
-    <updated>2023-08-21T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-wieder-premiumpartner-beim-giessener-kultursommer" rel="alternate"/>
-    <published>2023-08-21T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/sauberen-strom-selbst-erzeugen</id>
@@ -393,6 +393,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/endhaltestelle-der-linie-1-bis-november-verlegt" rel="alternate"/>
     <published>2023-09-21T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/badezentrum-ringallee-neustart-in-der-sauna</id>
+    <title>Badezentrum Ringallee: Neustart in der Sauna </title>
+    <updated>2023-09-28T00:00:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/badezentrum-ringallee-neustart-in-der-sauna" rel="alternate"/>
+    <published>2023-09-28T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/VGH-stuft-Verkehrsversuch-als-rechtswidrig-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61087.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
