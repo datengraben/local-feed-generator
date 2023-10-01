@@ -1,6 +1,6 @@
 # Official language image. Look for the different tagged releases at:
 # https://hub.docker.com/r/library/python/tags/
-image: python:3.10-alpine
+image: python:3.10-bookworm
 
 # Change pip's cache directory to be inside the project directory since we can
 # only cache local items.
@@ -28,12 +28,21 @@ scrape-job:       # This job runs in the build stage, which runs first.
   stage: build
   script:
     - pip install -r requirements.txt 
+    - apk update && apk add g++ gcc libxml2 libxslt-dev
     - sh run.sh
 
-#validate-rss-job:   # This job runs in the test stage.
-#  stage: test    # It only starts when the job in the build stage completes successfully.
-#  script:
-#    - validte.py atom.xml
+validate-rss-job:   # This job runs in the test stage.
+  stage: test    # It only starts when the job in the build stage completes successfully.
+  script:
+    - validte.py atom.xml
+    -| git commit -m "Latest data"
+      git config user.name "Automated"
+      git config user.email "actions@noreply.git.datengraben.com"
+      git add atom.xml
+      timestamp=$(date -u)
+      git commit -m "Latest data: ${timestamp}" || exit 0
+      git push
+
 
 deploy-to-http-job:      # This job runs in the deploy stage.
   stage: deploy  # It only runs when *both* jobs in the test stage complete successfully.
