@@ -35,7 +35,8 @@ validate-rss-job:   # This job runs in the test stage.
   stage: test    # It only starts when the job in the build stage completes successfully.
   script:
     - validte.py atom.xml
-    -| git commit -m "Latest data"
+    - | 
+      git commit -m "Latest data"
       git config user.name "Automated"
       git config user.email "actions@noreply.git.datengraben.com"
       git add atom.xml
