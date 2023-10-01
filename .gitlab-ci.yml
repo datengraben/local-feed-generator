@@ -45,7 +45,7 @@ validate-rss-job:   # This job runs in the test stage.
     - git remote add gitlab_origin https://oauth2:$APPLICATION_TOKEN@git.shannes.de/events-scraper.git 
     - git add atom.xml
     - timestamp=$(date -u)
-    - git commit -m "Latest data: ${timestamp}" || exit 0
+    - git commit -m "Latest data from ${timestamp}" || exit 0
     - git push gitlab_origin HEAD:master -o ci.skip # prevent triggering pipeline again 
 
 
