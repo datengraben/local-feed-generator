@@ -21,7 +21,7 @@ before_script:
 
 stages:          # List of stages for jobs, and their order of execution
   - build
-#  - test
+  - test
   - deploy
 
 scrape-job:       # This job runs in the build stage, which runs first.
