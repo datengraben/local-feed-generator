@@ -39,19 +39,19 @@ scrape-job:       # This job runs in the build stage, which runs first.
 
 validate-rss-job:   # This job runs in the test stage.
   stage: test    # It only starts when the job in the build stage completes successfully.
-  script:
-    - | 
-      git config user.name "Automated"
-      git config user.email "actions@noreply.git.datengraben.com"
-      git remote add gitlab_origin https://oauth2:$APPLICATION_TOKEN@git.shannes.de/events-scraper.git 
-      git add atom.xml
-      timestamp=$(date -u)
-      git commit -m "Latest data: ${timestamp}" || exit 0
-      git push gitlab_origin HEAD:master -o ci.skip # prevent triggering pipeline again 
+  script: 
+    - git config user.name "Automated"
+    - git config user.email "actions@noreply.git.datengraben.com"
+    - git remote add gitlab_origin https://oauth2:$APPLICATION_TOKEN@git.shannes.de/events-scraper.git 
+    - git add atom.xml
+    - timestamp=$(date -u)
+    - git commit -m "Latest data: ${timestamp}" || exit 0
+    - git push gitlab_origin HEAD:master -o ci.skip # prevent triggering pipeline again 
 
 
 deploy-to-http-job:      # This job runs in the deploy stage.
   stage: deploy  # It only runs when *both* jobs in the test stage complete successfully.
 #  environment: production
   script:
+    - apt-get install rsync
     - sh deploy.sh
