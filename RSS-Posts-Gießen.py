@@ -21,6 +21,7 @@ import datetime
 
 import rfeed
 from feedgen.feed import FeedGenerator
+import feedparser
 import pytz
 import locale
 
@@ -31,6 +32,8 @@ locale.setlocale(
     category=locale.LC_ALL,
     locale=""  # Note: do not use "de_DE" as it doesn't work
 )
+
+DTNOW = datetime.datetime.now()
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36'
@@ -57,8 +60,10 @@ headers = {
 def get_text(url):
     return bs4.BeautifulSoup(requests.get(url.strip(), headers=headers, timeout=10).text)
 
-def localdt(str_val, pattern):
+def localdt(str_val, pattern, _fix=True):
     dt = datetime.datetime.strptime(str_val, pattern)
+    if (dt - DTNOW).days <= 7 and _fix and dt.hour == 0 and dt.minute == 0:
+        dt = dt.replace(hour=DTNOW.hour, minute=DTNOW.minute)
     return pytz.timezone('Europe/Berlin').localize(dt)
 
 def _bs4(s):
@@ -324,26 +329,11 @@ def import_into_feed(all_posts):
 
 import_into_feed(all_posts)
 
-# In[18]:
-
-
 # Validation
 
 for e in fg.entry():
     if e.id() == None or e.title() == None:
         print(e.id())
-
-
-# # Validierung des Feed
-
-# In[19]:
-
-
-import feedparser
-
-
-# In[20]:
-
 
 computed_posts = {}
 for e in fg.entry():
@@ -364,8 +354,9 @@ for entry in fg.entry():
     # - Nimm dessen date-published in die neue atom.xml
     if entry.id() in known_posts.keys():
         existing_entry = known_posts[entry.id()]
-        #print(existing_entry)
-        last_time_created = localdt(existing_entry['published'][:19], '%Y-%m-%dT%H:%M:%S')
+
+        last_time_created = localdt(existing_entry['published'][:19], '%Y-%m-%dT%H:%M:%S', _fix=False)
+
         entry.pubDate(last_time_created)
         entry.updated(last_time_created)
     else:
@@ -382,8 +373,6 @@ if computed_posts < existing_posts:
 print("Es wurden", update_count, "neue Posts hinzgefügt")
 print("Es wurden", delete_count, "alte Posts gelöscht oder zurückgehalten")
 
-# In[21]:
-
 if not arguments['--skip']:
     # Import from other sources
     from scraper.muk import get_feed as muk
@@ -393,16 +382,4 @@ if arguments['--force-regenerate'] or (update_count > 0 or delete_count > 0):
     atomfeed = fg.atom_str(pretty=True)
     fg.atom_file(arguments['-f'])
     print("Outfile generated at", arguments['-f'])
-
-
-# In[22]:
-
-
-#print(len(feedparser.parse('./atom.xml').entries))
-
-
-# In[ ]:
-
-
-
 
