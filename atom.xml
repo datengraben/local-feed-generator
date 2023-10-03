@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-02T09:56:21.282834+00:00</updated>
+  <updated>2023-10-03T08:18:33.911808+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -505,17 +505,6 @@
     <published>2023-09-14T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-Linie-2-und-den-Nachtbus-Saturn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61169.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Umleitung für Linie 2 und den Nachtbus Saturn</title>
-    <updated>2023-09-14T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-Linie-2-und-den-Nachtbus-Saturn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61169.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-14T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4sentation-der-Gie%C3%9Fener-Beitr%C3%A4ge-zum-Geschichtswettbewerb-des-Bundespr%C3%A4sidenten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62068.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Präsentation der Gießener Beiträge zum Geschichtswettbewerb des Bundespräsidenten</title>
     <updated>2023-09-19T00:00:00+02:00</updated>
@@ -689,6 +678,17 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Feierstunde-und-Beflaggung-zum-Tag-der-Deutschen-Einheit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.14101.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-02T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landtagswahl-am-Sonntag-Wahlstatistik-und-Wahlberichterstattung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62140.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Landtagswahl am Sonntag - Wahlstatistik und Wahlberichterstattung</title>
+    <updated>2023-10-02T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landtagswahl-am-Sonntag-Wahlstatistik-und-Wahlberichterstattung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62140.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-10-02T00:00:00+02:00</published>
   </entry>
   <entry>
