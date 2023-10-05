@@ -287,6 +287,21 @@ print("Einträge:", len(posts))
 all_posts += posts
 
 
+
+# Universum Gießen
+
+resp = requests.get('https://universum-giessen.com/', headers)
+
+posts = list(map(lambda x:{
+    'title': x.select('h2')[0].text,
+    'link':  x.select('h2 > a')[0]['href'],
+    'date-raw': x.find('div', itemprop='datePublished').text,
+    'date-posted': localdt(x.find('div', itemprop='datePublished').text, '%Y-%m-%d', _fix=True),
+    'author-name': 'Universum - Onlinemagazin der JLU',
+    'author-email': 'universum.giessen@gmail.com'
+    }, _bs4(resp.text).select('article')))
+all_posts += posts
+
 # # Erstellung des Atom-Feeds
 #
 # Testweise Erstellung um zu schauen ob alle Attribute gesetzt sind
