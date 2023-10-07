@@ -260,20 +260,9 @@ all_posts += posts
 
 
 # # Htize und Trockenheit
-#
-# - [x] Fertig
-
-# In[15]:
-
-
-import requests
 
 url = 'https://www.giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/index.php?NavID=2874.584.1'
 resp = requests.get(url, headers)
-
-
-# In[16]:
-
 
 posts = list(map(lambda x:{
     'title': x.select('h4 > a')[0].text,
@@ -285,7 +274,6 @@ posts = list(map(lambda x:{
 }, _bs4(resp.text).select('section.mitteilungen > article')))
 print("Einträge:", len(posts))
 all_posts += posts
-
 
 
 # Universum Gießen
