@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-05T11:40:59.220764+00:00</updated>
+  <updated>2023-10-07T10:40:56.772877+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -329,6 +329,17 @@
     <published>2023-09-30T00:00:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_8326_1.PDF?1696587019</id>
+    <title>Bauleitplanung: Erneute Offenlage des Bebauungsplanentwurfes Nr. GI 05/18 "Rodheimer Straße-West" (3. Entwurf)</title>
+    <updated>2023-10-07T12:40:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8326_1.PDF?1696587019" rel="alternate"/>
+    <published>2023-10-07T12:40:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielplanshow-zuhoren-zuschauen-zusammenwachsen/</id>
     <title>Spielplanshow: Zuhören, Zuschauen, Zusammenwachsen - Bei der großen Spielplanshow am Abend unseres Theaterfests k...</title>
     <updated>2023-08-22T15:15:17+02:00</updated>
@@ -593,17 +604,6 @@
     <published>2023-09-12T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Briefwahl-l%C3%A4uft-auf-Hochtouren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61155.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Briefwahl läuft auf Hochtouren</title>
-    <updated>2023-09-12T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Briefwahl-l%C3%A4uft-auf-Hochtouren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61155.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-12T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Freibadsommer-geht-zu-Ende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61167.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gießener Freibadsommer geht zu Ende</title>
     <updated>2023-09-14T00:00:00+02:00</updated>
@@ -758,17 +758,6 @@
     <published>2023-09-29T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Koffer-voller-Kultur-bei-Freitag-Vier.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62128.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ein Koffer voller Kultur bei Freitag.Vier</title>
-    <updated>2023-09-29T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Koffer-voller-Kultur-bei-Freitag-Vier.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62128.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-29T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Briefwahl-noch-bis-Freitag-06-10-2023-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62127.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Briefwahl noch bis Freitag (06.10.) möglich</title>
     <updated>2023-09-29T00:00:00+02:00</updated>
@@ -800,6 +789,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Umfrage-zu-Sport-und-Bewegungsm%C3%B6glichkeiten-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-10-05T13:40:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Projekt-Medizinische-Soforthilfe-nach-Vergewaltigung-k%C3%BCmmert-sich-um-Opfer-einer-Sexualstraftat.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62262.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Projekt "Medizinische Soforthilfe nach Vergewaltigung" kümmert sich um Opfer einer Sexualstraftat</title>
+    <updated>2023-10-06T12:40:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Projekt-Medizinische-Soforthilfe-nach-Vergewaltigung-k%C3%BCmmert-sich-um-Opfer-einer-Sexualstraftat.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62262.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-06T12:40:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reserve-f%C3%BCr-Wahlsonntag-gesucht-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62263.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Reserve-Wahlhelfer für Wahlsonntag gesucht!</title>
+    <updated>2023-10-06T12:40:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reserve-f%C3%BCr-Wahlsonntag-gesucht-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62263.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-06T12:40:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/veranstaltung/tomorrathon-24-26-juni-2022/</id>
