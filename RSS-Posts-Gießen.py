@@ -62,7 +62,7 @@ def get_text(url):
 
 def localdt(str_val, pattern, _fix=True):
     dt = datetime.datetime.strptime(str_val, pattern)
-    if (dt - DTNOW).days <= 7 and _fix and dt.hour == 0 and dt.minute == 0:
+    if (DTNOW - dt).days <= 7 and _fix and dt.hour == 0 and dt.minute == 0:
         dt = dt.replace(hour=DTNOW.hour, minute=DTNOW.minute)
     return pytz.timezone('Europe/Berlin').localize(dt)
 
