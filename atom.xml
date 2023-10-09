@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-08T15:12:58.011676+00:00</updated>
+  <updated>2023-10-09T08:10:07.171111+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -483,6 +483,28 @@
     <published>2023-03-21T00:00:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Volksbund-Deutsche-Kriegsgr%C3%A4berf%C3%BCrsorge-sammelt-wieder-Spenden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60901.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Volksbund Deutsche Kriegsgräberfürsorge sammelt wieder Spenden</title>
+    <updated>2023-08-04T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Volksbund-Deutsche-Kriegsgr%C3%A4berf%C3%BCrsorge-sammelt-wieder-Spenden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60901.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-08-04T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/VGH-stuft-Verkehrsversuch-als-rechtswidrig-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61087.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>VGH stuft Verkehrsversuch als rechtswidrig ein</title>
+    <updated>2023-08-30T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/VGH-stuft-Verkehrsversuch-als-rechtswidrig-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61087.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-08-30T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-nimmt-Stellung-zum-Aus-f%C3%BCr-den-Gie%C3%9Fener-Verkehrsversuch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>OB Becher nimmt Stellung zum Aus für den Gießener Verkehrsversuch</title>
     <updated>2023-08-31T00:00:00+02:00</updated>
@@ -712,28 +734,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausschreibung-Projektmanagement-f%C3%BCr-Gie%C3%9Fener-Kulturnacht-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62125.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-09-29T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Briefwahl-noch-bis-Freitag-06-10-2023-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62127.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Briefwahl noch bis Freitag (06.10.) möglich</title>
-    <updated>2023-09-29T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Briefwahl-noch-bis-Freitag-06-10-2023-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62127.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-29T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landtagswahl-am-Sonntag-Wahlstatistik-und-Wahlberichterstattung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62140.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Landtagswahl am Sonntag - Wahlstatistik und Wahlberichterstattung</title>
-    <updated>2023-10-02T10:37:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landtagswahl-am-Sonntag-Wahlstatistik-und-Wahlberichterstattung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62140.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-02T10:37:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Umfrage-zu-Sport-und-Bewegungsm%C3%B6glichkeiten-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
