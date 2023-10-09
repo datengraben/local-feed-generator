@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-09T11:54:45.650552+00:00</updated>
+  <updated>2023-10-09T16:19:32.810422+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -307,17 +307,6 @@
     <published>2023-09-09T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_8294_1.PDF?1695990208</id>
-    <title>Einleitungsbeschluss und frühzeitige Beteiligung SCH 08/04 Erweiterung Firma Bieber+Marburg</title>
-    <updated>2023-09-30T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8294_1.PDF?1695990208" rel="alternate"/>
-    <published>2023-09-30T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_8275_1.PDF?1695792298</id>
     <title>Auskunfts- und Übermittlungssperren</title>
     <updated>2023-09-30T00:00:00+02:00</updated>
@@ -326,6 +315,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_8275_1.PDF?1695792298" rel="alternate"/>
+    <published>2023-09-30T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_8294_1.PDF?1695990208</id>
+    <title>Einleitungsbeschluss und frühzeitige Beteiligung SCH 08/04 Erweiterung Firma Bieber+Marburg</title>
+    <updated>2023-09-30T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8294_1.PDF?1695990208" rel="alternate"/>
     <published>2023-09-30T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -536,39 +536,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/badezentrum-ringallee-neustart-in-der-sauna" rel="alternate"/>
     <published>2023-09-28T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/VGH-stuft-Verkehrsversuch-als-rechtswidrig-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61087.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>VGH stuft Verkehrsversuch als rechtswidrig ein</title>
-    <updated>2023-08-30T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/VGH-stuft-Verkehrsversuch-als-rechtswidrig-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61087.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-08-30T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-nimmt-Stellung-zum-Aus-f%C3%BCr-den-Gie%C3%9Fener-Verkehrsversuch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>OB Becher nimmt Stellung zum Aus für den Gießener Verkehrsversuch</title>
-    <updated>2023-08-31T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-nimmt-Stellung-zum-Aus-f%C3%BCr-den-Gie%C3%9Fener-Verkehrsversuch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-08-31T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsversuch-Verkehrsbeschilderung-hat-weiter-G%C3%BCltigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61091.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verkehrsversuch: Verkehrsbeschilderung hat weiter Gültigkeit</title>
-    <updated>2023-08-31T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsversuch-Verkehrsbeschilderung-hat-weiter-G%C3%BCltigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61091.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-08-31T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4chster-Bauabschnitt-in-der-Ludwigstra%C3%9Fe-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61116.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -811,6 +778,39 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Keine-Gefahr-durch-Gasgeruch-im-Umfeld-der-Hessenhallen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62267.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-10-09T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausl%C3%A4nderbeh%C3%B6rde-am-19-10-2023-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62268.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ausländerbehörde am 19.10.2023 geschlossen</title>
+    <updated>2023-10-09T18:19:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausl%C3%A4nderbeh%C3%B6rde-am-19-10-2023-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62268.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-09T18:19:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Energie-gesucht-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62269.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue Energie gesucht!</title>
+    <updated>2023-10-09T18:19:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Energie-gesucht-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62269.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-09T18:19:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-bekundet-Solidarit%C3%A4t-mit-Israel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62271.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>OB Becher bekundet Solidarität mit Israel</title>
+    <updated>2023-10-09T18:19:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-bekundet-Solidarit%C3%A4t-mit-Israel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62271.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-09T18:19:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/veranstaltung/tomorrathon-24-26-juni-2022/</id>
