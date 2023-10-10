@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-09T16:19:32.810422+00:00</updated>
+  <updated>2023-10-10T11:53:09.549506+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -769,17 +769,6 @@
     <published>2023-10-06T12:40:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Keine-Gefahr-durch-Gasgeruch-im-Umfeld-der-Hessenhallen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62267.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>+++Update+++ Gasgeruch im größeren Umkreis um die Schlachthofstraße Gießen</title>
-    <updated>2023-10-09T11:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Keine-Gefahr-durch-Gasgeruch-im-Umfeld-der-Hessenhallen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62267.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-09T11:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausl%C3%A4nderbeh%C3%B6rde-am-19-10-2023-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62268.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Ausländerbehörde am 19.10.2023 geschlossen</title>
     <updated>2023-10-09T18:19:00+02:00</updated>
@@ -811,6 +800,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-bekundet-Solidarit%C3%A4t-mit-Israel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62271.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-10-09T18:19:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jugendbildungswerk-mit-umfangreichen-Herbst-Ferienangebot.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62305.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Jugendbildungswerk mit umfangreichen Herbst-Ferienangebot</title>
+    <updated>2023-10-10T13:53:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jugendbildungswerk-mit-umfangreichen-Herbst-Ferienangebot.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62305.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-10T13:53:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/veranstaltung/tomorrathon-24-26-juni-2022/</id>
