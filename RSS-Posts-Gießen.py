@@ -312,7 +312,7 @@ def import_into_feed(all_posts):
 
         # filter deleted uris
         if post['link'] in deleted_urls:
-            print("Skip", post['link'])
+            # print("Skip", post['link'])
             continue
 
         fe = fg.add_entry()
