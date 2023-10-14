@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-13T07:58:51.802895+00:00</updated>
+  <updated>2023-10-14T08:56:49.652135+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -340,6 +340,17 @@
     <published>2023-10-13T09:58:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_8350_1.PDF?1697106355</id>
+    <title>Entwurfsoffenlage zur vorhabenbezogenen 1. Änderung des Bebauungsplan GI 03/17</title>
+    <updated>2023-10-14T10:56:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8350_1.PDF?1697106355" rel="alternate"/>
+    <published>2023-10-14T10:56:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielplanshow-zuhoren-zuschauen-zusammenwachsen/</id>
     <title>Spielplanshow: Zuhören, Zuschauen, Zusammenwachsen - Bei der großen Spielplanshow am Abend unseres Theaterfests k...</title>
     <updated>2023-08-22T15:15:17+02:00</updated>
@@ -386,13 +397,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/moritz-laurer-wird-neuer-chordirektor/</id>
     <title>Moritz Laurer wird neuer Chordirektor - Wir freuen uns ab 1. November Moritz Laurer als neuen Chordi...</title>
-    <updated>2023-10-13T09:58:49.317217+02:00</updated>
+    <updated>2023-10-13T09:58:49+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/moritz-laurer-wird-neuer-chordirektor/" rel="alternate"/>
-    <published>2023-10-13T09:58:49.317217+02:00</published>
+    <published>2023-10-13T09:58:49+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/</id>
@@ -406,158 +417,103 @@
     <published>2023-08-18T15:15:17+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/keine-busse-durch-allendorf</id>
-    <title>Keine Busse durch Allendorf</title>
-    <updated>2023-08-30T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/5000-euro-fuer-die-tafel-giessen</id>
+    <title>5.000 Euro für die Tafel Gießen</title>
+    <updated>2023-01-18T00:00:00+01:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/keine-busse-durch-allendorf" rel="alternate"/>
-    <published>2023-08-30T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/5000-euro-fuer-die-tafel-giessen" rel="alternate"/>
+    <published>2023-01-18T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtteilfreibaeder-schliessen-am-sonntag</id>
-    <title>Stadtteilfreibäder schließen am Sonntag</title>
-    <updated>2023-08-31T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/busverkehr-am-faschingssonntag-2</id>
+    <title>Busverkehr am Faschingssonntag</title>
+    <updated>2023-02-16T00:00:00+01:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtteilfreibaeder-schliessen-am-sonntag" rel="alternate"/>
-    <published>2023-08-31T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/busverkehr-am-faschingssonntag-2" rel="alternate"/>
+    <published>2023-02-16T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-fernwaermepreise</id>
-    <title>Stadtwerke Gießen senken Fernwärmepreise</title>
-    <updated>2023-09-05T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/klimastreik-beeintraechtigt-nahverkehr</id>
+    <title>Klimastreik beeinträchtigt Nahverkehr </title>
+    <updated>2023-02-28T00:00:00+01:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-fernwaermepreise" rel="alternate"/>
-    <published>2023-09-05T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/klimastreik-beeintraechtigt-nahverkehr" rel="alternate"/>
+    <published>2023-02-28T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-verstaerken-die-kooperation-mit-der-tsg-leihgestern</id>
-    <title>Stadtwerke Gießen verstärken die Kooperation mit der TSG Leihgestern</title>
-    <updated>2023-09-07T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/swg-ueberreichen-preise-aus-machen-weil-gewinnspiel</id>
+    <title>SWG überreichen Preise aus „Machen weil“-Gewinnspiel</title>
+    <updated>2023-03-01T00:00:00+01:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-verstaerken-die-kooperation-mit-der-tsg-leihgestern" rel="alternate"/>
-    <published>2023-09-07T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/swg-ueberreichen-preise-aus-machen-weil-gewinnspiel" rel="alternate"/>
+    <published>2023-03-01T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/einheitlicher-look-fuer-die-kegel-jugend</id>
-    <title>Einheitlicher Look für die Kegel-Jugend</title>
-    <updated>2023-09-13T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/swg-sind-gruendungsmitglied-des-itee-ev</id>
+    <title>SWG sind Gründungsmitglied des ITEE e.V.</title>
+    <updated>2023-03-06T00:00:00+01:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/einheitlicher-look-fuer-die-kegel-jugend" rel="alternate"/>
-    <published>2023-09-13T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/swg-sind-gruendungsmitglied-des-itee-ev" rel="alternate"/>
+    <published>2023-03-06T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/der-giessener-freibadsommer-endet</id>
-    <title>Der Gießener Freibadsommer endet</title>
-    <updated>2023-09-14T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-die-strompreise</id>
+    <title>Stadtwerke Gießen senken die Strompreise</title>
+    <updated>2023-03-09T00:00:00+01:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/der-giessener-freibadsommer-endet" rel="alternate"/>
-    <published>2023-09-14T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-die-strompreise" rel="alternate"/>
+    <published>2023-03-09T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-linie-2-und-den-nachtbus-saturn</id>
-    <title>Umleitung für Linie 2 und den Nachtbus Saturn</title>
-    <updated>2023-09-14T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/energiewissen-am-dienstag-geht-in-die-naechste-runde</id>
+    <title>Energiewissen am Dienstag geht in die nächste Runde</title>
+    <updated>2023-03-21T00:00:00+01:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-linie-2-und-den-nachtbus-saturn" rel="alternate"/>
-    <published>2023-09-14T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/energiewissen-am-dienstag-geht-in-die-naechste-runde" rel="alternate"/>
+    <published>2023-03-21T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/waermeverluste-reduzieren</id>
-    <title>Wärmeverluste reduzieren</title>
-    <updated>2023-09-19T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/umleitungen-im-busverkehr</id>
+    <title>Umleitungen im Busverkehr</title>
+    <updated>2023-03-30T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/waermeverluste-reduzieren" rel="alternate"/>
-    <published>2023-09-19T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/umleitungen-im-busverkehr" rel="alternate"/>
+    <published>2023-03-30T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-unterstuetzen-gruenberger-basketballdamen</id>
-    <title>Stadtwerke Gießen unterstützen Grünberger Basketballdamen</title>
-    <updated>2023-09-20T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/mitbus-investiert-weiter-in-klimaschonende-fahrzeugflotte</id>
+    <title> MIT.BUS investiert weiter in klimaschonende Fahrzeugflotte</title>
+    <updated>2023-04-06T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-unterstuetzen-gruenberger-basketballdamen" rel="alternate"/>
-    <published>2023-09-20T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/endhaltestelle-der-linie-1-bis-november-verlegt</id>
-    <title>Endhaltestelle der Linie 1 bis November verlegt</title>
-    <updated>2023-09-21T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/endhaltestelle-der-linie-1-bis-november-verlegt" rel="alternate"/>
-    <published>2023-09-21T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/badezentrum-ringallee-neustart-in-der-sauna</id>
-    <title>Badezentrum Ringallee: Neustart in der Sauna </title>
-    <updated>2023-09-28T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/badezentrum-ringallee-neustart-in-der-sauna" rel="alternate"/>
-    <published>2023-09-28T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/swg-warnen-vor-spam-mails</id>
-    <title>SWG warnen vor Spam-Mails</title>
-    <updated>2023-10-10T13:59:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-warnen-vor-spam-mails" rel="alternate"/>
-    <published>2023-10-10T13:59:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Freibadsommer-geht-zu-Ende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61167.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gießener Freibadsommer geht zu Ende</title>
-    <updated>2023-09-14T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Freibadsommer-geht-zu-Ende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61167.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-14T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4sentation-der-Gie%C3%9Fener-Beitr%C3%A4ge-zum-Geschichtswettbewerb-des-Bundespr%C3%A4sidenten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62068.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Präsentation der Gießener Beiträge zum Geschichtswettbewerb des Bundespräsidenten</title>
-    <updated>2023-09-19T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4sentation-der-Gie%C3%9Fener-Beitr%C3%A4ge-zum-Geschichtswettbewerb-des-Bundespr%C3%A4sidenten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62068.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-19T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/mitbus-investiert-weiter-in-klimaschonende-fahrzeugflotte" rel="alternate"/>
+    <published>2023-04-06T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Kursangebote-der-VHS-im-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62097.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -811,6 +767,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Moritz-Laurer-wird-Chordirektor-am-Stadttheater-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62316.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-10-12T13:59:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sanierung-des-Geh-und-Radweges-in-der-Eichg%C3%A4rtenallee.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62319.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sanierung des Geh- und Radweges in der Eichgärtenallee</title>
+    <updated>2023-10-13T10:56:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sanierung-des-Geh-und-Radweges-in-der-Eichg%C3%A4rtenallee.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62319.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-13T10:56:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auf-der-Johannette-Lein-Gasse-trifft-man-sich-am-Dienstag-zum-Malen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62320.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Auf der Johannette-Lein-Gasse trifft man sich am Dienstag zum Malen</title>
+    <updated>2023-10-13T10:56:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auf-der-Johannette-Lein-Gasse-trifft-man-sich-am-Dienstag-zum-Malen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62320.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-13T10:56:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/veranstaltung/tomorrathon-24-26-juni-2022/</id>
