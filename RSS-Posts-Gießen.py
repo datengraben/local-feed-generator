@@ -16,6 +16,8 @@ from docopt import docopt
 
 import re
 import requests
+import json
+from json.decoder import JSONDecodeError
 import bs4
 import datetime
 
@@ -24,6 +26,7 @@ from feedgen.feed import FeedGenerator
 import feedparser
 import pytz
 import locale
+import pandas as pd
 
 import html
 
@@ -34,10 +37,6 @@ locale.setlocale(
 )
 
 DTNOW = datetime.datetime.now()
-
-headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36'
-}
 
 headers = {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
@@ -69,6 +68,19 @@ def localdt(str_val, pattern, _fix=True):
 def _bs4(s):
     return bs4.BeautifulSoup(s, features="lxml")
 
+def general_scraper(_url, _mapper, _header=headers):
+    resp = requests.get(_url, headers=_header)
+    print(resp)
+    posts = []
+    try:
+        posts = list(_mapper(resp.text))
+    except JSONDecodeError as e:
+        print(e)
+        print("Fehler")
+        print(resp.text)
+    print("Importiere:", len(posts))
+    return posts
+
 
 all_posts = []
 
@@ -80,39 +92,23 @@ POSTS = URL + '/neuigkeiten/'
 EVENTS = URL + '/category/veranstaltung'
 
 # scrape posts
-resp = requests.get(POSTS)
-
-# In[4]:
-
-posts = list(map(lambda x: {'title': x.select('h2.eael-entry-title > a')[0].text,
+all_posts += general_scraper(POSTS,
+        lambda body: map(lambda x: {'title': x.select('h2.eael-entry-title > a')[0].text,
                     'link': x.select('h2.eael-entry-title > a')[0]['href'],
                     'date-raw': x.select('time')[0]['datetime'],
                     'date-posted': localdt(x.select('time')[0]['datetime'], '%d. %B %Y'),
                     'text': x.select('p')[0].text,
                     'author-name': 'Werkstatt-Kirche',
                     'author-email': 'info@werkstattkirche.de'
-                           }, _bs4(resp.text).select('article')))
-print("Importiere:", len(posts))
-all_posts+=posts
+                }, _bs4(body).select('article')))
 
-
-# # Gießen.de
-#
+# Gießen.de
 # - [x] fertig
-
-# In[5]:
-
 
 year = 2023
 url = 'https://www.giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/index.php?ModID=255&object=tx%2C2874.5.1&La=1&NavID=1894.87&text=&kat=8.51&jahr={}&startkat=2874.229'.format(year)
-resp = requests.get(url, headers)
-
-
-# In[6]:
-
-
-posts = list(map(lambda x:
-         {
+all_posts += general_scraper(url,
+        lambda body: map(lambda x: {
              'title': x.select('h4')[0].text,
              'link': 'http://giessen.de' + x.select('a')[0]['href'],
              'date-posted': localdt(x.select('small.date')[0].text, '%d.%m.%Y'),
@@ -120,10 +116,7 @@ posts = list(map(lambda x:
              'text': '',
              'author-name': 'Stadt - Aktuelle Meldungen',
              'author-email': 'info@giessen.de'
-         },
-         _bs4(resp.text).select('article')))
-print("Importiere:", len(posts))
-all_posts+=posts
+         }, _bs4(body).select('article')))
 
 
 # # Stadtwerke Gießen
@@ -133,17 +126,9 @@ all_posts+=posts
 # - [x] fertig
 #
 
-# In[7]:
-
-
 url = 'https://www.swg-konzern.de/presse/archiv/jahr/2023'
-resp = requests.get(url, headers)
-
-
-# In[8]:
-
-
-posts = list(map(lambda x:
+all_posts += general_scraper(url,
+        lambda body: list(map(lambda x:
          {
            'title': x['title'],
            'link': 'http://www.swg-konzern.de' + x['href'],
@@ -153,21 +138,14 @@ posts = list(map(lambda x:
            'author-name': 'SWG',
            'author-email': 'info@swg-konzern.de'
          },
-         _bs4(resp.text).select('.news-list > a')))
-print("Importiere:", len(posts))
-all_posts+=posts
+         _bs4(body).select('.news-list > a'))))
 
 
 # # Stadttheater Gießen
-#
 # - [x] fertig
 
-# In[9]:
-
-
-import json
-resp = requests.get("https://stadttheater-giessen.de/de/ajax/?action=load_magazine&start=0&items=12",
-             headers={
+url = "https://stadttheater-giessen.de/de/ajax/?action=load_magazine&start=0&items=12"
+theater_headers = {
     "accept": "application/json, text/javascript, */*; q=0.01",
     "accept-language": "de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7",
     "sec-ch-ua": "\"Chromium\";v=\"109\", \"Not_A Brand\";v=\"99\"",
@@ -181,26 +159,18 @@ resp = requests.get("https://stadttheater-giessen.de/de/ajax/?action=load_magazi
     "cookie": "wires=380e9468b111d143eeb61efe552e61d4; theme=pink",
     "Referer": "https://stadttheater-giessen.de/",
     "Referrer-Policy": "strict-origin-when-cross-origin"
-  })
-data = json.loads(resp.text)
-
-
-# In[10]:
-
+  }
 
 # Only youngest five posts
 LIMIT=10
-posts = list(map(lambda x:
+all_posts += general_scraper(url, lambda body: map(lambda x:
                     {
                         'title': html.unescape(x['title'] + " - " + x['magazine_excerpt'][:60] + "..."),
                         'link': 'http://stadttheater-giessen.de' + x['url'],
                         'date-posted': pytz.timezone('Europe/Berlin').localize(datetime.datetime.now()),
                         'author-name': 'Stadttheater',
                         'author-email': 'dialog@stadttheater-giessen.de'
-                    },
-                    data['data'][:LIMIT]))
-print("Einträge:", len(posts))
-all_posts += posts
+                    }, json.loads(body)['data'][:LIMIT]), _header=theater_headers)
 
 
 # # Stadt Gießen amtliche Bekanntmachung
@@ -208,93 +178,62 @@ all_posts += posts
 # - [x] fertig
 # - [ ] TODO ich kann das Datum noch mit als Key benutzen, z.B. wenn ein neues Dokument bekannt gemacht wurde
 
-# In[11]:
-
-
 url = 'https://www.giessen.de/Rathaus/Newsroom/Amtliche-Bekanntmachungen/'
-resp = requests.get(url, headers)
-
-
-# In[12]:
-
-
-posts = list(map(lambda x:
-         {
+all_posts += general_scraper(url,
+        lambda body: list(map(lambda x: {
              'title': x.select('a')[0].text,
              'link': 'http://giessen.de' + x.select('a')[0]['href'],
              'date-raw': x.select('small')[1].text.split(":")[1].strip(),
              'date-posted': localdt(x.select('small')[1].text.split(":")[1].strip(), '%d.%m.%Y'),
              'author-name': 'Stadt - Amtliche Bekanntmachungen',
              'author-email': 'presse@giessen.de'
-         },
-         _bs4(resp.text).select('.main-content-area')[0].select('ul > li')))
-print("Einträge:", len(posts))
-all_posts += posts
-
+         }, _bs4(body).select('.main-content-area')[0].select('ul > li'))))
 
 # # Oberhessisches Museum
-#
 # - [x] Fertig
 
-# In[13]:
-
-
 url = 'https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/index.php?&object=tx,2874.5&ModID=255&call=suche&kat=2874.251&kuo=1&sfkat=0&sfmonat=0&sfjahr=0&k_sub=0&NavID=1894.209&La=1'
-resp = requests.get(url, headers)
-
-
-# In[14]:
-
-
-posts = list(map(lambda x:
-        {
+all_posts += general_scraper(url, lambda body: list(map(lambda x: {
             'title': x.select('h4.liste-titel > a')[0].text,
             'link': 'https://www.giessen.de' + x.select('h4.liste-titel > a')[0]['href'],
             'date-raw': x.select('small.date')[0].text,
             'date-posted': localdt(x.select('small.date')[0].text, '%d.%m.%Y'),
             'author-name': 'Oberhessisches Museum',
             'author-email': 'museum@giessen.de'
-        }, _bs4(resp.text).select('.main-content-area * article')))
-print("Einträge:", len(posts))
-all_posts += posts
+        }, _bs4(body).select('.main-content-area * article'))))
 
 
-# # Htize und Trockenheit
+# Htize und Trockenheit
+# - [x] Fertig
 
-url = 'https://www.giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/index.php?NavID=2874.584.1'
-resp = requests.get(url, headers)
-
-posts = list(map(lambda x:{
-    'title': x.select('h4 > a')[0].text,
-    'link': 'http://giessen.de' + x.select('h4 > a')[0]['href'],
-    'date-raw': x.select('small.date')[0].text,
-    'date-posted': localdt(x.select('small.date')[0].text, '%d.%m.%Y'),
-    'author-name': 'Stadt - Hitze und Trockenheit',
-    'author-email': ''
-}, _bs4(resp.text).select('section.mitteilungen > article')))
-print("Einträge:", len(posts))
-all_posts += posts
+all_posts += general_scraper('https://www.giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/index.php?NavID=2874.584.1',
+        lambda body: map(lambda x:{
+            'title': x.select('h4 > a')[0].text,
+            'link': 'http://giessen.de' + x.select('h4 > a')[0]['href'],
+            'date-raw': x.select('small.date')[0].text,
+            'date-posted': localdt(x.select('small.date')[0].text, '%d.%m.%Y'),
+            'author-name': 'Stadt - Hitze und Trockenheit',
+            'author-email': ''
+    }, _bs4(body).select('section.mitteilungen > article')))
 
 
 # Universum Gießen
 
-resp = requests.get('https://universum-giessen.com/', headers)
+all_posts += general_scraper('https://universum-giessen.com/',
+        lambda body: map(lambda x:{
+            'title': x.select('h2')[0].text,
+            'link':  x.select('h2 > a')[0]['href'],
+            'date-raw': x.find('div', itemprop='datePublished').text,
+            'date-posted': localdt(x.find('div', itemprop='datePublished').text, '%Y-%m-%d', _fix=True),
+            'author-name': 'Universum - Onlinemagazin der JLU',
+            'author-email': 'universum.giessen@gmail.com'
+        }, _bs4(body).select('article')))
 
-posts = list(map(lambda x:{
-    'title': x.select('h2')[0].text,
-    'link':  x.select('h2 > a')[0]['href'],
-    'date-raw': x.find('div', itemprop='datePublished').text,
-    'date-posted': localdt(x.find('div', itemprop='datePublished').text, '%Y-%m-%d', _fix=True),
-    'author-name': 'Universum - Onlinemagazin der JLU',
-    'author-email': 'universum.giessen@gmail.com'
-    }, _bs4(resp.text).select('article')))
-all_posts += posts
 
 # # Erstellung des Atom-Feeds
 #
 # Testweise Erstellung um zu schauen ob alle Attribute gesetzt sind
 
-# In[17]:
 fg = FeedGenerator()
 fg.id('http://datengraben.com/lokal')
 fg.title('Gießen lokal')
@@ -303,7 +242,6 @@ fg.link( href='http://datengraben.com', rel='alternate')
 fg.link( href='http://datengraben.com/giessen-aktuelles.atom.xml', rel='self' )
 fg.language('de')
 
-import pandas as pd
 deleted_urls=pd.read_csv('deleted.csv')['url'].values
 
 def import_into_feed(all_posts):
