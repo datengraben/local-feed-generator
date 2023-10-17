@@ -70,14 +70,17 @@ def _bs4(s):
 
 def general_scraper(_url, _mapper, _header=headers):
     resp = requests.get(_url, headers=_header)
-    print(resp)
     posts = []
     try:
         posts = list(_mapper(resp.text))
     except JSONDecodeError as e:
+        print("Error while fetching", _url)
+        print(resp)
         print(e)
-        print("Fehler")
-        print(resp.text)
+        erroroutfile='/tmp/error-out-' + str(hash('error' + str(random.randint(0, 1000))))
+        with open(erroroutfile, 'w+') as fp:
+            fp.write(resp.text)
+            print("Written output to", erroroutfile)
     print("Importiere:", len(posts))
     return posts
 
