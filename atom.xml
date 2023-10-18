@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-18T07:58:50.511485+00:00</updated>
+  <updated>2023-10-18T20:19:12.602265+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -516,6 +516,28 @@
     <published>2023-10-13T09:58:49+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 11.11. - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
+    <updated>2023-10-18T22:19:10.703220+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/" rel="alternate"/>
+    <published>2023-10-18T22:19:10.703220+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/</id>
+    <title>NEU: Einfach singen für Familien - Gemeinsam singen macht Spaß! Das entdecken wir im neuen kost...</title>
+    <updated>2023-10-18T22:19:10.703204+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/" rel="alternate"/>
+    <published>2023-10-18T22:19:10.703204+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/</id>
     <title>Liebes Publikum! - Vorfreude, Furcht und Hoffnung - Simone Sterr zum Start in d...</title>
     <updated>2023-08-18T15:15:17+02:00</updated>
@@ -525,17 +547,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/" rel="alternate"/>
     <published>2023-08-18T15:15:17+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-fernwaermepreise</id>
-    <title>Stadtwerke Gießen senken Fernwärmepreise</title>
-    <updated>2023-09-05T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-fernwaermepreise" rel="alternate"/>
-    <published>2023-09-05T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-verstaerken-die-kooperation-mit-der-tsg-leihgestern</id>
@@ -659,37 +670,15 @@
     <published>2023-10-17T13:37:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Endhaltestelle-der-Linie-1-bis-November-verlegt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62098.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Endhaltestelle der Linie 1 bis November verlegt</title>
-    <updated>2023-09-21T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/photovoltaikausbau-in-giessen-geht-weiter</id>
+    <title>Photovoltaikausbau in Gießen geht weiter</title>
+    <updated>2023-10-18T22:19:00+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Endhaltestelle-der-Linie-1-bis-November-verlegt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62098.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-21T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-Drahtesel-werden-entfernt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Achtung Fahrradfahrer: Schrotträder werden wieder eingesammelt</title>
-    <updated>2023-09-21T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-Drahtesel-werden-entfernt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-21T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Misteln-eind%C3%A4mmen-und-Artenvielfalt-erhalten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62100.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Misteln eindämmen und Artenvielfalt erhalten</title>
-    <updated>2023-09-21T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Misteln-eind%C3%A4mmen-und-Artenvielfalt-erhalten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62100.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-21T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/photovoltaikausbau-in-giessen-geht-weiter" rel="alternate"/>
+    <published>2023-10-18T22:19:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/S%C3%BCdanlage-wird-wieder-in-beiden-Richtungen-f%C3%BCr-Kraftfahrzeuge-befahrbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62102.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -932,6 +921,39 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Spatenstich-f%C3%BCr-Evangelisches-Kinder-und-Familienzentrum-in-der-Nordstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62391.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-10-17T09:29:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalsanierung-im-Heegstrauchweg-und-Sternmark.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62408.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kanalsanierung im Heegstrauchweg und Sternmark</title>
+    <updated>2023-10-18T22:19:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalsanierung-im-Heegstrauchweg-und-Sternmark.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62408.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-18T22:19:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-Photovoltaikausbau-in-Gie%C3%9Fen-geht-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62409.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>SWG: Photovoltaikausbau in Gießen geht weiter</title>
+    <updated>2023-10-18T22:19:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-Photovoltaikausbau-in-Gie%C3%9Fen-geht-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62409.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-18T22:19:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubepflanzung-des-Quellgartens-zwischen-Ringallee-und-Stadtpark-Wieseckaue.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62410.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neubepflanzung des Quellgartens zwischen Ringallee und Stadtpark Wieseckaue</title>
+    <updated>2023-10-18T22:19:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubepflanzung-des-Quellgartens-zwischen-Ringallee-und-Stadtpark-Wieseckaue.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62410.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-18T22:19:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/veranstaltung/tomorrathon-24-26-juni-2022/</id>
