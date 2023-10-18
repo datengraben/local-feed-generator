@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-18T07:29:33.713327+00:00</updated>
+  <updated>2023-10-18T07:58:50.511485+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.asta-giessen.de/8087-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-04-17T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8087-2/" rel="alternate"/>
+    <published>2023-04-17T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8099-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-04-19T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8099-2/" rel="alternate"/>
+    <published>2023-04-19T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8131-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-04-22T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8131-2/" rel="alternate"/>
+    <published>2023-04-22T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8146-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-04-26T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8146-2/" rel="alternate"/>
+    <published>2023-04-26T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8151-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-04-26T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8151-2/" rel="alternate"/>
+    <published>2023-04-26T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8154-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-04-26T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8154-2/" rel="alternate"/>
+    <published>2023-04-26T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8194-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-06-12T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8194-2/" rel="alternate"/>
+    <published>2023-06-12T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8239-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-06-21T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8239-2/" rel="alternate"/>
+    <published>2023-06-21T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8275-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-06-27T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8275-2/" rel="alternate"/>
+    <published>2023-06-27T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8315-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-07-21T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8315-2/" rel="alternate"/>
+    <published>2023-07-21T00:00:00+02:00</published>
+  </entry>
   <entry>
     <id>https://universum-giessen.com/2022/10/19/giessen-im-visier-campus/</id>
     <title>Gießen im Visier – Campus</title>

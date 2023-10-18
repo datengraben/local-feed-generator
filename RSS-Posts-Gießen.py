@@ -232,6 +232,19 @@ all_posts += general_scraper('https://universum-giessen.com/',
             'author-email': 'universum.giessen@gmail.com'
         }, _bs4(body).select('article')))
 
+# Asta Uni Gießen
+
+all_posts += general_scraper('https://www.asta-giessen.de/',
+        lambda body: map(lambda x:{
+            'title': 'Neuer Beitrag',
+            'link': x.select('figure > a')[0]['href'],
+            'date-raw': x.find('time', itemprop='datePublished').text,
+            'date-posted': localdt(x.find('time', itemprop='datePublished').text, '%d. %B %Y', _fix=True),
+            # TODO hier direkt das datetime aus dem itemprop nehmen
+            'author-name': 'Asta - Uni Gießen',
+            'author-email': 'info@asta-giessen.de'
+            }, _bs4(body).select('article.post')))
+
 
 # # Erstellung des Atom-Feeds
 #
