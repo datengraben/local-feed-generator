@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-17T11:37:49.296041+00:00</updated>
+  <updated>2023-10-18T07:29:33.713327+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -791,17 +791,6 @@
     <published>2023-10-13T10:56:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auf-der-Johannette-Lein-Gasse-trifft-man-sich-am-Dienstag-zum-Malen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62320.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Auf der Johannette-Lein-Gasse trifft man sich am Dienstag zum Malen</title>
-    <updated>2023-10-13T10:56:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auf-der-Johannette-Lein-Gasse-trifft-man-sich-am-Dienstag-zum-Malen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62320.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-13T10:56:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sybille-Ruppert-Abschlussveranstaltung-in-der-Kunsthalle.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62337.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Sybille Ruppert: Abschlussveranstaltung in der Kunsthalle</title>
     <updated>2023-10-16T16:23:00+02:00</updated>
@@ -822,6 +811,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-kostenloses-Angebot-am-Stadttheater.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62339.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-10-16T16:23:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Spatenstich-f%C3%BCr-Evangelisches-Kinder-und-Familienzentrum-in-der-Nordstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62391.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Spatenstich für Evangelisches Kinder- und Familienzentrum in der Nordstadt</title>
+    <updated>2023-10-17T09:29:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Spatenstich-f%C3%BCr-Evangelisches-Kinder-und-Familienzentrum-in-der-Nordstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62391.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-17T09:29:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/veranstaltung/tomorrathon-24-26-juni-2022/</id>
