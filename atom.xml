@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-18T20:19:12.602265+00:00</updated>
+  <updated>2023-10-19T15:06:04.957203+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -549,17 +549,6 @@
     <published>2023-08-18T15:15:17+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-verstaerken-die-kooperation-mit-der-tsg-leihgestern</id>
-    <title>Stadtwerke Gießen verstärken die Kooperation mit der TSG Leihgestern</title>
-    <updated>2023-09-07T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-verstaerken-die-kooperation-mit-der-tsg-leihgestern" rel="alternate"/>
-    <published>2023-09-07T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/einheitlicher-look-fuer-die-kegel-jugend</id>
     <title>Einheitlicher Look für die Kegel-Jugend</title>
     <updated>2023-09-13T00:00:00+02:00</updated>
@@ -681,37 +670,15 @@
     <published>2023-10-18T22:19:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/S%C3%BCdanlage-wird-wieder-in-beiden-Richtungen-f%C3%BCr-Kraftfahrzeuge-befahrbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62102.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Südanlage wird wieder in beiden Richtungen für Kraftfahrzeuge befahrbar</title>
-    <updated>2023-09-21T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/linien-18-und-801-werden-umgeleitet</id>
+    <title>Linien 18 und 801 werden umgeleitet</title>
+    <updated>2023-10-19T17:06:00+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/S%C3%BCdanlage-wird-wieder-in-beiden-Richtungen-f%C3%BCr-Kraftfahrzeuge-befahrbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62102.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-21T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erstes-Treffen-der-Spitzenebene-nachhaltige-und-nutzerzentrierte-Digitalisierung-im-Fokus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62103.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Erstes Treffen der Spitzenebene - nachhaltige und nutzerzentrierte Digitalisierung im Fokus</title>
-    <updated>2023-09-22T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erstes-Treffen-der-Spitzenebene-nachhaltige-und-nutzerzentrierte-Digitalisierung-im-Fokus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62103.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-22T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folgeanmeldung-Erstanmeldung-zur-Vergabe-der-Ehrenamts-Card.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60843.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Anmeldung zur Vergabe der Ehrenamts-Card</title>
-    <updated>2023-09-25T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folgeanmeldung-Erstanmeldung-zur-Vergabe-der-Ehrenamts-Card.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60843.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-25T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/linien-18-und-801-werden-umgeleitet" rel="alternate"/>
+    <published>2023-10-19T17:06:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Praktikumsb%C3%B6rse-f%C3%BCr-die-Stadt-und-Landkreis-Gie%C3%9Fen-ist-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62119.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -954,6 +921,39 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubepflanzung-des-Quellgartens-zwischen-Ringallee-und-Stadtpark-Wieseckaue.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62410.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-10-18T22:19:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-Bibliotheken-am-24-10-2023.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62416.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Tag der Bibliotheken am 24.10.2023</title>
+    <updated>2023-10-19T17:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-Bibliotheken-am-24-10-2023.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62416.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-19T17:06:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Schulmesse-mit-Besucherrekord.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62417.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießener Schulmesse mit Besucherrekord</title>
+    <updated>2023-10-19T17:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Schulmesse-mit-Besucherrekord.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62417.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-19T17:06:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinien-18-und-801-m%C3%BCssen-umgeleitet-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62418.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Buslinien 18 und 801 müssen umgeleitet werden</title>
+    <updated>2023-10-19T17:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinien-18-und-801-m%C3%BCssen-umgeleitet-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62418.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-19T17:06:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/veranstaltung/tomorrathon-24-26-juni-2022/</id>
