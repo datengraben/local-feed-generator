@@ -282,7 +282,10 @@ def import_into_feed(all_posts):
         fe.pubDate(post['date-posted'])
         fe.updated(post['date-posted'])
         i+=1
-    print("Importierte", i-1)
+    print("----------------")
+    print("Gesamt:", i-1)
+    print("")
+
 
 import_into_feed(all_posts)
 
