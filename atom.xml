@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-20T08:26:00.134645+00:00</updated>
+  <updated>2023-10-20T12:04:18.717828+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -736,17 +736,6 @@
     <published>2023-09-28T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausschreibung-Projektmanagement-f%C3%BCr-Gie%C3%9Fener-Kulturnacht-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62125.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ausschreibung: Projektmanagement für Gießener Kulturnacht gesucht</title>
-    <updated>2023-09-29T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausschreibung-Projektmanagement-f%C3%BCr-Gie%C3%9Fener-Kulturnacht-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62125.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-29T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Umfrage-zu-Sport-und-Bewegungsm%C3%B6glichkeiten-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Ab nach draußen: Online-Umfrage zu Sport- und Bewegungsmöglichkeiten in Gießen</title>
     <updated>2023-10-05T13:40:00+02:00</updated>
@@ -965,6 +954,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinien-18-und-801-m%C3%BCssen-umgeleitet-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62418.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-10-19T17:06:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gehwege-m%C3%BCssen-frei-bleiben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62422.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gehwege müssen frei bleiben</title>
+    <updated>2023-10-20T14:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gehwege-m%C3%BCssen-frei-bleiben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62422.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-20T14:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/veranstaltung/tomorrathon-24-26-juni-2022/</id>
