@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-20T12:04:18.717828+00:00</updated>
+  <updated>2023-10-20T15:15:51.632252+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -546,7 +546,18 @@
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/" rel="alternate"/>
-    <published>2023-10-18T22:19:10.703204+02:00</published>
+    <published>2023-10-18T22:19:10+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/rigoletto-verschoben-sonderkonzert-als-ersatzprogramm/</id>
+    <title>"Rigoletto" verschoben - Sonderkonzert als Ersatzprogramm - Die für 21. Oktober angekündigte Premiere von „Rigoletto“ mu...</title>
+    <updated>2023-10-20T17:15:49.377661+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/rigoletto-verschoben-sonderkonzert-als-ersatzprogramm/" rel="alternate"/>
+    <published>2023-10-20T17:15:49.377661+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/</id>
