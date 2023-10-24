@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-23T10:00:18.205904+00:00</updated>
+  <updated>2023-10-24T14:57:56.776279+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -571,17 +571,6 @@
     <published>2023-08-18T15:15:17+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/5000-euro-fuer-die-tafel-giessen</id>
-    <title>5.000 Euro für die Tafel Gießen</title>
-    <updated>2023-01-18T00:00:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/5000-euro-fuer-die-tafel-giessen" rel="alternate"/>
-    <published>2023-01-18T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/busverkehr-am-faschingssonntag-2</id>
     <title>Busverkehr am Faschingssonntag</title>
     <updated>2023-02-16T00:00:00+01:00</updated>
@@ -703,26 +692,15 @@
     <published>2023-04-25T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/S%C3%BCdanlage-wird-wieder-in-beiden-Richtungen-f%C3%BCr-Kraftfahrzeuge-befahrbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62102.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Südanlage wird wieder in beiden Richtungen für Kraftfahrzeuge befahrbar</title>
-    <updated>2023-09-21T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-ihre-gaspreise</id>
+    <title>Stadtwerke Gießen senken ihre Gaspreise</title>
+    <updated>2023-05-03T00:00:00+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/S%C3%BCdanlage-wird-wieder-in-beiden-Richtungen-f%C3%BCr-Kraftfahrzeuge-befahrbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62102.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-21T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folgeanmeldung-Erstanmeldung-zur-Vergabe-der-Ehrenamts-Card.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60843.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Anmeldung zur Vergabe der Ehrenamts-Card</title>
-    <updated>2023-09-25T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folgeanmeldung-Erstanmeldung-zur-Vergabe-der-Ehrenamts-Card.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60843.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-25T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-ihre-gaspreise" rel="alternate"/>
+    <published>2023-05-03T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Praktikumsb%C3%B6rse-f%C3%BCr-die-Stadt-und-Landkreis-Gie%C3%9Fen-ist-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62119.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -976,6 +954,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Israel-Fahne-vor-Rathaus-als-Zeichen-der-Solidarit%C3%A4t.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62428.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-10-23T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%A4rmepumpe-SWG-bringen-Licht-ins-Dunkel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62434.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wärmepumpe: SWG bringen Licht ins Dunkel</title>
+    <updated>2023-10-24T16:57:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%A4rmepumpe-SWG-bringen-Licht-ins-Dunkel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62434.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-24T16:57:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/R%C3%BCckbau-des-Verkehrsversuchs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62435.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Rückbau des Verkehrsversuchs</title>
+    <updated>2023-10-24T16:57:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/R%C3%BCckbau-des-Verkehrsversuchs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62435.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-24T16:57:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/veranstaltung/tomorrathon-24-26-juni-2022/</id>
