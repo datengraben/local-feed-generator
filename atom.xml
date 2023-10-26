@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-10-26T08:17:26.293985+00:00</updated>
+  <updated>2023-10-26T12:28:57.991252+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -494,6 +494,17 @@
     <published>2023-08-22T15:15:17+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/</id>
+    <title>Liebes Publikum! - Vorfreude, Furcht und Hoffnung - Simone Sterr zum Start in d...</title>
+    <updated>2023-08-18T15:15:17+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/" rel="alternate"/>
+    <published>2023-08-18T15:15:17+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/nahbar-uberraschend-unkompliziert-unsere-previews/</id>
     <title>Nahbar, überraschend, unkompliziert: unsere Previews - In einer neuen repräsentativen Studie des Royal Philharmonic...</title>
     <updated>2023-09-18T15:15:17+02:00</updated>
@@ -560,15 +571,15 @@
     <published>2023-10-18T22:19:10+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/</id>
-    <title>Liebes Publikum! - Vorfreude, Furcht und Hoffnung - Simone Sterr zum Start in d...</title>
-    <updated>2023-08-18T15:15:17+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/</id>
+    <title>Liebes Publikum! - Kann es eine angemessene – oder gar richtige – Reaktion des ...</title>
+    <updated>2023-10-26T14:28:55.455416+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorfreude-furcht-und-hoffnung/" rel="alternate"/>
-    <published>2023-08-18T15:15:17+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/" rel="alternate"/>
+    <published>2023-10-26T14:28:55.455416+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/der-giessener-freibadsommer-endet</id>
@@ -701,17 +712,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/waermepumpe-swg-bringen-licht-ins-dunkel" rel="alternate"/>
     <published>2023-10-24T16:47:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Praktikumsb%C3%B6rse-f%C3%BCr-die-Stadt-und-Landkreis-Gie%C3%9Fen-ist-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62119.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Praktikumsbörse für die Stadt und Landkreis Gießen ist online</title>
-    <updated>2023-09-26T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Praktikumsb%C3%B6rse-f%C3%BCr-die-Stadt-und-Landkreis-Gie%C3%9Fen-ist-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62119.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-26T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-bewerben-f%C3%BCr-den-Musikalischen-Sommer-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62121.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -976,6 +976,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gedenken-an-die-Pogromnacht-und-die-Zerst%C3%B6rung-der-Gie%C3%9Fener-Synagogen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62454.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-10-26T10:17:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienkurs-Fahrrad-fahren-lernen-f%C3%BCr-zugewanderte-Kinder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62456.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ferienkurs »Fahrrad fahren lernen« für zugewanderte Kinder</title>
+    <updated>2023-10-26T14:28:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienkurs-Fahrrad-fahren-lernen-f%C3%BCr-zugewanderte-Kinder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62456.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-10-26T14:28:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/veranstaltung/tomorrathon-24-26-juni-2022/</id>
