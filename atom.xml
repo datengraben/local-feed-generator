@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-11-13T08:22:48.824835+00:00</updated>
+  <updated>2023-11-14T21:18:29.113000+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -417,28 +417,6 @@
     <published>2023-10-07T12:40:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_8351_1.PDF?1697106456</id>
-    <title>Neues Mitglied in der Stadtverordnenversammlung</title>
-    <updated>2023-10-13T09:58:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8351_1.PDF?1697106456" rel="alternate"/>
-    <published>2023-10-13T09:58:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_8350_1.PDF?1697106355</id>
-    <title>Entwurfsoffenlage zur vorhabenbezogenen 1. Änderung des Bebauungsplan GI 03/17</title>
-    <updated>2023-10-14T10:56:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8350_1.PDF?1697106355" rel="alternate"/>
-    <published>2023-10-14T10:56:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_8407_1.PDF?1697625574</id>
     <title>Veröffentlichung des Jahresabschlsuses des Eigenbetriebs Mittelhessische Wasserbetriebe (MWB)</title>
     <updated>2023-10-20T10:25:00+02:00</updated>
@@ -448,17 +426,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_8407_1.PDF?1697625574" rel="alternate"/>
     <published>2023-10-20T10:25:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/claus-leggewie-wer-sitzt-im-parlament-der-dinge/</id>
-    <title>Claus Leggewie: "Wer sitzt im Parlament der Dinge?" - Neue Reihe startet mit brandaktuellen Themen: Erhalt der Art...</title>
-    <updated>2023-09-22T18:22:06+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/claus-leggewie-wer-sitzt-im-parlament-der-dinge/" rel="alternate"/>
-    <published>2023-09-22T18:22:06+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/moritz-laurer-wird-neuer-chordirektor/</id>
@@ -518,17 +485,17 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/emet-ma-nehdar/</id>
     <title>Emet Ma Nehdar - אמת מה נהדר - 85 Jahre nachdem in Deutschland Synagogen und jüdische Gesch...</title>
-    <updated>2023-11-13T09:22:46.588539+01:00</updated>
+    <updated>2023-11-13T09:22:46+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/emet-ma-nehdar/" rel="alternate"/>
-    <published>2023-11-13T09:22:46.588539+01:00</published>
+    <published>2023-11-13T09:22:46+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 11.11. - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
+    <title>Theatertag am 02.12. - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
     <updated>2023-10-18T22:19:10+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -540,13 +507,24 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/bright-blue/</id>
     <title>We proudly present: Bright &amp; Blue Notes - Ensemblemitglied und Gastgeber Roman Kurtz ist Gastgeber der...</title>
-    <updated>2023-11-13T09:22:46.588512+01:00</updated>
+    <updated>2023-11-13T09:22:46+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/bright-blue/" rel="alternate"/>
-    <published>2023-11-13T09:22:46.588512+01:00</published>
+    <published>2023-11-13T09:22:46+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/tanz-erzahlen/</id>
+    <title>Tanz erzählen - Das Team von „Ghosts – Geister“ über künstlerische Audiodesk...</title>
+    <updated>2023-11-14T22:18:26.552937+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/tanz-erzahlen/" rel="alternate"/>
+    <published>2023-11-14T22:18:26.552937+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/</id>
@@ -558,28 +536,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/" rel="alternate"/>
     <published>2023-10-26T14:28:55+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/waermeverluste-reduzieren</id>
-    <title>Wärmeverluste reduzieren</title>
-    <updated>2023-09-19T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/waermeverluste-reduzieren" rel="alternate"/>
-    <published>2023-09-19T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-unterstuetzen-gruenberger-basketballdamen</id>
-    <title>Stadtwerke Gießen unterstützen Grünberger Basketballdamen</title>
-    <updated>2023-09-20T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-unterstuetzen-gruenberger-basketballdamen" rel="alternate"/>
-    <published>2023-09-20T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/endhaltestelle-der-linie-1-bis-november-verlegt</id>
@@ -692,59 +648,26 @@
     <published>2023-11-03T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalsanierung-im-Heegstrauchweg-und-Sternmark.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62408.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kanalsanierung im Heegstrauchweg und Sternmark</title>
-    <updated>2023-10-18T22:19:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-sorgen-fuer-abwechslung-im-training</id>
+    <title>Stadtwerke Gießen sorgen für Abwechslung im Training</title>
+    <updated>2023-11-13T22:18:00+01:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalsanierung-im-Heegstrauchweg-und-Sternmark.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62408.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-18T22:19:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-sorgen-fuer-abwechslung-im-training" rel="alternate"/>
+    <published>2023-11-13T22:18:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-Photovoltaikausbau-in-Gie%C3%9Fen-geht-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62409.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>SWG: Photovoltaikausbau in Gießen geht weiter</title>
-    <updated>2023-10-18T22:19:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-ihre-strompreise</id>
+    <title>Stadtwerke Gießen senken ihre Strompreise</title>
+    <updated>2023-11-14T22:18:00+01:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-Photovoltaikausbau-in-Gie%C3%9Fen-geht-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62409.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-18T22:19:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubepflanzung-des-Quellgartens-zwischen-Ringallee-und-Stadtpark-Wieseckaue.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62410.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neubepflanzung des Quellgartens zwischen Ringallee und Stadtpark Wieseckaue</title>
-    <updated>2023-10-18T22:19:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubepflanzung-des-Quellgartens-zwischen-Ringallee-und-Stadtpark-Wieseckaue.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62410.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-18T22:19:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Schulmesse-mit-Besucherrekord.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62417.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gießener Schulmesse mit Besucherrekord</title>
-    <updated>2023-10-19T17:06:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Schulmesse-mit-Besucherrekord.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62417.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-19T17:06:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gehwege-m%C3%BCssen-frei-bleiben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62422.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gehwege müssen frei bleiben</title>
-    <updated>2023-10-20T14:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gehwege-m%C3%BCssen-frei-bleiben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62422.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-20T14:04:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-ihre-strompreise" rel="alternate"/>
+    <published>2023-11-14T22:18:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Israel-Fahne-vor-Rathaus-als-Zeichen-der-Solidarit%C3%A4t.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62428.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -965,6 +888,61 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/KiTa-Spielothek-Neue-Spiele-f%C3%BCr-das-Kinderhaus-Alter-Wetzlarer-Weg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62862.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-11-10T09:22:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-gibt-Einblicke-in-die-n%C3%A4chsten-Produktionen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62871.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadttheater gibt Einblicke in die nächsten Produktionen</title>
+    <updated>2023-11-13T22:18:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-gibt-Einblicke-in-die-n%C3%A4chsten-Produktionen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62871.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-13T22:18:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/5-Jahre-Gie%C3%9Fener-Weihnachtskugel-Jubil%C3%A4umskugel-erscheint-am-20-November.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62872.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>5 Jahre Gießener Weihnachtskugel - Jubiläumskugel erscheint am 20. November</title>
+    <updated>2023-11-13T22:18:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/5-Jahre-Gie%C3%9Fener-Weihnachtskugel-Jubil%C3%A4umskugel-erscheint-am-20-November.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62872.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-13T22:18:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freier-Anlagenring-kostenfreies-Parken-und-Busfahren-Events-Die-Planungen-der-Stadt-in-der-Vorweihnachtszeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62874.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Freier Anlagenring - kostenfreies Parken und Busfahren - Events: Planungen der Stadt in der Vorweihnachtszeit</title>
+    <updated>2023-11-14T22:18:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freier-Anlagenring-kostenfreies-Parken-und-Busfahren-Events-Die-Planungen-der-Stadt-in-der-Vorweihnachtszeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62874.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-14T22:18:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pilotprojekt-Kommunikationsscout-in-st%C3%A4dtischen-Kindertageseinrichtungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62875.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Pilotprojekt: Kommunikationsscout in städtischen Kindertageseinrichtungen</title>
+    <updated>2023-11-14T22:18:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pilotprojekt-Kommunikationsscout-in-st%C3%A4dtischen-Kindertageseinrichtungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62875.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-14T22:18:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-senken-Strompreise.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62876.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtwerke Gießen senken Strompreise</title>
+    <updated>2023-11-14T22:18:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-senken-Strompreise.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62876.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-14T22:18:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/neuigkeiten/1-preis-beim-hessischen-familienpreis-der-spardabank/</id>
