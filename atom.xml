@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-11-14T21:18:29.113000+00:00</updated>
+  <updated>2023-11-20T08:23:22.862261+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -417,28 +417,6 @@
     <published>2023-10-07T12:40:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_8407_1.PDF?1697625574</id>
-    <title>Veröffentlichung des Jahresabschlsuses des Eigenbetriebs Mittelhessische Wasserbetriebe (MWB)</title>
-    <updated>2023-10-20T10:25:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8407_1.PDF?1697625574" rel="alternate"/>
-    <published>2023-10-20T10:25:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/moritz-laurer-wird-neuer-chordirektor/</id>
-    <title>Moritz Laurer wird neuer Chordirektor - Wir freuen uns ab 1. November Moritz Laurer als neuen Chordi...</title>
-    <updated>2023-10-13T09:58:49+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/moritz-laurer-wird-neuer-chordirektor/" rel="alternate"/>
-    <published>2023-10-13T09:58:49+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/</id>
     <title>NEU: Einfach singen für Familien - Gemeinsam singen macht Spaß! Das entdecken wir im neuen kost...</title>
     <updated>2023-10-18T22:19:10+02:00</updated>
@@ -505,6 +483,17 @@
     <published>2023-10-18T22:19:10+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/nunca-mas-nie-wieder/</id>
+    <title>Nunca Más!- Nie wieder! - Begleitend zum Schauspiel „Mädchenschule“ am 2. Dezember inf...</title>
+    <updated>2023-11-20T09:23:20.320912+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nunca-mas-nie-wieder/" rel="alternate"/>
+    <published>2023-11-20T09:23:20.320912+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/bright-blue/</id>
     <title>We proudly present: Bright &amp; Blue Notes - Ensemblemitglied und Gastgeber Roman Kurtz ist Gastgeber der...</title>
     <updated>2023-11-13T09:22:46+01:00</updated>
@@ -518,13 +507,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/tanz-erzahlen/</id>
     <title>Tanz erzählen - Das Team von „Ghosts – Geister“ über künstlerische Audiodesk...</title>
-    <updated>2023-11-14T22:18:26.552937+01:00</updated>
+    <updated>2023-11-14T22:18:26+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/tanz-erzahlen/" rel="alternate"/>
-    <published>2023-11-14T22:18:26.552937+01:00</published>
+    <published>2023-11-14T22:18:26+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/</id>
@@ -670,61 +659,6 @@
     <published>2023-11-14T22:18:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Israel-Fahne-vor-Rathaus-als-Zeichen-der-Solidarit%C3%A4t.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62428.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Israel Fahne vor Rathaus als Zeichen der Solidarität</title>
-    <updated>2023-10-23T12:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Israel-Fahne-vor-Rathaus-als-Zeichen-der-Solidarit%C3%A4t.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62428.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-23T12:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%A4rmepumpe-SWG-bringen-Licht-ins-Dunkel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62434.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wärmepumpe: SWG bringen Licht ins Dunkel</title>
-    <updated>2023-10-24T16:57:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%A4rmepumpe-SWG-bringen-Licht-ins-Dunkel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62434.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-24T16:57:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A485-Grundhafte-Sanierung-zwischen-Linden-und-Gie%C3%9Fen-Schiffenberger-Tal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62452.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>A485: Grundhafte Sanierung zwischen Linden und Gießen-Schiffenberger Tal</title>
-    <updated>2023-10-26T09:52:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A485-Grundhafte-Sanierung-zwischen-Linden-und-Gie%C3%9Fen-Schiffenberger-Tal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62452.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-26T09:52:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gedenken-an-die-Pogromnacht-und-die-Zerst%C3%B6rung-der-Gie%C3%9Fener-Synagogen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62454.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gedenken an die Pogromnacht und die Zerstörung der Gießener Synagogen am 9./10. November 1938</title>
-    <updated>2023-10-26T10:17:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gedenken-an-die-Pogromnacht-und-die-Zerst%C3%B6rung-der-Gie%C3%9Fener-Synagogen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62454.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-26T10:17:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienkurs-Fahrrad-fahren-lernen-f%C3%BCr-zugewanderte-Kinder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62456.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ferienkurs »Fahrrad fahren lernen« für zugewanderte Kinder</title>
-    <updated>2023-10-26T14:28:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienkurs-Fahrrad-fahren-lernen-f%C3%BCr-zugewanderte-Kinder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62456.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-26T14:28:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-und-die-SWG-verl%C3%A4ngern-Konzessionsvertrag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62490.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Stadt Gießen und die SWG verlängern Konzessionsvertrag</title>
     <updated>2023-10-27T14:03:00+02:00</updated>
@@ -778,17 +712,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Update-R%C3%BCckbau-des-Verkehrsversuchs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62435.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-11-01T19:29:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsentwicklungsplan-Vorstellung-der-Ma%C3%9Fnahmen-und-Handlungsfelder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62716.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verkehrsentwicklungsplan: Vorstellung der Maßnahmen und Handlungsfelder</title>
-    <updated>2023-11-03T09:24:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsentwicklungsplan-Vorstellung-der-Ma%C3%9Fnahmen-und-Handlungsfelder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62716.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-03T09:24:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenamt-beginnt-Ende-Oktober-mit-Baumf%C3%A4llungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62717.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -890,17 +813,6 @@
     <published>2023-11-10T09:22:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-gibt-Einblicke-in-die-n%C3%A4chsten-Produktionen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62871.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadttheater gibt Einblicke in die nächsten Produktionen</title>
-    <updated>2023-11-13T22:18:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-gibt-Einblicke-in-die-n%C3%A4chsten-Produktionen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62871.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-13T22:18:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/5-Jahre-Gie%C3%9Fener-Weihnachtskugel-Jubil%C3%A4umskugel-erscheint-am-20-November.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62872.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>5 Jahre Gießener Weihnachtskugel - Jubiläumskugel erscheint am 20. November</title>
     <updated>2023-11-13T22:18:00+01:00</updated>
@@ -943,6 +855,83 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-senken-Strompreise.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62876.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-11-14T22:18:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rheinfelser-Stra%C3%9Fe-wegen-Kanalarbeiten-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62903.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Rheinfelser Straße wegen Kanalarbeiten voll gesperrt</title>
+    <updated>2023-11-15T09:23:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rheinfelser-Stra%C3%9Fe-wegen-Kanalarbeiten-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62903.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-15T09:23:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Drei-Gestaltungsvorschl%C3%A4ge-f%C3%BCr-den-Gedenkort-Synagoge-an-der-Kongresshalle.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62910.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Drei Gestaltungsvorschläge für den Gedenkort "Synagoge" an der Kongresshalle</title>
+    <updated>2023-11-15T09:23:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Drei-Gestaltungsvorschl%C3%A4ge-f%C3%BCr-den-Gedenkort-Synagoge-an-der-Kongresshalle.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62910.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-15T09:23:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wetzlarer-Stra%C3%9Fe-bleibt-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62912.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wetzlarer Straße bleibt vorerst gesperrt</title>
+    <updated>2023-11-16T09:23:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wetzlarer-Stra%C3%9Fe-bleibt-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62912.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-16T09:23:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auch-dieses-Jahr-waren-viele-hei%C3%9F-auf-B%C3%BCcher-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62913.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Auch dieses Jahr viele "heiß auf Bücher"</title>
+    <updated>2023-11-16T09:23:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auch-dieses-Jahr-waren-viele-hei%C3%9F-auf-B%C3%BCcher-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62913.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-16T09:23:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-frei-f%C3%BCr-den-Kurs-Gewalt-Sehen-Helfen-am-28-November.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62935.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Noch Plätze frei für den Kurs Gewalt - Sehen - Helfen am 28. November</title>
+    <updated>2023-11-17T09:23:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-frei-f%C3%BCr-den-Kurs-Gewalt-Sehen-Helfen-am-28-November.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62935.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-17T09:23:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrungen-durch-das-Kunstprojekt-Hermann-Levi-Lab-im-KiZ-beginnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62941.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Führungen durch das Kunstprojekt Hermann-Levi-Lab im KiZ beginnen</title>
+    <updated>2023-11-17T09:23:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrungen-durch-das-Kunstprojekt-Hermann-Levi-Lab-im-KiZ-beginnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62941.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-17T09:23:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Weihnachtsmarkt-mit-neuem-Angebot.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62942.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießener Weihnachtsmarkt mit neuem Angebot</title>
+    <updated>2023-11-17T09:23:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Weihnachtsmarkt-mit-neuem-Angebot.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62942.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-17T09:23:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/neuigkeiten/1-preis-beim-hessischen-familienpreis-der-spardabank/</id>
