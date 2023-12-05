@@ -6,10 +6,18 @@ on:
   schedule:
     - cron:  '0 * * * *'
 
+
+
+env:
+  LANG: "de_DE.UTF-8"
 jobs:
   scheduled:
     runs-on: ubuntu-latest
     steps:
+    - name: de_DE.UTF-8
+      run: |
+          sudo locale-gen de_DE.UTF-8
+          sudo update-locale LANG=de_DE.UTF-8
     - name: Check out this repo
       uses: actions/checkout@v2
     - uses: actions/setup-python@v4
