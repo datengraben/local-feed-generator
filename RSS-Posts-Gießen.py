@@ -33,7 +33,7 @@ import html
 arguments = docopt(__doc__, version='0.0.1')
 locale.setlocale(
     category=locale.LC_ALL,
-    locale=""  # Note: do not use "de_DE" as it doesn't work
+    locale="de_DE.utf8"  # Note: do not use "de_DE" as it doesn't work
 )
 
 DTNOW = datetime.datetime.now()
