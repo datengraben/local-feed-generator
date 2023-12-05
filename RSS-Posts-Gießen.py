@@ -73,6 +73,9 @@ def general_scraper(_url, _mapper, _header=headers):
     posts = []
     try:
         posts = list(_mapper(resp.text))
+    except IndexError as e:
+        print("Couldn't parse one item in url '{}'".format(_url))
+        print(e)
     except JSONDecodeError as e:
         print("Error while fetching", _url)
         print(resp)
