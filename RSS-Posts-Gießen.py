@@ -261,7 +261,7 @@ fg.link( href='http://datengraben.com', rel='alternate')
 fg.link( href='http://datengraben.com/giessen-aktuelles.atom.xml', rel='self' )
 fg.language('de')
 
-deleted_urls=pd.read_csv('deleted.csv')['url'].values
+deleted_urls=pd.read_csv('conf/deleted.csv')['url'].values
 
 def import_into_feed(all_posts):
     i=0

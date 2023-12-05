@@ -28,7 +28,7 @@ jobs:
     - name: Fetch latest data
       run: |-
         sudo apt install libxml2-utils
-        ./run.sh
+        ./bin/run.sh
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
