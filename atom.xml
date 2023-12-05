@@ -2,32 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-11-20T08:23:22.862261+00:00</updated>
+  <updated>2023-12-05T08:52:39.627856+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.asta-giessen.de/8087-2/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2023-04-17T00:00:00+02:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/8087-2/" rel="alternate"/>
-    <published>2023-04-17T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/8099-2/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2023-04-19T00:00:00+02:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/8099-2/" rel="alternate"/>
-    <published>2023-04-19T00:00:00+02:00</published>
-  </entry>
   <entry>
     <id>https://www.asta-giessen.de/8131-2/</id>
     <title>Neuer Beitrag</title>
@@ -115,6 +93,28 @@
     </author>
     <link href="https://www.asta-giessen.de/8315-2/" rel="alternate"/>
     <published>2023-07-21T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8328-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-07-27T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8328-2/" rel="alternate"/>
+    <published>2023-07-27T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8390-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-10-04T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8390-2/" rel="alternate"/>
+    <published>2023-10-04T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>https://universum-giessen.com/2022/10/27/universum-testet-pizza/</id>
@@ -406,37 +406,37 @@
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_8326_1.PDF?1696587019</id>
-    <title>Bauleitplanung: Erneute Offenlage des Bebauungsplanentwurfes Nr. GI 05/18 "Rodheimer Straße-West" (3. Entwurf)</title>
-    <updated>2023-10-07T12:40:00+02:00</updated>
+    <id>http://giessen.de/media/custom/2874_8587_1.PDF?1701174015</id>
+    <title>Erneute Offenlage des Bebauungsplans Nr. GI 04/36 Steinberger Weg</title>
+    <updated>2023-11-29T08:52:00+01:00</updated>
     <author>
       <name>Stadt - Amtliche Bekanntmachungen</name>
       <email>presse@giessen.de</email>
     </author>
-    <link href="http://giessen.de/media/custom/2874_8326_1.PDF?1696587019" rel="alternate"/>
-    <published>2023-10-07T12:40:00+02:00</published>
+    <link href="http://giessen.de/media/custom/2874_8587_1.PDF?1701174015" rel="alternate"/>
+    <published>2023-11-29T08:52:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/</id>
-    <title>NEU: Einfach singen für Familien - Gemeinsam singen macht Spaß! Das entdecken wir im neuen kost...</title>
-    <updated>2023-10-18T22:19:10+02:00</updated>
+    <id>http://giessen.de/media/custom/2874_8584_1.PDF?1701091581</id>
+    <title>Umlegungsverfahren "In der Roos"</title>
+    <updated>2023-12-02T08:52:00+01:00</updated>
     <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/" rel="alternate"/>
-    <published>2023-10-18T22:19:10+02:00</published>
+    <link href="http://giessen.de/media/custom/2874_8584_1.PDF?1701091581" rel="alternate"/>
+    <published>2023-12-02T08:52:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/stimmen-farbe-geben/</id>
-    <title>Stimmen Farbe geben - Ein Gespräch über „Rigoletto“ zwischen Annika Gerhards (Gild...</title>
-    <updated>2023-10-27T14:03:20+02:00</updated>
+    <id>http://giessen.de/media/custom/2874_8588_1.PDF?1701174110</id>
+    <title>4. Satzung zur Stärkung der Innovation im Theaterpark</title>
+    <updated>2023-12-02T08:52:00+01:00</updated>
     <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/stimmen-farbe-geben/" rel="alternate"/>
-    <published>2023-10-27T14:03:20+02:00</published>
+    <link href="http://giessen.de/media/custom/2874_8588_1.PDF?1701174110" rel="alternate"/>
+    <published>2023-12-02T08:52:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zonta-sagt-nein-zu-gewalt-gegen-frauen/</id>
@@ -450,6 +450,28 @@
     <published>2023-11-01T19:29:25+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/tanz-erzahlen/</id>
+    <title>Tanz erzählen - Das Team von „Ghosts – Geister“ über künstlerische Audiodesk...</title>
+    <updated>2023-11-14T22:18:26+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/tanz-erzahlen/" rel="alternate"/>
+    <published>2023-11-14T22:18:26+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/nunca-mas-nie-wieder/</id>
+    <title>Nunca Más!- Nie wieder! - Begleitend zum Schauspiel „Mädchenschule“ am 2. Dezember inf...</title>
+    <updated>2023-11-20T09:23:20+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nunca-mas-nie-wieder/" rel="alternate"/>
+    <published>2023-11-20T09:23:20+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wir-suchen-eine-n-gastronom-in/</id>
     <title>Wir suchen eine*n Gastronom*in! - Sie finden, Theatergastro kann mehr als Sekt und Brezeln? Da...</title>
     <updated>2023-11-07T09:24:08+01:00</updated>
@@ -459,17 +481,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-suchen-eine-n-gastronom-in/" rel="alternate"/>
     <published>2023-11-07T09:24:08+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/emet-ma-nehdar/</id>
-    <title>Emet Ma Nehdar - אמת מה נהדר - 85 Jahre nachdem in Deutschland Synagogen und jüdische Gesch...</title>
-    <updated>2023-11-13T09:22:46+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/emet-ma-nehdar/" rel="alternate"/>
-    <published>2023-11-13T09:22:46+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
@@ -483,37 +494,48 @@
     <published>2023-10-18T22:19:10+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/nunca-mas-nie-wieder/</id>
-    <title>Nunca Más!- Nie wieder! - Begleitend zum Schauspiel „Mädchenschule“ am 2. Dezember inf...</title>
-    <updated>2023-11-20T09:23:20.320912+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/faust-preis-fur-thomas-krupa/</id>
+    <title>Wir gratulieren zum FAUST-Preis für Thomas Krupa - Thomas Krupa, Regisseur von "Posthuman Journey" in...</title>
+    <updated>2023-12-05T08:52:35.669462+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nunca-mas-nie-wieder/" rel="alternate"/>
-    <published>2023-11-20T09:23:20.320912+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/faust-preis-fur-thomas-krupa/" rel="alternate"/>
+    <published>2023-12-05T08:52:35.669462+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/bright-blue/</id>
-    <title>We proudly present: Bright &amp; Blue Notes - Ensemblemitglied und Gastgeber Roman Kurtz ist Gastgeber der...</title>
-    <updated>2023-11-13T09:22:46+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/</id>
+    <title>Die Kids sind immer noch super! - Martin Gärtner, seit 1997 Leiter des Kinder- und Jugendchors...</title>
+    <updated>2023-12-05T08:52:35.669435+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/bright-blue/" rel="alternate"/>
-    <published>2023-11-13T09:22:46+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/" rel="alternate"/>
+    <published>2023-12-05T08:52:35.669435+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/tanz-erzahlen/</id>
-    <title>Tanz erzählen - Das Team von „Ghosts – Geister“ über künstlerische Audiodesk...</title>
-    <updated>2023-11-14T22:18:26+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/weihnachten/</id>
+    <title>Ans Schenken denken - Unser neues Abonnement für Schüler*innen, zwei kleine Abos z...</title>
+    <updated>2023-12-05T08:52:35.669416+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/tanz-erzahlen/" rel="alternate"/>
-    <published>2023-11-14T22:18:26+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weihnachten/" rel="alternate"/>
+    <published>2023-12-05T08:52:35.669416+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-ist-die-gelegenheit-der-extrachor-des-stadttheaters-giessen-sucht-verstarkung/</id>
+    <title>JETZT ist die Gelegenheit: - Der Extrachor des Stadttheaters Gießen sucht Verstärkung. Vo...</title>
+    <updated>2023-12-05T08:52:35.669394+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-ist-die-gelegenheit-der-extrachor-des-stadttheaters-giessen-sucht-verstarkung/" rel="alternate"/>
+    <published>2023-12-05T08:52:35.669394+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/</id>
@@ -525,28 +547,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/" rel="alternate"/>
     <published>2023-10-26T14:28:55+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/endhaltestelle-der-linie-1-bis-november-verlegt</id>
-    <title>Endhaltestelle der Linie 1 bis November verlegt</title>
-    <updated>2023-09-21T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/endhaltestelle-der-linie-1-bis-november-verlegt" rel="alternate"/>
-    <published>2023-09-21T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/badezentrum-ringallee-neustart-in-der-sauna</id>
-    <title>Badezentrum Ringallee: Neustart in der Sauna </title>
-    <updated>2023-09-28T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/badezentrum-ringallee-neustart-in-der-sauna" rel="alternate"/>
-    <published>2023-09-28T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/swg-warnen-vor-spam-mails</id>
@@ -659,279 +659,26 @@
     <published>2023-11-14T22:18:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-und-die-SWG-verl%C3%A4ngern-Konzessionsvertrag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62490.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadt Gießen und die SWG verlängern Konzessionsvertrag</title>
-    <updated>2023-10-27T14:03:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/richtig-heizen-und-lueften</id>
+    <title>Richtig heizen und lüften</title>
+    <updated>2023-11-21T00:00:00+01:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-und-die-SWG-verl%C3%A4ngern-Konzessionsvertrag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62490.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-27T14:03:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/richtig-heizen-und-lueften" rel="alternate"/>
+    <published>2023-11-21T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gesundheitstag-f%C3%BCr-die-Mitarbeitenden-der-Stadtverwaltung-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62534.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gesundheitstag für die Mitarbeitenden der Stadtverwaltung Gießen</title>
-    <updated>2023-10-30T19:29:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/an-den-adventssamstagen-kostenlos-bus-fahren</id>
+    <title>An den Adventssamstagen kostenlos Bus fahren</title>
+    <updated>2023-12-01T08:52:00+01:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gesundheitstag-f%C3%BCr-die-Mitarbeitenden-der-Stadtverwaltung-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62534.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-10-30T19:29:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kreis-und-Kommunen-setzen-auch-k%C3%BCnftig-auf-gemeinsame-Anschaffungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62619.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kreis und Kommunen setzen auch künftig auf gemeinsame Anschaffungen</title>
-    <updated>2023-11-01T19:29:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kreis-und-Kommunen-setzen-auch-k%C3%BCnftig-auf-gemeinsame-Anschaffungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62619.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-01T19:29:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pop-Up-Projekt-in-der-Galeria-Karstadt-Innenstadt-und-Innovationsf%C3%B6rderung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62637.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Pop Up-Projekt in der Galeria Karstadt - Innenstadt- und Innovationsförderung</title>
-    <updated>2023-11-02T09:24:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pop-Up-Projekt-in-der-Galeria-Karstadt-Innenstadt-und-Innovationsf%C3%B6rderung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62637.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-02T09:24:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Update-R%C3%BCckbau-des-Verkehrsversuchs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62435.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Der Rückbau des Verkehrsversuchs im Ticker</title>
-    <updated>2023-11-01T19:29:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Update-R%C3%BCckbau-des-Verkehrsversuchs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62435.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-01T19:29:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenamt-beginnt-Ende-Oktober-mit-Baumf%C3%A4llungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62717.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gartenamt beginnt Ende Oktober mit Baumfällungen</title>
-    <updated>2023-11-03T09:24:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenamt-beginnt-Ende-Oktober-mit-Baumf%C3%A4llungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62717.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-03T09:24:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Robert-Sommer-Stra%C3%9Fe-wieder-ge%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62719.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Robert-Sommer-Straße wieder geöffnet</title>
-    <updated>2023-11-03T09:24:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Robert-Sommer-Stra%C3%9Fe-wieder-ge%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62719.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-03T09:24:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>+++Update+++ Brückenschaden im Gießener Südkreuz A45/A485: Verbindung von Gießen nach Frankfurt im Südkreuz wird freigegeben</title>
-    <updated>2023-11-03T09:24:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-03T09:24:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verwaltungsstellen der Stadtteile schließen vorübergehend</title>
-    <updated>2023-11-06T09:24:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-06T09:24:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Musik-f%C3%BCr-ein-besseres-Leben-Jubil%C3%A4umskonzert-des-Multikulturellen-Orchesters.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62768.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Musik für ein besseres Leben: Jubiläumskonzert des Multikulturellen Orchesters</title>
-    <updated>2023-11-07T09:18:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Musik-f%C3%BCr-ein-besseres-Leben-Jubil%C3%A4umskonzert-des-Multikulturellen-Orchesters.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62768.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-07T09:18:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kl%C3%A4rwerk-hautnah-Umweltbildungskonzept-wird-fortgef%C3%BChrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62854.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Klärwerk hautnah - Umweltbildungskonzept wird fortgeführt</title>
-    <updated>2023-11-09T09:22:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kl%C3%A4rwerk-hautnah-Umweltbildungskonzept-wird-fortgef%C3%BChrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62854.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-09T09:22:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Gie%C3%9Fen-f%C3%BChrt-Theatertag-ein-10-Euro-auf-allen-Pl%C3%A4tzen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62855.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadttheater Gießen führt Theatertag ein: 10 Euro auf allen Plätzen</title>
-    <updated>2023-11-09T09:22:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Gie%C3%9Fen-f%C3%BChrt-Theatertag-ein-10-Euro-auf-allen-Pl%C3%A4tzen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62855.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-09T09:22:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Web-Kurzseminarreihe-f%C3%BCr-Gr%C3%BCnder-innen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62856.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Web-Kurzseminarreihe für Gründer:innen</title>
-    <updated>2023-11-09T09:22:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Web-Kurzseminarreihe-f%C3%BCr-Gr%C3%BCnder-innen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62856.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-09T09:22:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/KiTa-Spielothek-Neue-Spiele-f%C3%BCr-das-Kinderhaus-Alter-Wetzlarer-Weg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62862.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>KiTa-Spielothek - Neue Spiele für das Kinderhaus Alter-Wetzlarer-Weg</title>
-    <updated>2023-11-10T09:22:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/KiTa-Spielothek-Neue-Spiele-f%C3%BCr-das-Kinderhaus-Alter-Wetzlarer-Weg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62862.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-10T09:22:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/5-Jahre-Gie%C3%9Fener-Weihnachtskugel-Jubil%C3%A4umskugel-erscheint-am-20-November.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62872.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>5 Jahre Gießener Weihnachtskugel - Jubiläumskugel erscheint am 20. November</title>
-    <updated>2023-11-13T22:18:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/5-Jahre-Gie%C3%9Fener-Weihnachtskugel-Jubil%C3%A4umskugel-erscheint-am-20-November.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62872.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-13T22:18:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freier-Anlagenring-kostenfreies-Parken-und-Busfahren-Events-Die-Planungen-der-Stadt-in-der-Vorweihnachtszeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62874.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Freier Anlagenring - kostenfreies Parken und Busfahren - Events: Planungen der Stadt in der Vorweihnachtszeit</title>
-    <updated>2023-11-14T22:18:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freier-Anlagenring-kostenfreies-Parken-und-Busfahren-Events-Die-Planungen-der-Stadt-in-der-Vorweihnachtszeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62874.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-14T22:18:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pilotprojekt-Kommunikationsscout-in-st%C3%A4dtischen-Kindertageseinrichtungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62875.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Pilotprojekt: Kommunikationsscout in städtischen Kindertageseinrichtungen</title>
-    <updated>2023-11-14T22:18:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pilotprojekt-Kommunikationsscout-in-st%C3%A4dtischen-Kindertageseinrichtungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62875.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-14T22:18:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-senken-Strompreise.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62876.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadtwerke Gießen senken Strompreise</title>
-    <updated>2023-11-14T22:18:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-senken-Strompreise.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62876.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-14T22:18:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rheinfelser-Stra%C3%9Fe-wegen-Kanalarbeiten-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62903.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Rheinfelser Straße wegen Kanalarbeiten voll gesperrt</title>
-    <updated>2023-11-15T09:23:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rheinfelser-Stra%C3%9Fe-wegen-Kanalarbeiten-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62903.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-15T09:23:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Drei-Gestaltungsvorschl%C3%A4ge-f%C3%BCr-den-Gedenkort-Synagoge-an-der-Kongresshalle.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62910.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Drei Gestaltungsvorschläge für den Gedenkort "Synagoge" an der Kongresshalle</title>
-    <updated>2023-11-15T09:23:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Drei-Gestaltungsvorschl%C3%A4ge-f%C3%BCr-den-Gedenkort-Synagoge-an-der-Kongresshalle.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62910.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-15T09:23:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wetzlarer-Stra%C3%9Fe-bleibt-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62912.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wetzlarer Straße bleibt vorerst gesperrt</title>
-    <updated>2023-11-16T09:23:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wetzlarer-Stra%C3%9Fe-bleibt-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62912.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-16T09:23:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auch-dieses-Jahr-waren-viele-hei%C3%9F-auf-B%C3%BCcher-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62913.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Auch dieses Jahr viele "heiß auf Bücher"</title>
-    <updated>2023-11-16T09:23:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auch-dieses-Jahr-waren-viele-hei%C3%9F-auf-B%C3%BCcher-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62913.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-16T09:23:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-frei-f%C3%BCr-den-Kurs-Gewalt-Sehen-Helfen-am-28-November.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62935.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Noch Plätze frei für den Kurs Gewalt - Sehen - Helfen am 28. November</title>
-    <updated>2023-11-17T09:23:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-frei-f%C3%BCr-den-Kurs-Gewalt-Sehen-Helfen-am-28-November.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62935.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-17T09:23:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrungen-durch-das-Kunstprojekt-Hermann-Levi-Lab-im-KiZ-beginnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62941.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Führungen durch das Kunstprojekt Hermann-Levi-Lab im KiZ beginnen</title>
-    <updated>2023-11-17T09:23:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrungen-durch-das-Kunstprojekt-Hermann-Levi-Lab-im-KiZ-beginnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62941.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-17T09:23:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Weihnachtsmarkt-mit-neuem-Angebot.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62942.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gießener Weihnachtsmarkt mit neuem Angebot</title>
-    <updated>2023-11-17T09:23:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Weihnachtsmarkt-mit-neuem-Angebot.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62942.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-17T09:23:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/an-den-adventssamstagen-kostenlos-bus-fahren" rel="alternate"/>
+    <published>2023-12-01T08:52:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/neuigkeiten/1-preis-beim-hessischen-familienpreis-der-spardabank/</id>
