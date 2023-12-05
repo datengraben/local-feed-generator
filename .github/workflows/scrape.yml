@@ -12,6 +12,11 @@ jobs:
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
+    - uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        cache: 'pip' # caching pip dependencies
+    - run: pip install -r requirements.txt
     - name: Fetch latest data
       run: |-
         ./run.sh
