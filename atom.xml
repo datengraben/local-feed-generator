@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-12-05T08:52:39.627856+00:00</updated>
+  <updated>2023-12-07T09:12:23.268585+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -417,6 +417,17 @@
     <published>2023-11-29T08:52:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_8588_1.PDF?1701174110</id>
+    <title>4. Satzung zur Stärkung der Innovation im Theaterpark</title>
+    <updated>2023-12-02T08:52:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8588_1.PDF?1701174110" rel="alternate"/>
+    <published>2023-12-02T08:52:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_8584_1.PDF?1701091581</id>
     <title>Umlegungsverfahren "In der Roos"</title>
     <updated>2023-12-02T08:52:00+01:00</updated>
@@ -428,15 +439,15 @@
     <published>2023-12-02T08:52:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_8588_1.PDF?1701174110</id>
-    <title>4. Satzung zur Stärkung der Innovation im Theaterpark</title>
-    <updated>2023-12-02T08:52:00+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/</id>
+    <title>NEU: Einfach singen für Familien - Gemeinsam singen macht Spaß! Das entdecken wir im neuen kost...</title>
+    <updated>2023-12-07T09:12:14.281326+01:00</updated>
     <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://giessen.de/media/custom/2874_8588_1.PDF?1701174110" rel="alternate"/>
-    <published>2023-12-02T08:52:00+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/" rel="alternate"/>
+    <published>2023-12-07T09:12:14.281326+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zonta-sagt-nein-zu-gewalt-gegen-frauen/</id>
@@ -483,59 +494,48 @@
     <published>2023-11-07T09:24:08+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 02.12. - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
-    <updated>2023-10-18T22:19:10+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/" rel="alternate"/>
-    <published>2023-10-18T22:19:10+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/faust-preis-fur-thomas-krupa/</id>
     <title>Wir gratulieren zum FAUST-Preis für Thomas Krupa - Thomas Krupa, Regisseur von "Posthuman Journey" in...</title>
-    <updated>2023-12-05T08:52:35.669462+01:00</updated>
+    <updated>2023-12-05T08:52:35+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/faust-preis-fur-thomas-krupa/" rel="alternate"/>
-    <published>2023-12-05T08:52:35.669462+01:00</published>
+    <published>2023-12-05T08:52:35+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/</id>
     <title>Die Kids sind immer noch super! - Martin Gärtner, seit 1997 Leiter des Kinder- und Jugendchors...</title>
-    <updated>2023-12-05T08:52:35.669435+01:00</updated>
+    <updated>2023-12-05T08:52:35+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/" rel="alternate"/>
-    <published>2023-12-05T08:52:35.669435+01:00</published>
+    <published>2023-12-05T08:52:35+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/weihnachten/</id>
     <title>Ans Schenken denken - Unser neues Abonnement für Schüler*innen, zwei kleine Abos z...</title>
-    <updated>2023-12-05T08:52:35.669416+01:00</updated>
+    <updated>2023-12-05T08:52:35+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weihnachten/" rel="alternate"/>
-    <published>2023-12-05T08:52:35.669416+01:00</published>
+    <published>2023-12-05T08:52:35+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-ist-die-gelegenheit-der-extrachor-des-stadttheaters-giessen-sucht-verstarkung/</id>
     <title>JETZT ist die Gelegenheit: - Der Extrachor des Stadttheaters Gießen sucht Verstärkung. Vo...</title>
-    <updated>2023-12-05T08:52:35.669394+01:00</updated>
+    <updated>2023-12-05T08:52:35+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-ist-die-gelegenheit-der-extrachor-des-stadttheaters-giessen-sucht-verstarkung/" rel="alternate"/>
-    <published>2023-12-05T08:52:35.669394+01:00</published>
+    <published>2023-12-05T08:52:35+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/</id>
@@ -681,28 +681,6 @@
     <published>2023-12-01T08:52:00+01:00</published>
   </entry>
   <entry>
-    <id>https://werkstattkirche.de/neuigkeiten/1-preis-beim-hessischen-familienpreis-der-spardabank/</id>
-    <title>1. Preis beim hessischen Familienpreis der Spardabank</title>
-    <updated>2022-11-10T00:00:00+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/neuigkeiten/1-preis-beim-hessischen-familienpreis-der-spardabank/" rel="alternate"/>
-    <published>2022-11-10T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/neuigkeiten/nikolaus-zu-besuch-im-awo-kindergarten/</id>
-    <title>Nikolaus zu Besuch im AWO-Kindergarten</title>
-    <updated>2022-12-06T00:00:00+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/neuigkeiten/nikolaus-zu-besuch-im-awo-kindergarten/" rel="alternate"/>
-    <published>2022-12-06T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>https://werkstattkirche.de/neuigkeiten/unsere-boygroup-ist-unterwegs/</id>
     <title>Unsere „Boygroup“ ist unterwegs!</title>
     <updated>2022-12-14T00:00:00+01:00</updated>
@@ -791,14 +769,36 @@
     <published>2023-11-11T09:22:00+01:00</published>
   </entry>
   <entry>
-    <id>https://werkstattkirche.de/veranstaltung/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
-    <title>Supp‘ un‘ Schwätze Unterwegs durch die Nordstadt</title>
-    <updated>2023-11-11T09:22:00+01:00</updated>
+    <id>https://werkstattkirche.de/veranstaltung/fachtag-an-der-jlu-kunststoff-reduzieren/</id>
+    <title>Fachtag an der JLU: Kunststoff reduzieren</title>
+    <updated>2023-11-29T00:00:00+01:00</updated>
     <author>
       <name>Werkstatt-Kirche</name>
       <email>info@werkstattkirche.de</email>
     </author>
-    <link href="https://werkstattkirche.de/veranstaltung/supp-un-schwaetze-unterwegs-durch-die-nordstadt/" rel="alternate"/>
-    <published>2023-11-11T09:22:00+01:00</published>
+    <link href="https://werkstattkirche.de/veranstaltung/fachtag-an-der-jlu-kunststoff-reduzieren/" rel="alternate"/>
+    <published>2023-11-29T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/veranstaltung/adventssingen-2023/</id>
+    <title>Adventssingen 2023</title>
+    <updated>2023-12-04T09:12:00+01:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/veranstaltung/adventssingen-2023/" rel="alternate"/>
+    <published>2023-12-04T09:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/veranstaltung/adventssingen-2023/</id>
+    <title>Adventssingen 2023</title>
+    <updated>2023-12-04T09:12:00+01:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/veranstaltung/adventssingen-2023/" rel="alternate"/>
+    <published>2023-12-04T09:12:00+01:00</published>
   </entry>
 </feed>
