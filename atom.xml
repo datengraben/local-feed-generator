@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-12-07T09:12:23.268585+00:00</updated>
+  <updated>2023-12-08T10:12:51.051980+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -441,13 +441,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/</id>
     <title>NEU: Einfach singen für Familien - Gemeinsam singen macht Spaß! Das entdecken wir im neuen kost...</title>
-    <updated>2023-12-07T09:12:14.281326+01:00</updated>
+    <updated>2023-12-07T09:12:14+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/" rel="alternate"/>
-    <published>2023-12-07T09:12:14.281326+01:00</published>
+    <published>2023-12-07T09:12:14+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zonta-sagt-nein-zu-gewalt-gegen-frauen/</id>
@@ -547,17 +547,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/" rel="alternate"/>
     <published>2023-10-26T14:28:55+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/swg-warnen-vor-spam-mails</id>
-    <title>SWG warnen vor Spam-Mails</title>
-    <updated>2023-10-10T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-warnen-vor-spam-mails" rel="alternate"/>
-    <published>2023-10-10T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/swg-unterstuetzen-die-hsg-pohlheim-weiter</id>
@@ -679,6 +668,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/an-den-adventssamstagen-kostenlos-bus-fahren" rel="alternate"/>
     <published>2023-12-01T08:52:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/fahrplanwechsel-zum-10-dezember-2023</id>
+    <title>Fahrplanwechsel zum 10. Dezember 2023</title>
+    <updated>2023-12-08T10:12:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/fahrplanwechsel-zum-10-dezember-2023" rel="alternate"/>
+    <published>2023-12-08T10:12:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/neuigkeiten/unsere-boygroup-ist-unterwegs/</id>
