@@ -31,6 +31,8 @@ import pandas as pd
 import html
 
 arguments = docopt(__doc__, version='0.0.1')
+
+# Bc we parse german date-time strings, we need german locale
 locale.setlocale(
     category=locale.LC_ALL,
     locale="de_DE.utf8"  # Note: do not use "de_DE" as it doesn't work
@@ -38,6 +40,7 @@ locale.setlocale(
 
 DTNOW = datetime.datetime.now()
 
+# mock browser headers
 headers = {
     "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
     "accept-language": "de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7",
@@ -59,17 +62,29 @@ headers = {
 def get_text(url):
     return bs4.BeautifulSoup(requests.get(url.strip(), headers=headers, timeout=10).text)
 
+def _localdt(dt):
+    """ Normalizes (/wo microseconds) and localizes dt object """
+    dt.replace(microsecond=0)
+    return pytz.timezone('Europe/Berlin').localize(dt)
+
 def localdt(str_val, pattern, _fix=True):
+    """ Parses into localized dt object """
     dt = datetime.datetime.strptime(str_val, pattern)
     if (DTNOW - dt).days <= 7 and _fix and dt.hour == 0 and dt.minute == 0:
         dt = dt.replace(hour=DTNOW.hour, minute=DTNOW.minute)
-    dt = dt.replace(microsecond=0)
-    return pytz.timezone('Europe/Berlin').localize(dt)
+    return _localdt(dt)
 
 def _bs4(s):
     return bs4.BeautifulSoup(s, features="lxml")
 
+# TODO create type of RSS-entry to be returned
 def general_scraper(_url, _mapper, _header=headers):
+    """
+    :param str _url:       url to GET content from, this will be fed into _mapper
+    :param lambda _mapper: lambda with only one param body (from response of GET _url) and should return an dict
+    :param dict _header:   dict like object to be used for request.get(_url)
+    :return: list of rss posts
+    """
     resp = requests.get(_url, headers=_header)
     posts = []
     try:
@@ -169,12 +184,12 @@ theater_headers = {
   }
 
 # Only youngest five posts
-LIMIT=10
+LIMIT=10 # TODO create parameter for this
 all_posts += general_scraper(url, lambda body: map(lambda x:
                     {
                         'title': html.unescape(x['title'] + " - " + x['magazine_excerpt'][:60] + "..."),
                         'link': 'http://stadttheater-giessen.de' + x['url'],
-                        'date-posted': pytz.timezone('Europe/Berlin').localize(datetime.datetime.now()),
+                        'date-posted': _localdt(DTNOW),
                         'author-name': 'Stadttheater',
                         'author-email': 'dialog@stadttheater-giessen.de'
                     }, json.loads(body)['data'][:LIMIT]), _header=theater_headers)
