@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-12-11T16:16:35.797181+00:00</updated>
+  <updated>2023-12-13T10:13:10.034318+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -439,6 +439,28 @@
     <published>2023-12-02T08:52:00+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/bright-blue/</id>
+    <title>We proudly present: Bright &amp; Blue Notes - Ensemblemitglied und Gastgeber Roman Kurtz ist Gastgeber der...</title>
+    <updated>2023-12-13T10:13:00.253643+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/bright-blue/" rel="alternate"/>
+    <published>2023-12-13T10:13:00.253643+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/preview-konzert-der-atem-der-berliner-1920er/</id>
+    <title>Preview-Konzert: Der Atem der Berliner 1920er - Kurz vor dem nächsten Preview-Konzert gibt Dirigent Andreas ...</title>
+    <updated>2023-12-13T10:13:00.253643+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/preview-konzert-der-atem-der-berliner-1920er/" rel="alternate"/>
+    <published>2023-12-13T10:13:00.253643+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/</id>
     <title>NEU: Einfach singen für Familien - Gemeinsam singen macht Spaß! Das entdecken wir im neuen kost...</title>
     <updated>2023-12-07T09:12:14+01:00</updated>
@@ -483,17 +505,6 @@
     <published>2023-11-20T09:23:20+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wir-suchen-eine-n-gastronom-in/</id>
-    <title>Wir suchen eine*n Gastronom*in! - Sie finden, Theatergastro kann mehr als Sekt und Brezeln? Da...</title>
-    <updated>2023-11-07T09:24:08+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-suchen-eine-n-gastronom-in/" rel="alternate"/>
-    <published>2023-11-07T09:24:08+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/faust-preis-fur-thomas-krupa/</id>
     <title>Wir gratulieren zum FAUST-Preis für Thomas Krupa - Thomas Krupa, Regisseur von "Posthuman Journey" in...</title>
     <updated>2023-12-05T08:52:35+01:00</updated>
@@ -524,17 +535,6 @@
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weihnachten/" rel="alternate"/>
-    <published>2023-12-05T08:52:35+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-ist-die-gelegenheit-der-extrachor-des-stadttheaters-giessen-sucht-verstarkung/</id>
-    <title>JETZT ist die Gelegenheit: - Der Extrachor des Stadttheaters Gießen sucht Verstärkung. Vo...</title>
-    <updated>2023-12-05T08:52:35+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-ist-die-gelegenheit-der-extrachor-des-stadttheaters-giessen-sucht-verstarkung/" rel="alternate"/>
     <published>2023-12-05T08:52:35+01:00</published>
   </entry>
   <entry>
