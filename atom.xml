@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-12-13T10:13:10.034318+00:00</updated>
+  <updated>2023-12-13T14:11:48.237101+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -439,26 +439,15 @@
     <published>2023-12-02T08:52:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/bright-blue/</id>
-    <title>We proudly present: Bright &amp; Blue Notes - Ensemblemitglied und Gastgeber Roman Kurtz ist Gastgeber der...</title>
-    <updated>2023-12-13T10:13:00.253643+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/bright-blue/" rel="alternate"/>
-    <published>2023-12-13T10:13:00.253643+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/preview-konzert-der-atem-der-berliner-1920er/</id>
     <title>Preview-Konzert: Der Atem der Berliner 1920er - Kurz vor dem nächsten Preview-Konzert gibt Dirigent Andreas ...</title>
-    <updated>2023-12-13T10:13:00.253643+01:00</updated>
+    <updated>2023-12-13T10:13:00+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/preview-konzert-der-atem-der-berliner-1920er/" rel="alternate"/>
-    <published>2023-12-13T10:13:00.253643+01:00</published>
+    <published>2023-12-13T10:13:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/</id>
@@ -547,6 +536,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/" rel="alternate"/>
     <published>2023-10-26T14:28:55+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorstadtkrokodile-entfallt-am-14-und-15.12/</id>
+    <title>Vorstadtkrokodile entfällt am 14. und 15.12. - Schulen und alle anderen Karteninhaber*innen wenden sich zum...</title>
+    <updated>2023-12-13T14:11:39.914883+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorstadtkrokodile-entfallt-am-14-und-15.12/" rel="alternate"/>
+    <published>2023-12-13T14:11:39.914883+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/kapuzenjacken-fuer-fussball-maedchenteam</id>
