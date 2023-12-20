@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-12-15T17:11:16.915975+00:00</updated>
+  <updated>2023-12-20T19:08:34.506858+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.asta-giessen.de/8131-2/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2023-04-22T00:00:00+02:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/8131-2/" rel="alternate"/>
-    <published>2023-04-22T00:00:00+02:00</published>
-  </entry>
   <entry>
     <id>https://www.asta-giessen.de/8146-2/</id>
     <title>Neuer Beitrag</title>
@@ -115,6 +104,17 @@
     </author>
     <link href="https://www.asta-giessen.de/8390-2/" rel="alternate"/>
     <published>2023-10-04T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8419-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-10-14T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8419-2/" rel="alternate"/>
+    <published>2023-10-14T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>https://universum-giessen.com/2022/10/27/universum-testet-pizza/</id>
@@ -529,13 +529,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 26.01. - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
-    <updated>2023-12-15T17:11:05.417777+01:00</updated>
+    <updated>2023-12-15T17:11:05+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/" rel="alternate"/>
-    <published>2023-12-15T17:11:05.417777+01:00</published>
+    <published>2023-12-15T17:11:05+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/</id>
