@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-12-20T19:08:34.506858+00:00</updated>
+  <updated>2023-12-21T14:10:53.972885+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -549,17 +549,6 @@
     <published>2023-10-26T14:28:55+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/linien-18-und-801-werden-umgeleitet</id>
-    <title>Linien 18 und 801 werden umgeleitet</title>
-    <updated>2023-10-19T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/linien-18-und-801-werden-umgeleitet" rel="alternate"/>
-    <published>2023-10-19T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/waermepumpe-swg-bringen-licht-ins-dunkel</id>
     <title>Wärmepumpe: SWG bringen Licht ins Dunkel</title>
     <updated>2023-10-24T00:00:00+02:00</updated>
@@ -679,6 +668,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/linie-1-in-luetzellinden-verlaengert" rel="alternate"/>
     <published>2023-12-15T12:22:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/gasnotrufnummer-der-swg-sporadisch-gestoert</id>
+    <title>Gasnotrufnummer der SWG sporadisch gestört</title>
+    <updated>2023-12-21T14:10:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/gasnotrufnummer-der-swg-sporadisch-gestoert" rel="alternate"/>
+    <published>2023-12-21T14:10:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/neuigkeiten/unsere-boygroup-ist-unterwegs/</id>
