@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-12-21T15:12:00.001294+00:00</updated>
+  <updated>2023-12-22T11:10:01.548382+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -549,17 +549,6 @@
     <published>2023-10-26T14:28:55+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/die-stadt-giessen-und-die-swg-verlaengern-konzessionsvertrag</id>
-    <title>Die Stadt Gießen und die SWG verlängern Konzessionsvertrag</title>
-    <updated>2023-10-31T00:00:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/die-stadt-giessen-und-die-swg-verlaengern-konzessionsvertrag" rel="alternate"/>
-    <published>2023-10-31T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-geben-wissen-weiter</id>
     <title>Stadtwerke Gießen geben Wissen weiter</title>
     <updated>2023-11-03T00:00:00+01:00</updated>
@@ -679,6 +668,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/politik-macht-energie-teurer" rel="alternate"/>
     <published>2023-12-21T15:11:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/fahrpreise-fuer-busse-aendern-sich</id>
+    <title>Fahrpreise für Busse ändern sich</title>
+    <updated>2023-12-22T11:09:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/fahrpreise-fuer-busse-aendern-sich" rel="alternate"/>
+    <published>2023-12-22T11:09:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/neuigkeiten/unsere-boygroup-ist-unterwegs/</id>
