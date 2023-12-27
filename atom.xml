@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-12-23T00:51:55.040217+00:00</updated>
+  <updated>2023-12-27T09:11:46.054496+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -417,17 +417,6 @@
     <published>2023-11-29T08:52:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_8588_1.PDF?1701174110</id>
-    <title>4. Satzung zur Stärkung der Innovation im Theaterpark</title>
-    <updated>2023-12-02T08:52:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8588_1.PDF?1701174110" rel="alternate"/>
-    <published>2023-12-02T08:52:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_8584_1.PDF?1701091581</id>
     <title>Umlegungsverfahren "In der Roos"</title>
     <updated>2023-12-02T08:52:00+01:00</updated>
@@ -439,15 +428,15 @@
     <published>2023-12-02T08:52:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_8809_1.PDF?1703232967</id>
-    <title>Erneute Offenlage Bebauungsplan Nr. G 70 Eisteich, 2. Änderung</title>
-    <updated>2023-12-23T00:51:00+01:00</updated>
+    <id>http://giessen.de/media/custom/2874_8588_1.PDF?1701174110</id>
+    <title>4. Satzung zur Stärkung der Innovation im Theaterpark</title>
+    <updated>2023-12-02T08:52:00+01:00</updated>
     <author>
       <name>Stadt - Amtliche Bekanntmachungen</name>
       <email>presse@giessen.de</email>
     </author>
-    <link href="http://giessen.de/media/custom/2874_8809_1.PDF?1703232967" rel="alternate"/>
-    <published>2023-12-23T00:51:00+01:00</published>
+    <link href="http://giessen.de/media/custom/2874_8588_1.PDF?1701174110" rel="alternate"/>
+    <published>2023-12-02T08:52:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_8816_1.PDF?1703241762</id>
@@ -470,6 +459,28 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_8815_1.PDF?1703240691" rel="alternate"/>
     <published>2023-12-23T00:51:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_8809_1.PDF?1703232967</id>
+    <title>Erneute Offenlage Bebauungsplan Nr. G 70 Eisteich, 2. Änderung</title>
+    <updated>2023-12-23T00:51:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8809_1.PDF?1703232967" rel="alternate"/>
+    <published>2023-12-23T00:51:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/bright-blue/</id>
+    <title>We proudly present: Bright &amp; Blue Notes - Ensemblemitglied und Gastgeber Roman Kurtz ist Gastgeber der...</title>
+    <updated>2023-12-27T09:11:36.964592+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/bright-blue/" rel="alternate"/>
+    <published>2023-12-27T09:11:36.964592+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/preview-konzert-der-atem-der-berliner-1920er/</id>
@@ -546,17 +557,6 @@
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/" rel="alternate"/>
-    <published>2023-12-05T08:52:35+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/weihnachten/</id>
-    <title>Ans Schenken denken - Unser neues Abonnement für Schüler*innen, zwei kleine Abos z...</title>
-    <updated>2023-12-05T08:52:35+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weihnachten/" rel="alternate"/>
     <published>2023-12-05T08:52:35+01:00</published>
   </entry>
   <entry>
