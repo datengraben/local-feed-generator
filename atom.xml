@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-12-30T20:11:41.727369+00:00</updated>
+  <updated>2023-12-30T23:11:27.651003+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -404,17 +404,6 @@
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche" rel="alternate"/>
     <published>2023-06-06T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_8587_1.PDF?1701174015</id>
-    <title>Erneute Offenlage des Bebauungsplans Nr. GI 04/36 Steinberger Weg</title>
-    <updated>2023-11-29T08:52:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8587_1.PDF?1701174015" rel="alternate"/>
-    <published>2023-11-29T08:52:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_8588_1.PDF?1701174110</id>
