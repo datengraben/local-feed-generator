@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-12-30T23:11:27.651003+00:00</updated>
+  <updated>2023-12-31T15:10:53.726992+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -703,6 +703,17 @@
     <published>2023-12-22T11:09:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Update-R%C3%BCckbau-des-Verkehrsversuchs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62435.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Der Rückbau des Verkehrsversuchs im Ticker</title>
+    <updated>2023-11-25T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Update-R%C3%BCckbau-des-Verkehrsversuchs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62435.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-25T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%9Cber-100-B%C3%A4ume-anl%C3%A4sslich-Jubil%C3%A4ums-eingepflanzt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63105.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Über 100 gespendete Bäume eingepflanzt</title>
     <updated>2023-12-04T00:00:00+01:00</updated>
@@ -799,17 +810,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/was-geht-Gie%C3%9Fen-Onlinekampagne.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63594.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-12-13T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eisstockschie%C3%9Fen-auf-dem-Gie%C3%9Fener-Weihnachtsmarkt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63595.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Eisstockschießen auf dem Gießener Weihnachtsmarkt</title>
-    <updated>2023-12-13T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eisstockschie%C3%9Fen-auf-dem-Gie%C3%9Fener-Weihnachtsmarkt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63595.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-12-13T00:00:00+01:00</published>
   </entry>
   <entry>
