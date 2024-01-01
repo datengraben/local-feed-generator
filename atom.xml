@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-01T17:10:40.633899+00:00</updated>
+  <updated>2024-01-01T23:11:35.014241+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -404,28 +404,6 @@
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche" rel="alternate"/>
     <published>2023-06-06T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_8588_1.PDF?1701174110</id>
-    <title>4. Satzung zur Stärkung der Innovation im Theaterpark</title>
-    <updated>2023-12-02T08:52:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8588_1.PDF?1701174110" rel="alternate"/>
-    <published>2023-12-02T08:52:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_8584_1.PDF?1701091581</id>
-    <title>Umlegungsverfahren "In der Roos"</title>
-    <updated>2023-12-02T08:52:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8584_1.PDF?1701091581" rel="alternate"/>
-    <published>2023-12-02T08:52:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_8815_1.PDF?1703240691</id>
