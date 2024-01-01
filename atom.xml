@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2023-12-31T15:10:53.726992+00:00</updated>
+  <updated>2024-01-01T17:10:40.633899+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -428,17 +428,6 @@
     <published>2023-12-02T08:52:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_8816_1.PDF?1703241762</id>
-    <title>3. Satzung zur Änderung der Wasserversorgungssatzung</title>
-    <updated>2023-12-23T00:51:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8816_1.PDF?1703241762" rel="alternate"/>
-    <published>2023-12-23T00:51:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_8815_1.PDF?1703240691</id>
     <title>2. Satzung zur Änderung der Satzung über den Gießen-Pass</title>
     <updated>2023-12-23T00:51:00+01:00</updated>
@@ -458,6 +447,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_8809_1.PDF?1703232967" rel="alternate"/>
+    <published>2023-12-23T00:51:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_8816_1.PDF?1703241762</id>
+    <title>3. Satzung zur Änderung der Wasserversorgungssatzung</title>
+    <updated>2023-12-23T00:51:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8816_1.PDF?1703241762" rel="alternate"/>
     <published>2023-12-23T00:51:00+01:00</published>
   </entry>
   <entry>
@@ -701,6 +701,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/fahrpreise-fuer-busse-aendern-sich" rel="alternate"/>
     <published>2023-12-22T11:09:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-senken-Strompreise.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62876.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtwerke Gießen senken Strompreise</title>
+    <updated>2023-11-14T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-senken-Strompreise.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62876.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-14T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Update-R%C3%BCckbau-des-Verkehrsversuchs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62435.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -965,17 +976,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Adventsgewinnspiel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63666.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-12-24T20:11:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtverwaltung-zwischen-den-Jahren-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63638.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadtverwaltung und MWB "zwischen den Jahren" geschlossen - Notdienste eingerichtet</title>
-    <updated>2023-12-27T20:11:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtverwaltung-zwischen-den-Jahren-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63638.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-12-27T20:11:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/neuigkeiten/unsere-boygroup-ist-unterwegs/</id>
