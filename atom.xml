@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-02T21:10:40.915488+00:00</updated>
+  <updated>2024-01-03T15:11:47.468844+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -406,6 +406,17 @@
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_8816_1.PDF?1703241762</id>
+    <title>3. Satzung zur Änderung der Wasserversorgungssatzung</title>
+    <updated>2023-12-23T00:51:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8816_1.PDF?1703241762" rel="alternate"/>
+    <published>2023-12-23T00:51:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_8815_1.PDF?1703240691</id>
     <title>2. Satzung zur Änderung der Satzung über den Gießen-Pass</title>
     <updated>2023-12-23T00:51:00+01:00</updated>
@@ -425,17 +436,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_8809_1.PDF?1703232967" rel="alternate"/>
-    <published>2023-12-23T00:51:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_8816_1.PDF?1703241762</id>
-    <title>3. Satzung zur Änderung der Wasserversorgungssatzung</title>
-    <updated>2023-12-23T00:51:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8816_1.PDF?1703241762" rel="alternate"/>
     <published>2023-12-23T00:51:00+01:00</published>
   </entry>
   <entry>
@@ -681,6 +681,28 @@
     <published>2023-12-22T11:09:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenamt-beginnt-Ende-Oktober-mit-Baumf%C3%A4llungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62717.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gartenamt beginnt Ende Oktober mit Baumfällungen</title>
+    <updated>2023-11-03T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenamt-beginnt-Ende-Oktober-mit-Baumf%C3%A4llungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62717.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-03T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>+++Update+++ Brückenschaden im Gießener Südkreuz A45/A485: Verbindung von Gießen nach Frankfurt im Südkreuz wird freigegeben</title>
+    <updated>2023-11-06T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-11-06T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freier-Anlagenring-kostenfreies-Parken-und-Busfahren-Events-Die-Planungen-der-Stadt-in-der-Vorweihnachtszeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62874.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Freier Anlagenring - kostenfreies Parken und Busfahren - Events: Planungen der Stadt in der Vorweihnachtszeit</title>
     <updated>2023-11-14T00:00:00+01:00</updated>
@@ -712,17 +734,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Update-R%C3%BCckbau-des-Verkehrsversuchs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62435.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-11-25T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%9Cber-100-B%C3%A4ume-anl%C3%A4sslich-Jubil%C3%A4ums-eingepflanzt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63105.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Über 100 gespendete Bäume eingepflanzt</title>
-    <updated>2023-12-04T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%9Cber-100-B%C3%A4ume-anl%C3%A4sslich-Jubil%C3%A4ums-eingepflanzt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63105.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-12-04T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mittel-und-Osthessen-auf-dem-Weg-zu-MitteHessenTakt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63152.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -943,17 +954,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Fluss-mit-Flair-findet-auch-2024-wieder-statt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-12-22T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Adventsgewinnspiel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63666.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Adventsgewinnspiel</title>
-    <updated>2023-12-24T20:11:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Adventsgewinnspiel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63666.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-12-24T20:11:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/neuigkeiten/unsere-boygroup-ist-unterwegs/</id>
