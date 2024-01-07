@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-06T15:10:54.516758+00:00</updated>
+  <updated>2024-01-07T15:11:24.974391+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -681,6 +681,39 @@
     <published>2023-12-22T00:00:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsversuch-Verkehrsbeschilderung-hat-weiter-G%C3%BCltigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61091.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verkehrsversuch: Verkehrsbeschilderung hat weiter Gültigkeit</title>
+    <updated>2023-08-31T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsversuch-Verkehrsbeschilderung-hat-weiter-G%C3%BCltigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61091.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-08-31T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Programm-der-Volkshochschule-Gie%C3%9Fen-Analog-und-digital-in-Einem.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61121.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neues Programm der Volkshochschule Gießen: Analog und digital in Einem</title>
+    <updated>2023-09-05T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Programm-der-Volkshochschule-Gie%C3%9Fen-Analog-und-digital-in-Einem.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61121.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-09-05T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/neue-Herbst-Winter-Programm-des-Jugendbildungswerkes.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61126.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neues Herbst-Winter-Programm des JBW: Von der ersten Wohnung über Fußball bis zur EU</title>
+    <updated>2023-09-06T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/neue-Herbst-Winter-Programm-des-Jugendbildungswerkes.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61126.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-09-06T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A485-Grundhafte-Sanierung-zwischen-Linden-und-Gie%C3%9Fen-Schiffenberger-Tal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62452.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>A485: Grundhafte Sanierung zwischen Linden und Gießen-Schiffenberger Tal</title>
     <updated>2023-10-26T00:00:00+02:00</updated>
@@ -755,39 +788,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fahrplanwechsel-zum-10-Dezember-2023.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63576.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-12-08T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Feierstunde-f%C3%BCr-st%C3%A4dtische-Bedienstete.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63578.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Feierstunde für städtische Bedienstete</title>
-    <updated>2023-12-08T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Feierstunde-f%C3%BCr-st%C3%A4dtische-Bedienstete.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63578.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-12-08T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tour-der-Hoffnung-ist-Kind-der-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63579.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Tour der Hoffnung ist Kind der Stadt Gießen</title>
-    <updated>2023-12-08T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tour-der-Hoffnung-ist-Kind-der-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63579.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-12-08T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erste-Anlaufstelle-f%C3%BCr-Fragen-rund-um-Pflege-Pflegest%C3%BCtzpunkt-und-BeKo-verzeichnen-steigenden-Beratungsbedarf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63582.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Erste Anlaufstelle für Fragen rund um Pflege: Pflegestützpunkt und BeKo verzeichnen steigenden Beratungsbedarf</title>
-    <updated>2023-12-08T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erste-Anlaufstelle-f%C3%BCr-Fragen-rund-um-Pflege-Pflegest%C3%BCtzpunkt-und-BeKo-verzeichnen-steigenden-Beratungsbedarf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63582.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-12-08T00:00:00+01:00</published>
   </entry>
   <entry>
