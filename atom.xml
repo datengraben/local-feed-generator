@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-08T15:12:47.616767+00:00</updated>
+  <updated>2024-01-08T18:15:48.692205+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -406,6 +406,17 @@
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_8809_1.PDF?1703232967</id>
+    <title>Erneute Offenlage Bebauungsplan Nr. G 70 Eisteich, 2. Änderung</title>
+    <updated>2023-12-23T00:51:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8809_1.PDF?1703232967" rel="alternate"/>
+    <published>2023-12-23T00:51:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_8816_1.PDF?1703241762</id>
     <title>3. Satzung zur Änderung der Wasserversorgungssatzung</title>
     <updated>2023-12-23T00:51:00+01:00</updated>
@@ -425,17 +436,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_8815_1.PDF?1703240691" rel="alternate"/>
-    <published>2023-12-23T00:51:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_8809_1.PDF?1703232967</id>
-    <title>Erneute Offenlage Bebauungsplan Nr. G 70 Eisteich, 2. Änderung</title>
-    <updated>2023-12-23T00:51:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8809_1.PDF?1703232967" rel="alternate"/>
     <published>2023-12-23T00:51:00+01:00</published>
   </entry>
   <entry>
@@ -549,136 +549,136 @@
     <published>2024-01-02T09:11:39+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-geben-wissen-weiter</id>
-    <title>Stadtwerke Gießen geben Wissen weiter</title>
-    <updated>2023-11-03T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/stadt-und-swg-erneuern-konzessionsvertrag</id>
+    <title>Stadt und SWG erneuern Konzessionsvertrag</title>
+    <updated>2023-05-10T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-geben-wissen-weiter" rel="alternate"/>
-    <published>2023-11-03T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/stadt-und-swg-erneuern-konzessionsvertrag" rel="alternate"/>
+    <published>2023-05-10T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-sorgen-fuer-abwechslung-im-training</id>
-    <title>Stadtwerke Gießen sorgen für Abwechslung im Training</title>
-    <updated>2023-11-13T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/auch-beim-wasser-technisch-top</id>
+    <title>Auch beim Wasser technisch top</title>
+    <updated>2023-05-12T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-sorgen-fuer-abwechslung-im-training" rel="alternate"/>
-    <published>2023-11-13T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/auch-beim-wasser-technisch-top" rel="alternate"/>
+    <published>2023-05-12T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-ihre-strompreise</id>
-    <title>Stadtwerke Gießen senken ihre Strompreise</title>
-    <updated>2023-11-14T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/starker-partner-beim-netzanschluss</id>
+    <title>Starker Partner beim Netzanschluss</title>
+    <updated>2023-05-23T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-ihre-strompreise" rel="alternate"/>
-    <published>2023-11-14T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/starker-partner-beim-netzanschluss" rel="alternate"/>
+    <published>2023-05-23T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/richtig-heizen-und-lueften</id>
-    <title>Richtig heizen und lüften</title>
-    <updated>2023-11-21T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/busumleitung-wieder-weitgehend-aufgehoben</id>
+    <title>Busumleitung wieder weitgehend aufgehoben</title>
+    <updated>2023-05-26T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/richtig-heizen-und-lueften" rel="alternate"/>
-    <published>2023-11-21T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/busumleitung-wieder-weitgehend-aufgehoben" rel="alternate"/>
+    <published>2023-05-26T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/an-den-adventssamstagen-kostenlos-bus-fahren</id>
-    <title>An den Adventssamstagen kostenlos Bus fahren</title>
-    <updated>2023-12-01T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/start-der-freibadsaison-in-kleinlinden-und-luetzellinden-1</id>
+    <title>Start der Freibadsaison in Kleinlinden und Lützellinden</title>
+    <updated>2023-05-30T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/an-den-adventssamstagen-kostenlos-bus-fahren" rel="alternate"/>
-    <published>2023-12-01T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/start-der-freibadsaison-in-kleinlinden-und-luetzellinden-1" rel="alternate"/>
+    <published>2023-05-30T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/fahrplanwechsel-zum-10-dezember-2023</id>
-    <title>Fahrplanwechsel zum 10. Dezember 2023</title>
-    <updated>2023-12-08T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/mit-dem-bus-zum-waeldchesfest-1</id>
+    <title>Mit dem Bus zum Wäldchesfest</title>
+    <updated>2023-06-01T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/fahrplanwechsel-zum-10-dezember-2023" rel="alternate"/>
-    <published>2023-12-08T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/mit-dem-bus-zum-waeldchesfest-1" rel="alternate"/>
+    <published>2023-06-01T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/weniger-ist-mehr</id>
-    <title>Weniger ist mehr</title>
-    <updated>2023-12-11T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/spiel-dein-spiel-city-day-am-18-juni</id>
+    <title>„Spiel’ Dein Spiel“ – City Day am 18. Juni</title>
+    <updated>2023-06-12T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/weniger-ist-mehr" rel="alternate"/>
-    <published>2023-12-11T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/spiel-dein-spiel-city-day-am-18-juni" rel="alternate"/>
+    <published>2023-06-12T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/tore-fuer-den-fussballnachwuchs</id>
-    <title>Tore für den Fußballnachwuchs</title>
-    <updated>2023-12-14T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/vorbereitung-verkehrsversuch-busse-werden-umgeleitet</id>
+    <title>Vorbereitung Verkehrsversuch: Busse werden umgeleitet.</title>
+    <updated>2023-06-14T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/tore-fuer-den-fussballnachwuchs" rel="alternate"/>
-    <published>2023-12-14T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/vorbereitung-verkehrsversuch-busse-werden-umgeleitet" rel="alternate"/>
+    <published>2023-06-14T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/linie-1-in-luetzellinden-verlaengert</id>
-    <title>Linie 1 in Lützellinden verlängert</title>
-    <updated>2023-12-15T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/energiemarkt-in-bewegung</id>
+    <title>Energiemarkt in Bewegung</title>
+    <updated>2023-06-16T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/linie-1-in-luetzellinden-verlaengert" rel="alternate"/>
-    <published>2023-12-15T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/energiemarkt-in-bewegung" rel="alternate"/>
+    <published>2023-06-16T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/gasnotrufnummer-der-swg-sporadisch-gestoert</id>
-    <title>Gasnotrufnummer der SWG sporadisch gestört</title>
-    <updated>2023-12-21T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/spiel-und-spass-beim-spiel-dein-spiel-city-day</id>
+    <title>Spiel und Spaß beim Spiel´ Dein Spiel – City Day</title>
+    <updated>2023-06-19T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/gasnotrufnummer-der-swg-sporadisch-gestoert" rel="alternate"/>
-    <published>2023-12-21T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/spiel-und-spass-beim-spiel-dein-spiel-city-day" rel="alternate"/>
+    <published>2023-06-19T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/politik-macht-energie-teurer</id>
-    <title>Politik macht Energie teurer</title>
-    <updated>2023-12-21T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/kontakt-uebers-kundenportal</id>
+    <title>Kontakt übers Kundenportal</title>
+    <updated>2023-06-20T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/politik-macht-energie-teurer" rel="alternate"/>
-    <published>2023-12-21T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/kontakt-uebers-kundenportal" rel="alternate"/>
+    <published>2023-06-20T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/fahrpreise-fuer-busse-aendern-sich</id>
-    <title>Fahrpreise für Busse ändern sich</title>
-    <updated>2023-12-22T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-unterstuetzen-basketballdamen-der-tsg-wieseck</id>
+    <title>Stadtwerke Gießen unterstützen Basketballdamen der TSG Wieseck</title>
+    <updated>2023-06-23T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/fahrpreise-fuer-busse-aendern-sich" rel="alternate"/>
-    <published>2023-12-22T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-unterstuetzen-basketballdamen-der-tsg-wieseck" rel="alternate"/>
+    <published>2023-06-23T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-nimmt-Stellung-zum-Aus-f%C3%BCr-den-Gie%C3%9Fener-Verkehrsversuch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
