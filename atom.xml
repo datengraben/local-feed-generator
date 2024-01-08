@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-08T10:13:30.891829+00:00</updated>
+  <updated>2024-01-08T15:12:47.616767+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -441,13 +441,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/</id>
     <title>NEU: Einfach singen für Familien - Gemeinsam singen macht Spaß! Das entdecken wir im neuen kost...</title>
-    <updated>2024-01-08T10:13:19.693817+01:00</updated>
+    <updated>2024-01-08T10:13:19+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/" rel="alternate"/>
-    <published>2024-01-08T10:13:19.693817+01:00</published>
+    <published>2024-01-08T10:13:19+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zonta-sagt-nein-zu-gewalt-gegen-frauen/</id>
@@ -681,6 +681,17 @@
     <published>2023-12-22T00:00:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-nimmt-Stellung-zum-Aus-f%C3%BCr-den-Gie%C3%9Fener-Verkehrsversuch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>OB Becher nimmt Stellung zum Aus für den Gießener Verkehrsversuch</title>
+    <updated>2023-08-31T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-nimmt-Stellung-zum-Aus-f%C3%BCr-den-Gie%C3%9Fener-Verkehrsversuch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-08-31T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsversuch-Verkehrsbeschilderung-hat-weiter-G%C3%BCltigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61091.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Verkehrsversuch: Verkehrsbeschilderung hat weiter Gültigkeit</title>
     <updated>2023-08-31T00:00:00+02:00</updated>
@@ -755,17 +766,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freier-Anlagenring-kostenfreies-Parken-und-Busfahren-Events-Die-Planungen-der-Stadt-in-der-Vorweihnachtszeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62874.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-14T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-senken-Strompreise.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62876.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadtwerke Gießen senken Strompreise</title>
-    <updated>2023-11-14T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-senken-Strompreise.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62876.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-11-14T00:00:00+01:00</published>
   </entry>
   <entry>
