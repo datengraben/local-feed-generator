@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-09T18:13:02.591133+00:00</updated>
+  <updated>2024-01-12T15:11:56.639209+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -406,17 +406,6 @@
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_8809_1.PDF?1703232967</id>
-    <title>Erneute Offenlage Bebauungsplan Nr. G 70 Eisteich, 2. Änderung</title>
-    <updated>2023-12-23T00:51:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8809_1.PDF?1703232967" rel="alternate"/>
-    <published>2023-12-23T00:51:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_8816_1.PDF?1703241762</id>
     <title>3. Satzung zur Änderung der Wasserversorgungssatzung</title>
     <updated>2023-12-23T00:51:00+01:00</updated>
@@ -436,6 +425,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_8815_1.PDF?1703240691" rel="alternate"/>
+    <published>2023-12-23T00:51:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_8809_1.PDF?1703232967</id>
+    <title>Erneute Offenlage Bebauungsplan Nr. G 70 Eisteich, 2. Änderung</title>
+    <updated>2023-12-23T00:51:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8809_1.PDF?1703232967" rel="alternate"/>
     <published>2023-12-23T00:51:00+01:00</published>
   </entry>
   <entry>
@@ -470,17 +470,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zonta-sagt-nein-zu-gewalt-gegen-frauen/" rel="alternate"/>
     <published>2023-11-01T19:29:25+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/</id>
-    <title>Liebes Publikum! - Kann es eine angemessene – oder gar richtige – Reaktion des ...</title>
-    <updated>2023-10-26T14:28:55+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/" rel="alternate"/>
-    <published>2023-10-26T14:28:55+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/tanz-erzahlen/</id>
@@ -547,6 +536,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/rigoletto-am-18.1-entfallt/" rel="alternate"/>
     <published>2024-01-02T09:11:39+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/</id>
+    <title>Liebes Publikum! - Kann es eine angemessene – oder gar richtige – Reaktion des ...</title>
+    <updated>2023-10-26T14:28:55+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/" rel="alternate"/>
+    <published>2023-10-26T14:28:55+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/verschiebung-von-neometropolis/</id>
@@ -692,6 +692,39 @@
     <published>2023-12-22T00:00:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kommunale-W%C3%A4rmeplanung-f%C3%BCr-die-Stadt-Gie%C3%9Fen-in-den-Startl%C3%B6chern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60489.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kommunale Wärmeplanung für die Stadt Gießen in den Startlöchern</title>
+    <updated>2023-06-16T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kommunale-W%C3%A4rmeplanung-f%C3%BCr-die-Stadt-Gie%C3%9Fen-in-den-Startl%C3%B6chern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60489.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-06-16T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-bekommt-einen-Qualifizierten-Mietspiegel-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60565.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen bekommt einen "Qualifizierten Mietspiegel"</title>
+    <updated>2023-06-29T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-bekommt-einen-Qualifizierten-Mietspiegel-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60565.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-06-29T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/TransMIT-erstellt-kommunale-W%C3%A4rmeplanung-f%C3%BCr-die-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60567.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>TransMIT erstellt kommunale Wärmeplanung für die Stadt Gießen</title>
+    <updated>2023-06-29T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/TransMIT-erstellt-kommunale-W%C3%A4rmeplanung-f%C3%BCr-die-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60567.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-06-29T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-nimmt-Stellung-zum-Aus-f%C3%BCr-den-Gie%C3%9Fener-Verkehrsversuch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>OB Becher nimmt Stellung zum Aus für den Gießener Verkehrsversuch</title>
     <updated>2023-08-31T00:00:00+02:00</updated>
@@ -811,39 +844,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Adventsgewinnspiel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63580.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-12-10T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/was-geht-Gie%C3%9Fen-Onlinekampagne.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63594.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Was geht, Gießen?</title>
-    <updated>2023-12-13T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/was-geht-Gie%C3%9Fen-Onlinekampagne.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63594.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-12-13T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Semesterprogramm-der-vhs-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63596.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neues Semesterprogramm der vhs online</title>
-    <updated>2023-12-13T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Semesterprogramm-der-vhs-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63596.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-12-13T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Endspurt-die-letzte-Weihnachtsmarktwoche-vor-Heiligabend-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63597.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Endspurt: die letzte Weihnachtsmarktwoche vor Heiligabend beginnt</title>
-    <updated>2023-12-13T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Endspurt-die-letzte-Weihnachtsmarktwoche-vor-Heiligabend-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63597.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-12-13T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bauma%C3%9Fnahmen-an-der-Alicenstra%C3%9Fe-abgeschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63612.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
