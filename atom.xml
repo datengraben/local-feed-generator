@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-19T12:22:32.840004+00:00</updated>
+  <updated>2024-01-19T15:12:55.410675+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -573,13 +573,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/</id>
     <title>Liebes Publikum - Unter der Überschrift „Nie wieder ist jetzt“ ein Zeichen set...</title>
-    <updated>2024-01-19T12:22:23.895684+01:00</updated>
+    <updated>2024-01-19T12:22:23+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/" rel="alternate"/>
-    <published>2024-01-19T12:22:23.895684+01:00</published>
+    <published>2024-01-19T12:22:23+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-geben-wissen-weiter</id>
@@ -712,6 +712,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/fahrpreise-fuer-busse-aendern-sich" rel="alternate"/>
     <published>2023-12-22T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Sperrungen-im-Stadtgebiet-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58096.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue Sperrungen im Stadtgebiet Gießen</title>
+    <updated>2023-04-14T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Sperrungen-im-Stadtgebiet-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58096.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <published>2023-04-14T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventivma%C3%9Fnahmen-gegen-Eichenprozessionsspinner.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58385.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -920,17 +931,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wetzlarer-Stra%C3%9Fe-bleibt-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62912.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-12-20T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schwimmen-gegen-den-Strom-Internationaler-Tag-der-Migranten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63641.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Schwimmen gegen den Strom - Internationaler Tag der Migranten</title>
-    <updated>2023-12-20T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schwimmen-gegen-den-Strom-Internationaler-Tag-der-Migranten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63641.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-12-20T00:00:00+01:00</published>
   </entry>
   <entry>
