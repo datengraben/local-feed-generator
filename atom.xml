@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-18T10:13:23.849543+00:00</updated>
+  <updated>2024-01-19T10:12:53.847994+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -474,13 +474,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/preview-konzert-der-atem-der-berliner-1920er/</id>
     <title>Preview-Konzert: Der Atem der Berliner 1920er - Kurz vor dem nächsten Preview-Konzert gibt Dirigent Andreas ...</title>
-    <updated>2024-01-18T10:13:13.830487+01:00</updated>
+    <updated>2024-01-18T10:13:13+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/preview-konzert-der-atem-der-berliner-1920er/" rel="alternate"/>
-    <published>2024-01-18T10:13:13.830487+01:00</published>
+    <published>2024-01-18T10:13:13+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/</id>
@@ -560,6 +560,17 @@
     <published>2023-12-15T17:11:05+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-durch-das-studium-zu-einer-sehr-viel-besseren-regisseurin-geworden/</id>
+    <title>„Ich bin durch das Studium zu einer sehr viel besseren Regisseurin geworden!“ - Theaterberufe: Malin Lamparter über ihre Ausbildung zur Regi...</title>
+    <updated>2024-01-19T10:12:43.021321+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-durch-das-studium-zu-einer-sehr-viel-besseren-regisseurin-geworden/" rel="alternate"/>
+    <published>2024-01-19T10:12:43.021321+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/</id>
     <title>Liebes Publikum! - Kann es eine angemessene – oder gar richtige – Reaktion des ...</title>
     <updated>2023-10-26T14:28:55+02:00</updated>
@@ -569,17 +580,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/" rel="alternate"/>
     <published>2023-10-26T14:28:55+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/</id>
-    <title>"Einfach singen" entfällt - Wegen der Wettersituation muss "Einfach singen" am...</title>
-    <updated>2024-01-18T10:13:13.830487+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/" rel="alternate"/>
-    <published>2024-01-18T10:13:13.830487+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-geben-wissen-weiter</id>
