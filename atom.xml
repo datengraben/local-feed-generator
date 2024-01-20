@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-19T15:12:55.410675+00:00</updated>
+  <updated>2024-01-20T00:54:48.740294+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -470,6 +470,39 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_8952_1.PDF?1705565651" rel="alternate"/>
     <published>2020-11-30T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_8940_1.PDF?1705483532</id>
+    <title>Freigabe der Öffnung von Verkaufsstellen (§ 6 HLöG) - Sport in der City</title>
+    <updated>2024-01-20T00:54:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8940_1.PDF?1705483532" rel="alternate"/>
+    <published>2024-01-20T00:54:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_8939_1.PDF?1705483391</id>
+    <title>Einleitung und Unterrichtung des Öffentlichkeit zur 2. vorhabensbezogenen Änderung Bebauungsplan KL 09/05 "Waldweide"</title>
+    <updated>2024-01-20T00:54:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8939_1.PDF?1705483391" rel="alternate"/>
+    <published>2024-01-20T00:54:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_8927_1.PDF?1705411356</id>
+    <title>Nachruf Hanno Müller</title>
+    <updated>2024-01-20T00:54:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8927_1.PDF?1705411356" rel="alternate"/>
+    <published>2024-01-20T00:54:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/</id>
