@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-23T12:22:45.117778+00:00</updated>
+  <updated>2024-01-23T23:13:50.394346+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -395,39 +395,6 @@
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_8809_1.PDF?1703232967</id>
-    <title>Erneute Offenlage Bebauungsplan Nr. G 70 Eisteich, 2. Änderung</title>
-    <updated>2023-12-23T00:51:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8809_1.PDF?1703232967" rel="alternate"/>
-    <published>2023-12-23T00:51:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_8816_1.PDF?1703241762</id>
-    <title>3. Satzung zur Änderung der Wasserversorgungssatzung</title>
-    <updated>2023-12-23T00:51:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8816_1.PDF?1703241762" rel="alternate"/>
-    <published>2023-12-23T00:51:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_8815_1.PDF?1703240691</id>
-    <title>2. Satzung zur Änderung der Satzung über den Gießen-Pass</title>
-    <updated>2023-12-23T00:51:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8815_1.PDF?1703240691" rel="alternate"/>
-    <published>2023-12-23T00:51:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_8851_1.PDF?1704701001</id>
     <title>Der Magistrat der Universitätsstadt Gießen bittet um Vorschläge für die Verleihung der Hedwig-Burgheim-Medaille</title>
     <updated>2024-01-09T00:55:00+01:00</updated>
@@ -496,13 +463,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/preview-konzert-der-atem-der-berliner-1920er/</id>
     <title>Preview-Konzert: Der Atem der Berliner 1920er - Kurz vor dem nächsten Preview-Konzert gibt Dirigent Andreas ...</title>
-    <updated>2024-01-23T12:22:34.148047+01:00</updated>
+    <updated>2024-01-23T12:22:34+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/preview-konzert-der-atem-der-berliner-1920er/" rel="alternate"/>
-    <published>2024-01-23T12:22:34.148047+01:00</published>
+    <published>2024-01-23T12:22:34+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/neu-einfach-singen-fur-familien/</id>
