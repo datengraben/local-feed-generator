@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-24T12:23:12.284959+00:00</updated>
+  <updated>2024-01-25T16:15:47.654722+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -461,17 +461,6 @@
     <published>2024-01-20T00:54:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zonta-sagt-nein-zu-gewalt-gegen-frauen/</id>
-    <title>Absacker &amp; Diskussion zum "Orange Day" am 25. November - Am Internationalen Tag gegen Gewalt an Frauen diskutieren Sc...</title>
-    <updated>2023-11-01T19:29:25+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zonta-sagt-nein-zu-gewalt-gegen-frauen/" rel="alternate"/>
-    <published>2023-11-01T19:29:25+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/tanz-erzahlen/</id>
     <title>Tanz erzählen - Das Team von „Ghosts – Geister“ über künstlerische Audiodesk...</title>
     <updated>2023-11-14T22:18:26+01:00</updated>
@@ -529,24 +518,35 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wir-konnen-alles-sein/</id>
     <title>Wir können alles sein! - Mezzosopran heißt die Frauenstimmlage zwischen Sopran und Al...</title>
-    <updated>2024-01-24T12:23:04.141015+01:00</updated>
+    <updated>2024-01-24T12:23:04+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-konnen-alles-sein/" rel="alternate"/>
-    <published>2024-01-24T12:23:04.141015+01:00</published>
+    <published>2024-01-24T12:23:04+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/</id>
+    <title>Nie wieder ist jetzt! - Rechte Gewalt gestern und heute | Doppelabend mit „Der Staat...</title>
+    <updated>2024-01-25T16:15:39.065494+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/" rel="alternate"/>
+    <published>2024-01-25T16:15:39.065494+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/mit-freude-auf-risiko-gehen/</id>
     <title>Mit Freude auf Risiko gehen - Ein Porträt über Asia Safikhanova, Soloflötistin im Philharm...</title>
-    <updated>2024-01-24T12:23:04.141015+01:00</updated>
+    <updated>2024-01-24T12:23:04+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/mit-freude-auf-risiko-gehen/" rel="alternate"/>
-    <published>2024-01-24T12:23:04.141015+01:00</published>
+    <published>2024-01-24T12:23:04+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
