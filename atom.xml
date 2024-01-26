@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-25T16:15:47.654722+00:00</updated>
+  <updated>2024-01-26T18:14:09.391941+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -529,13 +529,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/</id>
     <title>Nie wieder ist jetzt! - Rechte Gewalt gestern und heute | Doppelabend mit „Der Staat...</title>
-    <updated>2024-01-25T16:15:39.065494+01:00</updated>
+    <updated>2024-01-25T16:15:39+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/" rel="alternate"/>
-    <published>2024-01-25T16:15:39.065494+01:00</published>
+    <published>2024-01-25T16:15:39+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/mit-freude-auf-risiko-gehen/</id>
@@ -550,7 +550,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 26.01. - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
+    <title>Theatertag am 17.02. - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
     <updated>2023-12-15T17:11:05+01:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -943,126 +943,5 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Fluss-mit-Flair-findet-auch-2024-wieder-statt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-12-22T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/neuigkeiten/unsere-boygroup-ist-unterwegs/</id>
-    <title>Unsere „Boygroup“ ist unterwegs!</title>
-    <updated>2022-12-14T00:00:00+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/neuigkeiten/unsere-boygroup-ist-unterwegs/" rel="alternate"/>
-    <published>2022-12-14T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/neuigkeiten/der-weihnachtsgruss-2022/</id>
-    <title>Der Weihnachtsgruß 2022</title>
-    <updated>2022-12-22T00:00:00+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/neuigkeiten/der-weihnachtsgruss-2022/" rel="alternate"/>
-    <published>2022-12-22T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/veranstaltung/supp-un-schwaetze-mit-der-werkstattkirche/</id>
-    <title>Supp‘ un‘ Schwätze‘ mit der Werkstattkirche</title>
-    <updated>2023-01-06T00:00:00+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/veranstaltung/supp-un-schwaetze-mit-der-werkstattkirche/" rel="alternate"/>
-    <published>2023-01-06T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/veranstaltung/werkstattkirche-im-jokus-18-juni-2023/</id>
-    <title>Werkstattkirche im Jokus 18. Juni 2023</title>
-    <updated>2023-06-04T00:00:00+02:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/veranstaltung/werkstattkirche-im-jokus-18-juni-2023/" rel="alternate"/>
-    <published>2023-06-04T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/veranstaltung/supp-un-schwaetze-am-23-juli/</id>
-    <title>Supp‘ un‘ Schwätze am 23. Juli</title>
-    <updated>2023-07-20T00:00:00+02:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/veranstaltung/supp-un-schwaetze-am-23-juli/" rel="alternate"/>
-    <published>2023-07-20T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/veranstaltung/pop-up-store-mit-der-werkstattkirche/</id>
-    <title>Pop-Up Store mit der Werkstattkirche</title>
-    <updated>2023-10-28T00:00:00+02:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/veranstaltung/pop-up-store-mit-der-werkstattkirche/" rel="alternate"/>
-    <published>2023-10-28T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/presse/blues-gottesdienst-in-kulturkirche-st-thomas-morus/</id>
-    <title>Blues Gottesdienst in Kulturkirche St. Thomas Morus</title>
-    <updated>2023-11-09T09:22:00+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/presse/blues-gottesdienst-in-kulturkirche-st-thomas-morus/" rel="alternate"/>
-    <published>2023-11-09T09:22:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/veranstaltung/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
-    <title>Supp‘ un‘ Schwätze Unterwegs durch die Nordstadt</title>
-    <updated>2023-11-11T09:22:00+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/veranstaltung/supp-un-schwaetze-unterwegs-durch-die-nordstadt/" rel="alternate"/>
-    <published>2023-11-11T09:22:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/veranstaltung/fachtag-an-der-jlu-kunststoff-reduzieren/</id>
-    <title>Fachtag an der JLU: Kunststoff reduzieren</title>
-    <updated>2023-11-29T00:00:00+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/veranstaltung/fachtag-an-der-jlu-kunststoff-reduzieren/" rel="alternate"/>
-    <published>2023-11-29T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/veranstaltung/adventssingen-2023/</id>
-    <title>Adventssingen 2023</title>
-    <updated>2023-12-04T09:12:00+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/veranstaltung/adventssingen-2023/" rel="alternate"/>
-    <published>2023-12-04T09:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/veranstaltung/adventssingen-2023/</id>
-    <title>Adventssingen 2023</title>
-    <updated>2023-12-04T09:12:00+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/veranstaltung/adventssingen-2023/" rel="alternate"/>
-    <published>2023-12-04T09:12:00+01:00</published>
   </entry>
 </feed>
