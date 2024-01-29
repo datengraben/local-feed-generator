@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-27T00:51:37.023782+00:00</updated>
+  <updated>2024-01-29T15:11:23.491273+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -428,6 +428,17 @@
     <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_8940_1.PDF?1705483532</id>
+    <title>Freigabe der Öffnung von Verkaufsstellen (§ 6 HLöG) - Sport in der City</title>
+    <updated>2024-01-20T00:54:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8940_1.PDF?1705483532" rel="alternate"/>
+    <published>2024-01-20T00:54:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_8939_1.PDF?1705483391</id>
     <title>Einleitung und Unterrichtung des Öffentlichkeit zur 2. vorhabensbezogenen Änderung Bebauungsplan KL 09/05 "Waldweide"</title>
     <updated>2024-01-20T00:54:00+01:00</updated>
@@ -447,17 +458,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_8927_1.PDF?1705411356" rel="alternate"/>
-    <published>2024-01-20T00:54:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_8940_1.PDF?1705483532</id>
-    <title>Freigabe der Öffnung von Verkaufsstellen (§ 6 HLöG) - Sport in der City</title>
-    <updated>2024-01-20T00:54:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8940_1.PDF?1705483532" rel="alternate"/>
     <published>2024-01-20T00:54:00+01:00</published>
   </entry>
   <entry>
@@ -788,17 +788,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-nimmt-Stellung-zum-Aus-f%C3%BCr-den-Gie%C3%9Fener-Verkehrsversuch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-08-31T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsversuch-Verkehrsbeschilderung-hat-weiter-G%C3%BCltigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61091.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verkehrsversuch: Verkehrsbeschilderung hat weiter Gültigkeit</title>
-    <updated>2023-08-31T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsversuch-Verkehrsbeschilderung-hat-weiter-G%C3%BCltigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61091.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-08-31T00:00:00+02:00</published>
   </entry>
   <entry>
