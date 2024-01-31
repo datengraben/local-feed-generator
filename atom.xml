@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-01-29T15:11:23.491273+00:00</updated>
+  <updated>2024-01-31T15:11:30.353497+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -791,17 +791,6 @@
     <published>2023-08-31T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Programm-der-Volkshochschule-Gie%C3%9Fen-Analog-und-digital-in-Einem.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61121.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neues Programm der Volkshochschule Gießen: Analog und digital in Einem</title>
-    <updated>2023-09-05T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Programm-der-Volkshochschule-Gie%C3%9Fen-Analog-und-digital-in-Einem.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61121.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-09-05T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/neue-Herbst-Winter-Programm-des-Jugendbildungswerkes.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.61126.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Neues Herbst-Winter-Programm des JBW: Von der ersten Wohnung über Fußball bis zur EU</title>
     <updated>2023-09-06T00:00:00+02:00</updated>
@@ -846,17 +835,6 @@
     <published>2023-11-06T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freier-Anlagenring-kostenfreies-Parken-und-Busfahren-Events-Die-Planungen-der-Stadt-in-der-Vorweihnachtszeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62874.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Freier Anlagenring - kostenfreies Parken und Busfahren - Events: Planungen der Stadt in der Vorweihnachtszeit</title>
-    <updated>2023-11-14T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freier-Anlagenring-kostenfreies-Parken-und-Busfahren-Events-Die-Planungen-der-Stadt-in-der-Vorweihnachtszeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62874.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-11-14T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Update-R%C3%BCckbau-des-Verkehrsversuchs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62435.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Der Rückbau des Verkehrsversuchs im Ticker</title>
     <updated>2023-11-25T00:00:00+01:00</updated>
@@ -888,17 +866,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Adventsgewinnspiel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63580.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
     <published>2023-12-10T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Perspektiven-zugewanderte-Frauen-erhalten-Zertifikat.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63614.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neue Perspektiven: zugewanderte Frauen erhalten Zertifikat</title>
-    <updated>2023-12-14T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Perspektiven-zugewanderte-Frauen-erhalten-Zertifikat.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63614.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2023-12-14T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-CarSharing-Stellpl%C3%A4tze-nun-verf%C3%BCgbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63661.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
