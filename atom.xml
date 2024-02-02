@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-01T15:11:11.794761+00:00</updated>
+  <updated>2024-02-02T15:12:05.753911+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -472,17 +472,6 @@
     <published>2024-01-27T00:51:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/nunca-mas-nie-wieder/</id>
-    <title>Nunca Más!- Nie wieder! - Begleitend zum Schauspiel „Mädchenschule“ am 2. Dezember inf...</title>
-    <updated>2023-11-20T09:23:20+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nunca-mas-nie-wieder/" rel="alternate"/>
-    <published>2023-11-20T09:23:20+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/</id>
     <title>Liebes Publikum! - Kann es eine angemessene – oder gar richtige – Reaktion des ...</title>
     <updated>2023-10-26T14:28:55+02:00</updated>
@@ -527,6 +516,17 @@
     <published>2024-01-24T12:23:04+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/</id>
+    <title>Liebes Publikum - Unter der Überschrift „Nie wieder ist jetzt“ ein Zeichen set...</title>
+    <updated>2024-01-19T12:22:23+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/" rel="alternate"/>
+    <published>2024-01-19T12:22:23+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/</id>
     <title>Nie wieder ist jetzt! - Rechte Gewalt gestern und heute | Doppelabend mit „Der Staat...</title>
     <updated>2024-01-25T16:15:39+01:00</updated>
@@ -551,13 +551,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/erinnerungsstucke/</id>
     <title>Erinnerungsstücke - Eine Fotoausstellung anlässlich der Neuproduktion „Xerxes“...</title>
-    <updated>2024-02-01T15:10:57.540391+01:00</updated>
+    <updated>2024-02-01T15:10:57+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/erinnerungsstucke/" rel="alternate"/>
-    <published>2024-02-01T15:10:57.540391+01:00</published>
+    <published>2024-02-01T15:10:57+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
@@ -571,15 +571,15 @@
     <published>2023-12-15T17:11:05+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/</id>
-    <title>Liebes Publikum - Unter der Überschrift „Nie wieder ist jetzt“ ein Zeichen set...</title>
-    <updated>2024-01-19T12:22:23+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/</id>
+    <title>Liebes Publikum - Warum Menschlichkeit und Wachsamkeit gerade jetzt besonders ...</title>
+    <updated>2024-02-02T15:11:53.803299+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/" rel="alternate"/>
-    <published>2024-01-19T12:22:23+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/" rel="alternate"/>
+    <published>2024-02-02T15:11:53.803299+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-geben-wissen-weiter</id>
