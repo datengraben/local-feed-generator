@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-02T15:12:05.753911+00:00</updated>
+  <updated>2024-02-03T23:11:29.811988+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -450,17 +450,6 @@
     <published>2024-01-20T00:54:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_8927_1.PDF?1705411356</id>
-    <title>Nachruf Hanno Müller</title>
-    <updated>2024-01-20T00:54:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8927_1.PDF?1705411356" rel="alternate"/>
-    <published>2024-01-20T00:54:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_9002_1.PDF?1706263355</id>
     <title>Erneute, eingeschränkte Offenlage des geänderten Entwurfs Bebauungsplan GI 03/17 Ehemaliges Motorpool-Gelände</title>
     <updated>2024-01-27T00:51:00+01:00</updated>
@@ -573,13 +562,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/</id>
     <title>Liebes Publikum - Warum Menschlichkeit und Wachsamkeit gerade jetzt besonders ...</title>
-    <updated>2024-02-02T15:11:53.803299+01:00</updated>
+    <updated>2024-02-02T15:11:53+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/" rel="alternate"/>
-    <published>2024-02-02T15:11:53.803299+01:00</published>
+    <published>2024-02-02T15:11:53+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-geben-wissen-weiter</id>
