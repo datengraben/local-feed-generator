@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-06T15:11:39.205794+00:00</updated>
+  <updated>2024-02-09T23:11:39.335297+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -395,17 +395,6 @@
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_8851_1.PDF?1704701001</id>
-    <title>Der Magistrat der Universitätsstadt Gießen bittet um Vorschläge für die Verleihung der Hedwig-Burgheim-Medaille</title>
-    <updated>2024-01-09T00:55:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8851_1.PDF?1704701001" rel="alternate"/>
-    <published>2024-01-09T00:55:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_8870_1.PDF?1705059409</id>
     <title>Einleitungsbeschluss und frühzeitige Beteiligung zum Bebauungsplan WI 06/11 "Sportzentrum Wieseck am Ried"</title>
     <updated>2024-01-13T00:54:00+01:00</updated>
@@ -428,17 +417,6 @@
     <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_8940_1.PDF?1705483532</id>
-    <title>Freigabe der Öffnung von Verkaufsstellen (§ 6 HLöG) - Sport in der City</title>
-    <updated>2024-01-20T00:54:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8940_1.PDF?1705483532" rel="alternate"/>
-    <published>2024-01-20T00:54:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_8939_1.PDF?1705483391</id>
     <title>Einleitung und Unterrichtung des Öffentlichkeit zur 2. vorhabensbezogenen Änderung Bebauungsplan KL 09/05 "Waldweide"</title>
     <updated>2024-01-20T00:54:00+01:00</updated>
@@ -447,6 +425,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_8939_1.PDF?1705483391" rel="alternate"/>
+    <published>2024-01-20T00:54:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_8940_1.PDF?1705483532</id>
+    <title>Freigabe der Öffnung von Verkaufsstellen (§ 6 HLöG) - Sport in der City</title>
+    <updated>2024-01-20T00:54:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8940_1.PDF?1705483532" rel="alternate"/>
     <published>2024-01-20T00:54:00+01:00</published>
   </entry>
   <entry>
@@ -494,17 +483,6 @@
     <published>2023-12-05T08:52:35+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wir-konnen-alles-sein/</id>
-    <title>Wir können alles sein! - Mezzosopran heißt die Frauenstimmlage zwischen Sopran und Al...</title>
-    <updated>2024-01-24T12:23:04+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-konnen-alles-sein/" rel="alternate"/>
-    <published>2024-01-24T12:23:04+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/</id>
     <title>Liebes Publikum - Unter der Überschrift „Nie wieder ist jetzt“ ein Zeichen set...</title>
     <updated>2024-01-19T12:22:23+01:00</updated>
@@ -535,6 +513,17 @@
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/mit-freude-auf-risiko-gehen/" rel="alternate"/>
+    <published>2024-01-24T12:23:04+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wir-konnen-alles-sein/</id>
+    <title>Wir können alles sein! - Mezzosopran heißt die Frauenstimmlage zwischen Sopran und Al...</title>
+    <updated>2024-01-24T12:23:04+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-konnen-alles-sein/" rel="alternate"/>
     <published>2024-01-24T12:23:04+01:00</published>
   </entry>
   <entry>
