@@ -2,6 +2,8 @@
 
 The result of this program is a rss feed, which you can retrieve from this URL: https://raw.githubusercontent.com/datengraben/local-feed-generator/master/atom.xml
 
+It uses a technique wich was popularized by [Simon Willison](https://simonwillison.net/2020/Oct/9/git-scraping/) in 2020.
+
 ## Rationale
 
 Todays websites don't rely on RSS feeds that much as in the 90s or 00s.
