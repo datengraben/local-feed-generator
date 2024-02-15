@@ -148,7 +148,7 @@ all_posts += general_scraper(url,
 # - [x] fertig
 #
 
-url = 'https://www.swg-konzern.de/presse/archiv/jahr/2023'
+url = 'https://www.swg-konzern.de/presse/archiv/jahr/{}'.format(year)
 all_posts += general_scraper(url,
         lambda body: list(map(lambda x:
          {
