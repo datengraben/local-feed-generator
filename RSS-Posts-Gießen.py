@@ -127,7 +127,7 @@ all_posts += general_scraper(POSTS,
 # Gießen.de
 # - [x] fertig
 
-year = 2023
+year = datetime.date.today().year
 url = 'https://www.giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/index.php?ModID=255&object=tx%2C2874.5.1&La=1&NavID=1894.87&text=&kat=8.51&jahr={}&startkat=2874.229'.format(year)
 all_posts += general_scraper(url,
         lambda body: map(lambda x: {
