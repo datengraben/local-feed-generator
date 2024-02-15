@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-15T01:44:11.420210+00:00</updated>
+  <updated>2024-02-15T15:12:00.110813+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
@@ -117,17 +117,6 @@
     <published>2023-11-23T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>https://universum-giessen.com/2022/10/27/universum-testet-pizza/</id>
-    <title>Universum testet – Pizza</title>
-    <updated>2022-10-27T10:59:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2022/10/27/universum-testet-pizza/" rel="alternate"/>
-    <published>2022-10-27T10:59:00+02:00</published>
-  </entry>
-  <entry>
     <id>https://universum-giessen.com/2022/11/02/giessen-im-visier-innenstadt/</id>
     <title>Gießen im Visier – Innenstadt</title>
     <updated>2022-11-02T10:59:00+01:00</updated>
@@ -225,6 +214,17 @@
     </author>
     <link href="https://universum-giessen.com/2023/10/26/geschichten-mit-bildern-erzaehlen-einblick-in-den-fotojournalismus/" rel="alternate"/>
     <published>2023-10-26T14:03:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2024/02/15/magie-in-giessen-zu-gast-auf-dem-hokus-pokus-festival/</id>
+    <title>Magie in Gießen – Zu Gast auf dem „Hokus-Pokus“ Festival</title>
+    <updated>2024-02-15T15:11:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2024/02/15/magie-in-giessen-zu-gast-auf-dem-hokus-pokus-festival/" rel="alternate"/>
+    <published>2024-02-15T15:11:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Trinkbrunnen-sprudeln-wieder.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.58274.1&amp;NavID=2874.584&amp;La=1</id>
