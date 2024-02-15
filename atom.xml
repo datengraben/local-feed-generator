@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-13T23:11:23.097751+00:00</updated>
+  <updated>2024-02-15T01:44:11.420210+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.asta-giessen.de/8151-2/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2023-04-26T00:00:00+02:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/8151-2/" rel="alternate"/>
-    <published>2023-04-26T00:00:00+02:00</published>
-  </entry>
   <entry>
     <id>https://www.asta-giessen.de/8154-2/</id>
     <title>Neuer Beitrag</title>
@@ -115,6 +104,17 @@
     </author>
     <link href="https://www.asta-giessen.de/8434-2/" rel="alternate"/>
     <published>2023-10-16T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/resolution_kfw_schuldenfalle/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-11-23T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/resolution_kfw_schuldenfalle/" rel="alternate"/>
+    <published>2023-11-23T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>https://universum-giessen.com/2022/10/27/universum-testet-pizza/</id>
