@@ -1,5 +1,9 @@
 # Scraping websites that don't have RSS
 
+The result of this program is a rss feed, which you can retrieve from this URL: https://raw.githubusercontent.com/datengraben/local-feed-generator/master/atom.xml
+
+## Rationale
+
 Todays websites don't rely on RSS feeds that much as in the 90s or 00s.
 So for checking if any recent content was published on a website, you have 
 to manually check a website. Here I wan't to explore the most convenient way,
