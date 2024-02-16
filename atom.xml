@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-15T15:34:48.929717+00:00</updated>
+  <updated>2024-02-16T12:21:08.653330+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
-  <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
+  <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://www.asta-giessen.de/8154-2/</id>
     <title>Neuer Beitrag</title>
@@ -14,7 +14,7 @@
       <name>Asta - Uni Gießen</name>
       <email>info@asta-giessen.de</email>
     </author>
-    <link href="https://www.asta-giessen.de/8154-2/" rel="alternate"/>
+    <link href="https://www.asta-giessen.de/8154-2/"/>
     <published>2023-04-26T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -25,7 +25,7 @@
       <name>Asta - Uni Gießen</name>
       <email>info@asta-giessen.de</email>
     </author>
-    <link href="https://www.asta-giessen.de/8194-2/" rel="alternate"/>
+    <link href="https://www.asta-giessen.de/8194-2/"/>
     <published>2023-06-12T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -36,7 +36,7 @@
       <name>Asta - Uni Gießen</name>
       <email>info@asta-giessen.de</email>
     </author>
-    <link href="https://www.asta-giessen.de/8239-2/" rel="alternate"/>
+    <link href="https://www.asta-giessen.de/8239-2/"/>
     <published>2023-06-21T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -47,7 +47,7 @@
       <name>Asta - Uni Gießen</name>
       <email>info@asta-giessen.de</email>
     </author>
-    <link href="https://www.asta-giessen.de/semesterticket_upgrade/" rel="alternate"/>
+    <link href="https://www.asta-giessen.de/semesterticket_upgrade/"/>
     <published>2023-06-27T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -58,7 +58,7 @@
       <name>Asta - Uni Gießen</name>
       <email>info@asta-giessen.de</email>
     </author>
-    <link href="https://www.asta-giessen.de/8315-2/" rel="alternate"/>
+    <link href="https://www.asta-giessen.de/8315-2/"/>
     <published>2023-07-21T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -69,7 +69,7 @@
       <name>Asta - Uni Gießen</name>
       <email>info@asta-giessen.de</email>
     </author>
-    <link href="https://www.asta-giessen.de/8328-2/" rel="alternate"/>
+    <link href="https://www.asta-giessen.de/8328-2/"/>
     <published>2023-07-27T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -80,7 +80,7 @@
       <name>Asta - Uni Gießen</name>
       <email>info@asta-giessen.de</email>
     </author>
-    <link href="https://www.asta-giessen.de/8390-2/" rel="alternate"/>
+    <link href="https://www.asta-giessen.de/8390-2/"/>
     <published>2023-10-04T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -91,7 +91,7 @@
       <name>Asta - Uni Gießen</name>
       <email>info@asta-giessen.de</email>
     </author>
-    <link href="https://www.asta-giessen.de/8419-2/" rel="alternate"/>
+    <link href="https://www.asta-giessen.de/8419-2/"/>
     <published>2023-10-14T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -102,7 +102,7 @@
       <name>Asta - Uni Gießen</name>
       <email>info@asta-giessen.de</email>
     </author>
-    <link href="https://www.asta-giessen.de/8434-2/" rel="alternate"/>
+    <link href="https://www.asta-giessen.de/8434-2/"/>
     <published>2023-10-16T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -113,7 +113,7 @@
       <name>Asta - Uni Gießen</name>
       <email>info@asta-giessen.de</email>
     </author>
-    <link href="https://www.asta-giessen.de/resolution_kfw_schuldenfalle/" rel="alternate"/>
+    <link href="https://www.asta-giessen.de/resolution_kfw_schuldenfalle/"/>
     <published>2023-11-23T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -124,7 +124,7 @@
       <name>Universum - Onlinemagazin der JLU</name>
       <email>universum.giessen@gmail.com</email>
     </author>
-    <link href="https://universum-giessen.com/2022/11/02/giessen-im-visier-innenstadt/" rel="alternate"/>
+    <link href="https://universum-giessen.com/2022/11/02/giessen-im-visier-innenstadt/"/>
     <published>2022-11-02T10:59:00+01:00</published>
   </entry>
   <entry>
@@ -135,7 +135,7 @@
       <name>Universum - Onlinemagazin der JLU</name>
       <email>universum.giessen@gmail.com</email>
     </author>
-    <link href="https://universum-giessen.com/2022/11/09/fernsehen-selber-machen/" rel="alternate"/>
+    <link href="https://universum-giessen.com/2022/11/09/fernsehen-selber-machen/"/>
     <published>2022-11-09T10:59:00+01:00</published>
   </entry>
   <entry>
@@ -146,7 +146,7 @@
       <name>Universum - Onlinemagazin der JLU</name>
       <email>universum.giessen@gmail.com</email>
     </author>
-    <link href="https://universum-giessen.com/2022/11/16/giessen-im-visier-giessener-charme/" rel="alternate"/>
+    <link href="https://universum-giessen.com/2022/11/16/giessen-im-visier-giessener-charme/"/>
     <published>2022-11-16T10:59:00+01:00</published>
   </entry>
   <entry>
@@ -157,7 +157,7 @@
       <name>Universum - Onlinemagazin der JLU</name>
       <email>universum.giessen@gmail.com</email>
     </author>
-    <link href="https://universum-giessen.com/2022/12/17/konsum-ohne-kontaktverlust-das-konzept-der-solawi/" rel="alternate"/>
+    <link href="https://universum-giessen.com/2022/12/17/konsum-ohne-kontaktverlust-das-konzept-der-solawi/"/>
     <published>2022-12-17T10:59:00+01:00</published>
   </entry>
   <entry>
@@ -168,7 +168,7 @@
       <name>Universum - Onlinemagazin der JLU</name>
       <email>universum.giessen@gmail.com</email>
     </author>
-    <link href="https://universum-giessen.com/2023/01/18/universum-testet-abendmensa/" rel="alternate"/>
+    <link href="https://universum-giessen.com/2023/01/18/universum-testet-abendmensa/"/>
     <published>2023-01-18T10:59:00+01:00</published>
   </entry>
   <entry>
@@ -179,7 +179,7 @@
       <name>Universum - Onlinemagazin der JLU</name>
       <email>universum.giessen@gmail.com</email>
     </author>
-    <link href="https://universum-giessen.com/2023/02/15/was-tun-wenn-es-nicht-rund-laeuft-die-psychologische-beratungsstelle-an-der-jlu/" rel="alternate"/>
+    <link href="https://universum-giessen.com/2023/02/15/was-tun-wenn-es-nicht-rund-laeuft-die-psychologische-beratungsstelle-an-der-jlu/"/>
     <published>2023-02-15T10:59:00+01:00</published>
   </entry>
   <entry>
@@ -190,7 +190,7 @@
       <name>Universum - Onlinemagazin der JLU</name>
       <email>universum.giessen@gmail.com</email>
     </author>
-    <link href="https://universum-giessen.com/2023/06/23/was-geht-giessen/" rel="alternate"/>
+    <link href="https://universum-giessen.com/2023/06/23/was-geht-giessen/"/>
     <published>2023-06-23T10:59:00+02:00</published>
   </entry>
   <entry>
@@ -201,7 +201,7 @@
       <name>Universum - Onlinemagazin der JLU</name>
       <email>universum.giessen@gmail.com</email>
     </author>
-    <link href="https://universum-giessen.com/2023/07/31/gibts-den-auch-in-vegan-fleischlose-alternativen-im-doenerdreieck/" rel="alternate"/>
+    <link href="https://universum-giessen.com/2023/07/31/gibts-den-auch-in-vegan-fleischlose-alternativen-im-doenerdreieck/"/>
     <published>2023-07-31T10:59:00+02:00</published>
   </entry>
   <entry>
@@ -212,7 +212,7 @@
       <name>Universum - Onlinemagazin der JLU</name>
       <email>universum.giessen@gmail.com</email>
     </author>
-    <link href="https://universum-giessen.com/2023/10/26/geschichten-mit-bildern-erzaehlen-einblick-in-den-fotojournalismus/" rel="alternate"/>
+    <link href="https://universum-giessen.com/2023/10/26/geschichten-mit-bildern-erzaehlen-einblick-in-den-fotojournalismus/"/>
     <published>2023-10-26T14:03:00+02:00</published>
   </entry>
   <entry>
@@ -223,7 +223,7 @@
       <name>Universum - Onlinemagazin der JLU</name>
       <email>universum.giessen@gmail.com</email>
     </author>
-    <link href="https://universum-giessen.com/2024/02/15/magie-in-giessen-zu-gast-auf-dem-hokus-pokus-festival/" rel="alternate"/>
+    <link href="https://universum-giessen.com/2024/02/15/magie-in-giessen-zu-gast-auf-dem-hokus-pokus-festival/"/>
     <published>2024-02-15T15:11:00+01:00</published>
   </entry>
   <entry>
@@ -233,7 +233,7 @@
     <author>
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Trinkbrunnen-sprudeln-wieder.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.58274.1&amp;NavID=2874.584&amp;La=1" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Trinkbrunnen-sprudeln-wieder.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.58274.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2023-04-24T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -243,7 +243,7 @@
     <author>
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hohe-Vegetationsbrandgefahr-durch-Trockenheit.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60445.1&amp;NavID=2874.584&amp;La=1" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hohe-Vegetationsbrandgefahr-durch-Trockenheit.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60445.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2023-06-14T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -253,7 +253,7 @@
     <author>
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hitzeaktionstag-der-Deutsche-Wetterdienst-informiert-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60477.1&amp;NavID=2874.584&amp;La=1" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hitzeaktionstag-der-Deutsche-Wetterdienst-informiert-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60477.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2023-06-15T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -263,7 +263,7 @@
     <author>
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hitzetipp-K%C3%BChl-durch-den-Sommer-auch-ohne-Klimaanlage.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.18828.1&amp;NavID=2874.584&amp;La=1" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hitzetipp-K%C3%BChl-durch-den-Sommer-auch-ohne-Klimaanlage.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.18828.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2023-06-26T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -273,7 +273,7 @@
     <author>
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Fl%C3%A4chenbrand-im-Bereich-des-Campus-der-Naturwissenschaften.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60676.1&amp;NavID=2874.584&amp;La=1" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Fl%C3%A4chenbrand-im-Bereich-des-Campus-der-Naturwissenschaften.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60676.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2023-07-07T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -283,7 +283,7 @@
     <author>
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/-CoolerStadtplan-mit-neuen-B%C3%BCrger-Oasen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60723.1&amp;NavID=2874.584&amp;La=1" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/-CoolerStadtplan-mit-neuen-B%C3%BCrger-Oasen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60723.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2023-07-13T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -293,7 +293,7 @@
     <author>
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Haus-und-Wildtiere-vor-der-Hitze-sch%C3%BCtzen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60735.1&amp;NavID=2874.584&amp;La=1" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Haus-und-Wildtiere-vor-der-Hitze-sch%C3%BCtzen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60735.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2023-07-17T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -303,7 +303,7 @@
     <author>
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Entspannte-Pegelst%C3%A4nde-Landkreis-hebt-Verbot-der-Wasserentnahme-auf.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.61034.1&amp;NavID=2874.584&amp;La=1" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Entspannte-Pegelst%C3%A4nde-Landkreis-hebt-Verbot-der-Wasserentnahme-auf.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.61034.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2023-08-18T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -314,7 +314,7 @@
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Leib-sches-Haus-schlie%C3%9Ft-bis-voraussichtlich-Sommer-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.12511.1&amp;NavID=1894.209&amp;La=1&amp;call=suche" rel="alternate"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Leib-sches-Haus-schlie%C3%9Ft-bis-voraussichtlich-Sommer-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.12511.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2021-07-16T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -325,7 +325,7 @@
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Neue-Kabinettausstellung-im-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.13395.1&amp;NavID=1894.209&amp;La=1&amp;call=suche" rel="alternate"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Neue-Kabinettausstellung-im-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.13395.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2021-10-14T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -336,7 +336,7 @@
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Wegen-Umbau-des-Oberhessischen-Museums-schlie%C3%9Ft-auch-das-Wallenfels-sche-Haus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16033.1&amp;NavID=1894.209&amp;La=1&amp;call=suche" rel="alternate"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Wegen-Umbau-des-Oberhessischen-Museums-schlie%C3%9Ft-auch-das-Wallenfels-sche-Haus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16033.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2022-01-17T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -347,7 +347,7 @@
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Oberhessisches-Museum-wird-Teil-von-museum4punkt0.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.17729.1&amp;NavID=1894.209&amp;La=1&amp;call=suche" rel="alternate"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Oberhessisches-Museum-wird-Teil-von-museum4punkt0.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.17729.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2022-05-02T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -358,7 +358,7 @@
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche" rel="alternate"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2023-04-14T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -369,7 +369,7 @@
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/museum4punkt0-vor-erfolgreichem-Abschluss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58346.1&amp;NavID=1894.209&amp;La=1&amp;call=suche" rel="alternate"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/museum4punkt0-vor-erfolgreichem-Abschluss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58346.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2023-05-04T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -380,7 +380,7 @@
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/1975-Revisited-Gie%C3%9Fen-und-das-Jahr-der-Frau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58347.1&amp;NavID=1894.209&amp;La=1&amp;call=suche" rel="alternate"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/1975-Revisited-Gie%C3%9Fen-und-das-Jahr-der-Frau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58347.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2023-05-04T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -391,7 +391,7 @@
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche" rel="alternate"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -402,7 +402,7 @@
       <name>Stadt - Amtliche Bekanntmachungen</name>
       <email>presse@giessen.de</email>
     </author>
-    <link href="http://giessen.de/media/custom/2874_8952_1.PDF?1705565651" rel="alternate"/>
+    <link href="http://giessen.de/media/custom/2874_8952_1.PDF?1705565651"/>
     <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -413,7 +413,7 @@
       <name>Stadt - Amtliche Bekanntmachungen</name>
       <email>presse@giessen.de</email>
     </author>
-    <link href="http://giessen.de/media/custom/2874_8940_1.PDF?1705483532" rel="alternate"/>
+    <link href="http://giessen.de/media/custom/2874_8940_1.PDF?1705483532"/>
     <published>2024-01-20T00:54:00+01:00</published>
   </entry>
   <entry>
@@ -424,7 +424,7 @@
       <name>Stadt - Amtliche Bekanntmachungen</name>
       <email>presse@giessen.de</email>
     </author>
-    <link href="http://giessen.de/media/custom/2874_8939_1.PDF?1705483391" rel="alternate"/>
+    <link href="http://giessen.de/media/custom/2874_8939_1.PDF?1705483391"/>
     <published>2024-01-20T00:54:00+01:00</published>
   </entry>
   <entry>
@@ -435,7 +435,7 @@
       <name>Stadt - Amtliche Bekanntmachungen</name>
       <email>presse@giessen.de</email>
     </author>
-    <link href="http://giessen.de/media/custom/2874_9002_1.PDF?1706263355" rel="alternate"/>
+    <link href="http://giessen.de/media/custom/2874_9002_1.PDF?1706263355"/>
     <published>2024-01-27T00:51:00+01:00</published>
   </entry>
   <entry>
@@ -446,7 +446,7 @@
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/" rel="alternate"/>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/"/>
     <published>2023-10-26T14:28:55+02:00</published>
   </entry>
   <entry>
@@ -457,7 +457,7 @@
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/faust-preis-fur-thomas-krupa/" rel="alternate"/>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/faust-preis-fur-thomas-krupa/"/>
     <published>2023-12-05T08:52:35+01:00</published>
   </entry>
   <entry>
@@ -468,7 +468,7 @@
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/" rel="alternate"/>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/"/>
     <published>2023-12-05T08:52:35+01:00</published>
   </entry>
   <entry>
@@ -479,7 +479,7 @@
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/" rel="alternate"/>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/"/>
     <published>2024-01-19T12:22:23+01:00</published>
   </entry>
   <entry>
@@ -490,7 +490,7 @@
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/" rel="alternate"/>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/"/>
     <published>2024-01-25T16:15:39+01:00</published>
   </entry>
   <entry>
@@ -501,7 +501,7 @@
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/mit-freude-auf-risiko-gehen/" rel="alternate"/>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/mit-freude-auf-risiko-gehen/"/>
     <published>2024-01-24T12:23:04+01:00</published>
   </entry>
   <entry>
@@ -512,7 +512,7 @@
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-konnen-alles-sein/" rel="alternate"/>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-konnen-alles-sein/"/>
     <published>2024-01-24T12:23:04+01:00</published>
   </entry>
   <entry>
@@ -523,7 +523,7 @@
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/erinnerungsstucke/" rel="alternate"/>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/erinnerungsstucke/"/>
     <published>2024-02-01T15:10:57+01:00</published>
   </entry>
   <entry>
@@ -534,7 +534,7 @@
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/" rel="alternate"/>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
     <published>2023-12-15T17:11:05+01:00</published>
   </entry>
   <entry>
@@ -545,7 +545,7 @@
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/" rel="alternate"/>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/"/>
     <published>2024-02-02T15:11:53+01:00</published>
   </entry>
   <entry>
@@ -556,7 +556,7 @@
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/5000-euro-fuer-den-ambulanten-kinder-und-jugendhospizdienst-giessen" rel="alternate"/>
+    <link href="http://www.swg-konzern.de/presse/detail/news/5000-euro-fuer-den-ambulanten-kinder-und-jugendhospizdienst-giessen"/>
     <published>2024-01-08T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -567,7 +567,7 @@
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-unterstuetzen-bogensportler" rel="alternate"/>
+    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-unterstuetzen-bogensportler"/>
     <published>2024-01-30T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -578,7 +578,7 @@
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/warnstreik-samstagsfahrplan-am-freitag" rel="alternate"/>
+    <link href="http://www.swg-konzern.de/presse/detail/news/warnstreik-samstagsfahrplan-am-freitag"/>
     <published>2024-02-01T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -589,7 +589,7 @@
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/mitbus-setzt-weiter-auf-klimafreundliche-fahrzeugflotte" rel="alternate"/>
+    <link href="http://www.swg-konzern.de/presse/detail/news/mitbus-setzt-weiter-auf-klimafreundliche-fahrzeugflotte"/>
     <published>2024-02-05T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -600,7 +600,7 @@
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/semesterferienfahrplan-eine-woche-frueher" rel="alternate"/>
+    <link href="http://www.swg-konzern.de/presse/detail/news/semesterferienfahrplan-eine-woche-frueher"/>
     <published>2024-02-05T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -611,7 +611,7 @@
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/busverkehr-am-fastnachtssonntag-1" rel="alternate"/>
+    <link href="http://www.swg-konzern.de/presse/detail/news/busverkehr-am-fastnachtssonntag-1"/>
     <published>2024-02-07T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -622,52 +622,8 @@
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-halten-die-strompreise-stabil" rel="alternate"/>
+    <link href="http://www.swg-konzern.de/presse/detail/news/swg-halten-die-strompreise-stabil"/>
     <published>2024-02-09T15:34:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Programm-der-vhs-Gie%C3%9Fen-Anmeldungen-sind-bereits-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neues Programm der vhs Gießen – Anmeldungen sind bereits möglich</title>
-    <updated>2024-01-16T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Programm-der-vhs-Gie%C3%9Fen-Anmeldungen-sind-bereits-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2024-01-16T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-zur-Demo-am-Samstag-%C3%9Cberw%C3%A4ltigendes-Zeichen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63901.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>OB Becher zur Demo am Samstag: Überwältigendes Zeichen</title>
-    <updated>2024-01-22T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-zur-Demo-am-Samstag-%C3%9Cberw%C3%A4ltigendes-Zeichen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63901.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2024-01-22T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-Standort-f%C3%BCr-Zweigbibliothek-der-Justus-Liebig-Universit%C3%A4t.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63903.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neuer Standort für Zweigbibliothek der Justus-Liebig-Universität</title>
-    <updated>2024-01-22T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-Standort-f%C3%BCr-Zweigbibliothek-der-Justus-Liebig-Universit%C3%A4t.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63903.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2024-01-22T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-sucht-Zugteilnehmer-f%C3%BCr-den-Hessentag-in-Pfungstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57077.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadt sucht Zugteilnehmer für den Hessentag in Fritzlar</title>
-    <updated>2024-01-25T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-sucht-Zugteilnehmer-f%C3%BCr-den-Hessentag-in-Pfungstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57077.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
-    <published>2024-01-25T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Pr%C3%A4sidentin-der-Justus-Liebig-Universit%C3%A4t-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63929.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -677,7 +633,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Pr%C3%A4sidentin-der-Justus-Liebig-Universit%C3%A4t-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63929.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Pr%C3%A4sidentin-der-Justus-Liebig-Universit%C3%A4t-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63929.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-01-25T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -688,7 +644,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienprogramm-Angebote-k%C3%B6nnen-eingereicht-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64022.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienprogramm-Angebote-k%C3%B6nnen-eingereicht-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64022.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-01-31T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -699,7 +655,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Partizipation-im-Fokus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64036.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Partizipation-im-Fokus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64036.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-01T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -710,7 +666,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erster-Akademietag-des-Diesterweg-Stipendiums.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64037.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erster-Akademietag-des-Diesterweg-Stipendiums.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64037.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-01T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -721,7 +677,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MIT-BUS-setzt-weiter-auf-klimafreundliche-Fahrzeugflotte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64057.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MIT-BUS-setzt-weiter-auf-klimafreundliche-Fahrzeugflotte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64057.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-05T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -732,7 +688,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-und-Stadt-Gie%C3%9Fen-suchen-Pflegeeltern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-und-Stadt-Gie%C3%9Fen-suchen-Pflegeeltern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-05T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -743,7 +699,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Semesterferienfahrplan-eine-Woche-fr%C3%BCher.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64060.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Semesterferienfahrplan-eine-Woche-fr%C3%BCher.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64060.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-05T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -754,7 +710,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64086.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64086.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-06T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -765,7 +721,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Magistrat-abgesetzt-Narren-%C3%BCbernehmen-die-Stadtregierung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57612.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Magistrat-abgesetzt-Narren-%C3%BCbernehmen-die-Stadtregierung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57612.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-06T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -776,7 +732,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-06T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -787,7 +743,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-idealer-Ausgangspunkt-111-Orte-in-Mittelhessen-die-man-gesehen-haben-muss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64089.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-idealer-Ausgangspunkt-111-Orte-in-Mittelhessen-die-man-gesehen-haben-muss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64089.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-06T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -798,7 +754,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sporthalle-A-der-Herderschule-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sporthalle-A-der-Herderschule-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-08T15:32:00+01:00</published>
   </entry>
   <entry>
@@ -809,7 +765,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-freie-Pl%C3%A4tze-f%C3%BCr-Kurs-Gewalt-Sehen-Helfen-am-29-Februar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64121.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-freie-Pl%C3%A4tze-f%C3%BCr-Kurs-Gewalt-Sehen-Helfen-am-29-Februar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64121.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-08T15:32:00+01:00</published>
   </entry>
   <entry>
@@ -820,7 +776,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausstellung-zur-Bau-und-Erinnerungsgeschichte-der-ehemaligen-Synagoge.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausstellung-zur-Bau-und-Erinnerungsgeschichte-der-ehemaligen-Synagoge.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-08T15:32:00+01:00</published>
   </entry>
   <entry>
@@ -831,7 +787,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-halten-die-Strompreise-stabil.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64153.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-halten-die-Strompreise-stabil.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64153.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-09T15:32:00+01:00</published>
   </entry>
   <entry>
@@ -842,7 +798,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fasching-im-Familienzentrum-Heinrich-Will-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64154.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fasching-im-Familienzentrum-Heinrich-Will-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64154.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-13T15:32:00+01:00</published>
   </entry>
   <entry>
@@ -853,7 +809,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortr%C3%A4ge-an-der-Volkshochschule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64155.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortr%C3%A4ge-an-der-Volkshochschule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64155.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-14T15:32:00+01:00</published>
   </entry>
   <entry>
@@ -864,7 +820,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-sucht-Platz-f%C3%BCr-elf-Minischweine.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64058.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-sucht-Platz-f%C3%BCr-elf-Minischweine.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64058.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-14T15:32:00+01:00</published>
   </entry>
   <entry>
@@ -875,7 +831,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Warum-Putzwasser-nicht-im-Gully-entsorgt-werden-darf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64166.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Warum-Putzwasser-nicht-im-Gully-entsorgt-werden-darf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64166.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-14T15:32:00+01:00</published>
   </entry>
   <entry>
@@ -886,7 +842,7 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Theatertag-am-Stadttheater.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64175.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Theatertag-am-Stadttheater.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64175.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-15T15:32:00+01:00</published>
   </entry>
   <entry>
@@ -897,7 +853,51 @@
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-bei-Fluss-mit-Flair-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64176.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229" rel="alternate"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-bei-Fluss-mit-Flair-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64176.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-15T15:32:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freistellung-f%C3%BCr-ehrenamtliches-Engagement-in-der-Jugendarbeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64179.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Freistellung für ehrenamtliches Engagement in der Jugendarbeit</title>
+    <updated>2024-02-16T12:20:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freistellung-f%C3%BCr-ehrenamtliches-Engagement-in-der-Jugendarbeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64179.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-16T12:20:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versammlungen-in-der-Innenstadt-Verkehrsbeeintr%C3%A4chtigungen-am-Montag-19-Februar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64177.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Versammlungen in der Innenstadt: Verkehrsbeeinträchtigungen am Montag, 19.02.2024</title>
+    <updated>2024-02-16T12:20:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versammlungen-in-der-Innenstadt-Verkehrsbeeintr%C3%A4chtigungen-am-Montag-19-Februar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64177.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-16T12:20:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Update-R%C3%BCckbau-des-Verkehrsversuchs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62435.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Der Rückbau des Verkehrsversuchs im Ticker</title>
+    <updated>2024-02-16T12:20:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Update-R%C3%BCckbau-des-Verkehrsversuchs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62435.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-16T12:20:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tiefgarage-des-Rathauses-%C3%BCber-das-Wochenende-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64178.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Tiefgarage des Rathauses gesperrt</title>
+    <updated>2024-02-16T12:20:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tiefgarage-des-Rathauses-%C3%BCber-das-Wochenende-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64178.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-16T12:20:00+01:00</published>
   </entry>
 </feed>
