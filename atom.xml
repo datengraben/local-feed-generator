@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-16T12:21:08.653330+00:00</updated>
+  <updated>2024-02-17T00:51:02.373520+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -439,6 +439,17 @@
     <published>2024-01-27T00:51:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_9097_1.PDF?1707892014</id>
+    <title>Nachruf Dieter Geißler</title>
+    <updated>2024-02-17T00:50:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_9097_1.PDF?1707892014"/>
+    <published>2024-02-17T00:50:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/</id>
     <title>Liebes Publikum! - Kann es eine angemessene – oder gar richtige – Reaktion des ...</title>
     <updated>2023-10-26T14:28:55+02:00</updated>
@@ -869,7 +880,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versammlungen-in-der-Innenstadt-Verkehrsbeeintr%C3%A4chtigungen-am-Montag-19-Februar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64177.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Versammlungen in der Innenstadt: Verkehrsbeeinträchtigungen am Montag, 19.02.2024</title>
+    <title>Versammlungen in der Innenstadt: Verkehrsbeeinträchtigungen am Montag, 19. Februar</title>
     <updated>2024-02-16T12:20:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
@@ -891,7 +902,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tiefgarage-des-Rathauses-%C3%BCber-das-Wochenende-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64178.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Tiefgarage des Rathauses gesperrt</title>
+    <title>Tiefgarage des Rathauses für Kurzparker gesperrt</title>
     <updated>2024-02-16T12:20:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
