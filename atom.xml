@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-17T00:51:02.373520+00:00</updated>
+  <updated>2024-02-17T21:09:48.765073+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -637,6 +637,17 @@
     <published>2024-02-09T15:34:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-sucht-Zugteilnehmer-f%C3%BCr-den-Hessentag-in-Pfungstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57077.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadt sucht Zugteilnehmer für den Hessentag in Fritzlar</title>
+    <updated>2024-01-25T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-sucht-Zugteilnehmer-f%C3%BCr-den-Hessentag-in-Pfungstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57077.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-01-25T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Pr%C3%A4sidentin-der-Justus-Liebig-Universit%C3%A4t-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63929.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Neue Präsidentin der Justus-Liebig-Universität gewählt</title>
     <updated>2024-01-25T00:00:00+01:00</updated>
@@ -844,17 +855,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Warum-Putzwasser-nicht-im-Gully-entsorgt-werden-darf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64166.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-14T15:32:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Theatertag-am-Stadttheater.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64175.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Theatertag am Stadttheater</title>
-    <updated>2024-02-15T15:32:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Theatertag-am-Stadttheater.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64175.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-15T15:32:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-bei-Fluss-mit-Flair-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64176.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
