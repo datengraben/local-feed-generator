@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-17T21:09:48.765073+00:00</updated>
+  <updated>2024-02-19T15:12:21.773127+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -714,17 +714,6 @@
     <published>2024-02-05T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Semesterferienfahrplan-eine-Woche-fr%C3%BCher.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64060.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Semesterferienfahrplan eine Woche früher</title>
-    <updated>2024-02-05T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Semesterferienfahrplan-eine-Woche-fr%C3%BCher.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64060.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-05T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64086.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Bürgermeister Wright lädt zur Bürgersprechstunde ein</title>
     <updated>2024-02-06T00:00:00+01:00</updated>
@@ -902,7 +891,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tiefgarage-des-Rathauses-%C3%BCber-das-Wochenende-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64178.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Tiefgarage des Rathauses für Kurzparker gesperrt</title>
+    <title>Tiefgarage des Rathauses wieder frei</title>
     <updated>2024-02-16T12:20:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
@@ -910,5 +899,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tiefgarage-des-Rathauses-%C3%BCber-das-Wochenende-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64178.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-16T12:20:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/So-lange-wie-m%C3%B6glich-selbstbestimmt-in-den-eigenen-vier-W%C3%A4nden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64183.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>So lange wie möglich selbstbestimmt in den eigenen vier Wänden</title>
+    <updated>2024-02-19T15:12:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/So-lange-wie-m%C3%B6glich-selbstbestimmt-in-den-eigenen-vier-W%C3%A4nden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64183.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-19T15:12:00+01:00</published>
   </entry>
 </feed>
