@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-20T21:10:11.232606+00:00</updated>
+  <updated>2024-02-20T23:11:32.277463+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -393,28 +393,6 @@
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2023-06-06T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_8940_1.PDF?1705483532</id>
-    <title>Freigabe der Öffnung von Verkaufsstellen (§ 6 HLöG) - Sport in der City</title>
-    <updated>2024-01-20T00:54:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8940_1.PDF?1705483532"/>
-    <published>2024-01-20T00:54:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_8939_1.PDF?1705483391</id>
-    <title>Einleitung und Unterrichtung des Öffentlichkeit zur 2. vorhabensbezogenen Änderung Bebauungsplan KL 09/05 "Waldweide"</title>
-    <updated>2024-01-20T00:54:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_8939_1.PDF?1705483391"/>
-    <published>2024-01-20T00:54:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_9002_1.PDF?1706263355</id>
