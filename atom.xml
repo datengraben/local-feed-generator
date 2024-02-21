@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-20T23:11:32.277463+00:00</updated>
+  <updated>2024-02-21T15:11:31.623840+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -604,26 +604,26 @@
     <published>2024-02-09T15:34:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-zur-Demo-am-Samstag-%C3%9Cberw%C3%A4ltigendes-Zeichen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63901.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>OB Becher zur Demo am Samstag: Überwältigendes Zeichen</title>
-    <updated>2024-01-22T00:00:00+01:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-warnt-vor-betr%C3%BCgerischen-Kfz-Dienstleistern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63826.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Landkreis warnt vor betrügerischen Kfz-Dienstleistern</title>
+    <updated>2024-01-11T00:00:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OB-Becher-zur-Demo-am-Samstag-%C3%9Cberw%C3%A4ltigendes-Zeichen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63901.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-01-22T00:00:00+01:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-warnt-vor-betr%C3%BCgerischen-Kfz-Dienstleistern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63826.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-01-11T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-Standort-f%C3%BCr-Zweigbibliothek-der-Justus-Liebig-Universit%C3%A4t.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63903.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neuer Standort für Zweigbibliothek der Justus-Liebig-Universität</title>
-    <updated>2024-01-22T00:00:00+01:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Programm-der-vhs-Gie%C3%9Fen-Anmeldungen-sind-bereits-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neues Programm der vhs Gießen – Anmeldungen sind bereits möglich</title>
+    <updated>2024-01-16T00:00:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-Standort-f%C3%BCr-Zweigbibliothek-der-Justus-Liebig-Universit%C3%A4t.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63903.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-01-22T00:00:00+01:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Programm-der-vhs-Gie%C3%9Fen-Anmeldungen-sind-bereits-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-01-16T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Pr%C3%A4sidentin-der-Justus-Liebig-Universit%C3%A4t-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63929.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -788,17 +788,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortr%C3%A4ge-an-der-Volkshochschule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64155.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-14T15:32:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-sucht-Platz-f%C3%BCr-elf-Minischweine.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64058.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Update: Die elf Minischweine wurden erfolgreich vermittelt</title>
-    <updated>2024-02-14T15:32:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-sucht-Platz-f%C3%BCr-elf-Minischweine.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64058.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-14T15:32:00+01:00</published>
   </entry>
   <entry>
