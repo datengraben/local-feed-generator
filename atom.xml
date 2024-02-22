@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-22T10:12:00.055259+00:00</updated>
+  <updated>2024-02-22T16:14:29.355737+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -417,17 +417,6 @@
     <published>2024-02-17T00:50:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/</id>
-    <title>Liebes Publikum! - Kann es eine angemessene – oder gar richtige – Reaktion des ...</title>
-    <updated>2023-10-26T14:28:55+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-november/"/>
-    <published>2023-10-26T14:28:55+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/faust-preis-fur-thomas-krupa/</id>
     <title>Wir gratulieren zum FAUST-Preis für Thomas Krupa - Thomas Krupa, Regisseur von "Posthuman Journey" in...</title>
     <updated>2023-12-05T08:52:35+01:00</updated>
@@ -503,6 +492,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/erinnerungsstucke/"/>
     <published>2024-02-01T15:10:57+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/tanz-in-den-marz/</id>
+    <title>Tanz in den März - 3 Tanzabende zum Preis von 2: "in decent times", &amp;...</title>
+    <updated>2024-02-22T16:14:19.572531+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/tanz-in-den-marz/"/>
+    <published>2024-02-22T16:14:19.572531+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
