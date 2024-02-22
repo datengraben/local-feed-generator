@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-21T15:11:31.623840+00:00</updated>
+  <updated>2024-02-22T10:12:00.055259+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -506,7 +506,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 17.02. - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
+    <title>Theatertag am 16.03. - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
     <updated>2023-12-15T17:11:05+01:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -866,5 +866,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Giftige-Fl%C3%BCssigkeiten-geh%C3%B6ren-nicht-ins-Wasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64185.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-20T14:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-8-M%C3%A4rz-ist-Internationaler-Frauentag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64210.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vielseitiges Programm zum Internationalen Frauentag</title>
+    <updated>2024-02-22T10:11:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-8-M%C3%A4rz-ist-Internationaler-Frauentag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64210.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-22T10:11:00+01:00</published>
   </entry>
 </feed>
