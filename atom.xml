@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-23T00:50:51.140797+00:00</updated>
+  <updated>2024-02-23T10:13:17.996492+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -117,17 +117,6 @@
     <published>2023-11-23T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>https://universum-giessen.com/2022/11/02/giessen-im-visier-innenstadt/</id>
-    <title>Gießen im Visier – Innenstadt</title>
-    <updated>2022-11-02T10:59:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2022/11/02/giessen-im-visier-innenstadt/"/>
-    <published>2022-11-02T10:59:00+01:00</published>
-  </entry>
-  <entry>
     <id>https://universum-giessen.com/2022/11/09/fernsehen-selber-machen/</id>
     <title>Fernsehen selber machen</title>
     <updated>2022-11-09T10:59:00+01:00</updated>
@@ -225,6 +214,17 @@
     </author>
     <link href="https://universum-giessen.com/2024/02/15/magie-in-giessen-zu-gast-auf-dem-hokus-pokus-festival/"/>
     <published>2024-02-15T15:11:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2024/02/23/anderen-helfen-aber-wie-gespraech-zu-ehrenamtlicher-arbeit-mit-der-studentin-selin-demirci/</id>
+    <title>Anderen helfen – Aber wie? Gespräch zu ehrenamtlicher Arbeit mit der Studentin Selin Demirci</title>
+    <updated>2024-02-23T10:13:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2024/02/23/anderen-helfen-aber-wie-gespraech-zu-ehrenamtlicher-arbeit-mit-der-studentin-selin-demirci/"/>
+    <published>2024-02-23T10:13:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Trinkbrunnen-sprudeln-wieder.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.58274.1&amp;NavID=2874.584&amp;La=1</id>
@@ -393,6 +393,17 @@
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2023-06-06T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Klein-knackig-und-knallvoll-der-neue-Programmflyer-des-Oberhessischen-Museums.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63824.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <title>Klein, knackig - und knallvoll! - der neue Programmflyer des Oberhessischen Museums</title>
+    <updated>2024-01-11T00:00:00+01:00</updated>
+    <author>
+      <name>Oberhessisches Museum</name>
+      <email>museum@giessen.de</email>
+    </author>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Klein-knackig-und-knallvoll-der-neue-Programmflyer-des-Oberhessischen-Museums.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63824.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <published>2024-01-11T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_9002_1.PDF?1706263355</id>
