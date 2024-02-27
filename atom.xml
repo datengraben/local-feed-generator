@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-27T07:12:33.183945+00:00</updated>
+  <updated>2024-02-27T08:14:34.627626+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -648,28 +648,6 @@
     <published>2024-02-23T14:10:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Partizipation-im-Fokus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64036.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Partizipation im Fokus</title>
-    <updated>2024-02-01T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Partizipation-im-Fokus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64036.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-01T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erster-Akademietag-des-Diesterweg-Stipendiums.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64037.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Erster Akademietag des Diesterweg-Stipendiums</title>
-    <updated>2024-02-01T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erster-Akademietag-des-Diesterweg-Stipendiums.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64037.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-01T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MIT-BUS-setzt-weiter-auf-klimafreundliche-Fahrzeugflotte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64057.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>MIT.BUS setzt weiter auf klimafreundliche Fahrzeugflotte</title>
     <updated>2024-02-05T00:00:00+01:00</updated>
@@ -921,5 +899,27 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tanz-in-den-M%C3%A4rz-am-Stadttheater-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64216.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-27T07:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mobile-Kontakt-und-Beratungsstelle-f%C3%BCr-junge-Menschen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64217.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Mobile Kontakt- und Beratungsstelle für junge Menschen</title>
+    <updated>2024-02-27T08:14:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mobile-Kontakt-und-Beratungsstelle-f%C3%BCr-junge-Menschen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64217.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-27T08:14:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsbeeintr%C3%A4chtigungen-in-der-Innenstadt-am-1-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64218.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verkehrsbeeinträchtigungen in der Innenstadt am 1. März</title>
+    <updated>2024-02-27T08:14:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsbeeintr%C3%A4chtigungen-in-der-Innenstadt-am-1-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64218.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-27T08:14:00+01:00</published>
   </entry>
 </feed>
