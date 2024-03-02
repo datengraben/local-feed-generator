@@ -27,6 +27,7 @@ jobs:
     - run: pip install -r requirements.txt
     - name: Fetch latest data
       run: |-
+        sudo apt update
         sudo apt install libxml2-utils
         ./bin/run.sh
     - name: Commit and push if it changed
