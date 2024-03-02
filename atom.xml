@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-02-27T15:12:18.729955+00:00</updated>
+  <updated>2024-03-02T11:10:18.774505+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -406,17 +406,6 @@
     <published>2024-01-11T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_9002_1.PDF?1706263355</id>
-    <title>Erneute, eingeschränkte Offenlage des geänderten Entwurfs Bebauungsplan GI 03/17 Ehemaliges Motorpool-Gelände</title>
-    <updated>2024-01-27T00:51:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_9002_1.PDF?1706263355"/>
-    <published>2024-01-27T00:51:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_9097_1.PDF?1707892014</id>
     <title>Nachruf Dieter Geißler</title>
     <updated>2024-02-17T00:50:00+01:00</updated>
@@ -450,15 +439,15 @@
     <published>2024-02-27T00:50:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/faust-preis-fur-thomas-krupa/</id>
-    <title>Wir gratulieren zum FAUST-Preis für Thomas Krupa - Thomas Krupa, Regisseur von "Posthuman Journey" in...</title>
-    <updated>2023-12-05T08:52:35+01:00</updated>
+    <id>http://giessen.de/media/custom/2874_9152_1.PDF?1709019779</id>
+    <title>Vereinfachte Umlegung Rathenaustraße</title>
+    <updated>2024-02-28T11:10:00+01:00</updated>
     <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/faust-preis-fur-thomas-krupa/"/>
-    <published>2023-12-05T08:52:35+01:00</published>
+    <link href="http://giessen.de/media/custom/2874_9152_1.PDF?1709019779"/>
+    <published>2024-02-28T11:10:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/</id>
@@ -536,6 +525,18 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/tanz-in-den-marz/"/>
     <published>2024-02-22T16:14:19+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zukunftstag/</id>
+    <title>Zukunftstag am 25.4. - Jetzt kommst Du!
+Das Motto des Girls and  Boys Day gilt auch...</title>
+    <updated>2024-03-02T11:10:05.526422+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zukunftstag/"/>
+    <published>2024-03-02T11:10:05.526422+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
@@ -648,70 +649,26 @@
     <published>2024-02-23T14:10:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MIT-BUS-setzt-weiter-auf-klimafreundliche-Fahrzeugflotte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64057.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>MIT.BUS setzt weiter auf klimafreundliche Fahrzeugflotte</title>
-    <updated>2024-02-05T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/naechster-warnstreik-im-nahverkehr</id>
+    <title>Nächster Warnstreik im Nahverkehr</title>
+    <updated>2024-02-28T11:10:00+01:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MIT-BUS-setzt-weiter-auf-klimafreundliche-Fahrzeugflotte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64057.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-05T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/naechster-warnstreik-im-nahverkehr"/>
+    <published>2024-02-28T11:10:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Magistrat-abgesetzt-Narren-%C3%BCbernehmen-die-Stadtregierung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57612.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Magistrat abgesetzt – Narren übernehmen die Stadtregierung</title>
-    <updated>2024-02-06T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/linie-7-muss-umleitung-fahren</id>
+    <title>Linie 7 muss Umleitung fahren</title>
+    <updated>2024-02-29T11:10:00+01:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Magistrat-abgesetzt-Narren-%C3%BCbernehmen-die-Stadtregierung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57612.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-06T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>+++Update+++ Brückenschaden im Gießener Südkreuz A45/A485: Pkw-Umleitung an der Betriebsdienst-Umfahrung am Salzlager am 17.02. kurzzeitig gesperrt</title>
-    <updated>2024-02-06T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-06T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-idealer-Ausgangspunkt-111-Orte-in-Mittelhessen-die-man-gesehen-haben-muss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64089.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gießen idealer Ausgangspunkt: 111 Orte in Mittelhessen, die man gesehen haben muss</title>
-    <updated>2024-02-06T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-idealer-Ausgangspunkt-111-Orte-in-Mittelhessen-die-man-gesehen-haben-muss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64089.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-06T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sporthalle-A-der-Herderschule-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Sporthalle A der Herderschule geschlossen</title>
-    <updated>2024-02-08T15:32:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sporthalle-A-der-Herderschule-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-08T15:32:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-freie-Pl%C3%A4tze-f%C3%BCr-Kurs-Gewalt-Sehen-Helfen-am-29-Februar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64121.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Noch freie Plätze für Kurs "Gewalt - Sehen - Helfen" am 29. Februar</title>
-    <updated>2024-02-08T15:32:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-freie-Pl%C3%A4tze-f%C3%BCr-Kurs-Gewalt-Sehen-Helfen-am-29-Februar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64121.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-08T15:32:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/linie-7-muss-umleitung-fahren"/>
+    <published>2024-02-29T11:10:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausstellung-zur-Bau-und-Erinnerungsgeschichte-der-ehemaligen-Synagoge.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -734,17 +691,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-halten-die-Strompreise-stabil.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64153.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-09T15:32:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortr%C3%A4ge-an-der-Volkshochschule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64155.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Vorträge an der Volkshochschule</title>
-    <updated>2024-02-14T15:32:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortr%C3%A4ge-an-der-Volkshochschule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64155.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-14T15:32:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Warum-Putzwasser-nicht-im-Gully-entsorgt-werden-darf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64166.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -901,17 +847,6 @@
     <published>2024-02-27T08:14:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsbeeintr%C3%A4chtigungen-in-der-Innenstadt-am-1-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64218.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verkehrsbeeinträchtigungen in der Innenstadt am 1. März</title>
-    <updated>2024-02-27T08:14:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsbeeintr%C3%A4chtigungen-in-der-Innenstadt-am-1-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64218.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-27T08:14:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Keine-Kinderreisep%C3%A4sse-mehr-rechtzeitig-nach-P%C3%A4ssen-und-Ausweisen-sehen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64219.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Keine Kinderreisepässe mehr - rechtzeitig nach Pässen und Ausweisen sehen</title>
     <updated>2024-02-27T10:13:00+01:00</updated>
@@ -921,5 +856,93 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Keine-Kinderreisep%C3%A4sse-mehr-rechtzeitig-nach-P%C3%A4ssen-und-Ausweisen-sehen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64219.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-27T10:13:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-N%C3%A4chster-Warnstreik-im-Nahverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64227.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtwerke Gießen: Nächster Warnstreik im Nahverkehr</title>
+    <updated>2024-02-28T11:10:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-N%C3%A4chster-Warnstreik-im-Nahverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64227.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-28T11:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtf%C3%BChrungssaison-beginnt-im-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64228.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtführungssaison beginnt im März</title>
+    <updated>2024-02-29T11:10:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtf%C3%BChrungssaison-beginnt-im-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64228.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-29T11:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lahntalbahn-gesperrt-Fahrradmitnahme-nicht-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64229.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Lahntalbahn gesperrt - Fahrradmitnahme nicht möglich</title>
+    <updated>2024-02-29T11:10:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lahntalbahn-gesperrt-Fahrradmitnahme-nicht-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64229.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-29T11:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Forstarbeiten-an-K22-am-1-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64233.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Forstarbeiten an K22 am 1. März</title>
+    <updated>2024-02-29T11:10:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Forstarbeiten-an-K22-am-1-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64233.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-29T11:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hessischer-Staatspreis-f%C3%BCr-innovative-Energiel%C3%B6sungen-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64234.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Hessischer Staatspreis für innovative Energielösungen 2024</title>
+    <updated>2024-02-29T11:10:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hessischer-Staatspreis-f%C3%BCr-innovative-Energiel%C3%B6sungen-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64234.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-29T11:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinie-7-muss-Umleitung-fahren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64237.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Buslinie 7 muss Umleitung fahren</title>
+    <updated>2024-02-29T11:10:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinie-7-muss-Umleitung-fahren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64237.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-29T11:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kompetente-Beratung-auf-der-BAUExpo.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64256.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kompetente Beratung auf der BAUExpo</title>
+    <updated>2024-03-01T11:10:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kompetente-Beratung-auf-der-BAUExpo.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64256.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-01T11:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4vko-des-Ordnungsamtes-pr%C3%A4sentiert-sich-auf-der-GIMO.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64259.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Prävko des Ordnungsamtes präsentiert sich auf der GIMO</title>
+    <updated>2024-03-01T11:10:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4vko-des-Ordnungsamtes-pr%C3%A4sentiert-sich-auf-der-GIMO.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64259.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-01T11:10:00+01:00</published>
   </entry>
 </feed>
