@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-02T11:10:18.774505+00:00</updated>
+  <updated>2024-03-02T15:10:52.899226+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -530,13 +530,13 @@
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zukunftstag/</id>
     <title>Zukunftstag am 25.4. - Jetzt kommst Du!
 Das Motto des Girls and  Boys Day gilt auch...</title>
-    <updated>2024-03-02T11:10:05.526422+01:00</updated>
+    <updated>2024-03-02T11:10:05+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zukunftstag/"/>
-    <published>2024-03-02T11:10:05.526422+01:00</published>
+    <published>2024-03-02T11:10:05+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
@@ -669,6 +669,28 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/linie-7-muss-umleitung-fahren"/>
     <published>2024-02-29T11:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-idealer-Ausgangspunkt-111-Orte-in-Mittelhessen-die-man-gesehen-haben-muss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64089.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen idealer Ausgangspunkt: 111 Orte in Mittelhessen, die man gesehen haben muss</title>
+    <updated>2024-02-06T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-idealer-Ausgangspunkt-111-Orte-in-Mittelhessen-die-man-gesehen-haben-muss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64089.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-06T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sporthalle-A-der-Herderschule-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sporthalle A der Herderschule geschlossen</title>
+    <updated>2024-02-08T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sporthalle-A-der-Herderschule-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-08T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausstellung-zur-Bau-und-Erinnerungsgeschichte-der-ehemaligen-Synagoge.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -825,17 +847,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     <published>2024-02-23T15:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tanz-in-den-M%C3%A4rz-am-Stadttheater-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64216.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Tanz in den März am Stadttheater Gießen</title>
-    <updated>2024-02-27T07:12:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tanz-in-den-M%C3%A4rz-am-Stadttheater-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64216.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-27T07:12:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mobile-Kontakt-und-Beratungsstelle-f%C3%BCr-junge-Menschen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64217.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Mobile Kontakt- und Beratungsstelle für junge Menschen</title>
     <updated>2024-02-27T08:14:00+01:00</updated>
@@ -888,17 +899,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lahntalbahn-gesperrt-Fahrradmitnahme-nicht-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64229.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-29T11:10:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Forstarbeiten-an-K22-am-1-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64233.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Forstarbeiten an K22 am 1. März</title>
-    <updated>2024-02-29T11:10:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Forstarbeiten-an-K22-am-1-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64233.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-29T11:10:00+01:00</published>
   </entry>
   <entry>
