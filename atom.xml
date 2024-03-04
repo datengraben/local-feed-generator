@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-04T10:06:03.973477+00:00</updated>
+  <updated>2024-03-04T15:13:36.534201+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -660,17 +660,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     <published>2024-02-29T11:10:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>+++Update+++ Brückenschaden im Gießener Südkreuz A45/A485: Pkw-Umleitung an der Betriebsdienst-Umfahrung am Salzlager am 17.02. kurzzeitig gesperrt</title>
-    <updated>2024-02-06T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-06T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-idealer-Ausgangspunkt-111-Orte-in-Mittelhessen-die-man-gesehen-haben-muss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64089.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gießen idealer Ausgangspunkt: 111 Orte in Mittelhessen, die man gesehen haben muss</title>
     <updated>2024-02-06T00:00:00+01:00</updated>
@@ -933,5 +922,16 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/H%C3%B6chste-Zeit-f%C3%BCr-equal-pay.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64269.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-04T10:05:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/E-Basketballtunier-mit-JobStairs-GIESSEN-46ers-in-der-Stadtbibliothek.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64270.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>E-Basketballtunier mit JobStairs GIESSEN 46ers in der Stadtbibliothek</title>
+    <updated>2024-03-04T15:13:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/E-Basketballtunier-mit-JobStairs-GIESSEN-46ers-in-der-Stadtbibliothek.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64270.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-04T15:13:00+01:00</published>
   </entry>
 </feed>
