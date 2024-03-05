@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-04T15:13:36.534201+00:00</updated>
+  <updated>2024-03-05T00:51:15.723304+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -437,6 +437,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_9152_1.PDF?1709019779"/>
     <published>2024-02-28T11:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_9190_1.PDF?1709548304</id>
+    <title>Einladung zur Versammlung der Jagdgenossenschaft Gießen I - Heuchelheim</title>
+    <updated>2024-03-05T00:51:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_9190_1.PDF?1709548304"/>
+    <published>2024-03-05T00:51:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/</id>
