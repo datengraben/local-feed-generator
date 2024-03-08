@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-08T15:12:13.747694+00:00</updated>
+  <updated>2024-03-08T22:12:33.834173+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -693,6 +693,17 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     <published>2024-03-07T15:11:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sporthalle-A-der-Herderschule-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sporthalle A der Herderschule geschlossen</title>
+    <updated>2024-02-08T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sporthalle-A-der-Herderschule-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-08T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausstellung-zur-Bau-und-Erinnerungsgeschichte-der-ehemaligen-Synagoge.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Ausstellung zur Bau- und Erinnerungsgeschichte der ehemaligen Synagoge</title>
     <updated>2024-02-08T00:00:00+01:00</updated>
@@ -790,17 +801,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Giftige-Fl%C3%BCssigkeiten-geh%C3%B6ren-nicht-ins-Wasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64185.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-20T14:10:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-8-M%C3%A4rz-ist-Internationaler-Frauentag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64210.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Vielseitiges Programm zum Internationalen Frauentag</title>
-    <updated>2024-02-22T10:11:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-8-M%C3%A4rz-ist-Internationaler-Frauentag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64210.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-22T10:11:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%B6sche-auf-Wanderschaft-Udersbergstra%C3%9Fe-und-Seeweg-in-R%C3%B6dgen-ab-1-M%C3%A4rz-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16325.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
