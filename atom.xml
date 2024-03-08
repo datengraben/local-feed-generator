@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-07T16:13:48.733343+00:00</updated>
+  <updated>2024-03-08T15:12:13.747694+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -693,6 +693,17 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     <published>2024-03-07T15:11:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausstellung-zur-Bau-und-Erinnerungsgeschichte-der-ehemaligen-Synagoge.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ausstellung zur Bau- und Erinnerungsgeschichte der ehemaligen Synagoge</title>
+    <updated>2024-02-08T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausstellung-zur-Bau-und-Erinnerungsgeschichte-der-ehemaligen-Synagoge.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-02-08T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-halten-die-Strompreise-stabil.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64153.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>SWG halten die Strompreise stabil</title>
     <updated>2024-02-09T15:32:00+01:00</updated>
@@ -812,17 +823,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mobile-Weidez%C3%A4une-k%C3%B6nnen-zur-t%C3%B6dlichen-Falle-f%C3%BCr-Wildtiere-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64211.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-23T13:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Telefonbetr%C3%BCger-treiben-wieder-ihr-Unwesen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64213.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Telefonbetrüger treiben wieder ihr Unwesen</title>
-    <updated>2024-02-23T15:12:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Telefonbetr%C3%BCger-treiben-wieder-ihr-Unwesen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64213.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-23T15:12:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mobile-Kontakt-und-Beratungsstelle-f%C3%BCr-junge-Menschen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64217.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
