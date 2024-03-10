@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-09T15:10:45.802204+00:00</updated>
+  <updated>2024-03-10T15:10:33.910933+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -693,6 +693,17 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     <published>2024-03-07T15:11:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Programm-der-vhs-Gie%C3%9Fen-Anmeldungen-sind-bereits-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neues Programm der vhs Gießen – Anmeldungen sind bereits möglich</title>
+    <updated>2024-01-16T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Programm-der-vhs-Gie%C3%9Fen-Anmeldungen-sind-bereits-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-01-16T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Magistrat-abgesetzt-Narren-%C3%BCbernehmen-die-Stadtregierung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57612.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Magistrat abgesetzt – Narren übernehmen die Stadtregierung</title>
     <updated>2024-02-06T00:00:00+01:00</updated>
@@ -713,17 +724,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-02-06T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-halten-die-Strompreise-stabil.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64153.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>SWG halten die Strompreise stabil</title>
-    <updated>2024-02-09T15:32:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-halten-die-Strompreise-stabil.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64153.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-09T15:32:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Warum-Putzwasser-nicht-im-Gully-entsorgt-werden-darf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64166.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
