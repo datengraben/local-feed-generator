@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-12T11:09:43.739701+00:00</updated>
+  <updated>2024-03-12T12:20:29.215056+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -693,28 +693,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     <published>2024-03-12T11:09:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Programm-der-vhs-Gie%C3%9Fen-Anmeldungen-sind-bereits-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neues Programm der vhs Gießen – Anmeldungen sind bereits möglich</title>
-    <updated>2024-01-16T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Programm-der-vhs-Gie%C3%9Fen-Anmeldungen-sind-bereits-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-01-16T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Magistrat-abgesetzt-Narren-%C3%BCbernehmen-die-Stadtregierung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57612.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Magistrat abgesetzt – Narren übernehmen die Stadtregierung</title>
-    <updated>2024-02-06T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Magistrat-abgesetzt-Narren-%C3%BCbernehmen-die-Stadtregierung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57612.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-06T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>+++Update+++ Brückenschaden im Gießener Südkreuz A45/A485: Pkw-Umleitung an der Betriebsdienst-Umfahrung am Salzlager am 17.02. kurzzeitig gesperrt</title>
     <updated>2024-02-06T00:00:00+01:00</updated>
@@ -955,5 +933,38 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Quartier-Philosophenh%C3%B6he-PV-Strom-direkt-vom-Dach.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64291.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-07T16:13:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%BChjahrszeit-ist-Nistkastenzeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64298.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Frühjahrszeit ist Nistkastenzeit</title>
+    <updated>2024-03-12T12:20:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%BChjahrszeit-ist-Nistkastenzeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64298.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-12T12:20:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dritter-Warnstreik-im-Nahverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64296.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Dritter Warnstreik im Nahverkehr</title>
+    <updated>2024-03-12T12:20:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dritter-Warnstreik-im-Nahverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64296.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-12T12:20:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dow-Aviv-erh%C3%A4lt-die-Hedwig-Burgheim-Medaille.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64297.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Dow Aviv erhält die Hedwig-Burgheim-Medaille</title>
+    <updated>2024-03-12T12:20:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dow-Aviv-erh%C3%A4lt-die-Hedwig-Burgheim-Medaille.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64297.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-12T12:20:00+01:00</published>
   </entry>
 </feed>
