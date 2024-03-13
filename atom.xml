@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-13T09:12:44.865735+00:00</updated>
+  <updated>2024-03-13T12:21:13.062889+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -693,17 +693,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     <published>2024-03-12T11:09:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-bei-Fluss-mit-Flair-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64176.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Jetzt bei "Fluss mit Flair" bewerben</title>
-    <updated>2024-02-15T15:32:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-bei-Fluss-mit-Flair-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64176.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-15T15:32:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freistellung-f%C3%BCr-ehrenamtliches-Engagement-in-der-Jugendarbeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64179.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Freistellung für ehrenamtliches Engagement in der Jugendarbeit</title>
     <updated>2024-02-16T12:20:00+01:00</updated>
@@ -966,5 +955,16 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalsanierungen-mit-Schlauchliningtechnik-im-Stadtgebiet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64320.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-13T09:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/ADFC-zeichnet-Lahnradweg-erneut-als-Qualit%C3%A4tsradroute-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64334.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>ADFC zeichnet Lahnradweg erneut als Qualitätsradroute aus</title>
+    <updated>2024-03-13T12:21:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/ADFC-zeichnet-Lahnradweg-erneut-als-Qualit%C3%A4tsradroute-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64334.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-13T12:21:00+01:00</published>
   </entry>
 </feed>
