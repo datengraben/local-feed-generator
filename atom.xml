@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-14T14:55:28.941199+00:00</updated>
+  <updated>2024-03-14T15:29:45.280593+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -561,17 +561,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     <published>2024-02-02T15:11:53+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-unterstuetzen-bogensportler</id>
-    <title>Stadtwerke Gießen unterstützen Bogensportler</title>
-    <updated>2024-01-30T00:00:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-unterstuetzen-bogensportler"/>
-    <published>2024-01-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/warnstreik-samstagsfahrplan-am-freitag</id>
     <title>Warnstreik: Samstagsfahrplan am Freitag</title>
     <updated>2024-02-01T00:00:00+01:00</updated>
@@ -691,6 +680,17 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/dritter-warnstreik-im-nahverkehr"/>
     <published>2024-03-12T11:09:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/kaufmaennischer-vorstand-verlaesst-die-swg</id>
+    <title>Kaufmännischer Vorstand verlässt die SWG</title>
+    <updated>2024-03-14T15:29:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/kaufmaennischer-vorstand-verlaesst-die-swg"/>
+    <published>2024-03-14T15:29:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Giftige-Fl%C3%BCssigkeiten-geh%C3%B6ren-nicht-ins-Wasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64185.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
