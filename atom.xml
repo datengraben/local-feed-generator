@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-18T13:13:02.746121+00:00</updated>
+  <updated>2024-03-18T14:12:06.547148+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -463,13 +463,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/</id>
     <title>Die Kids sind immer noch super! - Martin Gärtner, seit 1997 Leiter des Kinder- und Jugendchors...</title>
-    <updated>2024-03-18T13:12:47.197603+01:00</updated>
+    <updated>2024-03-18T13:12:47+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/"/>
-    <published>2024-03-18T13:12:47.197603+01:00</published>
+    <published>2024-03-18T13:12:47+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/</id>
@@ -702,17 +702,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/kaufmaennischer-vorstand-verlaesst-die-swg"/>
     <published>2024-03-14T15:29:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%B6sche-auf-Wanderschaft-Udersbergstra%C3%9Fe-und-Seeweg-in-R%C3%B6dgen-ab-1-M%C3%A4rz-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16325.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Frösche auf Wanderschaft: Udersbergstraße und Seeweg in Rödgen ab 26. Februar gesperrt</title>
-    <updated>2024-02-23T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%B6sche-auf-Wanderschaft-Udersbergstra%C3%9Fe-und-Seeweg-in-R%C3%B6dgen-ab-1-M%C3%A4rz-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16325.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-23T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mobile-Weidez%C3%A4une-k%C3%B6nnen-zur-t%C3%B6dlichen-Falle-f%C3%BCr-Wildtiere-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64211.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -977,5 +966,16 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-f%C3%BCr-Umwelt-und-Klimaschutzpreis-der-Stadt-Gie%C3%9Fen-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64362.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-18T08:14:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%BChjahrsmesse-er%C3%B6ffnet-am-30-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64363.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Frühjahrsmesse eröffnet am 30. März</title>
+    <updated>2024-03-18T14:11:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%BChjahrsmesse-er%C3%B6ffnet-am-30-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64363.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-18T14:11:00+01:00</published>
   </entry>
 </feed>
