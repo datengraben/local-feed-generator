@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-18T08:14:39.389253+00:00</updated>
+  <updated>2024-03-18T13:13:02.746121+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -461,6 +461,17 @@
     <published>2024-03-16T07:11:00+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/</id>
+    <title>Die Kids sind immer noch super! - Martin Gärtner, seit 1997 Leiter des Kinder- und Jugendchors...</title>
+    <updated>2024-03-18T13:12:47.197603+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/"/>
+    <published>2024-03-18T13:12:47.197603+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/</id>
     <title>Liebes Publikum - Unter der Überschrift „Nie wieder ist jetzt“ ein Zeichen set...</title>
     <updated>2024-01-19T12:22:23+01:00</updated>
@@ -516,15 +527,15 @@
     <published>2024-02-01T15:10:57+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/tanz-in-den-marz/</id>
-    <title>Tanz in den März - 3 Tanzabende zum Preis von 2: "in decent times", &amp;...</title>
-    <updated>2024-02-22T16:14:19+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/</id>
+    <title>Explosive Mischung - Der Destroy Preis verspricht etwas Glamour nach Gießen zu br...</title>
+    <updated>2024-03-05T15:11:21+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/tanz-in-den-marz/"/>
-    <published>2024-02-22T16:14:19+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/"/>
+    <published>2024-03-05T15:11:21+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zukunftstag/</id>
@@ -540,7 +551,7 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 16.03. - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
+    <title>Theatertag am 21.04. - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
     <updated>2023-12-15T17:11:05+01:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -548,17 +559,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
     <published>2023-12-15T17:11:05+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/</id>
-    <title>Explosive Mischung - Der Destroy Preis verspricht etwas Glamour nach Gießen zu br...</title>
-    <updated>2024-03-05T15:11:21+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/"/>
-    <published>2024-03-05T15:11:21+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/</id>
