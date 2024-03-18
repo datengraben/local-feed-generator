@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-18T07:12:01.875813+00:00</updated>
+  <updated>2024-03-18T08:14:39.389253+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -704,17 +704,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     <published>2024-03-14T15:29:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Giftige-Fl%C3%BCssigkeiten-geh%C3%B6ren-nicht-ins-Wasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64185.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Giftige Flüssigkeiten gehören nicht ins Wasser</title>
-    <updated>2024-02-20T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Giftige-Fl%C3%BCssigkeiten-geh%C3%B6ren-nicht-ins-Wasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64185.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-20T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%B6sche-auf-Wanderschaft-Udersbergstra%C3%9Fe-und-Seeweg-in-R%C3%B6dgen-ab-1-M%C3%A4rz-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16325.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Frösche auf Wanderschaft: Udersbergstraße und Seeweg in Rödgen ab 26. Februar gesperrt</title>
     <updated>2024-02-23T00:00:00+01:00</updated>
@@ -977,5 +966,16 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%B6chentliche-Leerung-der-Bio-Tonnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64356.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-15T07:11:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-f%C3%BCr-Umwelt-und-Klimaschutzpreis-der-Stadt-Gie%C3%9Fen-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64362.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Jetzt für Umwelt- und Klimaschutzpreis der Stadt Gießen bewerben</title>
+    <updated>2024-03-18T08:14:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-f%C3%BCr-Umwelt-und-Klimaschutzpreis-der-Stadt-Gie%C3%9Fen-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64362.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-18T08:14:00+01:00</published>
   </entry>
 </feed>
