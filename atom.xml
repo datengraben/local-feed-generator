@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-21T10:12:10.018819+00:00</updated>
+  <updated>2024-03-21T13:14:01.133961+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -552,13 +552,13 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einfach-spielen-am-21-marz/</id>
     <title>„Einfach spielen" am 21. März - Der Spielclub findet heute nicht im Ballettsaal, sondern in ...</title>
-    <updated>2024-03-21T10:11:57.994018+01:00</updated>
+    <updated>2024-03-21T10:11:57+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einfach-spielen-am-21-marz/"/>
-    <published>2024-03-21T10:11:57.994018+01:00</published>
+    <published>2024-03-21T10:11:57+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/</id>
@@ -702,28 +702,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/fernwaerme-heizenergie-fuer-die-zukunft"/>
     <published>2024-03-19T15:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lahntalbahn-gesperrt-Fahrradmitnahme-nicht-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64229.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Lahntalbahn gesperrt - Fahrradmitnahme nicht möglich</title>
-    <updated>2024-02-29T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lahntalbahn-gesperrt-Fahrradmitnahme-nicht-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64229.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-29T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinie-7-muss-Umleitung-fahren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64237.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Buslinie 7 muss Umleitung fahren</title>
-    <updated>2024-02-29T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinie-7-muss-Umleitung-fahren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64237.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-02-29T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4vko-des-Ordnungsamtes-pr%C3%A4sentiert-sich-auf-der-GIMO.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64259.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -977,5 +955,27 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Osterferien-im-Mathematikum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64372.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-20T16:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-Drahtesel-werden-entfernt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Achtung Fahrradfahrer: Schrotträder werden wieder eingesammelt</title>
+    <updated>2024-03-21T13:13:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-Drahtesel-werden-entfernt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-21T13:13:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Plakatserie-zum-Weltwassertag-am-22-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64375.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Plakatserie zum Weltwassertag am 22. März</title>
+    <updated>2024-03-21T13:13:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Plakatserie-zum-Weltwassertag-am-22-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64375.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-21T13:13:00+01:00</published>
   </entry>
 </feed>
