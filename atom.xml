@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-25T09:12:10.170768+00:00</updated>
+  <updated>2024-03-25T10:13:21.289460+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -715,6 +715,17 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     <published>2024-03-19T15:12:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/H%C3%B6chste-Zeit-f%C3%BCr-equal-pay.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64269.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Höchste Zeit für equal pay</title>
+    <updated>2024-03-04T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/H%C3%B6chste-Zeit-f%C3%BCr-equal-pay.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64269.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-04T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Energetische-Sanierung-F%C3%B6rdermittelberatung-auf-T%C3%BCrkisch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64290.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Energetische Sanierung - Fördermittelberatung auf Türkisch</title>
     <updated>2024-03-07T00:00:00+01:00</updated>
@@ -944,17 +955,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Plakatserie-zum-Weltwassertag-am-22-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64375.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-21T13:13:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Deine-Stunde-f%C3%BCr-die-Erde-Earth-Hour-am-23-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64370.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Deine Stunde für die Erde: Earth Hour am 23. März</title>
-    <updated>2024-03-20T11:10:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Deine-Stunde-f%C3%BCr-die-Erde-Earth-Hour-am-23-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64370.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-20T11:10:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hilfe-zur-Selbsthilfe-aber-auf-Augenh%C3%B6he.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64381.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
