@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-25T15:13:03.185299+00:00</updated>
+  <updated>2024-03-25T17:11:41.478053+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -715,28 +715,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     <published>2024-03-19T15:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Energetische-Sanierung-F%C3%B6rdermittelberatung-auf-T%C3%BCrkisch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64290.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Energetische Sanierung - Fördermittelberatung auf Türkisch</title>
-    <updated>2024-03-07T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Energetische-Sanierung-F%C3%B6rdermittelberatung-auf-T%C3%BCrkisch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64290.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-07T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Quartier-Philosophenh%C3%B6he-PV-Strom-direkt-vom-Dach.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64291.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Quartier Philosophenhöhe: PV-Strom direkt vom Dach</title>
-    <updated>2024-03-07T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Quartier-Philosophenh%C3%B6he-PV-Strom-direkt-vom-Dach.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64291.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-07T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%BChjahrszeit-ist-Nistkastenzeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64298.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Frühjahrszeit ist Nistkastenzeit</title>
     <updated>2024-03-12T07:11:00+01:00</updated>
@@ -988,5 +966,27 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Street-Art-in-Gie%C3%9Fen-entdecken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64385.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-25T15:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Kulturprojekte-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64386.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Jetzt bewerben für Kulturprojekte 2024</title>
+    <updated>2024-03-25T17:11:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Kulturprojekte-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64386.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-25T17:11:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Basilika-Besichtigungen-starten-wieder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64387.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Basilika-Besichtigungen starten wieder</title>
+    <updated>2024-03-25T17:11:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Basilika-Besichtigungen-starten-wieder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64387.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-25T17:11:00+01:00</published>
   </entry>
 </feed>
