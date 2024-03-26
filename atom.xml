@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-26T11:10:52.164061+00:00</updated>
+  <updated>2024-03-26T15:11:58.454399+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -715,28 +715,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     <published>2024-03-19T15:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bessere-Leistungen-der-Pflegeversicherung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64335.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Bessere Leistungen der Pflegeversicherung</title>
-    <updated>2024-03-13T07:11:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bessere-Leistungen-der-Pflegeversicherung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64335.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-13T07:11:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%9Cber-das-Wochenende-Reparaturarbeiten-auf-der-B-49-zwischen-der-Anschlussstelle-Bergwerkswald-und-der-A-485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64336.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Reparaturarbeiten auf der B 49 zwischen der Anschlussstelle Bergwerkswald und der Abfahrt nach Kleinlinden</title>
-    <updated>2024-03-13T07:11:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%9Cber-das-Wochenende-Reparaturarbeiten-auf-der-B-49-zwischen-der-Anschlussstelle-Bergwerkswald-und-der-A-485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64336.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-13T07:11:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Interessante-Einblicke-beim-Tag-der-Archive-2024-zum-Thema-Essen-und-Trinken-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64341.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Interessante Einblicke beim Tag der Archive zum Thema "Essen und Trinken"</title>
     <updated>2024-03-14T07:11:00+01:00</updated>
@@ -988,5 +966,27 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienworkshops-beim-Jugendbildungswerk-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64393.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-26T11:10:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-bis-31-M%C3%A4rz-bei-Fluss-mit-Flair-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64176.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Noch bis 31. März bei "Fluss mit Flair" bewerben</title>
+    <updated>2024-03-26T15:11:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-bis-31-M%C3%A4rz-bei-Fluss-mit-Flair-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64176.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-26T15:11:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Qualifizierter-Mietspiegel-2024-f%C3%BCr-die-Universit%C3%A4tsstadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Qualifizierter Mietspiegel 2024 für die Universitätsstadt Gießen</title>
+    <updated>2024-03-26T15:11:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Qualifizierter-Mietspiegel-2024-f%C3%BCr-die-Universit%C3%A4tsstadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-26T15:11:00+01:00</published>
   </entry>
 </feed>
