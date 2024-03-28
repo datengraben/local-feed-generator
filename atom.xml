@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-28T13:12:44.755551+00:00</updated>
+  <updated>2024-03-28T14:13:13.464110+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -483,17 +483,6 @@
     <published>2024-03-27T09:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/</id>
-    <title>Liebes Publikum - Unter der Überschrift „Nie wieder ist jetzt“ ein Zeichen set...</title>
-    <updated>2024-01-19T12:22:23+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/"/>
-    <published>2024-01-19T12:22:23+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/</id>
     <title>Nie wieder ist jetzt! - Rechte Gewalt gestern und heute | Doppelabend mit „Der Staat...</title>
     <updated>2024-01-25T16:15:39+01:00</updated>
@@ -574,13 +563,24 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einmal-singen-wie-die-profis/</id>
     <title>Einmal Singen wie die Profis - Im Interview geben uns Freya und Price Einblicke in die Arbe...</title>
-    <updated>2024-03-28T13:12:32.392969+01:00</updated>
+    <updated>2024-03-28T13:12:32+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmal-singen-wie-die-profis/"/>
-    <published>2024-03-28T13:12:32.392969+01:00</published>
+    <published>2024-03-28T13:12:32+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-ecke-stosst-man-auf-erinnerungen/</id>
+    <title>In jeder Ecke stößt man auf Erinnerungen - Von 1996 bis 1999 war Monica Mascus Teil des Ensembles am St...</title>
+    <updated>2024-03-28T14:12:54.824490+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-ecke-stosst-man-auf-erinnerungen/"/>
+    <published>2024-03-28T14:12:54.824490+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/</id>
@@ -724,17 +724,6 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/linie-3-kann-haltestelle-schwarzacker-nicht-anfahren"/>
     <published>2024-03-28T10:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%B6chentliche-Leerung-der-Bio-Tonnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64356.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wöchentliche Leerung der Bio-Tonnen</title>
-    <updated>2024-03-15T07:11:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%B6chentliche-Leerung-der-Bio-Tonnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64356.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-15T07:11:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-f%C3%BCr-Umwelt-und-Klimaschutzpreis-der-Stadt-Gie%C3%9Fen-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64362.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -999,5 +988,16 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-Linie-3-kann-Haltestelle-Schwarzacker-nicht-anfahren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64406.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-28T10:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-Osterhase-kommt-nach-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64408.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Der Osterhase kommt nach Gießen</title>
+    <updated>2024-03-28T14:12:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-Osterhase-kommt-nach-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64408.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-28T14:12:00+01:00</published>
   </entry>
 </feed>
