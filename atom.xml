@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-28T10:12:16.972135+00:00</updated>
+  <updated>2024-03-28T13:12:44.755551+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -483,17 +483,6 @@
     <published>2024-03-27T09:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/</id>
-    <title>Die Kids sind immer noch super! - Martin Gärtner, seit 1997 Leiter des Kinder- und Jugendchors...</title>
-    <updated>2024-03-22T09:13:12+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-kids-sind-immer-noch-super/"/>
-    <published>2024-03-22T09:13:12+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-januar/</id>
     <title>Liebes Publikum - Unter der Überschrift „Nie wieder ist jetzt“ ein Zeichen set...</title>
     <updated>2024-01-19T12:22:23+01:00</updated>
@@ -581,6 +570,17 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
     <published>2023-12-15T17:11:05+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/einmal-singen-wie-die-profis/</id>
+    <title>Einmal Singen wie die Profis - Im Interview geben uns Freya und Price Einblicke in die Arbe...</title>
+    <updated>2024-03-28T13:12:32.392969+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmal-singen-wie-die-profis/"/>
+    <published>2024-03-28T13:12:32.392969+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/</id>
