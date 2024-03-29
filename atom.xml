@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-28T14:13:13.464110+00:00</updated>
+  <updated>2024-03-29T23:11:16.280127+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -406,17 +406,6 @@
     <published>2024-01-11T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_9147_1.PDF?1708944723</id>
-    <title>Einladung  zur Versammlung der Jagdgenossenschaft Gießen II - Wieseck</title>
-    <updated>2024-02-27T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_9147_1.PDF?1708944723"/>
-    <published>2024-02-27T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_9152_1.PDF?1709019779</id>
     <title>Vereinfachte Umlegung Rathenaustraße</title>
     <updated>2024-02-28T00:00:00+01:00</updated>
@@ -540,7 +529,7 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zukunftstag/</id>
     <title>Zukunftstag am 25.4. - Jetzt kommst Du!
-Das Motto des Girls and  Boys Day gilt auch...</title>
+Wenn du dich für Ausbildungsberufe interess...</title>
     <updated>2024-03-02T11:10:05+01:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -574,13 +563,13 @@ Das Motto des Girls and  Boys Day gilt auch...</title>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-ecke-stosst-man-auf-erinnerungen/</id>
     <title>In jeder Ecke stößt man auf Erinnerungen - Von 1996 bis 1999 war Monica Mascus Teil des Ensembles am St...</title>
-    <updated>2024-03-28T14:12:54.824490+01:00</updated>
+    <updated>2024-03-28T14:12:54+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-ecke-stosst-man-auf-erinnerungen/"/>
-    <published>2024-03-28T14:12:54.824490+01:00</published>
+    <published>2024-03-28T14:12:54+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/</id>
