@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-30T05:12:27.766462+00:00</updated>
+  <updated>2024-03-30T23:10:51.233430+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -404,17 +404,6 @@
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Klein-knackig-und-knallvoll-der-neue-Programmflyer-des-Oberhessischen-Museums.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63824.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2024-01-11T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_9152_1.PDF?1709019779</id>
-    <title>Vereinfachte Umlegung Rathenaustraße</title>
-    <updated>2024-02-28T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_9152_1.PDF?1709019779"/>
-    <published>2024-02-28T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_9190_1.PDF?1709548304</id>
