@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-30T23:10:51.233430+00:00</updated>
+  <updated>2024-03-31T14:09:45.386400+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -704,6 +704,17 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-03-28T10:12:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%B6chentliche-Leerung-der-Bio-Tonnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64356.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wöchentliche Leerung der Bio-Tonnen</title>
+    <updated>2024-03-15T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%B6chentliche-Leerung-der-Bio-Tonnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64356.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-15T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-f%C3%BCr-Umwelt-und-Klimaschutzpreis-der-Stadt-Gie%C3%9Fen-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64362.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Jetzt für Umwelt- und Klimaschutzpreis der Stadt Gießen bewerben</title>
     <updated>2024-03-18T08:14:00+01:00</updated>
@@ -834,17 +845,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Street-Art-in-Gie%C3%9Fen-entdecken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64385.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-25T15:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Kulturprojekte-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64386.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Jetzt bewerben für Kulturprojekte 2024</title>
-    <updated>2024-03-25T17:11:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Kulturprojekte-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64386.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-25T17:11:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
