@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-03-31T22:11:18.815347+00:00</updated>
+  <updated>2024-04-02T09:12:43.441424+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -704,6 +704,17 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-03-28T10:12:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-Flussgeschichten-an-der-Lahn-bis-zur-manischen-Kultur-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64342.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Von Flussgeschichten an der Lahn bis zur manischen Kultur in Gießen</title>
+    <updated>2024-03-14T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-Flussgeschichten-an-der-Lahn-bis-zur-manischen-Kultur-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64342.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-14T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kaufm%C3%A4nnischer-Vorstand-verl%C3%A4sst-die-SWG.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64343.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Kaufmännischer Vorstand verlässt die SWG</title>
     <updated>2024-03-14T00:00:00+01:00</updated>
@@ -966,16 +977,5 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-Linie-3-kann-Haltestelle-Schwarzacker-nicht-anfahren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64406.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-28T10:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-Osterhase-kommt-nach-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64408.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Der Osterhase kommt nach Gießen</title>
-    <updated>2024-03-28T14:12:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-Osterhase-kommt-nach-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64408.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-28T14:12:00+01:00</published>
   </entry>
 </feed>
