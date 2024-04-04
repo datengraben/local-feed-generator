@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-04-03T12:22:10.424025+00:00</updated>
+  <updated>2024-04-04T12:21:09.787728+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -572,17 +572,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-02-02T15:11:53+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/swg-halten-die-strompreise-stabil</id>
-    <title>SWG halten die Strompreise stabil</title>
-    <updated>2024-02-09T15:34:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-halten-die-strompreise-stabil"/>
-    <published>2024-02-09T15:34:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/telefonbetrueger-treiben-wieder-ihr-unwesen</id>
     <title>Telefonbetrüger treiben wieder ihr Unwesen</title>
     <updated>2024-02-23T14:10:00+01:00</updated>
@@ -704,15 +693,15 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-04-03T10:13:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-f%C3%BCr-Umwelt-und-Klimaschutzpreis-der-Stadt-Gie%C3%9Fen-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64362.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Jetzt für Umwelt- und Klimaschutzpreis der Stadt Gießen bewerben</title>
-    <updated>2024-03-18T08:14:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-buslinie-1-1</id>
+    <title>Umleitung für Buslinie 1</title>
+    <updated>2024-04-04T12:20:00+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-f%C3%BCr-Umwelt-und-Klimaschutzpreis-der-Stadt-Gie%C3%9Fen-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64362.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-18T08:14:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-buslinie-1-1"/>
+    <published>2024-04-04T12:20:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%BChjahrsmesse-er%C3%B6ffnet-am-30-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64363.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -800,17 +789,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hilfe-zur-Selbsthilfe-aber-auf-Augenh%C3%B6he.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64381.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-22T17:10:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%BChlingstanztee-f%C3%BCr-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64382.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Frühlingstanztee für Senioren</title>
-    <updated>2024-03-22T17:10:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%BChlingstanztee-f%C3%BCr-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64382.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-22T17:10:00+01:00</published>
   </entry>
   <entry>
@@ -977,5 +955,27 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Motiv-f%C3%BCr-Gie%C3%9Fener-Weihnachtskugel-2024-gesucht-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64419.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-04-03T12:21:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Umleitung-f%C3%BCr-Buslinie-1.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64420.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtwerke Gießen: Umleitung für Buslinie 1</title>
+    <updated>2024-04-04T12:20:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Umleitung-f%C3%BCr-Buslinie-1.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64420.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-04T12:20:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%BChlingstanztee-f%C3%BCr-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64382.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Frühlingstanztee für Senioren</title>
+    <updated>2024-03-22T17:10:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%BChlingstanztee-f%C3%BCr-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64382.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-22T17:10:00+01:00</published>
   </entry>
 </feed>
