@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-04-10T00:52:47.982676+00:00</updated>
+  <updated>2024-04-11T08:15:30.526338+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -439,17 +439,6 @@
     <published>2024-03-16T07:11:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_9289_1.PDF?1711113698</id>
-    <title>Nachruf Gerhard Kühn</title>
-    <updated>2024-03-23T00:50:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_9289_1.PDF?1711113698"/>
-    <published>2024-03-23T00:50:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_9286_1.PDF?1711094647</id>
     <title>Erlass des Vorhabenbezogenen Bebauungsplans Nr. GI 03/17 "ehemaliges Motorpool-Gelände" - 1. Änderung</title>
     <updated>2024-03-23T00:50:00+01:00</updated>
@@ -458,6 +447,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_9286_1.PDF?1711094647"/>
+    <published>2024-03-23T00:50:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_9289_1.PDF?1711113698</id>
+    <title>Nachruf Gerhard Kühn</title>
+    <updated>2024-03-23T00:50:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_9289_1.PDF?1711113698"/>
     <published>2024-03-23T00:50:00+01:00</published>
   </entry>
   <entry>
@@ -737,6 +737,17 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-04-04T12:20:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenken-statt-wegwerfen-auf-dem-Verschenkmarkt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64364.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verschenken statt wegwerfen auf dem Verschenkmarkt</title>
+    <updated>2024-03-18T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenken-statt-wegwerfen-auf-dem-Verschenkmarkt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64364.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-18T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Osteraktion-Stempeljagd-am-Schwanenteich-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64365.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Osteraktion "Stempeljagd am Schwanenteich"</title>
     <updated>2024-03-19T17:11:00+01:00</updated>
@@ -878,17 +889,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Naturschutzwanderungen-des-Amtes-f%C3%BCr-Umwelt-und-Natur.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64390.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-03-26T11:10:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sirenen%C3%BCberpr%C3%BCfung-der-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64400.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Sirenenüberprüfung der Stadt Gießen</title>
-    <updated>2024-03-27T13:12:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sirenen%C3%BCberpr%C3%BCfung-der-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64400.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-27T13:12:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MWB-Kanalsanierungsarbeiten-ab-2-April-im-Wartweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64401.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
