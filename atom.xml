@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-04-12T12:21:23.089781+00:00</updated>
+  <updated>2024-04-12T14:11:12.511126+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -737,17 +737,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-04-04T12:20:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-Drahtesel-werden-entfernt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Achtung Fahrradfahrer: Schrotträder werden wieder eingesammelt</title>
-    <updated>2024-03-21T13:13:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-Drahtesel-werden-entfernt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-21T13:13:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Plakatserie-zum-Weltwassertag-am-22-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64375.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Plakatserie zum Weltwassertag am 22. März</title>
     <updated>2024-03-21T13:13:00+01:00</updated>
@@ -1010,5 +999,16 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtverwaltung-am-Mittwochvormittag-nur-eingeschr%C3%A4nkt-erreichbar-Stadtbibliothek-und-Stadtb%C3%BCro-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64444.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-04-12T12:21:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Digitalministerin-Sinemus-kommt-mit-B%C3%BCrgertour-KI-macht-Zukunft-Hessen-spricht-%C3%BCber-K%C3%BCnstliche-Intelligenz-nach-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64445.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Digitalministerin Sinemus kommt mit Bürgertour »KI macht Zukunft - Hessen spricht über Künstliche Intelligenz« nach Gießen</title>
+    <updated>2024-04-12T14:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Digitalministerin-Sinemus-kommt-mit-B%C3%BCrgertour-KI-macht-Zukunft-Hessen-spricht-%C3%BCber-K%C3%BCnstliche-Intelligenz-nach-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64445.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-12T14:11:00+02:00</published>
   </entry>
 </feed>
