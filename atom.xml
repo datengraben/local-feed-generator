@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-04-17T11:10:37.789074+00:00</updated>
+  <updated>2024-04-17T14:11:57.879569+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -726,28 +726,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-04-04T12:20:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verwaltungsstellen der Stadtteile schließen vorübergehend</title>
-    <updated>2024-03-26T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-26T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Basilika-Besichtigungen-starten-wieder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64388.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Basilika-Besichtigungen starten wieder</title>
-    <updated>2024-03-26T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Basilika-Besichtigungen-starten-wieder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64388.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-03-26T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gastgeberinnen-und-Gastgeber-f%C3%BCr-junge-Menschen-aus-unserer-Projektpartnerstadt-Swakopmund-Namibia-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64389.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gastgeberinnen und Gastgeber für junge Menschen aus unserer Projektpartnerstadt Swakopmund/Namibia gesucht</title>
     <updated>2024-03-26T00:00:00+01:00</updated>
@@ -999,5 +977,27 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sperrung-B49-in-Fahrtrichtung-Gie%C3%9Fen-A-485-an-diesem-Wochenende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64481.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-04-16T11:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kl%C3%A4rwerksf%C3%BChrungen-f%C3%BCr-Grundschulen-auch-in-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64488.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Klärwerksführungen für Grundschulen auch in 2024</title>
+    <updated>2024-04-17T14:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kl%C3%A4rwerksf%C3%BChrungen-f%C3%BCr-Grundschulen-auch-in-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64488.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-17T14:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Kulturnacht-2024-Jetzt-Festivalticket-sichern-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64489.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießener Kulturnacht 2024 - Jetzt Festivalticket sichern!</title>
+    <updated>2024-04-17T14:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Kulturnacht-2024-Jetzt-Festivalticket-sichern-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64489.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-17T14:11:00+02:00</published>
   </entry>
 </feed>
