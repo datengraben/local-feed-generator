@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-04-17T06:17:55.014478+00:00</updated>
+  <updated>2024-04-17T11:10:37.789074+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -724,5 +724,280 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-buslinie-1-1"/>
     <published>2024-04-04T12:20:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verwaltungsstellen der Stadtteile schließen vorübergehend</title>
+    <updated>2024-03-26T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-26T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Basilika-Besichtigungen-starten-wieder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64388.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Basilika-Besichtigungen starten wieder</title>
+    <updated>2024-03-26T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Basilika-Besichtigungen-starten-wieder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64388.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-26T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gastgeberinnen-und-Gastgeber-f%C3%BCr-junge-Menschen-aus-unserer-Projektpartnerstadt-Swakopmund-Namibia-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64389.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gastgeberinnen und Gastgeber für junge Menschen aus unserer Projektpartnerstadt Swakopmund/Namibia gesucht</title>
+    <updated>2024-03-26T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gastgeberinnen-und-Gastgeber-f%C3%BCr-junge-Menschen-aus-unserer-Projektpartnerstadt-Swakopmund-Namibia-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64389.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-26T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-verkauft-Forderungen-an-Greensill.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64391.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadt verkauft Forderungen an Greensill</title>
+    <updated>2024-03-26T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-verkauft-Forderungen-an-Greensill.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64391.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-26T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Qualifizierter-Mietspiegel-2024-f%C3%BCr-die-Universit%C3%A4tsstadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Qualifizierter Mietspiegel 2024 für Gießen</title>
+    <updated>2024-03-26T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Qualifizierter-Mietspiegel-2024-f%C3%BCr-die-Universit%C3%A4tsstadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-26T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Naturschutzwanderungen-des-Amtes-f%C3%BCr-Umwelt-und-Natur.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64390.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Naturschutzwanderungen des Amtes für Umwelt und Natur</title>
+    <updated>2024-03-27T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Naturschutzwanderungen-des-Amtes-f%C3%BCr-Umwelt-und-Natur.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64390.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-27T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Ferien-Freizeiten-f%C3%BCr-Gie%C3%9Fener-Kinder-und-Jugendliche-auf-einen-Blick.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63836.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>(Ferien-) Freizeiten für Gießener Kinder und Jugendliche auf einen Blick</title>
+    <updated>2024-04-02T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Ferien-Freizeiten-f%C3%BCr-Gie%C3%9Fener-Kinder-und-Jugendliche-auf-einen-Blick.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63836.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-02T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Umleitung-f%C3%BCr-Nachtbuslinie-Venus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64416.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtwerke Gießen: Umleitung für Nachtbuslinie Venus</title>
+    <updated>2024-04-03T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Umleitung-f%C3%BCr-Nachtbuslinie-Venus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64416.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-03T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Motiv-f%C3%BCr-Gie%C3%9Fener-Weihnachtskugel-2024-gesucht-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64419.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neues Motiv für Gießener Weihnachtskugel 2024 gesucht!</title>
+    <updated>2024-04-03T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Motiv-f%C3%BCr-Gie%C3%9Fener-Weihnachtskugel-2024-gesucht-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64419.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-03T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Umleitung-f%C3%BCr-Buslinie-1.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64420.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtwerke Gießen: Umleitung für Buslinie 1</title>
+    <updated>2024-04-04T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Umleitung-f%C3%BCr-Buslinie-1.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64420.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-04T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-%C3%BCbt-ab-April-Benennungsrecht-f%C3%BCr-die-Belegung-von-Sozialwohnungen-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64421.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadt übt ab April Benennungsrecht für die Belegung von Sozialwohnungen aus</title>
+    <updated>2024-04-04T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-%C3%BCbt-ab-April-Benennungsrecht-f%C3%BCr-die-Belegung-von-Sozialwohnungen-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64421.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-04T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%96ffnung-der-Jugendverkehrsschule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64423.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Öffnung der Jugendverkehrsschule</title>
+    <updated>2024-04-08T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%96ffnung-der-Jugendverkehrsschule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64423.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-08T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Sonderausstellung-im-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64424.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue Sonderausstellung im Oberhessischen Museum</title>
+    <updated>2024-04-09T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Sonderausstellung-im-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64424.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-09T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/St%C3%A4dtischer-Haushalt-2024-genehmigt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64426.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Städtischer Haushalt 2024 genehmigt</title>
+    <updated>2024-04-09T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/St%C3%A4dtischer-Haushalt-2024-genehmigt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64426.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-09T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Asiatische-Hornisse-Sichtungen-immer-%C3%BCber-Online-Portal-melden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64441.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Asiatische Hornisse: Sichtungen immer über Online-Portal melden</title>
+    <updated>2024-04-12T11:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Asiatische-Hornisse-Sichtungen-immer-%C3%BCber-Online-Portal-melden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64441.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-12T11:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Prof-Albrecht-Beutelspacher-zu-Gast-in-der-Stadtbibliothek-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64442.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Prof. Albrecht Beutelspacher zu Gast in der Stadtbibliothek Gießen</title>
+    <updated>2024-04-12T11:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Prof-Albrecht-Beutelspacher-zu-Gast-in-der-Stadtbibliothek-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64442.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-12T11:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sporthalle-A-der-Herderschule-ab-Montag-wieder-nutzbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64443.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sporthalle A der Herderschule wieder nutzbar</title>
+    <updated>2024-04-12T11:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sporthalle-A-der-Herderschule-ab-Montag-wieder-nutzbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64443.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-12T11:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Digitalministerin-Sinemus-kommt-mit-B%C3%BCrgertour-KI-macht-Zukunft-Hessen-spricht-%C3%BCber-K%C3%BCnstliche-Intelligenz-nach-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64445.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Digitalministerin Sinemus kommt mit Bürgertour »KI macht Zukunft - Hessen spricht über Künstliche Intelligenz« nach Gießen</title>
+    <updated>2024-04-12T11:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Digitalministerin-Sinemus-kommt-mit-B%C3%BCrgertour-KI-macht-Zukunft-Hessen-spricht-%C3%BCber-K%C3%BCnstliche-Intelligenz-nach-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64445.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-12T11:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-in-der-City-mit-verkaufsoffenem-Sonntag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16675.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sport in der City mit verkaufsoffenem Sonntag</title>
+    <updated>2024-04-15T11:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-in-der-City-mit-verkaufsoffenem-Sonntag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16675.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-15T11:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/T%C3%B6dlicher-Salamander-Pilz-in-Hessen-nachgewiesen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64476.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Tödlicher Salamander-Pilz in Hessen nachgewiesen</title>
+    <updated>2024-04-16T11:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/T%C3%B6dlicher-Salamander-Pilz-in-Hessen-nachgewiesen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64476.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-16T11:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Stadtf%C3%BChrung-Die-Gie%C3%9Fener-Hochschulen-Eine-Wissenschaftsstadt-zwischen-Studie-rendenleben-und-Forschergeist-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64477.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue Stadtführung: "Die Gießener Hochschulen - Eine Wissenschaftsstadt zwischen Studierendenleben und Forschergeist"</title>
+    <updated>2024-04-16T11:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Stadtf%C3%BChrung-Die-Gie%C3%9Fener-Hochschulen-Eine-Wissenschaftsstadt-zwischen-Studie-rendenleben-und-Forschergeist-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64477.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-16T11:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/hr-Radtour-am-Stadtfestwochenende-zu-Gast-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64478.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>hr Radtour am Stadtfestwochenende zu Gast in Gießen</title>
+    <updated>2024-04-16T11:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/hr-Radtour-am-Stadtfestwochenende-zu-Gast-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64478.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-16T11:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Stars-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64479.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>STADTRADELN-Stars gesucht</title>
+    <updated>2024-04-16T11:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Stars-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64479.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-16T11:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-St%C3%A4dtebauf%C3%B6rderung-in-der-N%C3%B6rdlichen-Weststadt-am-4-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64480.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Tag der Städtebauförderung in der "Nördlichen Weststadt am 04. Mai</title>
+    <updated>2024-04-16T11:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-St%C3%A4dtebauf%C3%B6rderung-in-der-N%C3%B6rdlichen-Weststadt-am-4-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64480.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-16T11:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sperrung-B49-in-Fahrtrichtung-Gie%C3%9Fen-A-485-an-diesem-Wochenende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64481.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sperrung B49 in Fahrtrichtung Gießen/A 485 an diesem Wochenende</title>
+    <updated>2024-04-16T11:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sperrung-B49-in-Fahrtrichtung-Gie%C3%9Fen-A-485-an-diesem-Wochenende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64481.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-16T11:10:00+02:00</published>
   </entry>
 </feed>
