@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-04-21T12:21:37.720528+00:00</updated>
+  <updated>2024-04-22T04:14:34.464935+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -737,6 +737,17 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-04-04T12:20:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gastgeberinnen-und-Gastgeber-f%C3%BCr-junge-Menschen-aus-unserer-Projektpartnerstadt-Swakopmund-Namibia-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64389.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gastgeberinnen und Gastgeber für junge Menschen aus unserer Projektpartnerstadt Swakopmund/Namibia gesucht</title>
+    <updated>2024-03-26T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gastgeberinnen-und-Gastgeber-f%C3%BCr-junge-Menschen-aus-unserer-Projektpartnerstadt-Swakopmund-Namibia-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64389.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-03-26T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-verkauft-Forderungen-an-Greensill.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64391.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Stadt verkauft Forderungen an Greensill</title>
     <updated>2024-03-26T00:00:00+01:00</updated>
@@ -943,17 +954,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-St%C3%A4dtebauf%C3%B6rderung-in-der-N%C3%B6rdlichen-Weststadt-am-4-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64480.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-16T11:10:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sperrung-B49-in-Fahrtrichtung-Gie%C3%9Fen-A-485-an-diesem-Wochenende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64481.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Sperrung B49 in Fahrtrichtung Gießen/A 485 an diesem Wochenende</title>
-    <updated>2024-04-16T11:10:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sperrung-B49-in-Fahrtrichtung-Gie%C3%9Fen-A-485-an-diesem-Wochenende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64481.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-04-16T11:10:00+02:00</published>
   </entry>
   <entry>
