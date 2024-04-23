@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-04-23T16:14:48.935980+00:00</updated>
+  <updated>2024-04-23T22:12:25.968999+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -436,17 +436,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_9289_1.PDF?1711113698"/>
-    <published>2024-03-23T00:50:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_9286_1.PDF?1711094647</id>
-    <title>Erlass des Vorhabenbezogenen Bebauungsplans Nr. GI 03/17 "ehemaliges Motorpool-Gelände" - 1. Änderung</title>
-    <updated>2024-03-23T00:50:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_9286_1.PDF?1711094647"/>
     <published>2024-03-23T00:50:00+01:00</published>
   </entry>
   <entry>
