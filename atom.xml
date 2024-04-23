@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-04-23T15:12:35.952362+00:00</updated>
+  <updated>2024-04-23T16:14:48.935980+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -605,17 +605,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-02-02T15:11:53+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/naechster-warnstreik-im-nahverkehr</id>
-    <title>Nächster Warnstreik im Nahverkehr</title>
-    <updated>2024-02-28T11:10:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/naechster-warnstreik-im-nahverkehr"/>
-    <published>2024-02-28T11:10:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/linie-7-muss-umleitung-fahren</id>
     <title>Linie 7 muss Umleitung fahren</title>
     <updated>2024-02-29T11:10:00+01:00</updated>
@@ -737,15 +726,15 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-04-23T11:10:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Motiv-f%C3%BCr-Gie%C3%9Fener-Weihnachtskugel-2024-gesucht-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64419.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neues Motiv für Gießener Weihnachtskugel 2024 gesucht!</title>
-    <updated>2024-04-03T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/streik-kein-busangebot-am-donnerstag</id>
+    <title>Streik: Kein Busangebot am Donnerstag</title>
+    <updated>2024-04-23T16:14:00+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Motiv-f%C3%BCr-Gie%C3%9Fener-Weihnachtskugel-2024-gesucht-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64419.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-03T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/streik-kein-busangebot-am-donnerstag"/>
+    <published>2024-04-23T16:14:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-%C3%BCbt-ab-April-Benennungsrecht-f%C3%BCr-die-Belegung-von-Sozialwohnungen-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64421.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -1010,5 +999,16 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Gie%C3%9Fen-pr%C3%A4sentiert-Job-Perspektiven.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-04-23T15:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Streik-Kein-Busangebot-am-Donnerstag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64504.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Streik: Kein Busangebot am Donnerstag</title>
+    <updated>2024-04-23T16:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Streik-Kein-Busangebot-am-Donnerstag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64504.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-23T16:14:00+02:00</published>
   </entry>
 </feed>
