@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-04-23T11:10:53.900448+00:00</updated>
+  <updated>2024-04-23T14:11:41.212937+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -737,17 +737,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-04-23T11:10:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Ferien-Freizeiten-f%C3%BCr-Gie%C3%9Fener-Kinder-und-Jugendliche-auf-einen-Blick.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63836.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>(Ferien-) Freizeiten für Gießener Kinder und Jugendliche auf einen Blick</title>
-    <updated>2024-04-02T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Ferien-Freizeiten-f%C3%BCr-Gie%C3%9Fener-Kinder-und-Jugendliche-auf-einen-Blick.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63836.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-02T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Umleitung-f%C3%BCr-Nachtbuslinie-Venus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64416.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Stadtwerke Gießen: Umleitung für Nachtbuslinie Venus</title>
     <updated>2024-04-03T00:00:00+02:00</updated>
@@ -1010,5 +999,16 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fahrradfahren-f%C3%BCr-den-Klimaschutz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64502.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-04-23T09:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorbereitungen-der-Europawahl-laufen-auf-Hochtouren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64501.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vorbereitungen der Europawahl laufen auf Hochtouren</title>
+    <updated>2024-04-23T14:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorbereitungen-der-Europawahl-laufen-auf-Hochtouren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64501.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-23T14:11:00+02:00</published>
   </entry>
 </feed>
