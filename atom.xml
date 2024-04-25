@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-04-25T13:10:35.538217+00:00</updated>
+  <updated>2024-04-25T14:09:44.296823+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -117,17 +117,6 @@
     <published>2023-12-22T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>https://universum-giessen.com/2022/11/09/fernsehen-selber-machen/</id>
-    <title>Fernsehen selber machen</title>
-    <updated>2022-11-09T10:59:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2022/11/09/fernsehen-selber-machen/"/>
-    <published>2022-11-09T10:59:00+01:00</published>
-  </entry>
-  <entry>
     <id>https://universum-giessen.com/2022/11/16/giessen-im-visier-giessener-charme/</id>
     <title>Gießen im Visier – Gießener Charme</title>
     <updated>2022-11-16T10:59:00+01:00</updated>
@@ -225,6 +214,17 @@
     </author>
     <link href="https://universum-giessen.com/2024/02/23/anderen-helfen-aber-wie-gespraech-zu-ehrenamtlicher-arbeit-mit-der-studentin-selin-demirci/"/>
     <published>2024-02-23T10:13:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2024/04/25/leben-retten-an-europas-aussengrenzen-dozentin-sandra-hammamy-auf-seenotrettung-im-mittelmeer/</id>
+    <title>Leben retten an Europas Außengrenzen – Dozentin Sandra Hammamy auf Seenotrettung im Mittelmeer</title>
+    <updated>2024-04-25T14:09:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2024/04/25/leben-retten-an-europas-aussengrenzen-dozentin-sandra-hammamy-auf-seenotrettung-im-mittelmeer/"/>
+    <published>2024-04-25T14:09:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Trinkbrunnen-sprudeln-wieder.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.58274.1&amp;NavID=2874.584&amp;La=1</id>
@@ -737,17 +737,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-04-23T16:14:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/St%C3%A4dtischer-Haushalt-2024-genehmigt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64426.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Städtischer Haushalt 2024 genehmigt</title>
-    <updated>2024-04-09T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/St%C3%A4dtischer-Haushalt-2024-genehmigt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64426.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-09T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Asiatische-Hornisse-Sichtungen-immer-%C3%BCber-Online-Portal-melden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64441.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Asiatische Hornisse: Sichtungen immer über Online-Portal melden</title>
     <updated>2024-04-12T11:10:00+02:00</updated>
@@ -1010,5 +999,16 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gestaltungsentw%C3%BCrfe-zum-Gedenkort-Synagoge-im-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64519.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-04-25T13:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-Gie%C3%9Fen-unterst%C3%BCtzt-Investitionen-in-den-Herdenschutz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64520.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Landkreis Gießen unterstützt Investitionen in den Herdenschutz</title>
+    <updated>2024-04-25T14:09:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-Gie%C3%9Fen-unterst%C3%BCtzt-Investitionen-in-den-Herdenschutz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64520.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-25T14:09:00+02:00</published>
   </entry>
 </feed>
