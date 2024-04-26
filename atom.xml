@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-04-26T11:10:39.540799+00:00</updated>
+  <updated>2024-04-26T12:21:41.449021+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -605,17 +605,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-02-02T15:11:53+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/linie-7-muss-umleitung-fahren</id>
-    <title>Linie 7 muss Umleitung fahren</title>
-    <updated>2024-02-29T11:10:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/linie-7-muss-umleitung-fahren"/>
-    <published>2024-02-29T11:10:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/weltwassertag-2024-faszinierende-einblicke-ins-wasserwerk-queckborn</id>
     <title>Weltwassertag 2024: Faszinierende Einblicke ins Wasserwerk Queckborn</title>
     <updated>2024-03-05T15:11:00+01:00</updated>
@@ -737,15 +726,15 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-04-23T16:14:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-in-der-City-mit-verkaufsoffenem-Sonntag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16675.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Sport in der City mit verkaufsoffenem Sonntag</title>
-    <updated>2024-04-15T11:10:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/in-giessen-beginnt-die-freibadsaison</id>
+    <title>In Gießen beginnt die Freibadsaison</title>
+    <updated>2024-04-26T12:21:00+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-in-der-City-mit-verkaufsoffenem-Sonntag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16675.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-15T11:10:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/in-giessen-beginnt-die-freibadsaison"/>
+    <published>2024-04-26T12:21:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/T%C3%B6dlicher-Salamander-Pilz-in-Hessen-nachgewiesen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64476.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -1010,5 +999,16 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Russischer-Raketenangriff-trifft-ukrainische-Partnerkommune-des-Landkreises-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64523.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-04-26T11:10:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-MediaSurfer-2023-24-f%C3%BCr-das-Kinderhaus-Alter-Wetzlarer-Weg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64526.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>"MediaSurfer" 2023/24 für das Kinderhaus Alter-Wetzlarer-Weg</title>
+    <updated>2024-04-26T12:21:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-MediaSurfer-2023-24-f%C3%BCr-das-Kinderhaus-Alter-Wetzlarer-Weg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64526.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-26T12:21:00+02:00</published>
   </entry>
 </feed>
