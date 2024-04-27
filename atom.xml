@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-04-27T00:53:01.862767+00:00</updated>
+  <updated>2024-04-27T11:09:51.130404+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -759,6 +759,17 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-04-26T12:21:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-in-der-City-mit-verkaufsoffenem-Sonntag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16675.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sport in der City mit verkaufsoffenem Sonntag</title>
+    <updated>2024-04-15T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-in-der-City-mit-verkaufsoffenem-Sonntag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16675.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-15T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/T%C3%B6dlicher-Salamander-Pilz-in-Hessen-nachgewiesen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64476.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Tödlicher Salamander-Pilz in Hessen nachgewiesen</title>
     <updated>2024-04-16T11:10:00+02:00</updated>
@@ -889,17 +900,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Warm-im-Winter-k%C3%BChl-im-Sommer-Angebot-einer-kostenfreien-Energieberatung-in-der-Gie%C3%9Fener-Oststadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64498.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-04-22T10:14:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtspaziergang-zum-Thema-Klimawandel-und-anpassung-am-27-April.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64499.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadtspaziergang zum Thema Klimawandel und -anpassung am 27. April</title>
-    <updated>2024-04-22T12:22:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtspaziergang-zum-Thema-Klimawandel-und-anpassung-am-27-April.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64499.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-22T12:22:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Praktikumswochen-Auf-Online-Plattform-Berufe-zum-Reinschnuppern-finden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64500.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
