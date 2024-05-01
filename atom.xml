@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-04-30T16:15:48.933151+00:00</updated>
+  <updated>2024-05-01T12:22:36.714203+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -737,6 +737,17 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-04-26T12:21:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/hr-Radtour-am-Stadtfestwochenende-zu-Gast-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64478.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>hr Radtour am Stadtfestwochenende zu Gast in Gießen</title>
+    <updated>2024-04-16T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/hr-Radtour-am-Stadtfestwochenende-zu-Gast-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64478.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-04-16T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-St%C3%A4dtebauf%C3%B6rderung-in-der-N%C3%B6rdlichen-Weststadt-am-4-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64480.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Tag der Städtebauförderung in der "Nördlichen Weststadt am 04. Mai</title>
     <updated>2024-04-16T11:10:00+02:00</updated>
@@ -900,17 +911,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Spatenstich-und-Richtfest-am-Campus-der-Zukunft-der-Justus-Liebig-Universit%C3%A4t-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64521.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-04-25T16:15:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wochenmarkt-von-1-Mai-einen-Tag-vorverlegt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64518.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wochenmarkt von 1. Mai einen Tag vorverlegt auf Dienstag</title>
-    <updated>2024-04-26T09:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wochenmarkt-von-1-Mai-einen-Tag-vorverlegt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64518.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-26T09:12:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stimmzettelschablone-f%C3%BCr-Blinde-und-Sehbehinderte-bei-der-Europawahl-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64522.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
