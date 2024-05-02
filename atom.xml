@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-02T13:12:52.767607+00:00</updated>
+  <updated>2024-05-02T14:11:31.789944+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -483,17 +483,6 @@
     <published>2024-04-27T00:52:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/</id>
-    <title>Nie wieder ist jetzt! - Rechte Gewalt gestern und heute | Doppelabend mit „Der Staat...</title>
-    <updated>2024-01-25T16:15:39+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/"/>
-    <published>2024-01-25T16:15:39+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/mit-freude-auf-risiko-gehen/</id>
     <title>Mit Freude auf Risiko gehen - Ein Porträt über Asia Safikhanova, Soloflötistin im Philharm...</title>
     <updated>2024-01-24T12:23:04+01:00</updated>
@@ -581,6 +570,17 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-ecke-stosst-man-auf-erinnerungen/"/>
     <published>2024-03-28T14:12:54+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/willkommen-im-komponistinnen-mai/</id>
+    <title>Willkommen im Komponistinnen-Mai! - Im Mai widmen wir uns in verschiedenen Veranstaltungen den W...</title>
+    <updated>2024-05-02T14:11:22.512252+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/willkommen-im-komponistinnen-mai/"/>
+    <published>2024-05-02T14:11:22.512252+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/</id>
