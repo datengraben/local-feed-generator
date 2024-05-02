@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-02T14:11:31.789944+00:00</updated>
+  <updated>2024-05-02T15:13:06.318039+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -574,13 +574,13 @@ Wenn du dich für Ausbildungsberufe interess...</title>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/willkommen-im-komponistinnen-mai/</id>
     <title>Willkommen im Komponistinnen-Mai! - Im Mai widmen wir uns in verschiedenen Veranstaltungen den W...</title>
-    <updated>2024-05-02T14:11:22.512252+02:00</updated>
+    <updated>2024-05-02T14:11:22+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/willkommen-im-komponistinnen-mai/"/>
-    <published>2024-05-02T14:11:22.512252+02:00</published>
+    <published>2024-05-02T14:11:22+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/</id>
@@ -724,28 +724,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/baelle-und-shirts-fuer-fussballmaedchen"/>
     <published>2024-05-02T13:12:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/hr-Radtour-am-Stadtfestwochenende-zu-Gast-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64478.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>hr Radtour am Stadtfestwochenende zu Gast in Gießen</title>
-    <updated>2024-04-16T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/hr-Radtour-am-Stadtfestwochenende-zu-Gast-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64478.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-16T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-St%C3%A4dtebauf%C3%B6rderung-in-der-N%C3%B6rdlichen-Weststadt-am-4-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64480.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Tag der Städtebauförderung in der "Nördlichen Weststadt am 04. Mai</title>
-    <updated>2024-04-16T11:10:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-St%C3%A4dtebauf%C3%B6rderung-in-der-N%C3%B6rdlichen-Weststadt-am-4-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64480.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-16T11:10:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kl%C3%A4rwerksf%C3%BChrungen-f%C3%BCr-Grundschulen-auch-in-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64488.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -999,5 +977,27 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Girls-und-Boys-Day-2024-bei-der-Stadtverwaltung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64535.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-04-30T16:15:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verbindungsweg-f%C3%BCr-Fu%C3%9Fg%C3%A4nger-im-Blumenviertel-wird-vor%C3%BCbergehend-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64543.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verbindungsweg für Fußgänger im Blumenviertel wird vorübergehend gesperrt</title>
+    <updated>2024-05-02T15:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verbindungsweg-f%C3%BCr-Fu%C3%9Fg%C3%A4nger-im-Blumenviertel-wird-vor%C3%BCbergehend-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64543.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-02T15:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenamt-trifft-Ma%C3%9Fnahmen-gegen-Eichenprozessionsspinner.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64544.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gartenamt trifft Maßnahmen gegen Eichenprozessionsspinner</title>
+    <updated>2024-05-02T15:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenamt-trifft-Ma%C3%9Fnahmen-gegen-Eichenprozessionsspinner.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64544.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-02T15:12:00+02:00</published>
   </entry>
 </feed>
