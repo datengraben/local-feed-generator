@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-03T16:16:06.496860+00:00</updated>
+  <updated>2024-05-04T09:13:00.553909+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -395,17 +395,6 @@
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Fritz-Klutes-Reisetageb%C3%BCcher-von-1912-wiederentdeckt-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64422.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Fritz Klutes Reisetagebücher von 1912 wiederentdeckt!</title>
-    <updated>2024-04-04T07:11:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Fritz-Klutes-Reisetageb%C3%BCcher-von-1912-wiederentdeckt-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64422.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2024-04-04T07:11:00+02:00</published>
-  </entry>
-  <entry>
     <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Neue-Sonderausstellung-im-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64424.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Neue Sonderausstellung im Oberhessischen Museum</title>
     <updated>2024-04-09T09:12:00+02:00</updated>
@@ -574,13 +563,13 @@ Wenn du dich für Ausbildungsberufe interess...</title>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einander-unter-die-haut-gehen/</id>
     <title>Einander unter die Haut gehen - Yi-Chun Liu und Sabina Moncys über Verschiebungen der Wahrne...</title>
-    <updated>2024-05-03T16:15:52.185993+02:00</updated>
+    <updated>2024-05-03T16:15:52+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einander-unter-die-haut-gehen/"/>
-    <published>2024-05-03T16:15:52.185993+02:00</published>
+    <published>2024-05-03T16:15:52+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/</id>
