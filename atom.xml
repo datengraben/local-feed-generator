@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-04T23:12:17.822908+00:00</updated>
+  <updated>2024-05-05T11:10:39.576645+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.asta-giessen.de/semesterticket_upgrade/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-06-27T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/semesterticket_upgrade/"/>
+    <published>2023-06-27T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8315-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-07-21T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8315-2/"/>
+    <published>2023-07-21T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8328-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-07-27T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8328-2/"/>
+    <published>2023-07-27T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8390-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-10-04T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8390-2/"/>
+    <published>2023-10-04T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8419-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-10-14T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8419-2/"/>
+    <published>2023-10-14T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8434-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-10-16T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8434-2/"/>
+    <published>2023-10-16T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/resolution_kfw_schuldenfalle/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-11-23T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/resolution_kfw_schuldenfalle/"/>
+    <published>2023-11-23T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/tvstud_aktionswoche_programm/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-11-27T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/tvstud_aktionswoche_programm/"/>
+    <published>2023-11-27T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8616-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-12-20T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8616-2/"/>
+    <published>2023-12-20T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8623-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-12-22T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8623-2/"/>
+    <published>2023-12-22T00:00:00+01:00</published>
+  </entry>
   <entry>
     <id>https://universum-giessen.com/2022/12/17/konsum-ohne-kontaktverlust-das-konzept-der-solawi/</id>
     <title>Konsum ohne Kontaktverlust – das Konzept der SoLaWi</title>
@@ -594,17 +704,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-05-03T12:21:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Feierstunde-f%C3%BCr-st%C3%A4dtische-Bedienstete.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64491.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Feierstunde für städtische Bedienstete</title>
-    <updated>2024-04-18T11:09:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Feierstunde-f%C3%BCr-st%C3%A4dtische-Bedienstete.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64491.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-18T11:09:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/34-Listen-auf-dem-Stimmzettel-f%C3%BCr-die-Europawahl-am-9-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64492.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>34 Listen auf dem Stimmzettel für die Europawahl am 9. Juni</title>
     <updated>2024-04-18T15:12:00+02:00</updated>
@@ -867,5 +966,16 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/UNICEF-Foto-Ausstellung-Kein-Wasser-f%C3%BCr-alle-im-Rathaus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64542.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-03T14:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-den-oberen-Seltersweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64546.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fernwärme für den oberen Seltersweg</title>
+    <updated>2024-05-05T11:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-den-oberen-Seltersweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64546.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-05T11:10:00+02:00</published>
   </entry>
 </feed>
