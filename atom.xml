@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-06T14:12:45.078448+00:00</updated>
+  <updated>2024-05-07T11:12:05.783457+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -461,17 +461,6 @@
     <published>2024-04-27T00:52:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wir-konnen-alles-sein/</id>
-    <title>Wir können alles sein! - Mezzosopran heißt die Frauenstimmlage zwischen Sopran und Al...</title>
-    <updated>2024-01-24T12:23:04+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-konnen-alles-sein/"/>
-    <published>2024-01-24T12:23:04+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/erinnerungsstucke/</id>
     <title>Erinnerungsstücke - Eine Fotoausstellung anlässlich der Neuproduktion „Xerxes“...</title>
     <updated>2024-02-01T15:10:57+01:00</updated>
@@ -537,6 +526,17 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-ecke-stosst-man-auf-erinnerungen/"/>
     <published>2024-03-28T14:12:54+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kulturpass-fur-jugendliche/</id>
+    <title>KulturPass für Jugendliche - Wir sind beim KulturPass dabei! Alle Jugendliche, die dieses...</title>
+    <updated>2024-05-07T11:11:52.887968+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kulturpass-fur-jugendliche/"/>
+    <published>2024-05-07T11:11:52.887968+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/willkommen-im-komponistinnen-mai/</id>
