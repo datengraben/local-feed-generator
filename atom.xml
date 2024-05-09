@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-07T16:14:16.772410+00:00</updated>
+  <updated>2024-05-09T12:22:25.033944+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -117,17 +117,6 @@
     <published>2023-12-22T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>https://universum-giessen.com/2022/12/17/konsum-ohne-kontaktverlust-das-konzept-der-solawi/</id>
-    <title>Konsum ohne Kontaktverlust – das Konzept der SoLaWi</title>
-    <updated>2022-12-17T10:59:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2022/12/17/konsum-ohne-kontaktverlust-das-konzept-der-solawi/"/>
-    <published>2022-12-17T10:59:00+01:00</published>
-  </entry>
-  <entry>
     <id>https://universum-giessen.com/2023/01/18/universum-testet-abendmensa/</id>
     <title>Universum testet – Abendmensa</title>
     <updated>2023-01-18T10:59:00+01:00</updated>
@@ -225,6 +214,17 @@
     </author>
     <link href="https://universum-giessen.com/2024/05/02/die-model-un-holt-weltpolitik-nach-giessen/"/>
     <published>2024-05-02T20:13:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2024/05/09/der-traum-von-der-rakete-studis-der-jlu-thm-auf-investorensuche-beim-capital-contest-2024/</id>
+    <title>Der Traum von der Rakete – Studis der JLU &amp; THM auf Investorensuche beim Capital Contest 2024</title>
+    <updated>2024-05-09T12:22:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2024/05/09/der-traum-von-der-rakete-studis-der-jlu-thm-auf-investorensuche-beim-capital-contest-2024/"/>
+    <published>2024-05-09T12:22:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Trinkbrunnen-sprudeln-wieder.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.58274.1&amp;NavID=2874.584&amp;La=1</id>
@@ -924,17 +924,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-05-05T11:10:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Europawahl-2024-wichtige-Termine-f%C3%BCr-EU-B%C3%BCrger-innen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64547.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Europawahl 2024: wichtige Termine für EU-Bürger/innen</title>
-    <updated>2024-05-06T06:16:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Europawahl-2024-wichtige-Termine-f%C3%BCr-EU-B%C3%BCrger-innen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64547.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-06T06:16:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lesung-im-Rathaus-Unsere-Geschichten-Die-Flucht-in-eine-fremde-Heimat.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64553.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Lesung im Rathaus: Unsere Geschichten - Die Flucht in eine fremde Heimat</title>
     <updated>2024-05-06T14:12:00+02:00</updated>
@@ -977,5 +966,16 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gastgeber-f%C3%BCr-junge-Menschen-aus-unserer-Projektpartnerstadt-Swakopmund-Namibia-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64389.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-07T16:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Europawahl-2024-wichtige-Termine-f%C3%BCr-EU-B%C3%BCrger-innen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64547.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Europawahl 2024: wichtige Termine für EU-Bürger/innen</title>
+    <updated>2024-05-06T06:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Europawahl-2024-wichtige-Termine-f%C3%BCr-EU-B%C3%BCrger-innen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64547.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-06T06:16:00+02:00</published>
   </entry>
 </feed>
