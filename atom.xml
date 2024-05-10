@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-09T12:22:25.033944+00:00</updated>
+  <updated>2024-05-10T11:11:24.820938+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -496,7 +496,7 @@ Wenn du dich für Ausbildungsberufe interess...</title>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 7. Mai - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
+    <title>Theatertag am 6. Juni - Am Theatertag kosten alle Tickets 15 Euro - egal auf welchem...</title>
     <updated>2023-12-15T17:11:05+01:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -702,28 +702,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/fernwaerme-fuer-den-oberen-seltersweg"/>
     <published>2024-05-03T12:21:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorbereitungen-der-Europawahl-laufen-auf-Hochtouren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64501.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Vorbereitungen der Europawahl laufen auf Hochtouren</title>
-    <updated>2024-04-23T14:11:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorbereitungen-der-Europawahl-laufen-auf-Hochtouren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64501.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-23T14:11:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-drei-Schw%C3%A4tzer-f%C3%BCr-Zuhause-beliebtes-Motiv-jetzt-auf-einer-Baumwoll-Tasche.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64514.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Die drei Schwätzer für Zuhause - beliebtes Motiv jetzt auf einer Baumwoll-Tasche</title>
-    <updated>2024-04-24T13:18:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-drei-Schw%C3%A4tzer-f%C3%BCr-Zuhause-beliebtes-Motiv-jetzt-auf-einer-Baumwoll-Tasche.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64514.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-24T13:18:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Wochenmarktbeschicker-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64517.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -977,5 +955,27 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Europawahl-2024-wichtige-Termine-f%C3%BCr-EU-B%C3%BCrger-innen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64547.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-06T06:16:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-StadtRaumB%C3%BChne-ist-wieder-unterwegs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64581.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Die StadtRaumBühne ist wieder unterwegs</title>
+    <updated>2024-05-10T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-StadtRaumB%C3%BChne-ist-wieder-unterwegs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64581.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-10T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wahlbenachrichtigungen-landen-in-den-Briefk%C3%A4sten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64582.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wahlbenachrichtigungen landen in den Briefkästen</title>
+    <updated>2024-05-10T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wahlbenachrichtigungen-landen-in-den-Briefk%C3%A4sten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64582.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-10T11:11:00+02:00</published>
   </entry>
 </feed>
