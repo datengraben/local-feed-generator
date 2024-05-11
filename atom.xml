@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-10T14:11:22.663587+00:00</updated>
+  <updated>2024-05-11T00:54:15.887567+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -459,6 +459,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_9609_1.PDF?1714042332"/>
     <published>2024-04-27T00:52:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_9715_1.PDF?1715339617</id>
+    <title>Neues Mitglied in der Stadtverordnetenversammlung</title>
+    <updated>2024-05-11T00:54:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_9715_1.PDF?1715339617"/>
+    <published>2024-05-11T00:54:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/erinnerungsstucke/</id>
