@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-15T13:14:46.025937+00:00</updated>
+  <updated>2024-05-15T15:12:07.213254+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -572,17 +572,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-02-02T15:11:53+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/kaufmaennischer-vorstand-verlaesst-die-swg</id>
-    <title>Kaufmännischer Vorstand verlässt die SWG</title>
-    <updated>2024-03-14T15:29:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/kaufmaennischer-vorstand-verlaesst-die-swg"/>
-    <published>2024-03-14T15:29:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/fernwaerme-heizenergie-fuer-die-zukunft</id>
     <title>Fernwärme: Heizenergie für die Zukunft</title>
     <updated>2024-03-19T15:12:00+01:00</updated>
@@ -704,48 +693,15 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-05-10T14:11:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oberb%C3%BCrgermeister-Becher-zum-Erhalt-von-Karstadt-Gie%C3%9Fen-Gro%C3%9Fe-Erleichterung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64529.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Oberbürgermeister Becher zum Erhalt von Karstadt Gießen: Große Erleichterung</title>
-    <updated>2024-04-28T08:16:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/erneute-warnstreiks-im-nahverkehr</id>
+    <title>Erneute Warnstreiks im Nahverkehr</title>
+    <updated>2024-05-15T15:11:00+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oberb%C3%BCrgermeister-Becher-zum-Erhalt-von-Karstadt-Gie%C3%9Fen-Gro%C3%9Fe-Erleichterung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64529.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-28T08:16:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/In-Gie%C3%9Fen-beginnt-die-Freibadsaison.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64524.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>In Gießen beginnt die Freibadsaison</title>
-    <updated>2024-04-29T06:16:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/In-Gie%C3%9Fen-beginnt-die-Freibadsaison.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64524.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-29T06:16:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hessische-Theatertage-2024-und-MADE-Festival-am-Stadttheater-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64530.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Hessische Theatertage 2024 und MADE.Festival am Stadttheater Gießen</title>
-    <updated>2024-04-29T08:16:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hessische-Theatertage-2024-und-MADE-Festival-am-Stadttheater-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64530.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-29T08:16:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-neue-Stadtf%C3%BChrungsprogramm-ist-da.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64533.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Das neue Stadtführungsprogramm ist da</title>
-    <updated>2024-04-30T08:16:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-neue-Stadtf%C3%BChrungsprogramm-ist-da.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64533.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-30T08:16:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/erneute-warnstreiks-im-nahverkehr"/>
+    <published>2024-05-15T15:11:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Universit%C3%A4tsstadt-Gie%C3%9Fen-f%C3%BChrt-WhatsApp-Kanal-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64534.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -977,5 +933,49 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-f%C3%B6rdert-m%C3%B6gliche-Ballsporthalle.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64602.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-15T12:24:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-eigene-Garten-als-Oase-f%C3%BCr-Wildbienen-und-andere-Insekten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64613.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Der eigene Garten als Oase für Wildbienen und andere Insekten</title>
+    <updated>2024-05-15T15:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-eigene-Garten-als-Oase-f%C3%BCr-Wildbienen-und-andere-Insekten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64613.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-15T15:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-zweite-Ausgabe-des-Urlaubsmagazins-LahntalLiebe-macht-Lust-auf-eine-Auszeit-im-Lahntal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64614.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Die zweite Ausgabe des Urlaubsmagazins #LahntalLiebe macht Lust auf eine Auszeit im Lahntal</title>
+    <updated>2024-05-15T15:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-zweite-Ausgabe-des-Urlaubsmagazins-LahntalLiebe-macht-Lust-auf-eine-Auszeit-im-Lahntal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64614.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-15T15:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einrichtung-einer-Einbahnstra%C3%9Fe-im-Bereich-der-Eder-und-Fuldastra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64612.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Einrichtung einer Einbahnstraße im Bereich der Eder- und Fuldastraße</title>
+    <updated>2024-05-15T15:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einrichtung-einer-Einbahnstra%C3%9Fe-im-Bereich-der-Eder-und-Fuldastra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64612.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-15T15:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lokale-Unterst%C3%BCtzer-innen-f%C3%BCr-die-Gie%C3%9Fener-Kulturnacht-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64611.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Lokale Unterstützer*innen für die Gießener Kulturnacht 2024</title>
+    <updated>2024-05-15T15:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lokale-Unterst%C3%BCtzer-innen-f%C3%BCr-die-Gie%C3%9Fener-Kulturnacht-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64611.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-15T15:11:00+02:00</published>
   </entry>
 </feed>
