@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-14T07:12:40.275063+00:00</updated>
+  <updated>2024-05-15T08:15:50.588893+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -704,17 +704,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-05-10T14:11:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stimmzettelschablone-f%C3%BCr-Blinde-und-Sehbehinderte-bei-der-Europawahl-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64522.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stimmzettelschablone für Blinde und Sehbehinderte bei der Europawahl 2024</title>
-    <updated>2024-04-26T10:13:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stimmzettelschablone-f%C3%BCr-Blinde-und-Sehbehinderte-bei-der-Europawahl-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64522.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-04-26T10:13:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Russischer-Raketenangriff-trifft-ukrainische-Partnerkommune-des-Landkreises-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64523.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Russischer Raketenangriff trifft ukrainische Partnerkommune des Landkreises Gießen</title>
     <updated>2024-04-26T11:10:00+02:00</updated>
@@ -977,5 +966,16 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Planetary-Times-Summer-Workshop-Bioreaktoren-und-Biosph%C3%A4ren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64593.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-13T18:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wahlen-Schutz-vor-hybriden-Bedrohungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64600.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wahlen: Schutz vor hybriden Bedrohungen</title>
+    <updated>2024-05-15T08:15:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wahlen-Schutz-vor-hybriden-Bedrohungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64600.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-15T08:15:00+02:00</published>
   </entry>
 </feed>
