@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-16T08:13:09.107697+00:00</updated>
+  <updated>2024-05-16T10:13:10.150616+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -726,28 +726,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-05-15T15:11:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenamt-trifft-Ma%C3%9Fnahmen-gegen-Eichenprozessionsspinner.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64544.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gartenamt trifft Maßnahmen gegen Eichenprozessionsspinner</title>
-    <updated>2024-05-02T15:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenamt-trifft-Ma%C3%9Fnahmen-gegen-Eichenprozessionsspinner.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64544.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-02T15:12:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%9Cber-200-Veranstaltungen-beim-Ferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64545.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Über 200 Veranstaltungen beim Ferienprogramm der Universitätsstadt Gießen</title>
-    <updated>2024-05-03T11:10:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%9Cber-200-Veranstaltungen-beim-Ferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64545.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-03T11:10:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/UNICEF-Foto-Ausstellung-Kein-Wasser-f%C3%BCr-alle-im-Rathaus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64542.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>UNICEF-Foto-Ausstellung "(Kein) Wasser für alle!" im Rathaus</title>
     <updated>2024-05-03T14:12:00+02:00</updated>
@@ -999,5 +977,27 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erneute-Warnstreiks-im-Nahverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64618.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-16T08:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundesweite-Auftaktveranstaltung-des-F%C3%B6rderprogramms-Bildung-Wirtschaft-Arbeit-im-Quartier-BIWAQ-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64619.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bundesweite Auftaktveranstaltung des Förderprogramms "Bildung, Wirtschaft, Arbeit im Quartier - BIWAQ"</title>
+    <updated>2024-05-16T10:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundesweite-Auftaktveranstaltung-des-F%C3%B6rderprogramms-Bildung-Wirtschaft-Arbeit-im-Quartier-BIWAQ-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64619.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-16T10:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tanzperformance-in-der-Kunsthalle-zur-Kulturnacht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64620.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Tanzperformance in der Kunsthalle zur Kulturnacht</title>
+    <updated>2024-05-16T10:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tanzperformance-in-der-Kunsthalle-zur-Kulturnacht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64620.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-16T10:12:00+02:00</published>
   </entry>
 </feed>
