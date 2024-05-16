@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-16T11:11:34.379492+00:00</updated>
+  <updated>2024-05-16T16:15:01.859989+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -494,15 +494,15 @@
     <published>2024-05-16T00:55:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/erinnerungsstucke/</id>
-    <title>Erinnerungsstücke - Eine Fotoausstellung anlässlich der Neuproduktion „Xerxes“...</title>
-    <updated>2024-02-01T15:10:57+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/</id>
+    <title>Nie wieder ist jetzt! - Rechte Gewalt gestern und heute | Doppelabend mit „Der Staat...</title>
+    <updated>2024-05-16T16:14:49.260311+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/erinnerungsstucke/"/>
-    <published>2024-02-01T15:10:57+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/"/>
+    <published>2024-05-16T16:14:49.260311+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/</id>
@@ -514,29 +514,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/"/>
     <published>2024-03-05T15:11:21+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zukunftstag/</id>
-    <title>Zukunftstag am 25.4. - Jetzt kommst Du!
-Wenn du dich für Ausbildungsberufe interess...</title>
-    <updated>2024-03-02T11:10:05+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zukunftstag/"/>
-    <published>2024-03-02T11:10:05+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 6. Juni - Am Theatertag kosten alle Tickets 15 Euro - egal auf welchem...</title>
-    <updated>2023-12-15T17:11:05+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2023-12-15T17:11:05+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einmal-singen-wie-die-profis/</id>
@@ -561,17 +538,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-03-28T14:12:54+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kulturpass-fur-jugendliche/</id>
-    <title>KulturPass für Jugendliche - Wir sind beim KulturPass dabei! Alle Jugendliche, die dieses...</title>
-    <updated>2024-05-07T11:11:52+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kulturpass-fur-jugendliche/"/>
-    <published>2024-05-07T11:11:52+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/willkommen-im-komponistinnen-mai/</id>
     <title>Willkommen im Komponistinnen-Mai! - Im Mai widmen wir uns in verschiedenen Veranstaltungen den W...</title>
     <updated>2024-05-02T14:11:22+02:00</updated>
@@ -592,6 +558,39 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einander-unter-die-haut-gehen/"/>
     <published>2024-05-03T16:15:52+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 6. Juni - Am Theatertag kosten alle Tickets 15 Euro - egal auf welchem...</title>
+    <updated>2023-12-15T17:11:05+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2023-12-15T17:11:05+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kulturpass-fur-jugendliche/</id>
+    <title>KulturPass für Jugendliche - Wir sind beim KulturPass dabei! Alle Jugendliche, die dieses...</title>
+    <updated>2024-05-07T11:11:52+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kulturpass-fur-jugendliche/"/>
+    <published>2024-05-07T11:11:52+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wir-suchen-dich-als-jurymitglied-der-hessischen-theatertage-2024/</id>
+    <title>Wir suchen dich als Jurymitglied der Hessischen Theatertage 2024 - Die Jury der Hessischen Theatertage 2024 wird durch zwei gel...</title>
+    <updated>2024-05-16T16:14:49.260311+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-suchen-dich-als-jurymitglied-der-hessischen-theatertage-2024/"/>
+    <published>2024-05-16T16:14:49.260311+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/</id>
