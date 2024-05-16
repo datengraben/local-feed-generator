@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-16T10:13:10.150616+00:00</updated>
+  <updated>2024-05-16T11:11:34.379492+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -417,6 +417,17 @@
     <published>2024-04-25T13:10:00+02:00</published>
   </entry>
   <entry>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/%C3%96ffnungszeiten-des-Oberhessischen-Museums-an-Pfingsten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64622.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <title>Öffnungszeiten des Oberhessischen Museums über Pfingsten</title>
+    <updated>2024-05-15T11:11:00+02:00</updated>
+    <author>
+      <name>Oberhessisches Museum</name>
+      <email>museum@giessen.de</email>
+    </author>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/%C3%96ffnungszeiten-des-Oberhessischen-Museums-an-Pfingsten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64622.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <published>2024-05-15T11:11:00+02:00</published>
+  </entry>
+  <entry>
     <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Internationaler-Museumstag-in-Gie%C3%9Fen-am-Sonntag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64617.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Internationaler Museumstag am Sonntag in Gießen</title>
     <updated>2024-05-16T08:12:00+02:00</updated>
@@ -726,28 +737,6 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-05-15T15:11:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/UNICEF-Foto-Ausstellung-Kein-Wasser-f%C3%BCr-alle-im-Rathaus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64542.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>UNICEF-Foto-Ausstellung "(Kein) Wasser für alle!" im Rathaus</title>
-    <updated>2024-05-03T14:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/UNICEF-Foto-Ausstellung-Kein-Wasser-f%C3%BCr-alle-im-Rathaus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64542.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-03T14:12:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-den-oberen-Seltersweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64546.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Fernwärme für den oberen Seltersweg</title>
-    <updated>2024-05-05T11:10:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-den-oberen-Seltersweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64546.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-05T11:10:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lesung-im-Rathaus-Unsere-Geschichten-Die-Flucht-in-eine-fremde-Heimat.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64553.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Lesung im Rathaus: Unsere Geschichten - Die Flucht in eine fremde Heimat</title>
     <updated>2024-05-06T14:12:00+02:00</updated>
@@ -946,6 +935,17 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     <published>2024-05-15T15:11:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%96ffnungszeiten-des-Oberhessischen-Museums-an-Pfingsten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64622.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Öffnungszeiten des Oberhessischen Museums über Pfingsten</title>
+    <updated>2024-05-15T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%96ffnungszeiten-des-Oberhessischen-Museums-an-Pfingsten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64622.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-15T11:11:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Stars-und-Programm-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64616.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>STADTRADELN-Stars und Programm in Gießen</title>
     <updated>2024-05-16T08:12:00+02:00</updated>
@@ -999,5 +999,16 @@ Wenn du dich für Ausbildungsberufe interess...</title>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tanzperformance-in-der-Kunsthalle-zur-Kulturnacht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64620.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-16T10:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sanierung-von-%C3%BCber-100-j%C3%A4hrigen-Kan%C3%A4len.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64621.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sanierung von über 100-jährigen Kanälen</title>
+    <updated>2024-05-16T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sanierung-von-%C3%BCber-100-j%C3%A4hrigen-Kan%C3%A4len.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64621.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-16T11:11:00+02:00</published>
   </entry>
 </feed>
