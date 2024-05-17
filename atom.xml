@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-17T10:13:20.340814+00:00</updated>
+  <updated>2024-05-17T11:11:26.129472+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -604,28 +604,6 @@
     <published>2024-02-02T15:11:53+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/fernwaerme-heizenergie-fuer-die-zukunft</id>
-    <title>Fernwärme: Heizenergie für die Zukunft</title>
-    <updated>2024-03-19T15:12:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/fernwaerme-heizenergie-fuer-die-zukunft"/>
-    <published>2024-03-19T15:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/neue-ausruestung-fuer-fussballnachwuchs</id>
-    <title>Neue Ausrüstung für Fußballnachwuchs</title>
-    <updated>2024-03-27T12:21:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/neue-ausruestung-fuer-fussballnachwuchs"/>
-    <published>2024-03-27T12:21:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/linie-3-kann-haltestelle-schwarzacker-nicht-anfahren</id>
     <title>Linie 3 kann Haltestelle „Schwarzacker“ nicht anfahren</title>
     <updated>2024-03-28T10:12:00+01:00</updated>
@@ -734,6 +712,28 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/erneute-warnstreiks-im-nahverkehr"/>
     <published>2024-05-15T15:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/buslinie-2-wird-umgeleitet</id>
+    <title>Buslinie 2 wird umgeleitet</title>
+    <updated>2024-05-17T11:11:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/buslinie-2-wird-umgeleitet"/>
+    <published>2024-05-17T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/swg-warnen-vor-mutmasslichem-betrueger</id>
+    <title>SWG warnen vor mutmaßlichem Betrüger</title>
+    <updated>2024-05-17T11:11:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/swg-warnen-vor-mutmasslichem-betrueger"/>
+    <published>2024-05-17T11:11:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-DIVERSE-STADT-zahlreiche-Aktivit%C3%A4ten-der-Stadtverwaltung-zu-Diversity-Pride-Month-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64562.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
