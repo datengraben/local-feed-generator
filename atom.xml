@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-16T16:15:01.859989+00:00</updated>
+  <updated>2024-05-17T10:13:20.340814+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -496,13 +496,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/</id>
     <title>Nie wieder ist jetzt! - Rechte Gewalt gestern und heute | Doppelabend mit „Der Staat...</title>
-    <updated>2024-05-16T16:14:49.260311+02:00</updated>
+    <updated>2024-05-16T16:14:49+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/"/>
-    <published>2024-05-16T16:14:49.260311+02:00</published>
+    <published>2024-05-16T16:14:49+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/</id>
@@ -584,13 +584,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wir-suchen-dich-als-jurymitglied-der-hessischen-theatertage-2024/</id>
     <title>Wir suchen dich als Jurymitglied der Hessischen Theatertage 2024 - Die Jury der Hessischen Theatertage 2024 wird durch zwei gel...</title>
-    <updated>2024-05-16T16:14:49.260311+02:00</updated>
+    <updated>2024-05-16T16:14:49+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-suchen-dich-als-jurymitglied-der-hessischen-theatertage-2024/"/>
-    <published>2024-05-16T16:14:49.260311+02:00</published>
+    <published>2024-05-16T16:14:49+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/</id>
@@ -734,17 +734,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/erneute-warnstreiks-im-nahverkehr"/>
     <published>2024-05-15T15:11:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lesung-im-Rathaus-Unsere-Geschichten-Die-Flucht-in-eine-fremde-Heimat.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64553.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Lesung im Rathaus: Unsere Geschichten - Die Flucht in eine fremde Heimat</title>
-    <updated>2024-05-06T14:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lesung-im-Rathaus-Unsere-Geschichten-Die-Flucht-in-eine-fremde-Heimat.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64553.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-06T14:12:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-DIVERSE-STADT-zahlreiche-Aktivit%C3%A4ten-der-Stadtverwaltung-zu-Diversity-Pride-Month-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64562.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -1001,7 +990,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sanierung-von-%C3%BCber-100-j%C3%A4hrigen-Kan%C3%A4len.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64621.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Sanierung von über 100-jährigen Kanälen</title>
+    <title>Sanierung von über 100-jährigen Kanälen und Straßenerneuerung</title>
     <updated>2024-05-16T11:11:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
@@ -1009,5 +998,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sanierung-von-%C3%BCber-100-j%C3%A4hrigen-Kan%C3%A4len.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64621.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-16T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Besuch-aus-Partnerstadt-Wenzhou.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64627.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Besuch aus Partnerstadt Wenzhou</title>
+    <updated>2024-05-17T10:13:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Besuch-aus-Partnerstadt-Wenzhou.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64627.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-17T10:13:00+02:00</published>
   </entry>
 </feed>
