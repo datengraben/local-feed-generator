@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-17T11:11:26.129472+00:00</updated>
+  <updated>2024-05-17T12:21:58.893839+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -494,17 +494,6 @@
     <published>2024-05-16T00:55:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/</id>
-    <title>Nie wieder ist jetzt! - Rechte Gewalt gestern und heute | Doppelabend mit „Der Staat...</title>
-    <updated>2024-05-16T16:14:49+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nie-wieder-ist-jetzt/"/>
-    <published>2024-05-16T16:14:49+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/</id>
     <title>Explosive Mischung - Der Destroy Preis verspricht etwas Glamour nach Gießen zu br...</title>
     <updated>2024-03-05T15:11:21+01:00</updated>
@@ -569,6 +558,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
     <published>2023-12-15T17:11:05+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/interviewpartner-innen-fur-theaterproduktion-gesucht/</id>
+    <title>Interviewpartner*innen für Theaterproduktion gesucht - Interviewees wanted for theatre production. / In der Spielze...</title>
+    <updated>2024-05-17T12:21:46.234171+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/interviewpartner-innen-fur-theaterproduktion-gesucht/"/>
+    <published>2024-05-17T12:21:46.234171+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/kulturpass-fur-jugendliche/</id>
@@ -734,28 +734,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/swg-warnen-vor-mutmasslichem-betrueger"/>
     <published>2024-05-17T11:11:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-DIVERSE-STADT-zahlreiche-Aktivit%C3%A4ten-der-Stadtverwaltung-zu-Diversity-Pride-Month-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64562.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>"DIVERSE STADT" - zahlreiche Aktivitäten der Stadtverwaltung zu "Diversity &amp; Pride Month"</title>
-    <updated>2024-05-07T15:11:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-DIVERSE-STADT-zahlreiche-Aktivit%C3%A4ten-der-Stadtverwaltung-zu-Diversity-Pride-Month-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64562.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-07T15:11:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-stellt-Jahresabschluss-2023-vor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64563.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Bürgermeister Wright stellt Jahresabschluss 2023 vor</title>
-    <updated>2024-05-07T16:14:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-stellt-Jahresabschluss-2023-vor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64563.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-07T16:14:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gastgeber-f%C3%BCr-junge-Menschen-aus-unserer-Projektpartnerstadt-Swakopmund-Namibia-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64389.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -1009,5 +987,27 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Besuch-aus-Partnerstadt-Wenzhou.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64627.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-17T10:13:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinie-2-wird-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64630.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Buslinie 2 wird umgeleitet</title>
+    <updated>2024-05-17T12:21:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinie-2-wird-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64630.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-17T12:21:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-warnen-vor-mutma%C3%9Flichem-Betr%C3%BCger.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64631.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtwerke Gießen warnen vor mutmaßlichem Betrüger</title>
+    <updated>2024-05-17T12:21:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-warnen-vor-mutma%C3%9Flichem-Betr%C3%BCger.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64631.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-17T12:21:00+02:00</published>
   </entry>
 </feed>
