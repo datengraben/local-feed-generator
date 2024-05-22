@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-21T11:11:46.357324+00:00</updated>
+  <updated>2024-05-22T10:13:39.047896+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -483,6 +483,17 @@
     <published>2024-05-16T00:55:00+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/</id>
+    <title>Explosive Mischung - Der Destroy Preis verspricht etwas Glamour nach Gießen zu br...</title>
+    <updated>2024-05-22T10:13:23.340045+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/"/>
+    <published>2024-05-22T10:13:23.340045+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einmal-singen-wie-die-profis/</id>
     <title>Einmal Singen wie die Profis - Im Interview geben uns Freya und Price Einblicke in die Arbe...</title>
     <updated>2024-03-28T13:12:32+01:00</updated>
@@ -560,17 +571,6 @@
     <published>2024-05-17T12:21:46+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wir-suchen-dich-als-jurymitglied-der-hessischen-theatertage-2024/</id>
-    <title>Wir suchen dich als Jurymitglied der Hessischen Theatertage 2024 - Die Jury der Hessischen Theatertage 2024 wird durch zwei gel...</title>
-    <updated>2024-05-16T16:14:49+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-suchen-dich-als-jurymitglied-der-hessischen-theatertage-2024/"/>
-    <published>2024-05-16T16:14:49+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/neue-spielzeit-2024-2025/</id>
     <title>Neue Spielzeit 2024/2025 - Neugierig? Durchstöbert jetzt unsere Website für Infos zu de...</title>
     <updated>2024-05-17T14:12:02+02:00</updated>
@@ -591,17 +591,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/"/>
     <published>2024-02-02T15:11:53+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/linie-3-kann-haltestelle-schwarzacker-nicht-anfahren</id>
-    <title>Linie 3 kann Haltestelle „Schwarzacker“ nicht anfahren</title>
-    <updated>2024-03-28T10:12:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/linie-3-kann-haltestelle-schwarzacker-nicht-anfahren"/>
-    <published>2024-03-28T10:12:00+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-nachtbuslinie-venus</id>
@@ -723,6 +712,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/swg-warnen-vor-mutmasslichem-betrueger"/>
     <published>2024-05-17T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/erlebnispaedagogische-spiele-fuer-die-herderschule</id>
+    <title>Erlebnispädagogische Spiele für die Herderschule</title>
+    <updated>2024-05-22T10:13:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/erlebnispaedagogische-spiele-fuer-die-herderschule"/>
+    <published>2024-05-22T10:13:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-StadtRaumB%C3%BChne-ist-wieder-unterwegs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64581.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
