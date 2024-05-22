@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-22T10:13:39.047896+00:00</updated>
+  <updated>2024-05-22T12:23:41.668607+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -485,13 +485,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/</id>
     <title>Explosive Mischung - Der Destroy Preis verspricht etwas Glamour nach Gießen zu br...</title>
-    <updated>2024-05-22T10:13:23.340045+02:00</updated>
+    <updated>2024-05-22T10:13:23+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/"/>
-    <published>2024-05-22T10:13:23.340045+02:00</published>
+    <published>2024-05-22T10:13:23+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einmal-singen-wie-die-profis/</id>
@@ -723,28 +723,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/erlebnispaedagogische-spiele-fuer-die-herderschule"/>
     <published>2024-05-22T10:13:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-StadtRaumB%C3%BChne-ist-wieder-unterwegs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64581.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Die StadtRaumBühne ist wieder unterwegs</title>
-    <updated>2024-05-10T11:11:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-StadtRaumB%C3%BChne-ist-wieder-unterwegs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64581.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-10T11:11:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wahlbenachrichtigungen-landen-in-den-Briefk%C3%A4sten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64582.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wahlbenachrichtigungen landen in den Briefkästen</title>
-    <updated>2024-05-10T11:11:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wahlbenachrichtigungen-landen-in-den-Briefk%C3%A4sten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64582.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-10T11:11:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freie-Termine-f%C3%BCr-Trauungen-auf-der-Lahn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64586.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -998,5 +976,27 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Spieleabend-in-der-Stadtbibliothek-im-Rahmen-der-ersten-Gie%C3%9Fener-Kulturnacht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64633.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-21T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Stars-und-Programm-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64641.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>STADTRADELN: Stars und Programm in Gießen</title>
+    <updated>2024-05-22T12:23:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Stars-und-Programm-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64641.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-22T12:23:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Universit%C3%A4tsstadt-Gie%C3%9Fen-f%C3%BChrt-WhatsApp-Kanal-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64534.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Universitätsstadt Gießen führt WhatsApp-Kanal ein</title>
+    <updated>2024-05-22T12:23:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Universit%C3%A4tsstadt-Gie%C3%9Fen-f%C3%BChrt-WhatsApp-Kanal-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64534.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-22T12:23:00+02:00</published>
   </entry>
 </feed>
