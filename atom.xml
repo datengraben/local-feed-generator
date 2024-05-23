@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-23T10:14:34.719692+00:00</updated>
+  <updated>2024-05-23T11:12:23.314720+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -593,17 +593,6 @@
     <published>2024-02-02T15:11:53+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-buslinie-1-1</id>
-    <title>Umleitung für Buslinie 1</title>
-    <updated>2024-04-04T12:20:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-buslinie-1-1"/>
-    <published>2024-04-04T12:20:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/die-passende-heizung</id>
     <title>Die passende Heizung</title>
     <updated>2024-04-23T11:10:00+02:00</updated>
@@ -723,6 +712,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/gruener-strom-vom-dach"/>
     <published>2024-05-22T14:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/mit-dem-bus-zum-basilika-konzert</id>
+    <title>Mit dem Bus zum Basilika-Konzert</title>
+    <updated>2024-05-23T11:12:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/mit-dem-bus-zum-basilika-konzert"/>
+    <published>2024-05-23T11:12:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freie-Termine-f%C3%BCr-Trauungen-auf-der-Lahn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64586.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
