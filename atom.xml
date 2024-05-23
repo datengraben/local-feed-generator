@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-22T14:11:52.364156+00:00</updated>
+  <updated>2024-05-23T00:55:46.465270+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -725,6 +725,17 @@
     <published>2024-05-22T14:11:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wahlbenachrichtigungen-landen-in-den-Briefk%C3%A4sten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64582.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wahlbenachrichtigungen landen in den Briefkästen</title>
+    <updated>2024-05-10T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wahlbenachrichtigungen-landen-in-den-Briefk%C3%A4sten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64582.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-10T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freie-Termine-f%C3%BCr-Trauungen-auf-der-Lahn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64586.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Freie Termine für Trauungen auf der Lahn</title>
     <updated>2024-05-13T10:13:00+02:00</updated>
@@ -954,17 +965,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Gie%C3%9Fen-pr%C3%A4sentiert-Spielzeit-2024-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64632.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-20T05:13:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erneute-Warnstreiks-im-Nahverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64618.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Erneute Warnstreiks im Nahverkehr</title>
-    <updated>2024-05-16T08:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erneute-Warnstreiks-im-Nahverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64618.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-16T08:12:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Spieleabend-in-der-Stadtbibliothek-im-Rahmen-der-ersten-Gie%C3%9Fener-Kulturnacht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64633.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
