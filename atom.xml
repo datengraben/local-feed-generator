@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-23T12:23:51.010575+00:00</updated>
+  <updated>2024-05-23T13:14:08.697058+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -725,28 +725,6 @@
     <published>2024-05-23T11:12:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gabelsbergerstra%C3%9Fe-muss-stadtausw%C3%A4rts-gesperrt-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64587.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gabelsbergerstraße muss stadtauswärts gesperrt werden</title>
-    <updated>2024-05-13T07:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gabelsbergerstra%C3%9Fe-muss-stadtausw%C3%A4rts-gesperrt-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64587.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-13T07:12:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-der-Wegwerfgesellschaft-zur-Kreislaufwirtschaft.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64592.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Von der Wegwerfgesellschaft zur Kreislaufwirtschaft</title>
-    <updated>2024-05-13T16:17:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-der-Wegwerfgesellschaft-zur-Kreislaufwirtschaft.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64592.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-13T16:17:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Planetary-Times-Summer-Workshop-Bioreaktoren-und-Biosph%C3%A4ren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64593.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Planetary Times Summer Workshop: Bioreaktoren und Biosphären</title>
     <updated>2024-05-13T18:14:00+02:00</updated>
@@ -998,5 +976,27 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bestens-qualifiziert-f%C3%BCr-die-Kindertagespflege.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64651.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-23T12:23:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Baustelle-Westanlage-Gabelsbergerstra%C3%9Fe-f%C3%BChrte-zu-Staus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64652.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Staus rund um die Baustelle Westanlage/Gabelsbergerstraße</title>
+    <updated>2024-05-23T13:13:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Baustelle-Westanlage-Gabelsbergerstra%C3%9Fe-f%C3%BChrte-zu-Staus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64652.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-23T13:13:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/75-Jahre-Grundgesetz-Beflaggung-zum-Jahrestag-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.12487.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>75 Jahre Grundgesetz: Beflaggung zum Jahrestag </title>
+    <updated>2024-05-23T13:13:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/75-Jahre-Grundgesetz-Beflaggung-zum-Jahrestag-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.12487.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-23T13:13:00+02:00</published>
   </entry>
 </feed>
