@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-23T17:13:11.562648+00:00</updated>
+  <updated>2024-05-24T10:13:41.747670+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -551,13 +551,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/klima-taler-wir-sind-dabei/</id>
     <title>Klima-Taler: Wir sind dabei! - Für 7 gesammelte Klima-Taler erhalten Sie eine Eintrittskart...</title>
-    <updated>2024-05-23T17:12:57.575700+02:00</updated>
+    <updated>2024-05-23T17:12:57+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/klima-taler-wir-sind-dabei/"/>
-    <published>2024-05-23T17:12:57.575700+02:00</published>
+    <published>2024-05-23T17:12:57+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/interviewpartner-innen-fur-theaterproduktion-gesucht/</id>
@@ -978,17 +978,6 @@
     <published>2024-05-23T13:13:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/75-Jahre-Grundgesetz-Beflaggung-zum-Jahrestag-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.12487.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>75 Jahre Grundgesetz: Beflaggung zum Jahrestag </title>
-    <updated>2024-05-23T13:13:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/75-Jahre-Grundgesetz-Beflaggung-zum-Jahrestag-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.12487.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-23T13:13:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mit-dem-Bus-zum-Basilika-Konzert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64653.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Mit dem Bus zum Basilika-Konzert</title>
     <updated>2024-05-23T14:11:00+02:00</updated>
@@ -998,5 +987,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mit-dem-Bus-zum-Basilika-Konzert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64653.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-23T14:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Warnstreik-des-Baugewerbes-am-kommenden-Dienstag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64654.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Warnstreik des Baugewerbes am kommenden Dienstag </title>
+    <updated>2024-05-24T10:13:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Warnstreik-des-Baugewerbes-am-kommenden-Dienstag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64654.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-24T10:13:00+02:00</published>
   </entry>
 </feed>
