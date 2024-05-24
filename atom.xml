@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-24T12:23:07.266875+00:00</updated>
+  <updated>2024-05-24T13:13:59.938797+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -725,17 +725,6 @@
     <published>2024-05-24T12:22:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-f%C3%B6rdert-m%C3%B6gliche-Ballsporthalle.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64602.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadt Gießen fördert mögliche Ballsporthalle</title>
-    <updated>2024-05-15T12:24:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-f%C3%B6rdert-m%C3%B6gliche-Ballsporthalle.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64602.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-15T12:24:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-eigene-Garten-als-Oase-f%C3%BCr-Wildbienen-und-andere-Insekten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64613.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Der eigene Garten als Oase für Wildbienen und andere Insekten</title>
     <updated>2024-05-15T15:11:00+02:00</updated>
@@ -998,5 +987,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Aktionswochen-Schulen-aufs-Rad-starten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64656.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-24T12:22:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Kraft-W%C3%A4rme-Kopplung-die-n%C3%A4chste-Energie-Innovation-f%C3%BCr-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64657.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>"Kraft-Wärme-Kopplung" - die nächste Energie-Innovation für Gießen</title>
+    <updated>2024-05-24T13:13:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Kraft-W%C3%A4rme-Kopplung-die-n%C3%A4chste-Energie-Innovation-f%C3%BCr-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64657.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-24T13:13:00+02:00</published>
   </entry>
 </feed>
