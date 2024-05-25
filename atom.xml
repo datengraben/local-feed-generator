@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-25T00:54:42.395066+00:00</updated>
+  <updated>2024-05-25T20:12:17.544852+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -736,6 +736,17 @@
     <published>2024-05-24T14:12:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-f%C3%B6rdert-m%C3%B6gliche-Ballsporthalle.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64602.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadt Gießen fördert mögliche Ballsporthalle</title>
+    <updated>2024-05-15T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-f%C3%B6rdert-m%C3%B6gliche-Ballsporthalle.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64602.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-05-15T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-eigene-Garten-als-Oase-f%C3%BCr-Wildbienen-und-andere-Insekten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64613.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Der eigene Garten als Oase für Wildbienen und andere Insekten</title>
     <updated>2024-05-15T15:11:00+02:00</updated>
@@ -810,17 +821,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundesweite-Auftaktveranstaltung-des-F%C3%B6rderprogramms-Bildung-Wirtschaft-Arbeit-im-Quartier-BIWAQ-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64619.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-05-16T10:12:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tanzperformance-in-der-Kunsthalle-zur-Kulturnacht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64620.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Tanzperformance in der Kunsthalle zur Kulturnacht</title>
-    <updated>2024-05-16T10:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tanzperformance-in-der-Kunsthalle-zur-Kulturnacht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64620.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-05-16T10:12:00+02:00</published>
   </entry>
   <entry>
