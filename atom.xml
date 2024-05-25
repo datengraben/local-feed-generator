@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-24T14:12:45.727936+00:00</updated>
+  <updated>2024-05-25T00:54:42.395066+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -481,6 +481,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_9788_1.PDF?1715778392"/>
     <published>2024-05-16T00:55:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_9856_1.PDF?1716471670</id>
+    <title>Nachruf Wolfgang Sahmland</title>
+    <updated>2024-05-25T00:54:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_9856_1.PDF?1716471670"/>
+    <published>2024-05-25T00:54:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einmal-singen-wie-die-profis/</id>
