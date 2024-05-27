@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-05-27T11:11:54.043617+00:00</updated>
+  <updated>2024-05-27T15:14:17.759506+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -604,17 +604,6 @@
     <published>2024-02-02T15:11:53+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/fernwaerme-fuer-den-oberen-seltersweg</id>
-    <title>Fernwärme für den oberen Seltersweg</title>
-    <updated>2024-05-03T12:21:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/fernwaerme-fuer-den-oberen-seltersweg"/>
-    <published>2024-05-03T12:21:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/swg-unterstuetzen-klein-lindener-fussballfrauen</id>
     <title>SWG unterstützen Klein-Lindener Fußballfrauen</title>
     <updated>2024-05-10T14:11:00+02:00</updated>
@@ -734,5 +723,16 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/swg-und-der-tv-huettenberg-verlaengern-partnerschaft"/>
     <published>2024-05-27T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/keine-stadtbusse-am-mittwoch</id>
+    <title>Keine Stadtbusse am Mittwoch</title>
+    <updated>2024-05-27T15:14:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/keine-stadtbusse-am-mittwoch"/>
+    <published>2024-05-27T15:14:00+02:00</published>
   </entry>
 </feed>
