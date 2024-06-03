@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-02T14:11:13.108379+00:00</updated>
+  <updated>2024-06-03T08:17:43.600418+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -227,84 +227,14 @@
     <published>2024-05-23T15:13:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Trinkbrunnen-sprudeln-wieder.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.58274.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Trinkbrunnen sprudeln wieder</title>
-    <updated>2023-04-24T00:00:00+02:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/-CoolerStadtplan-verschafft-Gie%C3%9Fen-Abk%C3%BChlung-B%C3%BCrger-arbeiten-aktiv-mit-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.64678.1&amp;NavID=2874.584&amp;La=1</id>
+    <title>»CoolerStadtplan« verschafft Gießen Abkühlung - Bürger arbeiten aktiv mit!</title>
+    <updated>2024-05-29T08:17:00+02:00</updated>
     <author>
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Trinkbrunnen-sprudeln-wieder.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.58274.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2023-04-24T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hohe-Vegetationsbrandgefahr-durch-Trockenheit.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60445.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Hohe Vegetations-Brandgefahr durch Trockenheit</title>
-    <updated>2023-06-14T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hohe-Vegetationsbrandgefahr-durch-Trockenheit.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60445.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2023-06-14T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hitzeaktionstag-der-Deutsche-Wetterdienst-informiert-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60477.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Hitzeaktionstag - der Deutsche Wetterdienst informiert!</title>
-    <updated>2023-06-15T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hitzeaktionstag-der-Deutsche-Wetterdienst-informiert-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60477.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2023-06-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hitzetipp-K%C3%BChl-durch-den-Sommer-auch-ohne-Klimaanlage.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.18828.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Hitzetipp: Kühl durch den Sommer - auch ohne Klimaanlage</title>
-    <updated>2023-06-26T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hitzetipp-K%C3%BChl-durch-den-Sommer-auch-ohne-Klimaanlage.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.18828.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2023-06-26T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Fl%C3%A4chenbrand-im-Bereich-des-Campus-der-Naturwissenschaften.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60676.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Flächenbrand im Bereich des Campus der Naturwissenschaften unter Kontrolle</title>
-    <updated>2023-07-07T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Fl%C3%A4chenbrand-im-Bereich-des-Campus-der-Naturwissenschaften.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60676.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2023-07-07T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/-CoolerStadtplan-mit-neuen-B%C3%BCrger-Oasen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60723.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>"CoolerStadtplan" mit neuen Bürger-Oasen</title>
-    <updated>2023-07-13T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/-CoolerStadtplan-mit-neuen-B%C3%BCrger-Oasen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60723.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2023-07-13T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Haus-und-Wildtiere-vor-der-Hitze-sch%C3%BCtzen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60735.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Haus- und Wildtiere vor der Hitze schützen</title>
-    <updated>2023-07-17T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Haus-und-Wildtiere-vor-der-Hitze-sch%C3%BCtzen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.60735.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2023-07-17T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Entspannte-Pegelst%C3%A4nde-Landkreis-hebt-Verbot-der-Wasserentnahme-auf.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.61034.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Entspannte Pegelstände: Landkreis hebt Verbot der Wasserentnahme auf</title>
-    <updated>2023-08-18T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Entspannte-Pegelst%C3%A4nde-Landkreis-hebt-Verbot-der-Wasserentnahme-auf.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.61034.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2023-08-18T00:00:00+02:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/-CoolerStadtplan-verschafft-Gie%C3%9Fen-Abk%C3%BChlung-B%C3%BCrger-arbeiten-aktiv-mit-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.64678.1&amp;NavID=2874.584&amp;La=1"/>
+    <published>2024-05-29T08:17:00+02:00</published>
   </entry>
   <entry>
     <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Leib-sches-Haus-schlie%C3%9Ft-bis-voraussichtlich-Sommer-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.12511.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
