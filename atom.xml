@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-03T08:17:43.600418+00:00</updated>
+  <updated>2024-06-04T11:12:15.179731+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -534,15 +534,15 @@
     <published>2024-05-17T14:12:02+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/</id>
-    <title>Liebes Publikum! - Warum Menschlichkeit und Wachsamkeit gerade jetzt besonders ...</title>
-    <updated>2024-02-02T15:11:53+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vom-fallenlassen-konnen/</id>
+    <title>Vom Fallenlassen können - Am Stadttheater ist die Relevanz von Kunst und Kultur in der...</title>
+    <updated>2024-06-04T11:12:03.078808+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-februar/"/>
-    <published>2024-02-02T15:11:53+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vom-fallenlassen-konnen/"/>
+    <published>2024-06-04T11:12:03.078808+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/erneute-warnstreiks-im-nahverkehr</id>
