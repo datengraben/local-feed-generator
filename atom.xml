@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-04T11:12:15.179731+00:00</updated>
+  <updated>2024-06-05T10:13:35.780245+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -536,24 +536,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vom-fallenlassen-konnen/</id>
     <title>Vom Fallenlassen können - Am Stadttheater ist die Relevanz von Kunst und Kultur in der...</title>
-    <updated>2024-06-04T11:12:03.078808+02:00</updated>
+    <updated>2024-06-04T11:12:03+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vom-fallenlassen-konnen/"/>
-    <published>2024-06-04T11:12:03.078808+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/erneute-warnstreiks-im-nahverkehr</id>
-    <title>Erneute Warnstreiks im Nahverkehr</title>
-    <updated>2024-05-15T15:11:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/erneute-warnstreiks-im-nahverkehr"/>
-    <published>2024-05-15T15:11:00+02:00</published>
+    <published>2024-06-04T11:12:03+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/buslinie-2-wird-umgeleitet</id>
@@ -675,5 +664,16 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/swg-vorstand-scheidet-ende-juli-aus"/>
     <published>2024-05-31T14:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-nachtbuslinie-saturn</id>
+    <title>Umleitung für Nachtbuslinie Saturn</title>
+    <updated>2024-06-05T10:13:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-nachtbuslinie-saturn"/>
+    <published>2024-06-05T10:13:00+02:00</published>
   </entry>
 </feed>
