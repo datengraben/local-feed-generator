@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-06T11:11:40.090823+00:00</updated>
+  <updated>2024-06-06T22:11:57.289989+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -378,17 +378,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_9294_1.PDF?1711370053"/>
     <published>2024-04-08T00:53:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_9609_1.PDF?1714042332</id>
-    <title>Bekanntmachung des Beschlusses Einleitung des Umlegungsverfahrens «Lindenstraße«</title>
-    <updated>2024-04-27T00:52:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_9609_1.PDF?1714042332"/>
-    <published>2024-04-27T00:52:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_9715_1.PDF?1715339617</id>
