@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-06T22:11:57.289989+00:00</updated>
+  <updated>2024-06-08T22:11:29.672745+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -402,17 +402,6 @@
     <published>2024-05-16T00:55:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_9856_1.PDF?1716471670</id>
-    <title>Nachruf Wolfgang Sahmland</title>
-    <updated>2024-05-25T00:54:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_9856_1.PDF?1716471670"/>
-    <published>2024-05-25T00:54:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_9884_1.PDF?1716905132</id>
     <title>Wahlbekanntmachung - Wahl zum Europäischen Parlament am 9. Juni 2024 </title>
     <updated>2024-06-01T00:59:00+02:00</updated>
@@ -480,7 +469,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 6. Juni - Am Theatertag kosten alle Tickets 15 Euro - egal auf welchem...</title>
+    <title>Theatertag am 12. Juli - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
     <updated>2023-12-15T17:11:05+01:00</updated>
     <author>
       <name>Stadttheater</name>
