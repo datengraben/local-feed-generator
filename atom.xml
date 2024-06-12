@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-12T05:13:02.767002+00:00</updated>
+  <updated>2024-06-12T15:12:20.466193+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.asta-giessen.de/semesterticket_upgrade/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2023-06-27T00:00:00+02:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/semesterticket_upgrade/"/>
-    <published>2023-06-27T00:00:00+02:00</published>
-  </entry>
   <entry>
     <id>https://www.asta-giessen.de/8315-2/</id>
     <title>Neuer Beitrag</title>
@@ -115,6 +104,17 @@
     </author>
     <link href="https://www.asta-giessen.de/8623-2/"/>
     <published>2023-12-22T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8704-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2024-02-15T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8704-2/"/>
+    <published>2024-02-15T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>https://universum-giessen.com/2023/06/23/was-geht-giessen/</id>
