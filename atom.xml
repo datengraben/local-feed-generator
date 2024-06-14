@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-13T11:12:06.950537+00:00</updated>
+  <updated>2024-06-14T14:13:25.738057+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -413,17 +413,6 @@
     <published>2024-06-12T05:12:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/einmal-singen-wie-die-profis/</id>
-    <title>Einmal Singen wie die Profis - Im Interview geben uns Freya und Price Einblicke in die Arbe...</title>
-    <updated>2024-03-28T13:12:32+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmal-singen-wie-die-profis/"/>
-    <published>2024-03-28T13:12:32+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-ecke-stosst-man-auf-erinnerungen/</id>
     <title>In jeder Ecke stößt man auf Erinnerungen - Von 1996 bis 1999 war Monica Mascus Teil des Ensembles am St...</title>
     <updated>2024-03-28T14:12:54+01:00</updated>
@@ -510,6 +499,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/neue-spielzeit-2024-2025/"/>
     <published>2024-05-17T14:12:02+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/synchronitat-aufbrechen/</id>
+    <title>Synchronität aufbrechen - Das Team von „Heat up“ über Hitze, Rhythmus und Gemeinschaft...</title>
+    <updated>2024-06-14T14:13:10.837389+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/synchronitat-aufbrechen/"/>
+    <published>2024-06-14T14:13:10.837389+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vom-fallenlassen-konnen/</id>
