@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-17T11:11:47.219089+00:00</updated>
+  <updated>2024-06-18T10:13:44.529771+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -534,17 +534,6 @@
     <published>2024-06-04T11:12:03+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/gruener-strom-vom-dach</id>
-    <title>Grüner Strom vom Dach</title>
-    <updated>2024-05-22T14:11:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/gruener-strom-vom-dach"/>
-    <published>2024-05-22T14:11:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/mit-dem-bus-zum-basilika-konzert</id>
     <title>Mit dem Bus zum Basilika-Konzert</title>
     <updated>2024-05-23T11:12:00+02:00</updated>
@@ -664,5 +653,16 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/wie-viel-energie-brauchen-wir"/>
     <published>2024-06-17T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/spiel-dein-spiel-city-day-am-23-juni</id>
+    <title>„Spiel‘ Dein Spiel“ – City Day am 23. Juni</title>
+    <updated>2024-06-18T10:13:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/spiel-dein-spiel-city-day-am-23-juni"/>
+    <published>2024-06-18T10:13:00+02:00</published>
   </entry>
 </feed>
