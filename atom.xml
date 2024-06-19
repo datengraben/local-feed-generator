@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-19T00:58:27.023968+00:00</updated>
+  <updated>2024-06-19T11:12:00.194216+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -534,17 +534,6 @@
     <published>2024-06-04T11:12:03+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/die-naechste-energie-innovation-fuer-giessen</id>
-    <title>Die nächste Energie-Innovation für Gießen</title>
-    <updated>2024-05-24T12:22:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/die-naechste-energie-innovation-fuer-giessen"/>
-    <published>2024-05-24T12:22:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-steigen-in-die-ikwk-ein</id>
     <title>Stadtwerke Gießen steigen in die iKWK ein</title>
     <updated>2024-05-24T12:22:00+02:00</updated>
@@ -664,5 +653,291 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/stadtmauerreste-freigelegt-stadtwerke-planen-bauarbeiten-im-seltersweg-um"/>
     <published>2024-06-18T12:24:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/linden-und-swg-erneuern-konzessionsvertraege</id>
+    <title>Linden und SWG erneuern Konzessionsverträge</title>
+    <updated>2024-06-19T11:11:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/linden-und-swg-erneuern-konzessionsvertraege"/>
+    <published>2024-06-19T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Fahrradverleihsystem-in-Gie%C3%9Fen-w%C3%A4chst-und-w%C3%A4chst.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64693.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Das Fahrradverleihsystem in Gießen wächst und wächst</title>
+    <updated>2024-06-03T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Fahrradverleihsystem-in-Gie%C3%9Fen-w%C3%A4chst-und-w%C3%A4chst.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64693.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-03T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Umleitung-f%C3%BCr-Nachtbuslinie-Saturn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64699.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtwerke Gießen: Umleitung für Nachtbuslinie Saturn</title>
+    <updated>2024-06-05T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Umleitung-f%C3%BCr-Nachtbuslinie-Saturn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64699.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-05T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Halbzeit-beim-Gie%C3%9Fener-STADTRADELN.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64700.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Halbzeit beim Gießener STADTRADELN</title>
+    <updated>2024-06-05T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Halbzeit-beim-Gie%C3%9Fener-STADTRADELN.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64700.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-05T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Seriale-International-Series-Festival-feiert-erfolgreiche-10-Edition.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64701.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Die Seriale - International Series Festival feiert erfolgreiche 10. Edition</title>
+    <updated>2024-06-05T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Seriale-International-Series-Festival-feiert-erfolgreiche-10-Edition.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64701.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-05T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kreuzung-Gabelsbergerstra%C3%9Fe-n%C3%A4chste-Woche-wieder-frei.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64708.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kreuzung Gabelsbergerstraße nächste Woche wieder frei</title>
+    <updated>2024-06-06T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kreuzung-Gabelsbergerstra%C3%9Fe-n%C3%A4chste-Woche-wieder-frei.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64708.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-06T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verbraucherzentrale-60-Jahre-Beratungsstelle-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64710.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verbraucherzentrale: 60 Jahre Beratungsstelle Gießen</title>
+    <updated>2024-06-06T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verbraucherzentrale-60-Jahre-Beratungsstelle-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64710.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-06T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-ArbeiterKind-de-feierte-16-Geburtstag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64712.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>"ArbeiterKind.de" feierte 16. Geburtstag</title>
+    <updated>2024-06-07T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-ArbeiterKind-de-feierte-16-Geburtstag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64712.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-07T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Verbraucherzentrale-warnt-vor-kostenpflichtigem-Rundfunkbeitragsservice.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64713.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Die Verbraucherzentrale warnt vor kostenpflichtigem Rundfunkbeitragsservice</title>
+    <updated>2024-06-07T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Verbraucherzentrale-warnt-vor-kostenpflichtigem-Rundfunkbeitragsservice.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64713.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-07T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tourneetheater-compania-t-in-der-Stadtbibliothek.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64719.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Tourneetheater compania-t in der Stadtbibliothek</title>
+    <updated>2024-06-11T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tourneetheater-compania-t-in-der-Stadtbibliothek.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64719.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-11T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Fahrplan-f%C3%BCr-Grundsteuer-Reform-vorgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64722.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießener Fahrplan für Grundsteuer-Reform vorgestellt</title>
+    <updated>2024-06-11T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Fahrplan-f%C3%BCr-Grundsteuer-Reform-vorgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64722.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-11T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reisen-mit-Heimtier-Jetzt-schon-Impfschutz-und-Regelungen-im-Ausland-checken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64725.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Reisen mit Heimtier: Jetzt schon Impfschutz und Regelungen im Ausland checken</title>
+    <updated>2024-06-12T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reisen-mit-Heimtier-Jetzt-schon-Impfschutz-und-Regelungen-im-Ausland-checken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64725.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-12T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verwaltungsstellen der Stadtteile schließen vorübergehend</title>
+    <updated>2024-06-13T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-13T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neugestaltung-Ludwigstra%C3%9Fe-Was-ist-ein-Fahrradschutzstreifen-und-welche-Regeln-gelten-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67277.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neugestaltung Ludwigstraße: Was ist ein Fahrradschutzstreifen und welche Regeln gelten?</title>
+    <updated>2024-06-14T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neugestaltung-Ludwigstra%C3%9Fe-Was-ist-ein-Fahrradschutzstreifen-und-welche-Regeln-gelten-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67277.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-14T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eichenprozessionsspinner-im-Waldgebiet-Hangelstein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67278.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Eichenprozessionsspinner im Waldgebiet Hangelstein</title>
+    <updated>2024-06-14T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eichenprozessionsspinner-im-Waldgebiet-Hangelstein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67278.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-14T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dr-Otto-Kasten-Preis-f%C3%BCr-Ayse-G%C3%BCvendiren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67284.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Dr. Otto Kasten-Preis für Ayse Güvendiren</title>
+    <updated>2024-06-17T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dr-Otto-Kasten-Preis-f%C3%BCr-Ayse-G%C3%BCvendiren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67284.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-17T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fahrbahnmarkierung-und-Ampelanlagen-am-Berliner-Platz-werden-angepasst.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67285.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fahrbahnmarkierung und Ampelanlagen am Berliner Platz werden angepasst</title>
+    <updated>2024-06-18T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fahrbahnmarkierung-und-Ampelanlagen-am-Berliner-Platz-werden-angepasst.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67285.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-18T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A-Cappella-Gruppe-African-Vocals-aus-Namibia-zu-Gast-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67293.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>A-Cappella Gruppe "African Vocals" aus Namibia zu Gast in Gießen</title>
+    <updated>2024-06-18T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A-Cappella-Gruppe-African-Vocals-aus-Namibia-zu-Gast-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67293.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-18T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reste-der-Stadtmauer-bei-Bauarbeiten-im-Seltersweg-gefunden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64711.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Reste der Stadtmauer bei Bauarbeiten im Seltersweg gefunden</title>
+    <updated>2024-06-18T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reste-der-Stadtmauer-bei-Bauarbeiten-im-Seltersweg-gefunden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64711.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-18T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Informationsveranstaltung-zur-Erneuerung-der-Bahnbr%C3%BCcke-in-der-Lahnstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67294.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Online-Informationsveranstaltung zur Erneuerung der Bahnbrücke in der Lahnstraße</title>
+    <updated>2024-06-18T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Informationsveranstaltung-zur-Erneuerung-der-Bahnbr%C3%BCcke-in-der-Lahnstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67294.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-18T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/10-Jahre-Landesgartenschau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67295.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>10 Jahre Landesgartenschau</title>
+    <updated>2024-06-18T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/10-Jahre-Landesgartenschau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67295.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-18T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Musikalischer-Sommer-Ausblick-auf-s-Wochenende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64694.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Musikalischer Sommer: Ausblick auf`s Wochenende</title>
+    <updated>2024-06-19T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Musikalischer-Sommer-Ausblick-auf-s-Wochenende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64694.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-19T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Praktikumswochen-in-Stadt-und-Landkreis-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67297.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Praktikumswochen in Stadt und Landkreis Gießen</title>
+    <updated>2024-06-19T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Praktikumswochen-in-Stadt-und-Landkreis-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67297.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-19T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewohnerparkgeb%C3%BChren-sollen-erh%C3%B6ht-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67298.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bewohnerparkgebühren sollen erhöht werden</title>
+    <updated>2024-06-19T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewohnerparkgeb%C3%BChren-sollen-erh%C3%B6ht-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67298.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-19T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-P-R-Parkplatz-in-Georg-Elser-Stra%C3%9Fe-geplant.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67299.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neuer P+R-Parkplatz in Georg-Elser-Straße geplant</title>
+    <updated>2024-06-19T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-P-R-Parkplatz-in-Georg-Elser-Stra%C3%9Fe-geplant.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67299.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-19T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kl%C3%A4rwerk-erzeugt-rund-80-des-ben%C3%B6tigten-Stroms-selbst.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67300.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Klärwerk erzeugt rund 80% des benötigten Stroms selbst</title>
+    <updated>2024-06-19T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kl%C3%A4rwerk-erzeugt-rund-80-des-ben%C3%B6tigten-Stroms-selbst.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67300.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-19T11:11:00+02:00</published>
   </entry>
 </feed>
