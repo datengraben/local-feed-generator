@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-18T12:24:21.207954+00:00</updated>
+  <updated>2024-06-19T00:58:27.023968+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -411,6 +411,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_9974_1.PDF?1718270597"/>
     <published>2024-06-15T00:57:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10006_1.PDF?1718707384</id>
+    <title>Bauleitplanung: Einleitung und Unterrichtung der Öffentlichkeit zur Aufstellung des Bebauungsplanes Nr. KL 09/07 "Theodor-Storm-Weg", 1. Teilbereich</title>
+    <updated>2024-06-19T00:58:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10006_1.PDF?1718707384"/>
+    <published>2024-06-19T00:58:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-ecke-stosst-man-auf-erinnerungen/</id>
