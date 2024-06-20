@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-19T15:14:32.884567+00:00</updated>
+  <updated>2024-06-20T16:16:53.319436+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -666,17 +666,6 @@
     <published>2024-06-19T11:11:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Seriale-International-Series-Festival-feiert-erfolgreiche-10-Edition.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64701.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Die Seriale - International Series Festival feiert erfolgreiche 10. Edition</title>
-    <updated>2024-06-05T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Seriale-International-Series-Festival-feiert-erfolgreiche-10-Edition.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64701.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-06-05T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kreuzung-Gabelsbergerstra%C3%9Fe-n%C3%A4chste-Woche-wieder-frei.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64708.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Kreuzung Gabelsbergerstraße nächste Woche wieder frei</title>
     <updated>2024-06-06T00:00:00+02:00</updated>
@@ -939,5 +928,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-informiert-%C3%BCber-Afrikanische-Schweinepest-Wachsamkeit-und-Schutz-sind-n%C3%B6tig.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67306.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-06-19T15:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Marketing-sucht-Genu%C3%9Fexperten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67309.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen Marketing sucht Genußexperten</title>
+    <updated>2024-06-20T16:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Marketing-sucht-Genu%C3%9Fexperten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67309.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-20T16:16:00+02:00</published>
   </entry>
 </feed>
