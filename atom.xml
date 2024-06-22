@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-21T14:12:00.480123+00:00</updated>
+  <updated>2024-06-22T00:56:56.436394+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -347,6 +347,17 @@
     <published>2024-05-28T00:00:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_10082_1.PDF?1718976350</id>
+    <title>Bauleitplanung: Einleitungsbeschluss und frühzeitige Beteiligung der Öffentlichkeit zum Bebauungsplan GI 05/23 »Katzenfeld« und zur 20. Änderung des Flächennutzungsplanes in diesem Bereich</title>
+    <updated>2020-11-30T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10082_1.PDF?1718976350"/>
+    <published>2020-11-30T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_9294_1.PDF?1711370053</id>
     <title>Ankündigung von Baugrunduntersuchungen für die Trassenplanung - im Auftrag der Amprion GmbH</title>
     <updated>2024-04-08T00:00:00+02:00</updated>
@@ -411,6 +422,28 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_10006_1.PDF?1718707384"/>
     <published>2024-06-19T00:58:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10054_1.PDF?1718960439</id>
+    <title>Nachruf Gerhard Merz</title>
+    <updated>2024-06-22T00:56:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10054_1.PDF?1718960439"/>
+    <published>2024-06-22T00:56:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10026_1.PDF?1718893542</id>
+    <title>Satzung über die Erhebung von Verwaltungskosten in der Universitätsstadt Gießen - Verwaltungskostensatzung</title>
+    <updated>2024-06-22T00:56:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10026_1.PDF?1718893542"/>
+    <published>2024-06-22T00:56:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-ecke-stosst-man-auf-erinnerungen/</id>
