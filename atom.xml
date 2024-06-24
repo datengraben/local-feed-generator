@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-24T14:13:00.759637+00:00</updated>
+  <updated>2024-06-24T15:14:39.423602+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -424,17 +424,6 @@
     <published>2024-06-19T00:58:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10054_1.PDF?1718960439</id>
-    <title>Nachruf Gerhard Merz</title>
-    <updated>2024-06-22T00:56:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10054_1.PDF?1718960439"/>
-    <published>2024-06-22T00:56:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10026_1.PDF?1718893542</id>
     <title>Satzung über die Erhebung von Verwaltungskosten in der Universitätsstadt Gießen - Verwaltungskostensatzung</title>
     <updated>2024-06-22T00:56:00+02:00</updated>
@@ -446,26 +435,15 @@
     <published>2024-06-22T00:56:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-ecke-stosst-man-auf-erinnerungen/</id>
-    <title>In jeder Ecke stößt man auf Erinnerungen - Von 1996 bis 1999 war Monica Mascus Teil des Ensembles am St...</title>
-    <updated>2024-03-28T14:12:54+01:00</updated>
+    <id>http://giessen.de/media/custom/2874_10054_1.PDF?1718960439</id>
+    <title>Nachruf Gerhard Merz</title>
+    <updated>2024-06-22T00:56:00+02:00</updated>
     <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-ecke-stosst-man-auf-erinnerungen/"/>
-    <published>2024-03-28T14:12:54+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/willkommen-im-komponistinnen-mai/</id>
-    <title>Willkommen im Komponistinnen-Mai! - Im Mai widmen wir uns in verschiedenen Veranstaltungen den W...</title>
-    <updated>2024-05-02T14:11:22+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/willkommen-im-komponistinnen-mai/"/>
-    <published>2024-05-02T14:11:22+02:00</published>
+    <link href="http://giessen.de/media/custom/2874_10054_1.PDF?1718960439"/>
+    <published>2024-06-22T00:56:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einander-unter-die-haut-gehen/</id>
@@ -479,6 +457,17 @@
     <published>2024-05-03T16:15:52+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/interviewpartner-innen-fur-theaterproduktion-gesucht/</id>
+    <title>Interviewpartner*innen für Theaterproduktion gesucht - Interviewees wanted for theatre production. / In der Spielze...</title>
+    <updated>2024-05-17T12:21:46+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/interviewpartner-innen-fur-theaterproduktion-gesucht/"/>
+    <published>2024-05-17T12:21:46+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/kulturpass-fur-jugendliche/</id>
     <title>KulturPass für Jugendliche - Wir sind beim KulturPass dabei! Alle Jugendliche, die dieses...</title>
     <updated>2024-05-07T11:11:52+02:00</updated>
@@ -488,17 +477,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kulturpass-fur-jugendliche/"/>
     <published>2024-05-07T11:11:52+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 12. Juli - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
-    <updated>2023-12-15T17:11:05+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2023-12-15T17:11:05+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/klima-taler-wir-sind-dabei/</id>
@@ -512,15 +490,26 @@
     <published>2024-05-23T17:12:57+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/interviewpartner-innen-fur-theaterproduktion-gesucht/</id>
-    <title>Interviewpartner*innen für Theaterproduktion gesucht - Interviewees wanted for theatre production. / In der Spielze...</title>
-    <updated>2024-05-17T12:21:46+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 12. Juli - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
+    <updated>2023-12-15T17:11:05+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/interviewpartner-innen-fur-theaterproduktion-gesucht/"/>
-    <published>2024-05-17T12:21:46+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2023-12-15T17:11:05+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/synchronitat-aufbrechen/</id>
+    <title>Synchronität aufbrechen - Das Team von „Heat up“ über Hitze, Rhythmus und Gemeinschaft...</title>
+    <updated>2024-06-14T14:13:10+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/synchronitat-aufbrechen/"/>
+    <published>2024-06-14T14:13:10+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/neue-spielzeit-2024-2025/</id>
@@ -534,15 +523,26 @@
     <published>2024-05-17T14:12:02+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/synchronitat-aufbrechen/</id>
-    <title>Synchronität aufbrechen - Das Team von „Heat up“ über Hitze, Rhythmus und Gemeinschaft...</title>
-    <updated>2024-06-14T14:13:10+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zauber-was-zauberdings-zauberflote/</id>
+    <title>Zauber– was? Zauberdings? – Zauberflöte! - FERIENWORKSHOP I AB 8 JAHREN...</title>
+    <updated>2024-06-24T15:14:27.564644+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/synchronitat-aufbrechen/"/>
-    <published>2024-06-14T14:13:10+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zauber-was-zauberdings-zauberflote/"/>
+    <published>2024-06-24T15:14:27.564644+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/buchertisch-zu-den-hessischen-theatertagen/</id>
+    <title>Büchertisch zu den Hessischen Theatertagen - Es lohnt sich, in der Rickerschen Universitätsbuchhandlung a...</title>
+    <updated>2024-06-24T15:14:27.564644+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/buchertisch-zu-den-hessischen-theatertagen/"/>
+    <published>2024-06-24T15:14:27.564644+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vom-fallenlassen-konnen/</id>
