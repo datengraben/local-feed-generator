@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-23T14:11:42.068994+00:00</updated>
+  <updated>2024-06-24T13:14:53.812069+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -556,17 +556,6 @@
     <published>2024-06-04T11:12:03+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-steigen-in-die-ikwk-ein</id>
-    <title>Stadtwerke Gießen steigen in die iKWK ein</title>
-    <updated>2024-05-24T12:22:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-steigen-in-die-ikwk-ein"/>
-    <published>2024-05-24T12:22:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/verkehrsumleitungen-in-der-rudolf-diesel-strasse</id>
     <title>Verkehrsumleitungen in der Rudolf-Diesel-Straße</title>
     <updated>2024-05-24T14:12:00+02:00</updated>
@@ -686,6 +675,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/linden-und-swg-erneuern-konzessionsvertraege"/>
     <published>2024-06-19T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/jede-menge-spiel-spass-und-action</id>
+    <title>Jede Menge Spiel, Spaß und Action</title>
+    <updated>2024-06-24T13:14:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/jede-menge-spiel-spass-und-action"/>
+    <published>2024-06-24T13:14:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Seriale-International-Series-Festival-feiert-erfolgreiche-10-Edition.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64701.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
