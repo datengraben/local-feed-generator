@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-24T15:14:39.423602+00:00</updated>
+  <updated>2024-06-25T10:14:01.349287+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -525,24 +525,24 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zauber-was-zauberdings-zauberflote/</id>
     <title>Zauber– was? Zauberdings? – Zauberflöte! - FERIENWORKSHOP I AB 8 JAHREN...</title>
-    <updated>2024-06-24T15:14:27.564644+02:00</updated>
+    <updated>2024-06-24T15:14:27+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zauber-was-zauberdings-zauberflote/"/>
-    <published>2024-06-24T15:14:27.564644+02:00</published>
+    <published>2024-06-24T15:14:27+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/buchertisch-zu-den-hessischen-theatertagen/</id>
     <title>Büchertisch zu den Hessischen Theatertagen - Es lohnt sich, in der Rickerschen Universitätsbuchhandlung a...</title>
-    <updated>2024-06-24T15:14:27.564644+02:00</updated>
+    <updated>2024-06-24T15:14:27+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/buchertisch-zu-den-hessischen-theatertagen/"/>
-    <published>2024-06-24T15:14:27.564644+02:00</published>
+    <published>2024-06-24T15:14:27+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vom-fallenlassen-konnen/</id>
@@ -554,17 +554,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vom-fallenlassen-konnen/"/>
     <published>2024-06-04T11:12:03+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/verkehrsumleitungen-in-der-rudolf-diesel-strasse</id>
-    <title>Verkehrsumleitungen in der Rudolf-Diesel-Straße</title>
-    <updated>2024-05-24T14:12:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/verkehrsumleitungen-in-der-rudolf-diesel-strasse"/>
-    <published>2024-05-24T14:12:00+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/swg-und-der-tv-huettenberg-verlaengern-partnerschaft</id>
@@ -686,6 +675,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/jede-menge-spiel-spass-und-action"/>
     <published>2024-06-24T13:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/mit-dem-bus-zum-konzert</id>
+    <title>Mit dem Bus zum Konzert</title>
+    <updated>2024-06-25T10:13:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/mit-dem-bus-zum-konzert"/>
+    <published>2024-06-25T10:13:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verbraucherzentrale-60-Jahre-Beratungsstelle-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64710.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
