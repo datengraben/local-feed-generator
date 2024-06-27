@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-26T10:13:30.144680+00:00</updated>
+  <updated>2024-06-27T08:16:31.669583+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -446,17 +446,6 @@
     <published>2024-06-22T00:56:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/einander-unter-die-haut-gehen/</id>
-    <title>Einander unter die Haut gehen - Yi-Chun Liu und Sabina Moncys über Verschiebungen der Wahrne...</title>
-    <updated>2024-05-03T16:15:52+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einander-unter-die-haut-gehen/"/>
-    <published>2024-05-03T16:15:52+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/interviewpartner-innen-fur-theaterproduktion-gesucht/</id>
     <title>Interviewpartner*innen für Theaterproduktion gesucht - Interviewees wanted for theatre production. / In der Spielze...</title>
     <updated>2024-05-17T12:21:46+02:00</updated>
@@ -523,6 +512,17 @@
     <published>2024-05-17T14:12:02+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vom-fallenlassen-konnen/</id>
+    <title>Vom Fallenlassen können - Am Stadttheater ist die Relevanz von Kunst und Kultur in der...</title>
+    <updated>2024-06-04T11:12:03+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vom-fallenlassen-konnen/"/>
+    <published>2024-06-04T11:12:03+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zauber-was-zauberdings-zauberflote/</id>
     <title>Zauber– was? Zauberdings? – Zauberflöte! - FERIENWORKSHOP I AB 8 JAHREN...</title>
     <updated>2024-06-24T15:14:27+02:00</updated>
@@ -545,15 +545,15 @@
     <published>2024-06-24T15:14:27+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vom-fallenlassen-konnen/</id>
-    <title>Vom Fallenlassen können - Am Stadttheater ist die Relevanz von Kunst und Kultur in der...</title>
-    <updated>2024-06-04T11:12:03+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/welches-morgen/</id>
+    <title>Welches Morgen? - Vom 27. Juni bis zum 6. Juli finden die Hessischen Theaterta...</title>
+    <updated>2024-06-27T08:16:18.802240+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vom-fallenlassen-konnen/"/>
-    <published>2024-06-04T11:12:03+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/welches-morgen/"/>
+    <published>2024-06-27T08:16:18.802240+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/swg-und-der-tv-huettenberg-verlaengern-partnerschaft</id>
