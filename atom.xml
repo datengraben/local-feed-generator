@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-27T12:24:48.345485+00:00</updated>
+  <updated>2024-06-27T14:12:43.970554+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -336,17 +336,6 @@
     <published>2024-04-09T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Oberhessisches-Museum-stellt-neues-Konzept-der-Gem%C3%A4ldegalerie-vor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64669.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Oberhessisches Museum stellt neues Konzept der Gemäldegalerie vor</title>
-    <updated>2024-05-28T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Oberhessisches-Museum-stellt-neues-Konzept-der-Gem%C3%A4ldegalerie-vor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64669.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2024-05-28T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10082_1.PDF?1718976350</id>
     <title>Bauleitplanung: Einleitungsbeschluss und frühzeitige Beteiligung der Öffentlichkeit zum Bebauungsplan GI 05/23 »Katzenfeld« und zur 20. Änderung des Flächennutzungsplanes in diesem Bereich</title>
     <updated>2020-11-30T00:00:00+01:00</updated>
@@ -424,17 +413,6 @@
     <published>2024-06-19T00:58:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10054_1.PDF?1718960439</id>
-    <title>Nachruf Gerhard Merz</title>
-    <updated>2024-06-22T00:56:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10054_1.PDF?1718960439"/>
-    <published>2024-06-22T00:56:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10026_1.PDF?1718893542</id>
     <title>Satzung über die Erhebung von Verwaltungskosten in der Universitätsstadt Gießen - Verwaltungskostensatzung</title>
     <updated>2024-06-22T00:56:00+02:00</updated>
@@ -443,6 +421,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10026_1.PDF?1718893542"/>
+    <published>2024-06-22T00:56:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10054_1.PDF?1718960439</id>
+    <title>Nachruf Gerhard Merz</title>
+    <updated>2024-06-22T00:56:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10054_1.PDF?1718960439"/>
     <published>2024-06-22T00:56:00+02:00</published>
   </entry>
   <entry>
@@ -686,17 +675,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/neues-vorstandsteam-der-swg-steht-ausgewogener-mix-aus-erfahrung-und-innovation"/>
     <published>2024-06-27T12:24:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reisen-mit-Heimtier-Jetzt-schon-Impfschutz-und-Regelungen-im-Ausland-checken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64725.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Reisen mit Heimtier: Jetzt schon Impfschutz und Regelungen im Ausland checken</title>
-    <updated>2024-06-12T11:11:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reisen-mit-Heimtier-Jetzt-schon-Impfschutz-und-Regelungen-im-Ausland-checken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64725.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-06-12T11:11:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -961,5 +939,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BCr-Nachbarschaftshilfe-kann-es-eine-Aufwandsentsch%C3%A4digung-geben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67421.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-06-26T10:13:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Vorstandsteam-der-SWG-Ausgewogener-Mix-aus-Erfahrung-und-Innovation.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neues Vorstandsteam der SWG: Ausgewogener Mix aus Erfahrung und Innovation</title>
+    <updated>2024-06-27T14:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Vorstandsteam-der-SWG-Ausgewogener-Mix-aus-Erfahrung-und-Innovation.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-27T14:12:00+02:00</published>
   </entry>
 </feed>
