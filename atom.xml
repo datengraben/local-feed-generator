@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-27T21:12:29.303893+00:00</updated>
+  <updated>2024-06-28T11:11:19.925814+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -545,17 +545,6 @@
     <published>2024-06-27T08:16:18+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/keine-stadtbusse-am-mittwoch</id>
-    <title>Keine Stadtbusse am Mittwoch</title>
-    <updated>2024-05-27T15:14:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/keine-stadtbusse-am-mittwoch"/>
-    <published>2024-05-27T15:14:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/swg-vorstand-scheidet-ende-juli-aus</id>
     <title>SWG-Vorstand scheidet Ende Juli aus</title>
     <updated>2024-05-31T14:11:00+02:00</updated>
@@ -677,26 +666,15 @@
     <published>2024-06-27T12:24:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reisen-mit-Heimtier-Jetzt-schon-Impfschutz-und-Regelungen-im-Ausland-checken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64725.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Reisen mit Heimtier: Jetzt schon Impfschutz und Regelungen im Ausland checken</title>
-    <updated>2024-06-12T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-buslinie-1</id>
+    <title>Umleitung für die Buslinie 1</title>
+    <updated>2024-06-28T11:11:00+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reisen-mit-Heimtier-Jetzt-schon-Impfschutz-und-Regelungen-im-Ausland-checken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64725.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-06-12T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verwaltungsstellen der Stadtteile schließen vorübergehend</title>
-    <updated>2024-06-13T11:11:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-06-13T11:11:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-buslinie-1"/>
+    <published>2024-06-28T11:11:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neugestaltung-Ludwigstra%C3%9Fe-Was-ist-ein-Fahrradschutzstreifen-und-welche-Regeln-gelten-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67277.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -950,5 +928,27 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Vorstandsteam-der-SWG-Ausgewogener-Mix-aus-Erfahrung-und-Innovation.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-06-27T14:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-die-Buslinie-1.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67494.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Umleitung für die Buslinie 1</title>
+    <updated>2024-06-28T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-die-Buslinie-1.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67494.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-28T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/giessen-de-von-1-bis-4-Juli-teilweise-nicht-erreichbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67402.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Giessen.de möglicherweise kurzzeitig nicht erreichbar</title>
+    <updated>2024-06-28T11:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/giessen-de-von-1-bis-4-Juli-teilweise-nicht-erreichbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67402.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-28T11:11:00+02:00</published>
   </entry>
 </feed>
