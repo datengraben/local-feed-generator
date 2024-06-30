@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-06-30T18:17:20.512185+00:00</updated>
+  <updated>2024-06-30T20:13:30.923450+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.asta-giessen.de/8328-2/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2023-07-27T00:00:00+02:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/8328-2/"/>
-    <published>2023-07-27T00:00:00+02:00</published>
-  </entry>
   <entry>
     <id>https://www.asta-giessen.de/8390-2/</id>
     <title>Neuer Beitrag</title>
@@ -115,6 +104,17 @@
     </author>
     <link href="https://www.asta-giessen.de/8933-2/"/>
     <published>2024-04-03T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8944-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2024-04-06T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8944-2/"/>
+    <published>2024-04-06T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>https://universum-giessen.com/2023/07/31/gibts-den-auch-in-vegan-fleischlose-alternativen-im-doenerdreieck/</id>
@@ -391,17 +391,6 @@
     <published>2024-06-19T00:58:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10026_1.PDF?1718893542</id>
-    <title>Satzung über die Erhebung von Verwaltungskosten in der Universitätsstadt Gießen - Verwaltungskostensatzung</title>
-    <updated>2024-06-22T00:56:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10026_1.PDF?1718893542"/>
-    <published>2024-06-22T00:56:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10054_1.PDF?1718960439</id>
     <title>Nachruf Gerhard Merz</title>
     <updated>2024-06-22T00:56:00+02:00</updated>
@@ -410,6 +399,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10054_1.PDF?1718960439"/>
+    <published>2024-06-22T00:56:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10026_1.PDF?1718893542</id>
+    <title>Satzung über die Erhebung von Verwaltungskosten in der Universitätsstadt Gießen - Verwaltungskostensatzung</title>
+    <updated>2024-06-22T00:56:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10026_1.PDF?1718893542"/>
     <published>2024-06-22T00:56:00+02:00</published>
   </entry>
   <entry>
