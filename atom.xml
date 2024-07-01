@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-01T07:13:36.165413+00:00</updated>
+  <updated>2024-07-01T14:12:27.099548+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -666,17 +666,6 @@
     <published>2024-06-28T11:11:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-ArbeiterKind-de-feierte-16-Geburtstag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64712.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>"ArbeiterKind.de" feierte 16. Geburtstag</title>
-    <updated>2024-06-07T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-ArbeiterKind-de-feierte-16-Geburtstag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64712.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-06-07T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Verbraucherzentrale-warnt-vor-kostenpflichtigem-Rundfunkbeitragsservice.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64713.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Die Verbraucherzentrale warnt vor kostenpflichtigem Rundfunkbeitragsservice</title>
     <updated>2024-06-07T00:00:00+02:00</updated>
@@ -939,5 +928,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-die-Buslinie-1.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67494.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-06-28T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Interkommunale-Zusammenarbeit-Digitale-Kommune-hessen-trifft-sich-zum-Abschluss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67509.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Interkommunale Zusammenarbeit "Digitale Kommune@hessen" trifft sich zum Abschluss</title>
+    <updated>2024-07-01T14:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Interkommunale-Zusammenarbeit-Digitale-Kommune-hessen-trifft-sich-zum-Abschluss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67509.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-07-01T14:12:00+02:00</published>
   </entry>
 </feed>
