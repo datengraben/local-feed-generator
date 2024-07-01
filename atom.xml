@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-01T14:12:27.099548+00:00</updated>
+  <updated>2024-07-01T22:13:18.985879+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -666,6 +666,17 @@
     <published>2024-06-28T11:11:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-ArbeiterKind-de-feierte-16-Geburtstag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64712.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>"ArbeiterKind.de" feierte 16. Geburtstag</title>
+    <updated>2024-06-07T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-ArbeiterKind-de-feierte-16-Geburtstag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64712.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-06-07T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Verbraucherzentrale-warnt-vor-kostenpflichtigem-Rundfunkbeitragsservice.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64713.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Die Verbraucherzentrale warnt vor kostenpflichtigem Rundfunkbeitragsservice</title>
     <updated>2024-06-07T00:00:00+02:00</updated>
@@ -862,17 +873,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-informiert-%C3%BCber-Afrikanische-Schweinepest-Wachsamkeit-und-Schutz-sind-n%C3%B6tig.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67306.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-06-19T15:14:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Marketing-sucht-Genussexperten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67309.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gießen Marketing sucht Genussexperten</title>
-    <updated>2024-06-20T08:15:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Marketing-sucht-Genussexperten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67309.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-06-20T08:15:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Staatssekret%C3%A4r-R%C3%B6%C3%9Fler-%C3%BCbergibt-Zuwendungsbescheid-in-H%C3%B6he-von-450-000-f%C3%BCr-Interkommunale-Zusammenarbeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67398.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
