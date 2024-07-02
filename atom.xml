@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-02T11:11:35.439533+00:00</updated>
+  <updated>2024-07-02T12:23:10.099024+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -424,17 +424,6 @@
     <published>2024-06-29T00:57:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/klima-taler-wir-sind-dabei/</id>
-    <title>Klima-Taler: Wir sind dabei! - Für 7 gesammelte Klima-Taler erhalten Sie eine Eintrittskart...</title>
-    <updated>2024-05-23T17:12:57+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/klima-taler-wir-sind-dabei/"/>
-    <published>2024-05-23T17:12:57+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 12. Juli - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
     <updated>2023-12-15T17:11:05+01:00</updated>
@@ -503,13 +492,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/warum-schreibst-du-uber-uns-und-fur-wen/</id>
     <title>Theaterkritik zu „Nach uns die Angst" - Im Rahmen des Seminars „Cringe &amp; Convention" unter ...</title>
-    <updated>2024-07-02T11:11:21.327120+02:00</updated>
+    <updated>2024-07-02T11:11:21+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/warum-schreibst-du-uber-uns-und-fur-wen/"/>
-    <published>2024-07-02T11:11:21.327120+02:00</published>
+    <published>2024-07-02T11:11:21+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-glas-wein-fur-die-orgel-der-johanneskirche/</id>
@@ -521,6 +510,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-glas-wein-fur-die-orgel-der-johanneskirche/"/>
     <published>2024-07-02T10:13:57+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/curlew-love-songs-premiere-beginnt-um-17-30-uhr/</id>
+    <title>Curlew Love Songs: Premiere beginnt um 17:30 Uhr - Am Freitag, den 5. Juli findet die letzte Premiere der laufe...</title>
+    <updated>2024-07-02T12:22:53.441741+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/curlew-love-songs-premiere-beginnt-um-17-30-uhr/"/>
+    <published>2024-07-02T12:22:53.441741+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/welches-morgen/</id>
