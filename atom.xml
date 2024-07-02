@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-02T13:15:18.649851+00:00</updated>
+  <updated>2024-07-02T17:13:03.818988+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -235,6 +235,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/-CoolerStadtplan-verschafft-Gie%C3%9Fen-Abk%C3%BChlung-B%C3%BCrger-arbeiten-aktiv-mit-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.64678.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2024-05-29T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hitzeschutzma%C3%9Fnahmen-in-den-eigenen-vier-W%C3%A4nden.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67519.1&amp;NavID=2874.584&amp;La=1</id>
+    <title>Hitzeschutzmaßnahmen in den eigenen vier Wänden</title>
+    <updated>2024-07-02T17:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Hitze und Trockenheit</name>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Hitzeschutzma%C3%9Fnahmen-in-den-eigenen-vier-W%C3%A4nden.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67519.1&amp;NavID=2874.584&amp;La=1"/>
+    <published>2024-07-02T17:12:00+02:00</published>
   </entry>
   <entry>
     <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Leib-sches-Haus-schlie%C3%9Ft-bis-voraussichtlich-Sommer-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.12511.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
