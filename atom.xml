@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-01T22:13:18.985879+00:00</updated>
+  <updated>2024-07-02T10:14:08.400053+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -424,17 +424,6 @@
     <published>2024-06-29T00:57:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/interviewpartner-innen-fur-theaterproduktion-gesucht/</id>
-    <title>Interviewpartner*innen für Theaterproduktion gesucht - Interviewees wanted for theatre production. / In der Spielze...</title>
-    <updated>2024-05-17T12:21:46+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/interviewpartner-innen-fur-theaterproduktion-gesucht/"/>
-    <published>2024-05-17T12:21:46+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/kulturpass-fur-jugendliche/</id>
     <title>KulturPass für Jugendliche - Wir sind beim KulturPass dabei! Alle Jugendliche, die dieses...</title>
     <updated>2024-05-07T11:11:52+02:00</updated>
@@ -521,6 +510,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/buchertisch-zu-den-hessischen-theatertagen/"/>
     <published>2024-06-24T15:14:27+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-glas-wein-fur-die-orgel-der-johanneskirche/</id>
+    <title>Ein Glas Wein für die Orgel der Johanneskirche - Wer sich an der Bar der Hessischen Theatertage ein sommerlic...</title>
+    <updated>2024-07-02T10:13:57.315186+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-glas-wein-fur-die-orgel-der-johanneskirche/"/>
+    <published>2024-07-02T10:13:57.315186+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/welches-morgen/</id>
