@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-02T17:13:03.818988+00:00</updated>
+  <updated>2024-07-03T14:14:24.700640+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -434,28 +434,6 @@
     <published>2024-06-29T00:57:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 12. Juli - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
-    <updated>2023-12-15T17:11:05+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2023-12-15T17:11:05+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/synchronitat-aufbrechen/</id>
-    <title>Synchronität aufbrechen - Das Team von „Heat up“ über Hitze, Rhythmus und Gemeinschaft...</title>
-    <updated>2024-06-14T14:13:10+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/synchronitat-aufbrechen/"/>
-    <published>2024-06-14T14:13:10+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/neue-spielzeit-2024-2025/</id>
     <title>Neue Spielzeit 2024/2025 - Neugierig? Durchstöbert jetzt unsere Website für Infos zu de...</title>
     <updated>2024-05-17T14:12:02+02:00</updated>
@@ -511,6 +489,17 @@
     <published>2024-07-02T11:11:21+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theaterkritik-zu-jedermann/</id>
+    <title>Theaterkritik zu „Jedermann" - Im Rahmen des Seminars „Cringe &amp; Convention" unter ...</title>
+    <updated>2024-07-03T14:14:07.166677+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theaterkritik-zu-jedermann/"/>
+    <published>2024-07-03T14:14:07.166677+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-glas-wein-fur-die-orgel-der-johanneskirche/</id>
     <title>Ein Glas Wein für die Orgel der Johanneskirche - Wer sich an der Bar der Hessischen Theatertage ein sommerlic...</title>
     <updated>2024-07-02T10:13:57+02:00</updated>
@@ -520,6 +509,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-glas-wein-fur-die-orgel-der-johanneskirche/"/>
     <published>2024-07-02T10:13:57+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/sommerbuhne-vor-dem-stadttheater/</id>
+    <title>Sommerbühne vor dem Stadttheater - Open-Air-Programm vom 20. bis 27. Juli...</title>
+    <updated>2024-07-03T14:14:07.166677+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/sommerbuhne-vor-dem-stadttheater/"/>
+    <published>2024-07-03T14:14:07.166677+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/curlew-love-songs-premiere-beginnt-um-17-30-uhr/</id>
