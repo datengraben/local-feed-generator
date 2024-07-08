@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-07T18:16:06.556284+00:00</updated>
+  <updated>2024-07-08T09:15:19.641460+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -357,8 +357,19 @@
     <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_8952_1.PDF?1705565651</id>
+    <title>Ankündigung von Vermessungs- und Kartierungsarbeiten sowie Ortsbesichtigungen und Dokumentation für die Trassen-Planung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
+    <updated>2024-01-18T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_8952_1.PDF?1705565651"/>
+    <published>2024-01-18T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_9294_1.PDF?1711370053</id>
-    <title>Ankündigung von Baugrunduntersuchungen für die Trassenplanung - im Auftrag der Amprion GmbH</title>
+    <title>Ankündigung von Baugrunduntersuchungen für die Trassenplanung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
     <updated>2024-04-08T00:00:00+02:00</updated>
     <author>
       <name>Stadt - Amtliche Bekanntmachungen</name>
