@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-08T14:13:23.655095+00:00</updated>
+  <updated>2024-07-09T14:12:36.325629+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -491,13 +491,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-nachste-stufe/</id>
     <title>Die nächste Stufe! - Sieben Orchesterdirigentinnen und -dirigenten des Forum Diri...</title>
-    <updated>2024-07-08T14:13:10.091891+02:00</updated>
+    <updated>2024-07-08T14:13:10+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-nachste-stufe/"/>
-    <published>2024-07-08T14:13:10.091891+02:00</published>
+    <published>2024-07-08T14:13:10+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/sommerbuhne-vor-dem-stadttheater/</id>
@@ -542,17 +542,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/welches-morgen/"/>
     <published>2024-06-27T08:16:18+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/swg-vorstand-scheidet-ende-juli-aus</id>
-    <title>SWG-Vorstand scheidet Ende Juli aus</title>
-    <updated>2024-05-31T14:11:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-vorstand-scheidet-ende-juli-aus"/>
-    <published>2024-05-31T14:11:00+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-nachtbuslinie-saturn</id>
@@ -674,5 +663,16 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-buslinie-1"/>
     <published>2024-06-28T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/semesterferienfahrplan-gilt-ab-sofort</id>
+    <title>Semesterferienfahrplan gilt ab sofort</title>
+    <updated>2024-07-09T14:12:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/semesterferienfahrplan-gilt-ab-sofort"/>
+    <published>2024-07-09T14:12:00+02:00</published>
   </entry>
 </feed>
