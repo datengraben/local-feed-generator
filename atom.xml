@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-10T08:18:34.293639+00:00</updated>
+  <updated>2024-07-10T11:12:09.322346+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -555,17 +555,6 @@
     <published>2024-06-27T08:16:18+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-nachtbuslinie-saturn</id>
-    <title>Umleitung für Nachtbuslinie Saturn</title>
-    <updated>2024-06-05T10:13:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-nachtbuslinie-saturn"/>
-    <published>2024-06-05T10:13:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/fuenf-zusatzfahrten-auf-den-schiffenberg</id>
     <title>Fünf Zusatzfahrten auf den Schiffenberg</title>
     <updated>2024-06-06T11:11:00+02:00</updated>
@@ -685,5 +674,16 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/semesterferienfahrplan-gilt-ab-sofort"/>
     <published>2024-07-09T14:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/entspannt-zum-letzten-basilika-konzert-2024</id>
+    <title>Entspannt zum letzten Basilika-Konzert 2024</title>
+    <updated>2024-07-10T11:11:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/entspannt-zum-letzten-basilika-konzert-2024"/>
+    <published>2024-07-10T11:11:00+02:00</published>
   </entry>
 </feed>
