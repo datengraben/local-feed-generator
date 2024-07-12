@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-12T00:59:01.693623+00:00</updated>
+  <updated>2024-07-12T08:17:37.793057+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -555,15 +555,15 @@
     <published>2024-07-08T12:25:22+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/welches-morgen/</id>
-    <title>Welches Morgen? - Vom 27. Juni bis zum 6. Juli finden die Hessischen Theaterta...</title>
-    <updated>2024-06-27T08:16:18+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-liebesbrief-des-theaters-an-sein-publikum-zum-spielzeitende/</id>
+    <title>Ein Liebesbrief des Theaters an sein Publikum zum Spielzeitende - Ein Theater und sein Publikum: Das eine gäbe es nicht, ohne ...</title>
+    <updated>2024-07-12T08:17:20.861201+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/welches-morgen/"/>
-    <published>2024-06-27T08:16:18+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-liebesbrief-des-theaters-an-sein-publikum-zum-spielzeitende/"/>
+    <published>2024-07-12T08:17:20.861201+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/fuenf-zusatzfahrten-auf-den-schiffenberg</id>
