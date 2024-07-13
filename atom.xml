@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-12T08:17:37.793057+00:00</updated>
+  <updated>2024-07-13T00:59:53.180142+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -456,6 +456,39 @@
     <published>2024-07-12T00:58:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_10185_1.PDF?1720783101</id>
+    <title>Satzung über die Erhebung von Gebühren für die Kommunale Musikschule Gießen</title>
+    <updated>2024-07-13T00:59:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10185_1.PDF?1720783101"/>
+    <published>2024-07-13T00:59:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10179_1.PDF?1720772975</id>
+    <title>Nachruf Michaela Seitz</title>
+    <updated>2024-07-13T00:59:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10179_1.PDF?1720772975"/>
+    <published>2024-07-13T00:59:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10177_1.PDF?1720771971</id>
+    <title>Bauleitplanung: Einleitungsbeschluss zum Bebauungsplan GI 02/09 "Lichtenauer Weg"</title>
+    <updated>2024-07-13T00:59:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10177_1.PDF?1720771971"/>
+    <published>2024-07-13T00:59:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zauber-was-zauberdings-zauberflote/</id>
     <title>Zauber– was? Zauberdings? – Zauberflöte! - FERIENWORKSHOP I AB 8 JAHREN...</title>
     <updated>2024-06-24T15:14:27+02:00</updated>
@@ -557,13 +590,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-liebesbrief-des-theaters-an-sein-publikum-zum-spielzeitende/</id>
     <title>Ein Liebesbrief des Theaters an sein Publikum zum Spielzeitende - Ein Theater und sein Publikum: Das eine gäbe es nicht, ohne ...</title>
-    <updated>2024-07-12T08:17:20.861201+02:00</updated>
+    <updated>2024-07-12T08:17:20+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-liebesbrief-des-theaters-an-sein-publikum-zum-spielzeitende/"/>
-    <published>2024-07-12T08:17:20.861201+02:00</published>
+    <published>2024-07-12T08:17:20+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/fuenf-zusatzfahrten-auf-den-schiffenberg</id>
