@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-13T00:59:53.180142+00:00</updated>
+  <updated>2024-07-13T22:11:34.665348+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -423,17 +423,6 @@
     <published>2024-06-22T00:56:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10081_1.PDF?1718976033</id>
-    <title>Nachruf Holger Geller</title>
-    <updated>2024-06-29T00:57:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10081_1.PDF?1718976033"/>
-    <published>2024-06-29T00:57:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10166_1.PDF?1720596794</id>
     <title>Interessenbekundungsverfahren der Universitätsstadt Gießen zur Vergabe von Stellplätzen im öffentlichen Raum für stationsbasiertes CarSharing</title>
     <updated>2024-07-10T08:18:00+02:00</updated>
@@ -567,7 +556,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 12. Juli - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
+    <title>Theatertag am 14. September - Am Theatertag kosten alle Tickets 15 Euro - egal auf welchem...</title>
     <updated>2024-07-08T12:25:22+02:00</updated>
     <author>
       <name>Stadttheater</name>
