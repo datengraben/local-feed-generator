@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-15T22:12:51.323408+00:00</updated>
+  <updated>2024-07-16T22:13:13.710932+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -387,17 +387,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_9294_1.PDF?1711370053"/>
     <published>2024-04-08T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_9944_1.PDF?1718108463</id>
-    <title>Bauleitplanung: Offenlegung des Bebauungsplanentwurfes Bebauungsplan Nr. WI 06/11 "Sportzentrum Wieseck am Ried"</title>
-    <updated>2024-06-12T05:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_9944_1.PDF?1718108463"/>
-    <published>2024-06-12T05:12:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_10006_1.PDF?1718707384</id>
