@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-23T11:13:18.468275+00:00</updated>
+  <updated>2024-07-23T12:25:22.528028+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -512,13 +512,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/doppelt-ausgezeichnet-bei-den-hessischen-theatertagen-2024-nach-uns-die-angst-kehrt-am-19-oktober-ins-kleine-haus-zuruck/</id>
     <title>Doppelt ausgezeichnet bei den Hessischen Theatertagen 2024: „Nach uns die Angst“ kehrt am 19. Oktober ins Kleine Haus zurück - Falls Sie die Vorstellung von „Nach uns die Angst“ während d...</title>
-    <updated>2024-07-23T11:13:02.898463+02:00</updated>
+    <updated>2024-07-23T11:13:02+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/doppelt-ausgezeichnet-bei-den-hessischen-theatertagen-2024-nach-uns-die-angst-kehrt-am-19-oktober-ins-kleine-haus-zuruck/"/>
-    <published>2024-07-23T11:13:02.898463+02:00</published>
+    <published>2024-07-23T11:13:02+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/dirigieren-sie-das-philharmonische-orchester/</id>
@@ -563,17 +563,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-liebesbrief-des-theaters-an-sein-publikum-zum-spielzeitende/"/>
     <published>2024-07-12T08:17:20+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/spiel-dein-spiel-city-day-am-23-juni</id>
-    <title>„Spiel‘ Dein Spiel“ – City Day am 23. Juni</title>
-    <updated>2024-06-18T10:13:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/spiel-dein-spiel-city-day-am-23-juni"/>
-    <published>2024-06-18T10:13:00+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtmauerreste-freigelegt-stadtwerke-planen-bauarbeiten-im-seltersweg-um</id>
@@ -695,5 +684,16 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-der-linien-800-und-802"/>
     <published>2024-07-23T11:13:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/swg-bilanz-erneut-ein-gutes-ergebnis</id>
+    <title>SWG-Bilanz: Erneut ein gutes Ergebnis</title>
+    <updated>2024-07-23T12:25:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/swg-bilanz-erneut-ein-gutes-ergebnis"/>
+    <published>2024-07-23T12:25:00+02:00</published>
   </entry>
 </feed>
