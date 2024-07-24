@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-23T22:12:52.167335+00:00</updated>
+  <updated>2024-07-24T15:14:50.053951+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -444,17 +444,6 @@
     <published>2024-07-13T00:59:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-nachste-stufe/</id>
-    <title>Die nächste Stufe! - Sieben Orchesterdirigentinnen und -dirigenten des Forum Diri...</title>
-    <updated>2024-07-08T14:13:10+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-nachste-stufe/"/>
-    <published>2024-07-08T14:13:10+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 14. September - Am Theatertag kosten alle Tickets 15 Euro - egal auf welchem...</title>
     <updated>2024-07-08T12:25:22+02:00</updated>
@@ -508,6 +497,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/doppelt-ausgezeichnet-bei-den-hessischen-theatertagen-2024-nach-uns-die-angst-kehrt-am-19-oktober-ins-kleine-haus-zuruck/"/>
     <published>2024-07-23T11:13:02+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/save-the-date-theaterfest-am-8-september/</id>
+    <title>Save the date: Theaterfest am 8. September - Hier erfahren Sie, warum Sie das Theaterfest keinesfalls ver...</title>
+    <updated>2024-07-24T15:14:39.194612+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/save-the-date-theaterfest-am-8-september/"/>
+    <published>2024-07-24T15:14:39.194612+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/dirigieren-sie-das-philharmonische-orchester/</id>
