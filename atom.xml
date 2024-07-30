@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-29T12:25:51.668146+00:00</updated>
+  <updated>2024-07-30T11:12:35.276288+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -401,17 +401,6 @@
     <published>2024-07-12T00:58:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10177_1.PDF?1720771971</id>
-    <title>Bauleitplanung: Einleitungsbeschluss zum Bebauungsplan GI 02/09 "Lichtenauer Weg"</title>
-    <updated>2024-07-13T00:59:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10177_1.PDF?1720771971"/>
-    <published>2024-07-13T00:59:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10185_1.PDF?1720783101</id>
     <title>Satzung über die Erhebung von Gebühren für die Kommunale Musikschule Gießen</title>
     <updated>2024-07-13T00:59:00+02:00</updated>
@@ -420,6 +409,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10185_1.PDF?1720783101"/>
+    <published>2024-07-13T00:59:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10177_1.PDF?1720771971</id>
+    <title>Bauleitplanung: Einleitungsbeschluss zum Bebauungsplan GI 02/09 "Lichtenauer Weg"</title>
+    <updated>2024-07-13T00:59:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10177_1.PDF?1720771971"/>
     <published>2024-07-13T00:59:00+02:00</published>
   </entry>
   <entry>
@@ -531,17 +531,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-liebesbrief-des-theaters-an-sein-publikum-zum-spielzeitende/"/>
     <published>2024-07-12T08:17:20+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtmauerreste-freigelegt-stadtwerke-planen-bauarbeiten-im-seltersweg-um</id>
-    <title>Stadtmauerreste freigelegt: Stadtwerke planen Bauarbeiten im Seltersweg um</title>
-    <updated>2024-06-18T12:24:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtmauerreste-freigelegt-stadtwerke-planen-bauarbeiten-im-seltersweg-um"/>
-    <published>2024-06-18T12:24:00+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/linden-und-swg-erneuern-konzessionsvertraege</id>
@@ -663,6 +652,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/swg-bilanz-erneut-ein-gutes-ergebnis"/>
     <published>2024-07-23T12:25:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-wieder-premiumpartner-des-giessener-kultursommers</id>
+    <title>Stadtwerke Gießen wieder Premiumpartner des Gießener Kultursommers</title>
+    <updated>2024-07-30T11:12:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-wieder-premiumpartner-des-giessener-kultursommers"/>
+    <published>2024-07-30T11:12:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Europa-in-den-Herbstferien-hautnah-erleben-ein-Urlaub-mit-Bildung-f%C3%BCr-junge-Leute-in-Br%C3%BCssel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67587.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
