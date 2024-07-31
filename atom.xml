@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-31T10:11:13.275124+00:00</updated>
+  <updated>2024-07-31T11:11:08.895351+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -346,6 +346,17 @@
     <published>2024-04-09T00:00:00+02:00</published>
   </entry>
   <entry>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Let-s-go-digital-Digitales-aus-dem-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67885.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <title>Let's go digital. Digitales aus dem Museum</title>
+    <updated>2024-07-31T11:10:00+02:00</updated>
+    <author>
+      <name>Oberhessisches Museum</name>
+      <email>museum@giessen.de</email>
+    </author>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Let-s-go-digital-Digitales-aus-dem-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67885.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <published>2024-07-31T11:10:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_10082_1.PDF?1718976350</id>
     <title>Bauleitplanung: Einleitungsbeschluss und frühzeitige Beteiligung der Öffentlichkeit zum Bebauungsplan GI 05/23 »Katzenfeld« und zur 20. Änderung des Flächennutzungsplanes in diesem Bereich</title>
     <updated>2020-11-30T00:00:00+01:00</updated>
@@ -665,17 +676,6 @@
     <published>2024-07-31T10:11:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gr%C3%BCnberger-Stra%C3%9Fe-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67596.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Grünberger Straße gesperrt</title>
-    <updated>2024-07-10T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gr%C3%BCnberger-Stra%C3%9Fe-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67596.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-07-10T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reste-der-Stadtmauer-bei-Bauarbeiten-im-Seltersweg-gefunden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64711.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Reste der Stadtmauer bei Bauarbeiten im Seltersweg gefunden</title>
     <updated>2024-07-11T00:00:00+02:00</updated>
@@ -938,5 +938,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Musikalischer-Sommer-Ausblick-auf-s-Wochenende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67541.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-07-31T05:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Let-s-go-digital-Digitales-aus-dem-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67885.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Let's go digital. Digitales aus dem Museum</title>
+    <updated>2024-07-31T11:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Let-s-go-digital-Digitales-aus-dem-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67885.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-07-31T11:10:00+02:00</published>
   </entry>
 </feed>
