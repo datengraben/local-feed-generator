@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-07-31T22:12:47.644280+00:00</updated>
+  <updated>2024-08-01T08:17:32.250009+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -390,17 +390,6 @@
     <published>2024-07-12T00:58:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10185_1.PDF?1720783101</id>
-    <title>Satzung über die Erhebung von Gebühren für die Kommunale Musikschule Gießen</title>
-    <updated>2024-07-13T00:59:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10185_1.PDF?1720783101"/>
-    <published>2024-07-13T00:59:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10177_1.PDF?1720771971</id>
     <title>Bauleitplanung: Einleitungsbeschluss zum Bebauungsplan GI 02/09 "Lichtenauer Weg"</title>
     <updated>2024-07-13T00:59:00+02:00</updated>
@@ -409,6 +398,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10177_1.PDF?1720771971"/>
+    <published>2024-07-13T00:59:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10185_1.PDF?1720783101</id>
+    <title>Satzung über die Erhebung von Gebühren für die Kommunale Musikschule Gießen</title>
+    <updated>2024-07-13T00:59:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10185_1.PDF?1720783101"/>
     <published>2024-07-13T00:59:00+02:00</published>
   </entry>
   <entry>
@@ -663,17 +663,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/vielfalt-als-chance-begreifen"/>
     <published>2024-07-31T10:11:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Spielpl%C3%A4tze-in-Gie%C3%9Fen-entdecken-Es-winkt-eine-kleine-%C3%9Cberraschung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67636.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Spielplätze in Gießen entdecken - Es winkt eine kleine Überraschung</title>
-    <updated>2024-07-11T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Spielpl%C3%A4tze-in-Gie%C3%9Fen-entdecken-Es-winkt-eine-kleine-%C3%9Cberraschung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67636.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-07-11T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsau%C3%9Fenstelle-R%C3%B6dgen-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67637.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -938,5 +927,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-unterzeichnen-Charta-der-Vielfalt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67886.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-07-31T12:25:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/An-und-Ummeldung-beim-Stadtb%C3%BCro-Gie%C3%9Fen-ab-sofort-online-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67703.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>An- und Ummeldung beim Stadtbüro Gießen ab sofort online möglich</title>
+    <updated>2024-08-01T08:17:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/An-und-Ummeldung-beim-Stadtb%C3%BCro-Gie%C3%9Fen-ab-sofort-online-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67703.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-01T08:17:00+02:00</published>
   </entry>
 </feed>
