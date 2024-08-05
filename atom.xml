@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-04T14:12:41.675430+00:00</updated>
+  <updated>2024-08-05T12:26:12.857615+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -664,17 +664,6 @@
     <published>2024-07-31T11:10:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsau%C3%9Fenstelle-R%C3%B6dgen-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67637.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verwaltungsaußenstelle Rödgen vorübergehend geschlossen</title>
-    <updated>2024-07-11T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsau%C3%9Fenstelle-R%C3%B6dgen-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67637.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-07-11T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Feierstunde-f%C3%BCr-st%C3%A4dtische-Bedienstete.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67639.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Feierstunde für städtische Bedienstete</title>
     <updated>2024-07-12T00:00:00+02:00</updated>
@@ -937,5 +926,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-Donnerstag-F%C3%BChrung-durch-die-Ausstellung-von-Rachel-Maclean-MAMA-MIMI-DUCK.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67896.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-08-02T12:24:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wasser-Zuk%C3%BCnftig-eine-knappe-Ressource.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67904.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wasser - Zukünftig eine knappe Ressource</title>
+    <updated>2024-08-05T12:26:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wasser-Zuk%C3%BCnftig-eine-knappe-Ressource.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67904.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-05T12:26:00+02:00</published>
   </entry>
 </feed>
