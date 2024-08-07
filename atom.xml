@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-07T12:28:09.547863+00:00</updated>
+  <updated>2024-08-07T13:18:16.700531+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -664,17 +664,6 @@
     <published>2024-07-31T11:10:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schlie%C3%9Fung-der-Volkshochschule-in-den-Sommerferien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60784.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Volkshochschule schließt in den Sommerferien</title>
-    <updated>2024-07-12T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schlie%C3%9Fung-der-Volkshochschule-in-den-Sommerferien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60784.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-07-12T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsoptimierung-entlang-der-Ostanlage-und-im-Bereich-des-John-F-Kennedy-Platzes.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67653.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Verkehrsoptimierung entlang der Ostanlage und im Bereich des John-F.-Kennedy-Platzes</title>
     <updated>2024-07-12T00:00:00+02:00</updated>
@@ -937,5 +926,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-B%C3%BCrogeb%C3%A4ude-am-Riversplatz-eingeweiht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67925.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-08-07T12:27:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sch%C3%BCler-BAf%C3%B6G-Mit-finanzieller-Entlastung-durch-die-Ausbildung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67926.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Schüler-BAföG: Mit finanzieller Entlastung durch die Ausbildung</title>
+    <updated>2024-08-07T13:18:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sch%C3%BCler-BAf%C3%B6G-Mit-finanzieller-Entlastung-durch-die-Ausbildung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67926.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-07T13:18:00+02:00</published>
   </entry>
 </feed>
