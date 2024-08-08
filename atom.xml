@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-08T07:12:47.450106+00:00</updated>
+  <updated>2024-08-08T15:14:48.513707+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -664,17 +664,6 @@
     <published>2024-07-31T11:10:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-Warnungen-des-DWD-im-Stadtgebiet-und-oline.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67658.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Hitze-Warnungen des DWD im Stadtgebiet und online</title>
-    <updated>2024-07-15T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-Warnungen-des-DWD-im-Stadtgebiet-und-oline.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67658.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-07-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zeugnisse-an-Nachwuchskr%C3%A4fte-der-Stadtverwaltung-%C3%BCberreicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Zeugnisse an Nachwuchskräfte der Stadtverwaltung überreicht</title>
     <updated>2024-07-15T00:00:00+02:00</updated>
@@ -929,7 +918,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/E-Ladestationen-in-der-Tiefgarage-am-Rathaus-k%C3%BCnftig-zahlungspflichtig.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67928.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kein kostenloses Laden mehr an E-Ladestationen in Rathaus-Tiefgarage</title>
+    <title>Kein kostenloses Laden mehr in Rathaus-Tiefgarage</title>
     <updated>2024-08-08T07:12:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
@@ -937,5 +926,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/E-Ladestationen-in-der-Tiefgarage-am-Rathaus-k%C3%BCnftig-zahlungspflichtig.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67928.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-08-08T07:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bordsteinrampen-sind-nicht-zul%C3%A4ssig.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67931.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bordsteinrampen sind nicht zulässig</title>
+    <updated>2024-08-08T15:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bordsteinrampen-sind-nicht-zul%C3%A4ssig.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67931.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-08T15:14:00+02:00</published>
   </entry>
 </feed>
