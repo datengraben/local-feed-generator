@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-10T14:12:18.876545+00:00</updated>
+  <updated>2024-08-11T22:13:38.031126+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -365,17 +365,6 @@
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Let-s-go-digital-Digitales-aus-dem-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67885.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2024-07-31T11:10:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_10166_1.PDF?1720596794</id>
-    <title>Interessenbekundungsverfahren der Universitätsstadt Gießen zur Vergabe von Stellplätzen im öffentlichen Raum für stationsbasiertes CarSharing</title>
-    <updated>2024-07-10T08:18:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10166_1.PDF?1720596794"/>
-    <published>2024-07-10T08:18:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_10159_1.PDF?1720428618</id>
