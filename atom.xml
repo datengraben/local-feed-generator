@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-13T09:15:41.428065+00:00</updated>
+  <updated>2024-08-13T10:15:06.372223+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -653,17 +653,6 @@
     <published>2024-07-31T11:10:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Vor%C3%BCbergehende-%C3%84nderungen-im-Gie%C3%9Fener-Nahverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67678.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadtwerke Gießen: Vorübergehende Änderungen im Gießener Nahverkehr</title>
-    <updated>2024-07-15T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Vor%C3%BCbergehende-%C3%84nderungen-im-Gie%C3%9Fener-Nahverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67678.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-07-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrserziehung-und-Ma%C3%9Fnahmen-gegen-das-Elterntaxi-f%C3%BCr-einen-sicheren-Schulweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67679.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Verkehrserziehung und Maßnahmen gegen das Elterntaxi für einen sicheren Schulweg</title>
     <updated>2024-07-15T00:00:00+02:00</updated>
@@ -926,5 +915,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Igel-in-modernen-G%C3%A4rten-geplagt-und-hinter-Gittern-gefangen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67938.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-08-13T09:15:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Die Verbraucherzentrale rät: Richtig trinken im Sommer</title>
+    <updated>2024-08-13T10:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-13T10:14:00+02:00</published>
   </entry>
 </feed>
