@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-13T13:17:41.435318+00:00</updated>
+  <updated>2024-08-13T22:12:49.483072+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -396,17 +396,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10185_1.PDF?1720783101"/>
-    <published>2024-07-13T00:59:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_10177_1.PDF?1720771971</id>
-    <title>Bauleitplanung: Einleitungsbeschluss zum Bebauungsplan GI 02/09 "Lichtenauer Weg"</title>
-    <updated>2024-07-13T00:59:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10177_1.PDF?1720771971"/>
     <published>2024-07-13T00:59:00+02:00</published>
   </entry>
   <entry>
