@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-15T11:11:00.158798+00:00</updated>
+  <updated>2024-08-15T12:26:09.098104+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -652,17 +652,6 @@
     <published>2024-08-15T11:10:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienzeit-ist-Museumszeit-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67682.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ferienzeit ist Museumszeit!</title>
-    <updated>2024-07-17T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienzeit-ist-Museumszeit-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67682.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-07-17T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Shantel-Rantanplan-und-Quichotte-H%C3%B6hepunkte-beim-Gie%C3%9Fener-Stadtfest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67692.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>»Shantel«, »Rantanplan« und »Quichotte« Höhepunkte beim Gießener Stadtfest</title>
     <updated>2024-07-18T00:00:00+02:00</updated>
@@ -925,5 +914,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtfest-Gie%C3%9Fen-Entspannt-mit-dem-Bus-zum-Feiern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67950.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-08-14T12:25:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Er%C3%B6ffnung-der-Ludwigstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67952.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Eröffnung der Ludwigstraße</title>
+    <updated>2024-08-15T12:25:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Er%C3%B6ffnung-der-Ludwigstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67952.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-15T12:25:00+02:00</published>
   </entry>
 </feed>
