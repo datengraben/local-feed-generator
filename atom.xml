@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-19T11:11:47.351718+00:00</updated>
+  <updated>2024-08-19T12:26:23.352097+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -652,17 +652,6 @@
     <published>2024-08-19T11:11:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erh%C3%B6hung-der-Bewohnerparkgeb%C3%BChren-ab-23-07-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67698.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Erhöhung der Bewohnerparkgebühren ab 23.07.2024</title>
-    <updated>2024-07-22T10:15:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erh%C3%B6hung-der-Bewohnerparkgeb%C3%BChren-ab-23-07-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67698.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-07-22T10:15:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-Bilanz-Erneut-ein-gutes-Ergebnis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67702.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>SWG-Bilanz: Erneut ein gutes Ergebnis</title>
     <updated>2024-07-23T10:15:00+02:00</updated>
@@ -925,5 +914,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Kultursommer-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67970.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-08-19T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Umleitungen-und-%C3%84nderungen-f%C3%BCr-Buslinien-3-13-und-10.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67971.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtwerke Gießen: Umleitungen und Änderungen für Buslinien 3, 13 und 10</title>
+    <updated>2024-08-19T12:26:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Umleitungen-und-%C3%84nderungen-f%C3%BCr-Buslinien-3-13-und-10.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67971.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-19T12:26:00+02:00</published>
   </entry>
 </feed>
