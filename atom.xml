@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-21T15:14:26.536091+00:00</updated>
+  <updated>2024-08-21T21:13:17.828476+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -662,6 +662,17 @@
     <published>2024-08-20T10:14:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Gie%C3%9Fen-zieht-Bilanz-zur-Spielzeit-2023-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67715.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadttheater Gießen zieht Bilanz zur Spielzeit 2023/2024</title>
+    <updated>2024-07-25T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Gie%C3%9Fen-zieht-Bilanz-zur-Spielzeit-2023-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67715.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-07-25T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-unterst%C3%BCtzen-wieder-Gie%C3%9Fener-Kultursommer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67881.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>SWG unterstützen wieder Gießener Kultursommer</title>
     <updated>2024-07-30T12:25:00+02:00</updated>
@@ -924,16 +935,5 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wartweg-ab-22-August-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67976.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-08-20T14:12:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verwaltungsstellen der Stadtteile teilweise wieder besetzt</title>
-    <updated>2024-08-06T05:13:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-08-06T05:13:00+02:00</published>
   </entry>
 </feed>
