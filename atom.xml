@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-20T14:12:55.172685+00:00</updated>
+  <updated>2024-08-21T15:14:26.536091+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -265,6 +265,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2024-08-13T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Innenr%C3%A4ume-an-hei%C3%9Fen-Tagen-k%C3%BChl-halten.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67978.1&amp;NavID=2874.584&amp;La=1</id>
+    <title>Innenräume an heißen Tagen kühl halten</title>
+    <updated>2024-08-21T15:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Hitze und Trockenheit</name>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitze-und-Trockenheit/Innenr%C3%A4ume-an-hei%C3%9Fen-Tagen-k%C3%BChl-halten.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67978.1&amp;NavID=2874.584&amp;La=1"/>
+    <published>2024-08-21T15:14:00+02:00</published>
   </entry>
   <entry>
     <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Leib-sches-Haus-schlie%C3%9Ft-bis-voraussichtlich-Sommer-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.12511.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
@@ -729,17 +739,6 @@
     <published>2024-08-05T12:26:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verwaltungsstellen der Stadtteile schließen vorübergehend</title>
-    <updated>2024-08-06T05:13:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-08-06T05:13:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-B%C3%BCrogeb%C3%A4ude-am-Riversplatz-eingeweiht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67925.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Neues Bürogebäude am Riversplatz eingeweiht</title>
     <updated>2024-08-07T12:27:00+02:00</updated>
@@ -925,5 +924,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wartweg-ab-22-August-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67976.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-08-20T14:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verwaltungsstellen der Stadtteile teilweise wieder besetzt</title>
+    <updated>2024-08-06T05:13:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-06T05:13:00+02:00</published>
   </entry>
 </feed>
