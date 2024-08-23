@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-23T10:14:27.304730+00:00</updated>
+  <updated>2024-08-23T14:14:07.203999+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -849,15 +849,15 @@
     <published>2024-08-13T13:17:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Er%C3%B6ffnung-der-Ludwigstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67952.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Er%C3%B6ffnung-der-Ludwigstra%C3%9Fe-LS.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67969.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Eröffnung der Ludwigstraße</title>
-    <updated>2024-08-15T12:25:00+02:00</updated>
+    <updated>2024-08-15T00:00:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Er%C3%B6ffnung-der-Ludwigstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67952.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-08-15T12:25:00+02:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Er%C3%B6ffnung-der-Ludwigstra%C3%9Fe-LS.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67969.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-15T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herzlich-willkommen-31-neue-Auszubildende-Studierende-und-Praktikantinnen-starten-bei-der-Stadtverwaltung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67963.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
