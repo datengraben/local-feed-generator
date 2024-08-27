@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-27T11:12:37.030502+00:00</updated>
+  <updated>2024-08-27T12:26:10.841459+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -651,17 +651,6 @@
     <published>2024-08-27T11:12:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wasser-Zuk%C3%BCnftig-eine-knappe-Ressource.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67904.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wasser - Zukünftig eine knappe Ressource</title>
-    <updated>2024-08-05T12:26:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wasser-Zuk%C3%BCnftig-eine-knappe-Ressource.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67904.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-08-05T12:26:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-B%C3%BCrogeb%C3%A4ude-am-Riversplatz-eingeweiht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67925.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Neues Bürogebäude am Riversplatz eingeweiht</title>
     <updated>2024-08-07T12:27:00+02:00</updated>
@@ -924,5 +913,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Arbeitsagentur-Gie%C3%9Fen-Lehrstellen-to-go-F%C3%BCr-Jugendliche-die-jetzt-noch-in-Ausbildung-starten-wollen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68001.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-08-27T11:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freibadsaison-in-Kleinlinden-und-L%C3%BCtzellinden-geht-zu-Ende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68002.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Freibadsaison in Kleinlinden und Lützellinden geht zu Ende</title>
+    <updated>2024-08-27T12:25:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freibadsaison-in-Kleinlinden-und-L%C3%BCtzellinden-geht-zu-Ende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68002.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-27T12:25:00+02:00</published>
   </entry>
 </feed>
