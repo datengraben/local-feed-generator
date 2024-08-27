@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-27T12:26:10.841459+00:00</updated>
+  <updated>2024-08-27T13:18:28.660734+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -519,17 +519,6 @@
     <published>2024-07-12T08:17:20+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/swg-warnen-vor-aktueller-betrugsmasche</id>
-    <title>SWG warnen vor aktueller Betrugsmasche</title>
-    <updated>2024-07-19T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-warnen-vor-aktueller-betrugsmasche"/>
-    <published>2024-07-19T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/umleitung-der-linien-800-und-802</id>
     <title>Umleitung der Linien 800 und 802</title>
     <updated>2024-07-23T00:00:00+02:00</updated>
@@ -649,6 +638,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/saisonende-in-den-stadtteilfreibaedern"/>
     <published>2024-08-27T11:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/haustuerbetrueger-weiter-unterwegs</id>
+    <title>Haustürbetrüger weiter unterwegs</title>
+    <updated>2024-08-27T13:18:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/haustuerbetrueger-weiter-unterwegs"/>
+    <published>2024-08-27T13:18:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-B%C3%BCrogeb%C3%A4ude-am-Riversplatz-eingeweiht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67925.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
