@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-08-31T22:14:04.619613+00:00</updated>
+  <updated>2024-09-01T21:12:41.143823+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -640,6 +640,17 @@
     <published>2024-08-27T13:18:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tagebau-Rennstrecke-Forschungsgebiet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67927.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Hangelstein: Tagebau, Rennstrecke, Forschungsgebiet</title>
+    <updated>2024-08-08T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tagebau-Rennstrecke-Forschungsgebiet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67927.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-08T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/E-Ladestationen-in-der-Tiefgarage-am-Rathaus-k%C3%BCnftig-zahlungspflichtig.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67928.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Kein kostenloses Laden mehr in Rathaus-Tiefgarage</title>
     <updated>2024-08-08T00:00:00+02:00</updated>
@@ -748,17 +759,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herzlich-willkommen-31-neue-Auszubildende-Studierende-und-Praktikantinnen-starten-bei-der-Stadtverwaltung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67963.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-08-16T10:14:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Kultursommer-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67970.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gießener Kultursommer 2024</title>
-    <updated>2024-08-19T11:11:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Kultursommer-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67970.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-08-19T11:11:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-Umleitungen-und-%C3%84nderungen-f%C3%BCr-Buslinien-3-13-und-10.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67971.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
