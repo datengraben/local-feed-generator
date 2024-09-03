@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-02T14:13:01.152083+00:00</updated>
+  <updated>2024-09-03T19:12:12.937975+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -640,6 +640,17 @@
     <published>2024-08-27T13:18:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-und-Stadt-Gie%C3%9Fen-suchen-Pflegeeltern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Landkreis und Stadt Gießen immer noch auf der Suche nach Pflegeeltern</title>
+    <updated>2024-08-09T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-und-Stadt-Gie%C3%9Fen-suchen-Pflegeeltern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-09T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Dunkle-Seite-des-Lichts.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67936.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Die dunkle Seite des Lichts</title>
     <updated>2024-08-09T13:16:00+02:00</updated>
@@ -792,17 +803,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-setzt-auf-smarte-Daten-f%C3%BCr-die-Zukunft.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67997.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-08-26T09:14:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Informationsveranstaltung-zu-Windpark-Fernewald-am-3-September.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68000.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Informationsveranstaltung zu Windpark Fernewald am 3. September</title>
-    <updated>2024-08-27T10:13:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Informationsveranstaltung-zu-Windpark-Fernewald-am-3-September.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68000.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-08-27T10:13:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Arbeitsagentur-Gie%C3%9Fen-Lehrstellen-to-go-F%C3%BCr-Jugendliche-die-jetzt-noch-in-Ausbildung-starten-wollen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68001.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
