@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-06T09:14:56.441169+00:00</updated>
+  <updated>2024-09-06T11:13:03.585908+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -651,17 +651,6 @@
     <published>2024-09-04T11:11:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Er%C3%B6ffnung-der-Ludwigstra%C3%9Fe-LS.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67969.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Eröffnung der Ludwigstraße</title>
-    <updated>2024-08-15T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Er%C3%B6ffnung-der-Ludwigstra%C3%9Fe-LS.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67969.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-08-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herzlich-willkommen-31-neue-Auszubildende-Studierende-und-Praktikantinnen-starten-bei-der-Stadtverwaltung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67963.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Herzlich willkommen: 31 neue Auszubildende, Studierende und Praktikantinnen starten bei der Stadtverwaltung</title>
     <updated>2024-08-16T10:14:00+02:00</updated>
@@ -924,5 +913,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-l%C3%A4dt-zum-Planungsworkshop-f%C3%BCr-den-Krebsbachpark-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68078.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-06T09:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtbibliothek-feiert-r%C3%BCckenwind-Projekt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68079.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtbibliothek feiert »rückenwind«-Projekt</title>
+    <updated>2024-09-06T11:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtbibliothek-feiert-r%C3%BCckenwind-Projekt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68079.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-06T11:12:00+02:00</published>
   </entry>
 </feed>
