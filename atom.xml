@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-06T11:13:03.585908+00:00</updated>
+  <updated>2024-09-07T01:03:04.869644+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -409,6 +409,17 @@
     <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_10460_1.PDF?1725270233</id>
+    <title>Nachruf Kornelia Kieckbusch</title>
+    <updated>2024-09-07T01:02:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10460_1.PDF?1725270233"/>
+    <published>2024-09-07T01:02:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theaterkritik-zu-werwolfkommandos/</id>
     <title>Theaterkritik zu "Werwolfkommandos" - Im Rahmen des Seminars „Cringe &amp; Convention" unter ...</title>
     <updated>2024-07-28T09:14:39+02:00</updated>
@@ -429,17 +440,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-preistrager-innen-der-hessischen-theatertage-2024/"/>
     <published>2024-07-08T12:25:22+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/neue-spielzeit-2024-2025/</id>
-    <title>Neue Spielzeit 2024/2025 - Neugierig? Durchstöbert jetzt unsere Website für Infos zu de...</title>
-    <updated>2024-07-17T12:25:27+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/neue-spielzeit-2024-2025/"/>
-    <published>2024-07-17T12:25:27+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/doppelt-ausgezeichnet-bei-den-hessischen-theatertagen-2024-nach-uns-die-angst-kehrt-am-19-oktober-ins-kleine-haus-zuruck/</id>
@@ -473,6 +473,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zauber-was-zauberdings-zauberflote/"/>
     <published>2024-06-24T15:14:27+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/neue-spielzeit-2024-2025/</id>
+    <title>Neue Spielzeit 2024/2025 - Neugierig? Durchstöbert jetzt unsere Website für Infos zu de...</title>
+    <updated>2024-07-17T12:25:27+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/neue-spielzeit-2024-2025/"/>
+    <published>2024-07-17T12:25:27+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
