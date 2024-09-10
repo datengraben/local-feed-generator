@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-10T09:15:52.562254+00:00</updated>
+  <updated>2024-09-10T10:15:12.375830+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -662,17 +662,6 @@
     <published>2024-09-04T11:11:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fortbildungen-des-Jugendbildungswerkes-im-September.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67975.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Fortbildungen des Jugendbildungswerkes im September</title>
-    <updated>2024-08-20T11:13:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fortbildungen-des-Jugendbildungswerkes-im-September.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67975.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-08-20T11:13:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wartweg-ab-22-August-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67976.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Wartweg ab 22. August gesperrt</title>
     <updated>2024-08-20T14:12:00+02:00</updated>
@@ -935,5 +924,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-10T07:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%84nderung-der-Beschilderung-im-Stadttteil-Petersweiher.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68084.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Änderung der Beschilderung im Stadttteil Petersweiher</title>
+    <updated>2024-09-10T10:15:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%84nderung-der-Beschilderung-im-Stadttteil-Petersweiher.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68084.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-10T10:15:00+02:00</published>
   </entry>
 </feed>
