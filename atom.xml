@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-10T11:13:14.177278+00:00</updated>
+  <updated>2024-09-10T12:29:13.755226+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -420,17 +420,6 @@
     <published>2024-09-07T01:02:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theaterkritik-zu-second-season/</id>
-    <title>Theaterkritik zu "Second Season" - Im Rahmen des Seminars „Cringe &amp; Convention" unter ...</title>
-    <updated>2024-09-09T11:12:10+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theaterkritik-zu-second-season/"/>
-    <published>2024-09-09T11:12:10+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theaterkritik-zu-werwolfkommandos/</id>
     <title>Theaterkritik zu "Werwolfkommandos" - Im Rahmen des Seminars „Cringe &amp; Convention" unter ...</title>
     <updated>2024-07-28T09:14:39+02:00</updated>
@@ -509,14 +498,25 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/erleben-sie-elena-bezgodkova-als-tatiana/</id>
-    <title>Erleben Sie Elena Bezgodkova als Tatiana! - Wiederaufnahme von „Eugen Onegin“: Elena Bezgodkova übernimm...</title>
-    <updated>2024-09-10T11:12:59.647678+02:00</updated>
+    <title>Erleben Sie Elena Bezgodkova als Tatjana! - Wiederaufnahme von „Eugen Onegin“: Elena Bezgodkova übernimm...</title>
+    <updated>2024-09-10T11:12:59+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/erleben-sie-elena-bezgodkova-als-tatiana/"/>
-    <published>2024-09-10T11:12:59.647678+02:00</published>
+    <published>2024-09-10T11:12:59+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/bunte-vielfalt-im-ganzen-haus/</id>
+    <title>Bunte Vielfalt im ganzen Haus! - Beim Theaterfest am Sonntag, 8. September rückten Publikum u...</title>
+    <updated>2024-09-10T12:29:01.017811+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/bunte-vielfalt-im-ganzen-haus/"/>
+    <published>2024-09-10T12:29:01.017811+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-liebesbrief-des-theaters-an-sein-publikum-zum-spielzeitende/</id>
@@ -528,17 +528,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-liebesbrief-des-theaters-an-sein-publikum-zum-spielzeitende/"/>
     <published>2024-07-12T08:17:20+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/swg-bilanz-erneut-ein-gutes-ergebnis</id>
-    <title>SWG-Bilanz: Erneut ein gutes Ergebnis</title>
-    <updated>2024-07-23T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-bilanz-erneut-ein-gutes-ergebnis"/>
-    <published>2024-07-23T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-wieder-premiumpartner-des-giessener-kultursommers</id>
@@ -660,6 +649,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/verkuerzter-streckenverlauf-fuer-linie-802"/>
     <published>2024-09-04T11:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/wie-aus-aufbereitetem-abfall-saubere-waerme-entsteht</id>
+    <title>Wie aus aufbereitetem Abfall saubere Wärme entsteht</title>
+    <updated>2024-09-10T12:29:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/wie-aus-aufbereitetem-abfall-saubere-waerme-entsteht"/>
+    <published>2024-09-10T12:29:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wartweg-ab-22-August-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67976.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
