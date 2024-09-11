@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-11T12:28:08.761590+00:00</updated>
+  <updated>2024-09-11T15:15:57.852898+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -662,17 +662,6 @@
     <published>2024-09-11T11:13:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freibadsaison-in-Kleinlinden-und-L%C3%BCtzellinden-geht-zu-Ende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68002.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Freibadsaison in Kleinlinden und Lützellinden geht zu Ende</title>
-    <updated>2024-08-27T12:25:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freibadsaison-in-Kleinlinden-und-L%C3%BCtzellinden-geht-zu-Ende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68002.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-08-27T12:25:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-SWG-warnen-Haust%C3%BCrbetr%C3%BCger-weiter-unterwegs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68003.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Die SWG warnen: Haustürbetrüger weiter unterwegs</title>
     <updated>2024-08-27T15:16:00+02:00</updated>
@@ -935,5 +924,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zus%C3%A4tzlicher-Kartenvorverkauf-f%C3%BCr-das-Oktoberfest-der-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68089.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-11T12:27:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jeder-Platz-z%C3%A4hlt-jetzt-an-Studierende-vermieten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Jeder Platz zählt - jetzt an Studierende vermieten</title>
+    <updated>2024-09-11T15:15:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jeder-Platz-z%C3%A4hlt-jetzt-an-Studierende-vermieten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-11T15:15:00+02:00</published>
   </entry>
 </feed>
