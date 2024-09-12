@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-12T13:20:59.281570+00:00</updated>
+  <updated>2024-09-12T15:14:42.595276+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -662,17 +662,6 @@
     <published>2024-09-12T11:11:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalsanierungen-in-Kleinlinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68012.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kanalsanierungen in Kleinlinden</title>
-    <updated>2024-08-28T08:17:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalsanierungen-in-Kleinlinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68012.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-08-28T08:17:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Gie%C3%9Fen-zur%C3%BCck-aus-der-Sommerpause.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68014.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Stadttheater Gießen zurück aus der Sommerpause</title>
     <updated>2024-08-28T12:27:00+02:00</updated>
@@ -915,17 +904,6 @@
     <published>2024-09-11T15:15:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Bundeswarntag am 12. September - in Gießen 31 Sirenen auf Probe</title>
-    <updated>2024-09-10T07:14:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-10T07:14:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortr%C3%A4ge-und-Kurse-der-Volkshochschule-Gie%C3%9Fen-im-September-und-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68094.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Vorträge und Kurse der Volkshochschule Gießen im September und Oktober</title>
     <updated>2024-09-12T13:20:00+02:00</updated>
@@ -935,5 +913,27 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortr%C3%A4ge-und-Kurse-der-Volkshochschule-Gie%C3%9Fen-im-September-und-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68094.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-12T13:20:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erste-Bilanz-des-Warntags-2024-im-Landkreis-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68095.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Erste Bilanz des Warntags 2024 im Landkreis Gießen</title>
+    <updated>2024-09-12T15:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erste-Bilanz-des-Warntags-2024-im-Landkreis-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68095.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-12T15:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>+++Update+++ Markierungsarbeiten im Gießener Südkreuz A45/A485: </title>
+    <updated>2024-09-12T15:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-12T15:14:00+02:00</published>
   </entry>
 </feed>
