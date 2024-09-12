@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-11T15:15:57.852898+00:00</updated>
+  <updated>2024-09-12T11:12:13.174168+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -530,17 +530,6 @@
     <published>2024-07-12T08:17:20+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/vielfalt-als-chance-begreifen</id>
-    <title>Vielfalt als Chance begreifen</title>
-    <updated>2024-07-31T11:10:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/vielfalt-als-chance-begreifen"/>
-    <published>2024-07-31T11:10:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stadtfest-entspannt-mit-dem-bus-zum-feiern</id>
     <title>Stadtfest: Entspannt mit dem Bus zum Feiern</title>
     <updated>2024-08-14T11:12:00+02:00</updated>
@@ -660,6 +649,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/giessener-freibadsommer-geht-zu-ende"/>
     <published>2024-09-11T11:13:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/kooperation-geht-in-die-verlaengerung</id>
+    <title>Kooperation geht in die Verlängerung</title>
+    <updated>2024-09-12T11:11:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/kooperation-geht-in-die-verlaengerung"/>
+    <published>2024-09-12T11:11:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-SWG-warnen-Haust%C3%BCrbetr%C3%BCger-weiter-unterwegs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68003.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -849,17 +849,6 @@
     <published>2024-09-10T09:15:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Bundeswarntag am 12. September - in Gießen 31 Sirenen auf Probe</title>
-    <updated>2024-09-10T07:14:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-10T07:14:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%84nderung-der-Beschilderung-im-Stadttteil-Petersweiher.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68084.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Änderung der Beschilderung im Stadttteil Petersweiher</title>
     <updated>2024-09-10T10:15:00+02:00</updated>
@@ -935,5 +924,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jeder-Platz-z%C3%A4hlt-jetzt-an-Studierende-vermieten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-11T15:15:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bundeswarntag am 12. September - in Gießen 31 Sirenen auf Probe</title>
+    <updated>2024-09-10T07:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-10T07:14:00+02:00</published>
   </entry>
 </feed>
