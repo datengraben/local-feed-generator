@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-15T14:12:34.412836+00:00</updated>
+  <updated>2024-09-15T21:13:33.405828+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -662,6 +662,17 @@
     <published>2024-09-12T11:11:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Gie%C3%9Fen-zur%C3%BCck-aus-der-Sommerpause.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68014.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadttheater Gießen zurück aus der Sommerpause</title>
+    <updated>2024-08-28T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Gie%C3%9Fen-zur%C3%BCck-aus-der-Sommerpause.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68014.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-28T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infos-zum-Glasfaserausbau-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68015.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Glasfaserausbau in Gießen</title>
     <updated>2024-08-28T00:00:00+02:00</updated>
@@ -803,17 +814,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%84nderung-der-Beschilderung-im-Stadttteil-Petersweiher.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68084.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-10T10:15:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wie-aus-aufbereitetem-Abfall-saubere-W%C3%A4rme-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68085.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wie aus aufbereitetem Abfall saubere Wärme entsteht</title>
-    <updated>2024-09-10T13:20:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wie-aus-aufbereitetem-Abfall-saubere-W%C3%A4rme-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68085.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-10T13:20:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gesundheitstage-f%C3%BCr-die-Besch%C3%A4ftigten-der-Stadt-Gie%C3%9Fen-Mitmachen-und-Ausprobieren-ist-ausdr%C3%BCcklich-erlaubt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68086.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
