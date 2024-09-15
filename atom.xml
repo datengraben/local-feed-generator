@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-13T14:13:06.903485+00:00</updated>
+  <updated>2024-09-15T14:12:34.412836+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -662,6 +662,17 @@
     <published>2024-09-12T11:11:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infos-zum-Glasfaserausbau-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68015.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Glasfaserausbau in Gießen</title>
+    <updated>2024-08-28T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infos-zum-Glasfaserausbau-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68015.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-08-28T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Blauzungenkrankheit-bei-Wiederk%C3%A4uern-ist-auch-im-Landkreis-Gie%C3%9Fen-angekommen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68041.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Blauzungenkrankheit bei Wiederkäuern ist auch im Landkreis Gießen angekommen</title>
     <updated>2024-09-02T00:00:00+02:00</updated>
@@ -704,17 +715,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einbahnstra%C3%9Fenregelung-in-der-Fr%C3%B6belstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68051.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-04T12:27:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-Ort-f%C3%BCr-Begegnung-und-Kultur-in-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68067.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neuer Ort für Begegnung und Kultur in Lützellinden</title>
-    <updated>2024-09-05T05:13:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-Ort-f%C3%BCr-Begegnung-und-Kultur-in-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68067.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-05T05:13:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Schulradroutennetz-f%C3%BCr-Landkreis-und-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68069.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
