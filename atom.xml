@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-15T23:13:56.540457+00:00</updated>
+  <updated>2024-09-16T08:19:20.380360+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -530,136 +530,136 @@
     <published>2024-07-12T08:17:20+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-steigen-in-die-ikwk-ein</id>
-    <title>Stadtwerke Gießen steigen in die iKWK ein</title>
-    <updated>2024-05-24T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/stadtfest-entspannt-mit-dem-bus-zum-feiern</id>
+    <title>Stadtfest: Entspannt mit dem Bus zum Feiern</title>
+    <updated>2024-08-14T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-steigen-in-die-ikwk-ein"/>
-    <published>2024-05-24T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/stadtfest-entspannt-mit-dem-bus-zum-feiern"/>
+    <published>2024-08-14T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/verkehrsumleitungen-in-der-rudolf-diesel-strasse</id>
-    <title>Verkehrsumleitungen in der Rudolf-Diesel-Straße</title>
-    <updated>2024-05-24T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/swg-ferienspiele-im-wasserwerk</id>
+    <title>SWG-Ferienspiele im Wasserwerk</title>
+    <updated>2024-08-15T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/verkehrsumleitungen-in-der-rudolf-diesel-strasse"/>
-    <published>2024-05-24T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/swg-ferienspiele-im-wasserwerk"/>
+    <published>2024-08-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/swg-und-der-tv-huettenberg-verlaengern-partnerschaft</id>
-    <title>SWG und der TV Hüttenberg verlängern Partnerschaft</title>
-    <updated>2024-05-27T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/umleitungen-und-aenderungen-fuer-buslinien-3-13-und-10</id>
+    <title>Umleitungen und Änderungen für Buslinien 3, 13 und 10</title>
+    <updated>2024-08-19T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-und-der-tv-huettenberg-verlaengern-partnerschaft"/>
-    <published>2024-05-27T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/umleitungen-und-aenderungen-fuer-buslinien-3-13-und-10"/>
+    <published>2024-08-19T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/keine-stadtbusse-am-mittwoch</id>
-    <title>Keine Stadtbusse am Mittwoch</title>
-    <updated>2024-05-27T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/sonnenstrom-selbst-erzeugen</id>
+    <title>Sonnenstrom selbst erzeugen</title>
+    <updated>2024-08-20T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/keine-stadtbusse-am-mittwoch"/>
-    <published>2024-05-27T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/sonnenstrom-selbst-erzeugen"/>
+    <published>2024-08-20T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/swg-vorstand-scheidet-ende-juli-aus</id>
-    <title>SWG-Vorstand scheidet Ende Juli aus</title>
-    <updated>2024-05-31T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/karrierestart-fuer-neue-azubis</id>
+    <title>Karrierestart für neue Azubis</title>
+    <updated>2024-08-23T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-vorstand-scheidet-ende-juli-aus"/>
-    <published>2024-05-31T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/karrierestart-fuer-neue-azubis"/>
+    <published>2024-08-23T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-nachtbuslinie-saturn</id>
-    <title>Umleitung für Nachtbuslinie Saturn</title>
-    <updated>2024-06-05T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/partnerschaft-mit-bundesliga-keglern</id>
+    <title>Partnerschaft mit Bundesliga-Keglern</title>
+    <updated>2024-08-26T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-nachtbuslinie-saturn"/>
-    <published>2024-06-05T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/partnerschaft-mit-bundesliga-keglern"/>
+    <published>2024-08-26T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/fuenf-zusatzfahrten-auf-den-schiffenberg</id>
-    <title>Fünf Zusatzfahrten auf den Schiffenberg</title>
-    <updated>2024-06-06T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/saisonende-in-den-stadtteilfreibaedern</id>
+    <title>Saisonende in den Stadtteilfreibädern</title>
+    <updated>2024-08-27T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/fuenf-zusatzfahrten-auf-den-schiffenberg"/>
-    <published>2024-06-06T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/saisonende-in-den-stadtteilfreibaedern"/>
+    <published>2024-08-27T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/50-baelle-fuer-die-regenbogenschule</id>
-    <title>50 Bälle für die Regenbogenschule</title>
-    <updated>2024-06-13T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/haustuerbetrueger-weiter-unterwegs</id>
+    <title>Haustürbetrüger weiter unterwegs</title>
+    <updated>2024-08-27T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/50-baelle-fuer-die-regenbogenschule"/>
-    <published>2024-06-13T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/haustuerbetrueger-weiter-unterwegs"/>
+    <published>2024-08-27T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/wie-viel-energie-brauchen-wir</id>
-    <title>Wie viel Energie brauchen wir?</title>
-    <updated>2024-06-17T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/verkuerzter-streckenverlauf-fuer-linie-802</id>
+    <title>Verkürzter Streckenverlauf für Linie 802</title>
+    <updated>2024-09-04T00:00:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/wie-viel-energie-brauchen-wir"/>
-    <published>2024-06-17T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/verkuerzter-streckenverlauf-fuer-linie-802"/>
+    <published>2024-09-04T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/spiel-dein-spiel-city-day-am-23-juni</id>
-    <title>„Spiel‘ Dein Spiel“ – City Day am 23. Juni</title>
-    <updated>2024-06-18T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/wie-aus-aufbereitetem-abfall-saubere-waerme-entsteht</id>
+    <title>Wie aus aufbereitetem Abfall saubere Wärme entsteht</title>
+    <updated>2024-09-10T08:19:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/spiel-dein-spiel-city-day-am-23-juni"/>
-    <published>2024-06-18T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/wie-aus-aufbereitetem-abfall-saubere-waerme-entsteht"/>
+    <published>2024-09-10T08:19:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtmauerreste-freigelegt-stadtwerke-planen-bauarbeiten-im-seltersweg-um</id>
-    <title>Stadtmauerreste freigelegt: Stadtwerke planen Bauarbeiten im Seltersweg um</title>
-    <updated>2024-06-18T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/giessener-freibadsommer-geht-zu-ende</id>
+    <title>Gießener Freibadsommer geht zu Ende</title>
+    <updated>2024-09-11T08:19:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtmauerreste-freigelegt-stadtwerke-planen-bauarbeiten-im-seltersweg-um"/>
-    <published>2024-06-18T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/giessener-freibadsommer-geht-zu-ende"/>
+    <published>2024-09-11T08:19:00+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/linden-und-swg-erneuern-konzessionsvertraege</id>
-    <title>Linden und SWG erneuern Konzessionsverträge</title>
-    <updated>2024-06-19T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/kooperation-geht-in-die-verlaengerung</id>
+    <title>Kooperation geht in die Verlängerung</title>
+    <updated>2024-09-12T08:19:00+02:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/linden-und-swg-erneuern-konzessionsvertraege"/>
-    <published>2024-06-19T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/kooperation-geht-in-die-verlaengerung"/>
+    <published>2024-09-12T08:19:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Gie%C3%9Fen-zur%C3%BCck-aus-der-Sommerpause.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68014.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
