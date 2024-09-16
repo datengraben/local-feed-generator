@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-16T12:29:14.196976+00:00</updated>
+  <updated>2024-09-16T13:22:38.278282+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -662,17 +662,6 @@
     <published>2024-09-16T12:28:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infos-zum-Glasfaserausbau-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68015.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Glasfaserausbau in Gießen</title>
-    <updated>2024-08-28T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infos-zum-Glasfaserausbau-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68015.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-08-28T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Blauzungenkrankheit-bei-Wiederk%C3%A4uern-ist-auch-im-Landkreis-Gie%C3%9Fen-angekommen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68041.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Blauzungenkrankheit bei Wiederkäuern ist auch im Landkreis Gießen angekommen</title>
     <updated>2024-09-02T00:00:00+02:00</updated>
@@ -935,5 +924,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Posterausstellung-im-Rathaus-zur-Woche-der-Klimaanpassung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68106.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-16T12:28:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fundsachen-Versteigerung-des-Stadtb%C3%BCros-am-10-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68107.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fundsachen-Versteigerung des Stadtbüros am 10. Oktober</title>
+    <updated>2024-09-16T13:22:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fundsachen-Versteigerung-des-Stadtb%C3%BCros-am-10-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68107.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-16T13:22:00+02:00</published>
   </entry>
 </feed>
