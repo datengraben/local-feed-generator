@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-16T09:18:02.580249+00:00</updated>
+  <updated>2024-09-16T12:29:14.196976+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -422,13 +422,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theaterkritik-zu-second-season/</id>
     <title>Theaterkritik zu "Second Season" - Im Rahmen des Seminars „Cringe &amp; Convention" unter ...</title>
-    <updated>2024-09-16T09:17:53.613100+02:00</updated>
+    <updated>2024-09-16T09:17:53+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theaterkritik-zu-second-season/"/>
-    <published>2024-09-16T09:17:53.613100+02:00</published>
+    <published>2024-09-16T09:17:53+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theaterkritik-zu-werwolfkommandos/</id>
@@ -528,17 +528,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-liebesbrief-des-theaters-an-sein-publikum-zum-spielzeitende/"/>
     <published>2024-07-12T08:17:20+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtfest-entspannt-mit-dem-bus-zum-feiern</id>
-    <title>Stadtfest: Entspannt mit dem Bus zum Feiern</title>
-    <updated>2024-08-14T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtfest-entspannt-mit-dem-bus-zum-feiern"/>
-    <published>2024-08-14T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/swg-ferienspiele-im-wasserwerk</id>
@@ -662,15 +651,15 @@
     <published>2024-09-12T08:19:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Gie%C3%9Fen-zur%C3%BCck-aus-der-Sommerpause.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68014.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadttheater Gießen zurück aus der Sommerpause</title>
-    <updated>2024-08-28T00:00:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/eine-ode-an-ihre-ausbildung</id>
+    <title>Eine Ode an ihre Ausbildung</title>
+    <updated>2024-09-16T12:28:00+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Gie%C3%9Fen-zur%C3%BCck-aus-der-Sommerpause.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68014.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-08-28T00:00:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/eine-ode-an-ihre-ausbildung"/>
+    <published>2024-09-16T12:28:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infos-zum-Glasfaserausbau-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68015.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -935,5 +924,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-28-September-ist-Safe-Abortion-Day-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68104.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-13T10:15:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Posterausstellung-im-Rathaus-zur-Woche-der-Klimaanpassung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68106.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Posterausstellung im Rathaus zur Woche der Klimaanpassung</title>
+    <updated>2024-09-16T12:28:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Posterausstellung-im-Rathaus-zur-Woche-der-Klimaanpassung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68106.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-16T12:28:00+02:00</published>
   </entry>
 </feed>
