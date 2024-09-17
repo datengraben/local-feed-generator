@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-17T11:12:19.613414+00:00</updated>
+  <updated>2024-09-17T12:27:47.442474+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -387,6 +387,28 @@
     <published>2024-07-31T11:10:00+02:00</published>
   </entry>
   <entry>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <title>Beginn der Bauarbeiten am Oberhessischen Museum</title>
+    <updated>2024-09-17T12:27:00+02:00</updated>
+    <author>
+      <name>Oberhessisches Museum</name>
+      <email>museum@giessen.de</email>
+    </author>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <published>2024-09-17T12:27:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Neue-Stadtf%C3%BChrungen-ab-sofort-in-der-Gie%C3%9Fen-App.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68112.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <title>Neue Stadtführungen ab sofort in der Gießen-App</title>
+    <updated>2024-09-17T12:27:00+02:00</updated>
+    <author>
+      <name>Oberhessisches Museum</name>
+      <email>museum@giessen.de</email>
+    </author>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Neue-Stadtf%C3%BChrungen-ab-sofort-in-der-Gie%C3%9Fen-App.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68112.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <published>2024-09-17T12:27:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_10159_1.PDF?1720428618</id>
     <title>Ankündigung von Baugrunduntersuchungen für die Trassenplanung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
     <updated>2024-07-12T00:58:00+02:00</updated>
@@ -673,28 +695,6 @@
     <published>2024-09-16T14:14:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Volksbund-Deutsche-Kriegsgr%C3%A4berf%C3%BCrsorge-sammelt-wieder-Spenden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60901.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Spende als Ausdruck der Mahnung zu Völkerverständigung und Einigkeit</title>
-    <updated>2024-09-02T12:28:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Volksbund-Deutsche-Kriegsgr%C3%A4berf%C3%BCrsorge-sammelt-wieder-Spenden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60901.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-02T12:28:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-Gie%C3%9Fen-mit-vielen-Highlights.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68047.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neues Veranstaltungsprogramm der Stadtbibliothek Gießen mit vielen Highlights</title>
-    <updated>2024-09-02T14:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-Gie%C3%9Fen-mit-vielen-Highlights.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68047.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-02T14:12:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einbahnstra%C3%9Fenregelung-in-der-Fr%C3%B6belstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68051.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Einbahnstraßenregelung in der Fröbelstraße</title>
     <updated>2024-09-04T12:27:00+02:00</updated>
@@ -946,5 +946,27 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bei-den-Stadtf%C3%BChrungen-im-Herbst-sind-noch-Pl%C3%A4tze-frei.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68110.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-17T11:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Beginn der Bauarbeiten am Oberhessischen Museum</title>
+    <updated>2024-09-17T12:27:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-17T12:27:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Stadtf%C3%BChrungen-ab-sofort-in-der-Gie%C3%9Fen-App.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68112.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue Stadtführungen ab sofort in der Gießen-App</title>
+    <updated>2024-09-17T12:27:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Stadtf%C3%BChrungen-ab-sofort-in-der-Gie%C3%9Fen-App.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68112.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-17T12:27:00+02:00</published>
   </entry>
 </feed>
