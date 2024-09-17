@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-16T22:13:40.754194+00:00</updated>
+  <updated>2024-09-17T00:54:34.560006+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -418,6 +418,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_10460_1.PDF?1725270233"/>
     <published>2024-09-07T01:02:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10570_1.PDF?1726218623</id>
+    <title>Nachruf Dr. Klaus-Dieter Kramer</title>
+    <updated>2024-09-17T00:54:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10570_1.PDF?1726218623"/>
+    <published>2024-09-17T00:54:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theaterkritik-zu-second-season/</id>
