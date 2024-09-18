@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-17T17:12:51.751563+00:00</updated>
+  <updated>2024-09-18T08:17:38.117823+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -695,17 +695,6 @@
     <published>2024-09-16T14:14:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Schulradroutennetz-f%C3%BCr-Landkreis-und-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68069.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ein Radroutennetz für den Schulweg in Stadt und Landkreis Gießen</title>
-    <updated>2024-09-05T11:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Schulradroutennetz-f%C3%BCr-Landkreis-und-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68069.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-05T11:12:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-l%C3%A4dt-zum-Planungsworkshop-f%C3%BCr-den-Krebsbachpark-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68078.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Stadt Gießen lädt zum Planungsworkshop für den Krebsbachpark ein</title>
     <updated>2024-09-06T09:14:00+02:00</updated>
@@ -968,5 +957,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Leider-Verschoben-Lesung-Wie-viel-Was-wir-mit-Geld-machen-und-was-Geld-mit-uns-macht-mit-Mareice-Kaiser-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68119.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-17T17:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-PopUpStore-Science-and-Art-in-der-Plockstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neuer PopUpStore »Science and Art» in der Plockstraße</title>
+    <updated>2024-09-18T08:17:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-PopUpStore-Science-and-Art-in-der-Plockstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-18T08:17:00+02:00</published>
   </entry>
 </feed>
