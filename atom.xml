@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-21T05:13:27.085283+00:00</updated>
+  <updated>2024-09-21T22:13:04.206249+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -418,17 +418,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_10159_1.PDF?1720428618"/>
     <published>2024-07-12T00:58:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_10460_1.PDF?1725270233</id>
-    <title>Nachruf Kornelia Kieckbusch</title>
-    <updated>2024-09-07T01:02:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10460_1.PDF?1725270233"/>
-    <published>2024-09-07T01:02:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_10570_1.PDF?1726218623</id>
