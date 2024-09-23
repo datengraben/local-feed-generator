@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-23T13:24:33.992025+00:00</updated>
+  <updated>2024-09-23T16:17:33.690282+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -431,17 +431,6 @@
     <published>2024-09-17T00:54:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10637_1.PDF?1726827079</id>
-    <title>Beschluss zur Aufstellung des Umlegungsplans Philosophenhöhe</title>
-    <updated>2024-09-21T01:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10637_1.PDF?1726827079"/>
-    <published>2024-09-21T01:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10578_1.PDF?1726490080</id>
     <title>Versteigerung von Fundgegenständen</title>
     <updated>2024-09-21T01:04:00+02:00</updated>
@@ -450,6 +439,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10578_1.PDF?1726490080"/>
+    <published>2024-09-21T01:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10637_1.PDF?1726827079</id>
+    <title>Beschluss zur Aufstellung des Umlegungsplans Philosophenhöhe</title>
+    <updated>2024-09-21T01:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10637_1.PDF?1726827079"/>
     <published>2024-09-21T01:04:00+02:00</published>
   </entry>
   <entry>
@@ -693,6 +693,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/partnerschaft-fuer-weitere-drei-jahre"/>
     <published>2024-09-23T13:24:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zeitenwandel-erleben-in-Gie%C3%9Fen-Die-Geschichte-der-Schulstra%C3%9Fe-4.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68081.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Zeitenwandel erleben in Gießen - Die Geschichte der Schulstraße 4</title>
+    <updated>2024-09-09T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zeitenwandel-erleben-in-Gie%C3%9Fen-Die-Geschichte-der-Schulstra%C3%9Fe-4.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68081.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-09T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4vko-des-Ordnungsamtes-pr%C3%A4sentiert-den-Workshop-Gewalt-Sehen-Helfen-auf-dem-Kirchenplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68083.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -957,16 +968,5 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Netzwerk-im-Landkreis-Gie%C3%9Fen-rund-ums-Stillen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68129.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-23T03:19:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Brandgeruch-aus-Lollar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68130.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Brandgeruch aus Lollar</title>
-    <updated>2024-09-23T08:19:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Brandgeruch-aus-Lollar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68130.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-23T08:19:00+02:00</published>
   </entry>
 </feed>
