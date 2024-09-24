@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-23T16:17:33.690282+00:00</updated>
+  <updated>2024-09-24T10:15:38.455387+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -431,17 +431,6 @@
     <published>2024-09-17T00:54:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10578_1.PDF?1726490080</id>
-    <title>Versteigerung von Fundgegenständen</title>
-    <updated>2024-09-21T01:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10578_1.PDF?1726490080"/>
-    <published>2024-09-21T01:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10637_1.PDF?1726827079</id>
     <title>Beschluss zur Aufstellung des Umlegungsplans Philosophenhöhe</title>
     <updated>2024-09-21T01:04:00+02:00</updated>
@@ -450,6 +439,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10637_1.PDF?1726827079"/>
+    <published>2024-09-21T01:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10578_1.PDF?1726490080</id>
+    <title>Versteigerung von Fundgegenständen</title>
+    <updated>2024-09-21T01:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10578_1.PDF?1726490080"/>
     <published>2024-09-21T01:04:00+02:00</published>
   </entry>
   <entry>
@@ -552,15 +552,15 @@
     <published>2024-09-10T12:29:01+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-liebesbrief-des-theaters-an-sein-publikum-zum-spielzeitende/</id>
-    <title>Ein Liebesbrief des Theaters an sein Publikum - Ein Theater und sein Publikum: Das eine gäbe es nicht, ohne ...</title>
-    <updated>2024-07-12T08:17:20+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/</id>
+    <title>Demokratie kann man üben - Warum das Theater der richtige Ort dafür ist....</title>
+    <updated>2024-09-24T10:15:29.223154+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-liebesbrief-des-theaters-an-sein-publikum-zum-spielzeitende/"/>
-    <published>2024-07-12T08:17:20+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/"/>
+    <published>2024-09-24T10:15:29.223154+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/partnerschaft-mit-bundesliga-keglern</id>
