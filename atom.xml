@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-24T13:22:45.088634+00:00</updated>
+  <updated>2024-09-24T16:18:25.680593+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -695,17 +695,6 @@
     <published>2024-09-24T13:22:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4vko-des-Ordnungsamtes-pr%C3%A4sentiert-den-Workshop-Gewalt-Sehen-Helfen-auf-dem-Kirchenplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68083.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Das Ordnungsamte informierte auf dem Kirchenplatz über den Workshop „Gewalt Sehen Helfen“ </title>
-    <updated>2024-09-10T09:15:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4vko-des-Ordnungsamtes-pr%C3%A4sentiert-den-Workshop-Gewalt-Sehen-Helfen-auf-dem-Kirchenplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68083.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-10T09:15:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%84nderung-der-Beschilderung-im-Stadttteil-Petersweiher.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68084.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Änderung der Beschilderung im Stadttteil Petersweiher</title>
     <updated>2024-09-10T10:15:00+02:00</updated>
@@ -968,5 +957,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Per-Telefon-Infos-zur-Vereinbarkeit-von-Beruf-und-Pflege-einholen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68146.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-24T13:22:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-senken-die-Preise-f%C3%BCr-Fernw%C3%A4rme.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68147.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtwerke Gießen senken die Preise für Fernwärme</title>
+    <updated>2024-09-24T16:18:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-senken-die-Preise-f%C3%BCr-Fernw%C3%A4rme.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68147.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-24T16:18:00+02:00</published>
   </entry>
 </feed>
