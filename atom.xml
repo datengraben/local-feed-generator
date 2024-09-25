@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-24T22:13:55.858124+00:00</updated>
+  <updated>2024-09-25T14:14:56.355143+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -871,17 +871,6 @@
     <published>2024-09-17T16:17:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Leider-Verschoben-Lesung-Wie-viel-Was-wir-mit-Geld-machen-und-was-Geld-mit-uns-macht-mit-Mareice-Kaiser-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68119.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Leider Verschoben: Lesung "Wie viel: Was wir mit Geld machen und was Geld mit uns macht« mit Mareice Kaiser"</title>
-    <updated>2024-09-17T17:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Leider-Verschoben-Lesung-Wie-viel-Was-wir-mit-Geld-machen-und-was-Geld-mit-uns-macht-mit-Mareice-Kaiser-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68119.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-17T17:12:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-PopUpStore-Science-and-Art-in-der-Plockstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Neuer PopUpStore »Science and Art» in der Plockstraße</title>
     <updated>2024-09-18T08:17:00+02:00</updated>
@@ -968,5 +957,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-Gie%C3%9Fen-senken-die-Preise-f%C3%BCr-Fernw%C3%A4rme.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68147.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-24T16:18:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrung-im-Schiffenberger-Wald-zum-Thema-nachhaltige-Waldbewirtschaftung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68153.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Führung im Schiffenberger Wald zum Thema nachhaltige Waldbewirtschaftung</title>
+    <updated>2024-09-25T14:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrung-im-Schiffenberger-Wald-zum-Thema-nachhaltige-Waldbewirtschaftung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68153.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-25T14:14:00+02:00</published>
   </entry>
 </feed>
