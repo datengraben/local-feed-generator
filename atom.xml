@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-26T07:14:33.058528+00:00</updated>
+  <updated>2024-09-26T09:16:23.194883+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -453,17 +453,6 @@
     <published>2024-09-21T01:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theaterkritik-zu-second-season/</id>
-    <title>Theaterkritik zu "Second Season" - Im Rahmen des Seminars „Cringe &amp; Convention" unter ...</title>
-    <updated>2024-09-16T09:17:53+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theaterkritik-zu-second-season/"/>
-    <published>2024-09-16T09:17:53+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theaterkritik-zu-werwolfkommandos/</id>
     <title>Theaterkritik zu "Werwolfkommandos" - Im Rahmen des Seminars „Cringe &amp; Convention" unter ...</title>
     <updated>2024-07-28T09:14:39+02:00</updated>
@@ -484,17 +473,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-preistrager-innen-der-hessischen-theatertage-2024/"/>
     <published>2024-07-08T12:25:22+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/doppelt-ausgezeichnet-bei-den-hessischen-theatertagen-2024-nach-uns-die-angst-kehrt-am-19-oktober-ins-kleine-haus-zuruck/</id>
-    <title>Doppelt ausgezeichnet bei den Hessischen Theatertagen 2024: „Nach uns die Angst“ kehrt am 19. Oktober ins Kleine Haus zurück - Falls Sie die Vorstellung von „Nach uns die Angst“ während d...</title>
-    <updated>2024-07-23T11:13:02+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/doppelt-ausgezeichnet-bei-den-hessischen-theatertagen-2024-nach-uns-die-angst-kehrt-am-19-oktober-ins-kleine-haus-zuruck/"/>
-    <published>2024-07-23T11:13:02+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/18.000-besucher-innen-mehr/</id>
@@ -519,6 +497,17 @@
     <published>2024-07-17T12:25:27+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/warum-schreibst-du-uber-uns-und-fur-wen/</id>
+    <title>Theaterkritik zu „Nach uns die Angst" - Im Rahmen des Seminars „Cringe &amp; Convention" unter ...</title>
+    <updated>2024-09-26T09:16:08.894779+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/warum-schreibst-du-uber-uns-und-fur-wen/"/>
+    <published>2024-09-26T09:16:08.894779+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 13. Oktober - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
     <updated>2024-07-28T09:14:39+02:00</updated>
@@ -539,6 +528,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zauber-was-zauberdings-zauberflote/"/>
     <published>2024-06-24T15:14:27+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/doppelt-ausgezeichnet-bei-den-hessischen-theatertagen-2024-nach-uns-die-angst-kehrt-am-19-oktober-ins-kleine-haus-zuruck/</id>
+    <title>Doppelt ausgezeichnet bei den Hessischen Theatertagen 2024: „Nach uns die Angst“ kehrt am 19. Oktober ins Kleine Haus zurück - Falls Sie die Vorstellung von „Nach uns die Angst“ während d...</title>
+    <updated>2024-07-23T11:13:02+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/doppelt-ausgezeichnet-bei-den-hessischen-theatertagen-2024-nach-uns-die-angst-kehrt-am-19-oktober-ins-kleine-haus-zuruck/"/>
+    <published>2024-07-23T11:13:02+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/bunte-vielfalt-im-ganzen-haus/</id>
@@ -693,17 +693,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-die-preise-fuer-fernwaerme"/>
     <published>2024-09-24T13:22:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%84nderung-der-Beschilderung-im-Stadttteil-Petersweiher.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68084.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Änderung der Beschilderung im Stadttteil Petersweiher</title>
-    <updated>2024-09-10T10:15:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%84nderung-der-Beschilderung-im-Stadttteil-Petersweiher.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68084.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-10T10:15:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gesundheitstage-f%C3%BCr-die-Besch%C3%A4ftigten-der-Stadt-Gie%C3%9Fen-Mitmachen-und-Ausprobieren-ist-ausdr%C3%BCcklich-erlaubt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68086.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -968,5 +957,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrung-im-Schiffenberger-Wald-zum-Thema-nachhaltige-Waldbewirtschaftung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68153.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-25T14:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/RTL-Hessen-Reporterin-Bella-Christophel-auf-Gie%C3%9Fen-Tour.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68155.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>RTL Hessen-Reporterin Bella Christophel auf Gießen-Tour</title>
+    <updated>2024-09-26T09:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/RTL-Hessen-Reporterin-Bella-Christophel-auf-Gie%C3%9Fen-Tour.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68155.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-26T09:16:00+02:00</published>
   </entry>
 </feed>
