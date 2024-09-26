@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-26T14:14:08.666590+00:00</updated>
+  <updated>2024-09-26T16:18:16.511214+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -431,17 +431,6 @@
     <published>2024-09-17T00:54:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10637_1.PDF?1726827079</id>
-    <title>Beschluss zur Aufstellung des Umlegungsplans Philosophenhöhe</title>
-    <updated>2024-09-21T01:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10637_1.PDF?1726827079"/>
-    <published>2024-09-21T01:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10578_1.PDF?1726490080</id>
     <title>Versteigerung von Fundgegenständen</title>
     <updated>2024-09-21T01:04:00+02:00</updated>
@@ -450,6 +439,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10578_1.PDF?1726490080"/>
+    <published>2024-09-21T01:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10637_1.PDF?1726827079</id>
+    <title>Beschluss zur Aufstellung des Umlegungsplans Philosophenhöhe</title>
+    <updated>2024-09-21T01:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10637_1.PDF?1726827079"/>
     <published>2024-09-21T01:04:00+02:00</published>
   </entry>
   <entry>
@@ -693,28 +693,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/praemiertes-konzept-fuer-kuenftige-energiewendeprofis"/>
     <published>2024-09-26T14:13:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jeder-Platz-z%C3%A4hlt-jetzt-an-Studierende-vermieten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Jeder Platz zählt - jetzt an Studierende vermieten</title>
-    <updated>2024-09-11T15:15:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jeder-Platz-z%C3%A4hlt-jetzt-an-Studierende-vermieten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-11T15:15:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortr%C3%A4ge-und-Kurse-der-Volkshochschule-Gie%C3%9Fen-im-September-und-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68094.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Vorträge und Kurse der Volkshochschule Gießen im September und Oktober</title>
-    <updated>2024-09-12T13:20:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortr%C3%A4ge-und-Kurse-der-Volkshochschule-Gie%C3%9Fen-im-September-und-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68094.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-12T13:20:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Er%C3%B6ffnung-des-Umweltzentrums-Lahnaue-und-15-j%C3%A4hriges-Bestehen-der-Lahnpark-GmbH.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68102.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -968,5 +946,27 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Abschlussveranstaltung-mit-Tombola-f%C3%BCr-den-Klimaschutz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68158.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-26T13:22:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%96ffnung-der-Jugendverkehrsschule-die-letzten-zwei-Termine.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68161.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Öffnung der Jugendverkehrsschule - die letzten zwei Termine</title>
+    <updated>2024-09-26T16:18:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%96ffnung-der-Jugendverkehrsschule-die-letzten-zwei-Termine.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68161.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-26T16:18:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-Drahtesel-werden-entfernt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Achtung Fahrradfahrer: Alte Räder werden wieder eingesammelt</title>
+    <updated>2024-09-26T16:18:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-Drahtesel-werden-entfernt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-26T16:18:00+02:00</published>
   </entry>
 </feed>
