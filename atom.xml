@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-26T11:12:39.929624+00:00</updated>
+  <updated>2024-09-26T12:29:43.673842+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -695,17 +695,6 @@
     <published>2024-09-24T13:22:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ordnungsamt-der-Stadt-Gie%C3%9Fen-intensiviert-Kontrollen-in-der-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68087.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ordnungsamt intensiviert Kontrollen in der Innenstadt</title>
-    <updated>2024-09-11T09:14:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ordnungsamt-der-Stadt-Gie%C3%9Fen-intensiviert-Kontrollen-in-der-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68087.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-11T09:14:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Freibadsommer-geht-zu-Ende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68088.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gießener Freibadsommer geht zu Ende</title>
     <updated>2024-09-11T11:13:00+02:00</updated>
@@ -968,5 +957,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Doku-%C3%BCber-St%C3%A4dtepartnerschaft-Gie%C3%9Fen-Ferrara-l%C3%A4uft-bei-internationalem-Filmfestival.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68154.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-26T11:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herbstmesse-startet-am-Samstag-mit-neuem-Fahrgesch%C3%A4ft-und-vielen-Attraktionen-f%C3%BCr-Familien-und-Kids.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68156.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Herbstmesse startet am Samstag mit neuem Fahrgeschäft und vielen Attraktionen für Familien und Kids</title>
+    <updated>2024-09-26T12:29:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herbstmesse-startet-am-Samstag-mit-neuem-Fahrgesch%C3%A4ft-und-vielen-Attraktionen-f%C3%BCr-Familien-und-Kids.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68156.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-26T12:29:00+02:00</published>
   </entry>
 </feed>
