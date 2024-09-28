@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-27T15:15:16.367899+00:00</updated>
+  <updated>2024-09-28T10:13:42.702937+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -431,17 +431,6 @@
     <published>2024-09-17T00:54:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10637_1.PDF?1726827079</id>
-    <title>Beschluss zur Aufstellung des Umlegungsplans Philosophenhöhe</title>
-    <updated>2024-09-21T01:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10637_1.PDF?1726827079"/>
-    <published>2024-09-21T01:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10578_1.PDF?1726490080</id>
     <title>Versteigerung von Fundgegenständen</title>
     <updated>2024-09-21T01:04:00+02:00</updated>
@@ -453,15 +442,15 @@
     <published>2024-09-21T01:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-preistrager-innen-der-hessischen-theatertage-2024/</id>
-    <title>Die Preisträger*innen der Hessischen Theatertage 2024 - Zum Abschluss der Hessischen Theatertage wurden am Samstag, ...</title>
-    <updated>2024-07-08T12:25:22+02:00</updated>
+    <id>http://giessen.de/media/custom/2874_10637_1.PDF?1726827079</id>
+    <title>Beschluss zur Aufstellung des Umlegungsplans Philosophenhöhe</title>
+    <updated>2024-09-21T01:04:00+02:00</updated>
     <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-preistrager-innen-der-hessischen-theatertage-2024/"/>
-    <published>2024-07-08T12:25:22+02:00</published>
+    <link href="http://giessen.de/media/custom/2874_10637_1.PDF?1726827079"/>
+    <published>2024-09-21T01:04:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/18.000-besucher-innen-mehr/</id>
@@ -543,13 +532,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/</id>
     <title>Bildhauerei für‘s Theater - Puppe oder Kostüm? Zwei Schlangen - eine blaue und eine gelb...</title>
-    <updated>2024-09-27T15:15:06.226559+02:00</updated>
+    <updated>2024-09-27T15:15:06+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/"/>
-    <published>2024-09-27T15:15:06.226559+02:00</published>
+    <published>2024-09-27T15:15:06+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/</id>
@@ -561,6 +550,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/"/>
     <published>2024-09-24T10:15:29+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-vom-konzertplatz-im-botanischen-garten/</id>
+    <title>“Zauberdings” startet heute vom Konzertplatz im Botanischen Garten! - Bitte kleiden Sie sich so, dass Sie eine gute Stunde an der ...</title>
+    <updated>2024-09-28T10:13:34.178996+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-vom-konzertplatz-im-botanischen-garten/"/>
+    <published>2024-09-28T10:13:34.178996+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/haustuerbetrueger-weiter-unterwegs</id>
