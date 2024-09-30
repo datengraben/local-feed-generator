@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-09-30T13:24:03.330332+00:00</updated>
+  <updated>2024-09-30T14:14:32.232812+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -706,17 +706,6 @@
     <published>2024-09-30T10:17:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Volkshochschule-Gie%C3%9Fen-informiert-%C3%BCber-aktuelle-Vortr%C3%A4ge-und-Kurse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68109.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Die Volkshochschule Gießen informiert über aktuelle Vorträge und Kurse</title>
-    <updated>2024-09-17T11:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Volkshochschule-Gie%C3%9Fen-informiert-%C3%BCber-aktuelle-Vortr%C3%A4ge-und-Kurse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68109.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-17T11:12:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bei-den-Stadtf%C3%BChrungen-im-Herbst-sind-noch-Pl%C3%A4tze-frei.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68110.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Bei den Stadtführungen im Herbst sind noch Plätze frei - zwei Premieren</title>
     <updated>2024-09-17T11:12:00+02:00</updated>
@@ -968,6 +957,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nachtbuslinie-Venus-wird-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68216.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-09-30T12:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folgeanmeldung-und-Erstanmeldung-zur-Vergabe-der-Ehrenamts-Card.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67680.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Folgeanmeldung und Erstanmeldung zur Vergabe der Ehrenamts-Card</title>
+    <updated>2024-09-30T14:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folgeanmeldung-und-Erstanmeldung-zur-Vergabe-der-Ehrenamts-Card.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67680.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-30T14:14:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landschaftspflege-der-Saison-2024-2025-starten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68217.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
