@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-01T10:17:00.119973+00:00</updated>
+  <updated>2024-10-01T13:23:33.205600+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -431,17 +431,6 @@
     <published>2024-09-17T00:54:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10637_1.PDF?1726827079</id>
-    <title>Beschluss zur Aufstellung des Umlegungsplans Philosophenhöhe</title>
-    <updated>2024-09-21T01:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10637_1.PDF?1726827079"/>
-    <published>2024-09-21T01:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10578_1.PDF?1726490080</id>
     <title>Versteigerung von Fundgegenständen</title>
     <updated>2024-09-21T01:04:00+02:00</updated>
@@ -450,6 +439,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10578_1.PDF?1726490080"/>
+    <published>2024-09-21T01:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10637_1.PDF?1726827079</id>
+    <title>Beschluss zur Aufstellung des Umlegungsplans Philosophenhöhe</title>
+    <updated>2024-09-21T01:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10637_1.PDF?1726827079"/>
     <published>2024-09-21T01:04:00+02:00</published>
   </entry>
   <entry>
@@ -706,28 +706,6 @@
     <published>2024-09-30T10:17:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Beginn der Bauarbeiten am Oberhessischen Museum</title>
-    <updated>2024-09-17T12:27:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-17T12:27:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Stadtf%C3%BChrungen-ab-sofort-in-der-Gie%C3%9Fen-App.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68112.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neue Stadtführungen ab sofort in der Gießen-App</title>
-    <updated>2024-09-17T12:27:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Stadtf%C3%BChrungen-ab-sofort-in-der-Gie%C3%9Fen-App.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68112.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-17T12:27:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Messe-Kulturelle-Bildung-Gie%C3%9Fen-Die-Vielfalt-kultureller-Bildung-vernetzt-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68118.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Messe Kulturelle Bildung Gießen: Jetzt anmelden!</title>
     <updated>2024-09-17T16:17:00+02:00</updated>
@@ -979,5 +957,27 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-Stadtradel-K%C3%B6nig-innen-und-Stars.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68215.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-10-01T10:16:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fundsachen-Versteigerung-des-Stadtb%C3%BCros-am-10-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68107.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fundsachen-Versteigerung am 10. Oktober</title>
+    <updated>2024-10-01T13:23:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fundsachen-Versteigerung-des-Stadtb%C3%BCros-am-10-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68107.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-01T13:23:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MWB-Instandsetzungsarbeiten-am-Mischwasserkanal-in-L%C3%BCtzellinden-in-der-Waldstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68223.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>MWB: Instandsetzungsarbeiten am Mischwasserkanal in der Waldstraße in Lützellinden</title>
+    <updated>2024-10-01T13:23:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MWB-Instandsetzungsarbeiten-am-Mischwasserkanal-in-L%C3%BCtzellinden-in-der-Waldstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68223.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-01T13:23:00+02:00</published>
   </entry>
 </feed>
