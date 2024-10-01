@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-01T08:19:56.243292+00:00</updated>
+  <updated>2024-10-01T10:17:00.119973+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -706,17 +706,6 @@
     <published>2024-09-30T10:17:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bei-den-Stadtf%C3%BChrungen-im-Herbst-sind-noch-Pl%C3%A4tze-frei.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68110.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Bei den Stadtführungen im Herbst sind noch Plätze frei - zwei Premieren</title>
-    <updated>2024-09-17T11:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bei-den-Stadtf%C3%BChrungen-im-Herbst-sind-noch-Pl%C3%A4tze-frei.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68110.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-17T11:12:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Beginn der Bauarbeiten am Oberhessischen Museum</title>
     <updated>2024-09-17T12:27:00+02:00</updated>
@@ -979,5 +968,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Publikumsstudie-der-Stadtbibliothek-gestartet-auch-f%C3%BCr-Nicht-Nutzer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67516.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-10-01T08:19:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-Stadtradel-K%C3%B6nig-innen-und-Stars.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68215.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Von Stadtradel-König*innen und Stars</title>
+    <updated>2024-10-01T10:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-Stadtradel-K%C3%B6nig-innen-und-Stars.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68215.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-01T10:16:00+02:00</published>
   </entry>
 </feed>
