@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-02T14:13:24.042556+00:00</updated>
+  <updated>2024-10-02T17:13:04.891730+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -695,17 +695,6 @@
     <published>2024-09-30T10:17:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Messe-Kulturelle-Bildung-Gie%C3%9Fen-Die-Vielfalt-kultureller-Bildung-vernetzt-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68118.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Messe Kulturelle Bildung Gießen: Jetzt anmelden!</title>
-    <updated>2024-09-17T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Messe-Kulturelle-Bildung-Gie%C3%9Fen-Die-Vielfalt-kultureller-Bildung-vernetzt-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68118.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-17T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Online-Beteiligung-zur-Sportentwicklungsplanung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Zweite Online-Beteiligung zur Sportentwicklungsplanung</title>
     <updated>2024-09-19T08:19:00+02:00</updated>
@@ -968,5 +957,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wissen-f%C3%BCr-Gr%C3%BCndungen-und-junge-Unternehmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68225.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-10-02T12:28:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landesstra%C3%9Fe-zwischen-Petersweiher-und-A-485-Auffahrt-in-Herbstferien-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68230.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Landesstraße zwischen Petersweiher und A 485-Auffahrt in Herbstferien gesperrt</title>
+    <updated>2024-10-02T17:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landesstra%C3%9Fe-zwischen-Petersweiher-und-A-485-Auffahrt-in-Herbstferien-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68230.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-02T17:12:00+02:00</published>
   </entry>
 </feed>
