@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-02T17:13:04.891730+00:00</updated>
+  <updated>2024-10-03T10:15:48.221500+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -453,17 +453,6 @@
     <published>2024-09-28T09:17:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-preistrager-innen-der-hessischen-theatertage-2024/</id>
-    <title>Die Preisträger*innen der Hessischen Theatertage 2024 - Zum Abschluss der Hessischen Theatertage wurden am Samstag, ...</title>
-    <updated>2024-09-30T11:12:30+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-preistrager-innen-der-hessischen-theatertage-2024/"/>
-    <published>2024-09-30T11:12:30+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/18.000-besucher-innen-mehr/</id>
     <title>18.000 Besucher*innen mehr! - Stadttheater Gießen zieht Bilanz zur Spielzeit 2023/2024...</title>
     <updated>2024-07-25T15:13:33+02:00</updated>
@@ -561,6 +550,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/"/>
     <published>2024-09-24T10:15:29+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-in-der-bahnhofstrasse-9/</id>
+    <title>“Zauberdings” startet heute im Großen Haus! - Heute beginnt die Vorstellung im Großen Haus des Stadttheate...</title>
+    <updated>2024-10-03T10:15:35.894803+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-in-der-bahnhofstrasse-9/"/>
+    <published>2024-10-03T10:15:35.894803+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/verkuerzter-streckenverlauf-fuer-linie-802</id>
