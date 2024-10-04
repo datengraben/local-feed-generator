@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-04T10:16:51.896941+00:00</updated>
+  <updated>2024-10-04T11:12:38.355007+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -565,13 +565,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-vom-konzertplatz-im-botanischen-garten/</id>
     <title>“Zauberdings” startet heute vom Konzertplatz im Botanischen Garten! - Bitte kleiden Sie sich so, dass Sie eine gute Stunde an der ...</title>
-    <updated>2024-10-04T10:16:36.494810+02:00</updated>
+    <updated>2024-10-04T10:16:36+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-vom-konzertplatz-im-botanischen-garten/"/>
-    <published>2024-10-04T10:16:36.494810+02:00</published>
+    <published>2024-10-04T10:16:36+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/verkuerzter-streckenverlauf-fuer-linie-802</id>
@@ -704,17 +704,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/nachtbuslinie-venus-wird-umgeleitet"/>
     <published>2024-09-30T10:17:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reste-der-Stadtmauer-bei-Bauarbeiten-im-Seltersweg-gefunden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64711.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadtmauerfund Seltersweg: Mächtige Mauer auf 1450/51 gefällten Holzpfählen</title>
-    <updated>2024-09-20T08:18:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reste-der-Stadtmauer-bei-Bauarbeiten-im-Seltersweg-gefunden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64711.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-20T08:18:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Fahrradverleihsystem-in-Gie%C3%9Fen-w%C3%A4chst-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68127.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -979,5 +968,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorbereitende-Markierungsarbeiten-am-Oswaldsgarten-beginnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68232.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-10-04T10:16:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-frei-beim-Zusatztermin-f%C3%BCr-die-Pilzwanderung-am-12-1.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68235.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Noch Plätze frei beim Zusatztermin für die Pilzwanderung am 12. Oktober</title>
+    <updated>2024-10-04T11:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-frei-beim-Zusatztermin-f%C3%BCr-die-Pilzwanderung-am-12-1.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68235.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-04T11:12:00+02:00</published>
   </entry>
 </feed>
