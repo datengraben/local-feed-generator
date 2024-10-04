@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-04T08:19:00.198849+00:00</updated>
+  <updated>2024-10-04T10:16:51.896941+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -410,7 +410,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_10159_1.PDF?1720428618</id>
-    <title>Ankündigung von Baugrunduntersuchungen für die Trassenplanung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
+    <title>2. Ankündigung von Baugrunduntersuchungen für die Trassenplanung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
     <updated>2024-07-12T00:58:00+02:00</updated>
     <author>
       <name>Stadt - Amtliche Bekanntmachungen</name>
@@ -462,17 +462,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_10682_1.PDF?1727875693"/>
     <published>2024-10-04T01:08:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-preistrager-innen-der-hessischen-theatertage-2024/</id>
-    <title>Die Preisträger*innen der Hessischen Theatertage 2024 - Zum Abschluss der Hessischen Theatertage wurden am Samstag, ...</title>
-    <updated>2024-10-04T08:18:47.830715+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-preistrager-innen-der-hessischen-theatertage-2024/"/>
-    <published>2024-10-04T08:18:47.830715+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/18.000-besucher-innen-mehr/</id>
@@ -572,6 +561,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/"/>
     <published>2024-09-24T10:15:29+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-vom-konzertplatz-im-botanischen-garten/</id>
+    <title>“Zauberdings” startet heute vom Konzertplatz im Botanischen Garten! - Bitte kleiden Sie sich so, dass Sie eine gute Stunde an der ...</title>
+    <updated>2024-10-04T10:16:36.494810+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-vom-konzertplatz-im-botanischen-garten/"/>
+    <published>2024-10-04T10:16:36.494810+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/verkuerzter-streckenverlauf-fuer-linie-802</id>
@@ -704,17 +704,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/nachtbuslinie-venus-wird-umgeleitet"/>
     <published>2024-09-30T10:17:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Online-Beteiligung-zur-Sportentwicklungsplanung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Zweite Online-Beteiligung zur Sportentwicklungsplanung</title>
-    <updated>2024-09-19T08:19:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Online-Beteiligung-zur-Sportentwicklungsplanung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-19T08:19:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reste-der-Stadtmauer-bei-Bauarbeiten-im-Seltersweg-gefunden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64711.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -979,5 +968,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landesstra%C3%9Fe-zwischen-Petersweiher-und-A-485-Auffahrt-in-Herbstferien-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68230.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-10-02T17:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorbereitende-Markierungsarbeiten-am-Oswaldsgarten-beginnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68232.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vorbereitende Markierungsarbeiten am Oswaldsgarten beginnen</title>
+    <updated>2024-10-04T10:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorbereitende-Markierungsarbeiten-am-Oswaldsgarten-beginnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68232.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-04T10:16:00+02:00</published>
   </entry>
 </feed>
