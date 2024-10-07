@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-04T11:12:38.355007+00:00</updated>
+  <updated>2024-10-07T10:16:56.069833+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -552,6 +552,17 @@
     <published>2024-09-27T15:15:06+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/stadt-ohne-meer-auf-hoher-see/</id>
+    <title>Stadt ohne Meer auf hoher See - Das 1. Sinfoniekonzert der Saison steht ganz im Zeichen des ...</title>
+    <updated>2024-10-07T10:16:45.031373+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/stadt-ohne-meer-auf-hoher-see/"/>
+    <published>2024-10-07T10:16:45.031373+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/</id>
     <title>Demokratie kann man üben - Warum das Theater der richtige Ort dafür ist....</title>
     <updated>2024-09-24T10:15:29+02:00</updated>
@@ -561,17 +572,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/"/>
     <published>2024-09-24T10:15:29+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-vom-konzertplatz-im-botanischen-garten/</id>
-    <title>“Zauberdings” startet heute vom Konzertplatz im Botanischen Garten! - Bitte kleiden Sie sich so, dass Sie eine gute Stunde an der ...</title>
-    <updated>2024-10-04T10:16:36+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-vom-konzertplatz-im-botanischen-garten/"/>
-    <published>2024-10-04T10:16:36+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/verkuerzter-streckenverlauf-fuer-linie-802</id>
