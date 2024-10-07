@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-07T14:14:25.247825+00:00</updated>
+  <updated>2024-10-07T15:15:57.635017+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -706,17 +706,6 @@
     <published>2024-09-30T10:17:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Fahrradverleihsystem-in-Gie%C3%9Fen-w%C3%A4chst-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68127.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Das Fahrradverleihsystem in Gießen wächst weiter</title>
-    <updated>2024-09-20T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Fahrradverleihsystem-in-Gie%C3%9Fen-w%C3%A4chst-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68127.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-20T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsoptimierung-im-Bereich-Selterstor-Vorbereitende-Ma%C3%9Fnahmen-starten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68128.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Verkehrsoptimierung im Bereich Selterstor: Vorbereitende Maßnahmen starten</title>
     <updated>2024-09-20T13:21:00+02:00</updated>
@@ -979,5 +968,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Klimaschutz-und-Energiebericht-2024-wird-%C3%B6ffentlich-vorgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68239.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-10-07T13:23:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/K%C3%BCnftig-mit-digitalem-Leseausweis-ausleihen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68240.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Künftig mit digitalem Leseausweis ausleihen</title>
+    <updated>2024-10-07T15:15:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/K%C3%BCnftig-mit-digitalem-Leseausweis-ausleihen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68240.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-07T15:15:00+02:00</published>
   </entry>
 </feed>
