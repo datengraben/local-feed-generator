@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-09T11:14:25.639930+00:00</updated>
+  <updated>2024-10-09T13:23:20.592768+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -706,28 +706,6 @@
     <published>2024-10-09T11:14:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Abschlussveranstaltung-mit-Tombola-f%C3%BCr-den-Klimaschutz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68158.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>STADTRADELN-Abschlussveranstaltung mit Tombola für den Klimaschutz</title>
-    <updated>2024-09-26T13:22:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Abschlussveranstaltung-mit-Tombola-f%C3%BCr-den-Klimaschutz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68158.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-26T13:22:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%96ffnung-der-Jugendverkehrsschule-die-letzten-zwei-Termine.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68161.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Öffnung der Jugendverkehrsschule - die letzten zwei Termine</title>
-    <updated>2024-09-26T16:18:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%96ffnung-der-Jugendverkehrsschule-die-letzten-zwei-Termine.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68161.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-09-26T16:18:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-Drahtesel-werden-entfernt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Achtung Fahrradfahrer: Alte Räder werden wieder eingesammelt</title>
     <updated>2024-09-26T16:18:00+02:00</updated>
@@ -979,5 +957,27 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtarchiv-erwirbt-Ritgen-Brief.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68246.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-10-09T11:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Viel-Regen-vorhergesegt-Flie%C3%9Fpfadkarten-zeigen-Risiken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68247.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Viel Regen vorhergesagt - Fließpfadkarten zeigen Risiken</title>
+    <updated>2024-10-09T13:23:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Viel-Regen-vorhergesegt-Flie%C3%9Fpfadkarten-zeigen-Risiken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68247.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-09T13:23:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinien-1-und-6-werden-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68248.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Buslinien 1 und 6 werden umgeleitet</title>
+    <updated>2024-10-09T13:23:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinien-1-und-6-werden-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68248.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-09T13:23:00+02:00</published>
   </entry>
 </feed>
