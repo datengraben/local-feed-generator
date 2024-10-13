@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-12T11:12:30.734355+00:00</updated>
+  <updated>2024-10-13T10:13:59.919462+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -420,17 +420,6 @@
     <published>2024-07-12T00:58:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10578_1.PDF?1726490080</id>
-    <title>Versteigerung von Fundgegenständen</title>
-    <updated>2024-09-21T01:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10578_1.PDF?1726490080"/>
-    <published>2024-09-21T01:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10637_1.PDF?1726827079</id>
     <title>Beschluss zur Aufstellung des Umlegungsplans Philosophenhöhe</title>
     <updated>2024-09-21T01:04:00+02:00</updated>
@@ -439,6 +428,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10637_1.PDF?1726827079"/>
+    <published>2024-09-21T01:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10578_1.PDF?1726490080</id>
+    <title>Versteigerung von Fundgegenständen</title>
+    <updated>2024-09-21T01:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10578_1.PDF?1726490080"/>
     <published>2024-09-21T01:04:00+02:00</published>
   </entry>
   <entry>
@@ -484,17 +484,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_10711_1.PDF?1728386706"/>
     <published>2024-10-12T01:05:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/18.000-besucher-innen-mehr/</id>
-    <title>18.000 Besucher*innen mehr! - Stadttheater Gießen zieht Bilanz zur Spielzeit 2023/2024...</title>
-    <updated>2024-07-25T15:13:33+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/18.000-besucher-innen-mehr/"/>
-    <published>2024-07-25T15:13:33+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/messe-kulturelle-bildung-giessen/</id>
@@ -594,6 +583,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/"/>
     <published>2024-09-24T10:15:29+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-in-der-bahnhofstrasse-9/</id>
+    <title>“Zauberdings” startet heute im Großen Haus! - Heute beginnt die Vorstellung im Großen Haus des Stadttheate...</title>
+    <updated>2024-10-13T10:13:49.008170+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-in-der-bahnhofstrasse-9/"/>
+    <published>2024-10-13T10:13:49.008170+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/giessener-freibadsommer-geht-zu-ende</id>
