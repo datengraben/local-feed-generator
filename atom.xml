@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-15T11:12:44.970283+00:00</updated>
+  <updated>2024-10-15T23:15:56.706920+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -398,17 +398,6 @@
     <published>2024-09-17T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10159_1.PDF?1720428618</id>
-    <title>2. Ankündigung von Baugrunduntersuchungen für die Trassenplanung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
-    <updated>2024-07-12T00:58:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10159_1.PDF?1720428618"/>
-    <published>2024-07-12T00:58:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10637_1.PDF?1726827079</id>
     <title>Beschluss zur Aufstellung des Umlegungsplans Philosophenhöhe</title>
     <updated>2024-09-21T01:04:00+02:00</updated>
@@ -477,13 +466,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/18.000-besucher-innen-mehr/</id>
     <title>18.000 Besucher*innen mehr! - Stadttheater Gießen zieht Bilanz zur Spielzeit 2023/2024...</title>
-    <updated>2024-10-15T11:12:33.973374+02:00</updated>
+    <updated>2024-10-15T11:12:33+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/18.000-besucher-innen-mehr/"/>
-    <published>2024-10-15T11:12:33.973374+02:00</published>
+    <published>2024-10-15T11:12:33+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/messe-kulturelle-bildung-giessen/</id>
