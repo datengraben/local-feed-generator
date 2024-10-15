@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-14T18:19:47.527054+00:00</updated>
+  <updated>2024-10-15T08:19:56.329841+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -277,125 +277,125 @@
     <published>2024-08-21T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Leib-sches-Haus-schlie%C3%9Ft-bis-voraussichtlich-Sommer-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.12511.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Leib-sches-Haus-schlie%C3%9Ft-bis-voraussichtlich-Sommer-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.12511.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Leib'sches Haus schließt bis voraussichtlich Sommer 2025</title>
     <updated>2021-07-16T00:00:00+02:00</updated>
     <author>
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Leib-sches-Haus-schlie%C3%9Ft-bis-voraussichtlich-Sommer-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.12511.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Leib-sches-Haus-schlie%C3%9Ft-bis-voraussichtlich-Sommer-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.12511.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2021-07-16T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Wegen-Umbau-des-Oberhessischen-Museums-schlie%C3%9Ft-auch-das-Wallenfels-sche-Haus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16033.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Wegen-Umbau-des-Oberhessischen-Museums-schlie%C3%9Ft-auch-das-Wallenfels-sche-Haus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16033.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Wegen Umbau des Oberhessischen Museums schließt auch das Wallenfels'sche Haus</title>
     <updated>2022-01-17T00:00:00+01:00</updated>
     <author>
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Wegen-Umbau-des-Oberhessischen-Museums-schlie%C3%9Ft-auch-das-Wallenfels-sche-Haus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16033.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Wegen-Umbau-des-Oberhessischen-Museums-schlie%C3%9Ft-auch-das-Wallenfels-sche-Haus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16033.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2022-01-17T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Oberhessisches-Museum-wird-Teil-von-museum4punkt0.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.17729.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Oberhessisches-Museum-wird-Teil-von-museum4punkt0.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.17729.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Oberhessisches Museum wird Teil von museum4punkt0</title>
     <updated>2022-05-02T00:00:00+02:00</updated>
     <author>
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Oberhessisches-Museum-wird-Teil-von-museum4punkt0.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.17729.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Oberhessisches-Museum-wird-Teil-von-museum4punkt0.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.17729.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2022-05-02T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Stadtgeschichte virtuell und lebendig: digitaler Audiowalk</title>
     <updated>2023-04-14T00:00:00+02:00</updated>
     <author>
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2023-04-14T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/museum4punkt0-vor-erfolgreichem-Abschluss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58346.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/museum4punkt0-vor-erfolgreichem-Abschluss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58346.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>museum4punkt0 vor erfolgreichem Abschluss</title>
     <updated>2023-05-04T00:00:00+02:00</updated>
     <author>
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/museum4punkt0-vor-erfolgreichem-Abschluss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58346.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/museum4punkt0-vor-erfolgreichem-Abschluss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58346.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2023-05-04T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/1975-Revisited-Gie%C3%9Fen-und-das-Jahr-der-Frau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58347.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/1975-Revisited-Gie%C3%9Fen-und-das-Jahr-der-Frau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58347.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>1975 Revisited. Gießen und das Jahr der Frau</title>
     <updated>2023-05-04T00:00:00+02:00</updated>
     <author>
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/1975-Revisited-Gie%C3%9Fen-und-das-Jahr-der-Frau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58347.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/1975-Revisited-Gie%C3%9Fen-und-das-Jahr-der-Frau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58347.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2023-05-04T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Die VideoBox - erzähle von deinem Gießen</title>
     <updated>2023-06-06T00:00:00+02:00</updated>
     <author>
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Neue-Sonderausstellung-im-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64424.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Neue-Sonderausstellung-im-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64424.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Neue Sonderausstellung im Oberhessischen Museum</title>
     <updated>2024-04-09T00:00:00+02:00</updated>
     <author>
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Neue-Sonderausstellung-im-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64424.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Neue-Sonderausstellung-im-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64424.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2024-04-09T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Let-s-go-digital-Digitales-aus-dem-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67885.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Let-s-go-digital-Digitales-aus-dem-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67885.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Let's go digital. Digitales aus dem Museum</title>
-    <updated>2024-07-31T11:10:00+02:00</updated>
+    <updated>2024-07-31T00:00:00+02:00</updated>
     <author>
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Let-s-go-digital-Digitales-aus-dem-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67885.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2024-07-31T11:10:00+02:00</published>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Let-s-go-digital-Digitales-aus-dem-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67885.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <published>2024-07-31T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Beginn der Bauarbeiten am Oberhessischen Museum</title>
-    <updated>2024-09-17T12:27:00+02:00</updated>
+    <updated>2024-09-17T00:00:00+02:00</updated>
     <author>
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2024-09-17T12:27:00+02:00</published>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <published>2024-09-17T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Neue-Stadtf%C3%BChrungen-ab-sofort-in-der-Gie%C3%9Fen-App.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68112.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Neue-Stadtf%C3%BChrungen-ab-sofort-in-der-Gie%C3%9Fen-App.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68112.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Neue Stadtführungen ab sofort in der Gießen-App</title>
-    <updated>2024-09-17T12:27:00+02:00</updated>
+    <updated>2024-09-17T00:00:00+02:00</updated>
     <author>
       <name>Oberhessisches Museum</name>
       <email>museum@giessen.de</email>
     </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Neue-Stadtf%C3%BChrungen-ab-sofort-in-der-Gie%C3%9Fen-App.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68112.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2024-09-17T12:27:00+02:00</published>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Neue-Stadtf%C3%BChrungen-ab-sofort-in-der-Gie%C3%9Fen-App.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68112.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <published>2024-09-17T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_10159_1.PDF?1720428618</id>
@@ -409,17 +409,6 @@
     <published>2024-07-12T00:58:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10578_1.PDF?1726490080</id>
-    <title>Versteigerung von Fundgegenständen</title>
-    <updated>2024-09-21T01:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10578_1.PDF?1726490080"/>
-    <published>2024-09-21T01:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10637_1.PDF?1726827079</id>
     <title>Beschluss zur Aufstellung des Umlegungsplans Philosophenhöhe</title>
     <updated>2024-09-21T01:04:00+02:00</updated>
@@ -428,6 +417,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10637_1.PDF?1726827079"/>
+    <published>2024-09-21T01:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10578_1.PDF?1726490080</id>
+    <title>Versteigerung von Fundgegenständen</title>
+    <updated>2024-09-21T01:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10578_1.PDF?1726490080"/>
     <published>2024-09-21T01:04:00+02:00</published>
   </entry>
   <entry>
