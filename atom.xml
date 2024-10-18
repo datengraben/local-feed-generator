@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-18T14:13:47.110434+00:00</updated>
+  <updated>2024-10-18T22:13:37.115613+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -409,17 +409,6 @@
     <published>2024-09-21T01:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10578_1.PDF?1726490080</id>
-    <title>Versteigerung von Fundgegenständen</title>
-    <updated>2024-09-21T01:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10578_1.PDF?1726490080"/>
-    <published>2024-09-21T01:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10668_1.PDF?1727687576</id>
     <title>Auskunft- und Übermittlungssperren</title>
     <updated>2024-09-28T09:17:00+02:00</updated>
@@ -429,17 +418,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_10668_1.PDF?1727687576"/>
     <published>2024-09-28T09:17:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_10682_1.PDF?1727875693</id>
-    <title>Nachruf Werner Döring</title>
-    <updated>2024-10-04T01:08:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10682_1.PDF?1727875693"/>
-    <published>2024-10-04T01:08:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_10712_1.PDF?1728386780</id>
@@ -475,17 +453,6 @@
     <published>2024-10-16T01:08:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10762_1.PDF?1729157918</id>
-    <title>Neues Mitglied im Ortsbeirat Gießen-Wieseck</title>
-    <updated>2024-10-18T01:08:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10762_1.PDF?1729157918"/>
-    <published>2024-10-18T01:08:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10757_1.PDF?1729084768</id>
     <title>Veröffentlichung des Jahresabschlusses des Eigenbetriebs Mittelhessische Wasserbetrieber (MWB) 2023</title>
     <updated>2024-10-18T01:08:00+02:00</updated>
@@ -494,6 +461,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10757_1.PDF?1729084768"/>
+    <published>2024-10-18T01:08:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10762_1.PDF?1729157918</id>
+    <title>Neues Mitglied im Ortsbeirat Gießen-Wieseck</title>
+    <updated>2024-10-18T01:08:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10762_1.PDF?1729157918"/>
     <published>2024-10-18T01:08:00+02:00</published>
   </entry>
   <entry>
