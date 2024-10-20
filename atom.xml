@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-18T22:13:37.115613+00:00</updated>
+  <updated>2024-10-20T14:13:21.592107+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -354,28 +354,6 @@
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Neue-Sonderausstellung-im-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64424.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Neue Sonderausstellung im Oberhessischen Museum</title>
-    <updated>2024-04-09T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Neue-Sonderausstellung-im-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64424.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2024-04-09T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Let-s-go-digital-Digitales-aus-dem-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67885.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Let's go digital. Digitales aus dem Museum</title>
-    <updated>2024-07-31T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Let-s-go-digital-Digitales-aus-dem-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67885.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2024-07-31T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Beginn der Bauarbeiten am Oberhessischen Museum</title>
     <updated>2024-09-17T00:00:00+02:00</updated>
@@ -384,17 +362,6 @@
       <email>museum@giessen.de</email>
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2024-09-17T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Neue-Stadtf%C3%BChrungen-ab-sofort-in-der-Gie%C3%9Fen-App.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68112.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Neue Stadtführungen ab sofort in der Gießen-App</title>
-    <updated>2024-09-17T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Oberhessisches-Museum/Neue-Stadtf%C3%BChrungen-ab-sofort-in-der-Gie%C3%9Fen-App.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68112.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2024-09-17T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -453,17 +420,6 @@
     <published>2024-10-16T01:08:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10757_1.PDF?1729084768</id>
-    <title>Veröffentlichung des Jahresabschlusses des Eigenbetriebs Mittelhessische Wasserbetrieber (MWB) 2023</title>
-    <updated>2024-10-18T01:08:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10757_1.PDF?1729084768"/>
-    <published>2024-10-18T01:08:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10762_1.PDF?1729157918</id>
     <title>Neues Mitglied im Ortsbeirat Gießen-Wieseck</title>
     <updated>2024-10-18T01:08:00+02:00</updated>
@@ -472,6 +428,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10762_1.PDF?1729157918"/>
+    <published>2024-10-18T01:08:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10757_1.PDF?1729084768</id>
+    <title>Veröffentlichung des Jahresabschlusses des Eigenbetriebs Mittelhessische Wasserbetrieber (MWB) 2023</title>
+    <updated>2024-10-18T01:08:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10757_1.PDF?1729084768"/>
     <published>2024-10-18T01:08:00+02:00</published>
   </entry>
   <entry>
