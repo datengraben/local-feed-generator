@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-21T13:23:59.772059+00:00</updated>
+  <updated>2024-10-21T14:14:18.600169+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -420,17 +420,6 @@
     <published>2024-10-16T01:08:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10762_1.PDF?1729157918</id>
-    <title>Neues Mitglied im Ortsbeirat Gießen-Wieseck</title>
-    <updated>2024-10-18T01:08:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10762_1.PDF?1729157918"/>
-    <published>2024-10-18T01:08:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10757_1.PDF?1729084768</id>
     <title>Veröffentlichung des Jahresabschlusses des Eigenbetriebs Mittelhessische Wasserbetrieber (MWB) 2023</title>
     <updated>2024-10-18T01:08:00+02:00</updated>
@@ -439,6 +428,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10757_1.PDF?1729084768"/>
+    <published>2024-10-18T01:08:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10762_1.PDF?1729157918</id>
+    <title>Neues Mitglied im Ortsbeirat Gießen-Wieseck</title>
+    <updated>2024-10-18T01:08:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10762_1.PDF?1729157918"/>
     <published>2024-10-18T01:08:00+02:00</published>
   </entry>
   <entry>
@@ -684,6 +684,17 @@
     <published>2024-10-09T11:14:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landschaftspflege-der-Saison-2024-2025-starten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68217.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Landschaftspflege der Saison 2024/2025 startet</title>
+    <updated>2024-09-30T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landschaftspflege-der-Saison-2024-2025-starten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68217.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-09-30T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Publikumsstudie-der-Stadtbibliothek-gestartet-auch-f%C3%BCr-Nicht-Nutzer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67516.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Publikumsstudie der Stadtbibliothek - auch für Nicht-Nutzer</title>
     <updated>2024-10-01T08:19:00+02:00</updated>
@@ -704,17 +715,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-Stadtradel-K%C3%B6nig-innen-und-Stars.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68215.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-10-01T10:16:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MWB-Instandsetzungsarbeiten-am-Mischwasserkanal-in-L%C3%BCtzellinden-in-der-Waldstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68223.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>MWB: Instandsetzungsarbeiten am Mischwasserkanal in der Waldstraße in Lützellinden</title>
-    <updated>2024-10-01T13:23:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MWB-Instandsetzungsarbeiten-am-Mischwasserkanal-in-L%C3%BCtzellinden-in-der-Waldstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68223.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-10-01T13:23:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wissen-f%C3%BCr-Gr%C3%BCndungen-und-junge-Unternehmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68225.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
