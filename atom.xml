@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-22T13:23:24.233306+00:00</updated>
+  <updated>2024-10-22T16:18:55.017218+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -442,17 +442,6 @@
     <published>2024-10-18T01:08:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/18.000-besucher-innen-mehr/</id>
-    <title>18.000 Besucher*innen mehr! - Stadttheater Gießen zieht Bilanz zur Spielzeit 2023/2024...</title>
-    <updated>2024-10-15T11:12:33+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/18.000-besucher-innen-mehr/"/>
-    <published>2024-10-15T11:12:33+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/messe-kulturelle-bildung-giessen/</id>
     <title>Messe Kulturelle Bildung Gießen - Die Vielfalt kultureller Bildung vernetzt sich im Rathaus. A...</title>
     <updated>2024-10-01T14:14:02+02:00</updated>
@@ -539,6 +528,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
     <published>2024-07-28T09:14:39+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/doppelter-neustart-von-einfach-singen-fur-familien/</id>
+    <title>Doppelter Neustart von „Einfach singen für Familien“ - „Einfach singen für Familien“ ist nach einer ausgiebigen Som...</title>
+    <updated>2024-10-22T16:18:38.649147+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/doppelter-neustart-von-einfach-singen-fur-familien/"/>
+    <published>2024-10-22T16:18:38.649147+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/</id>
@@ -682,17 +682,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/buslinien-1-und-6-werden-umgeleitet"/>
     <published>2024-10-09T11:14:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Publikumsstudie-der-Stadtbibliothek-gestartet-auch-f%C3%BCr-Nicht-Nutzer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67516.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Publikumsstudie der Stadtbibliothek - auch für Nicht-Nutzer</title>
-    <updated>2024-10-01T08:19:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Publikumsstudie-der-Stadtbibliothek-gestartet-auch-f%C3%BCr-Nicht-Nutzer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67516.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-10-01T08:19:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-Stadtradel-K%C3%B6nig-innen-und-Stars.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68215.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -957,5 +946,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herbst-Highlights-im-Stadttheater.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68314.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-10-22T13:23:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Pogromnacht: Vielfältiges Programm rund um den 9. November in Gießen</title>
+    <updated>2024-10-22T16:18:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-22T16:18:00+02:00</published>
   </entry>
 </feed>
