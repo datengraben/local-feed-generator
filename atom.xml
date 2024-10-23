@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-23T10:15:26.314790+00:00</updated>
+  <updated>2024-10-23T11:12:36.449030+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -541,17 +541,6 @@
     <published>2024-09-24T10:15:29+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/giessener-freibadsommer-geht-zu-ende</id>
-    <title>Gießener Freibadsommer geht zu Ende</title>
-    <updated>2024-09-11T08:19:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/giessener-freibadsommer-geht-zu-ende"/>
-    <published>2024-09-11T08:19:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/kooperation-geht-in-die-verlaengerung</id>
     <title>Kooperation geht in die Verlängerung</title>
     <updated>2024-09-12T08:19:00+02:00</updated>
@@ -671,6 +660,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/buslinien-1-und-6-werden-umgeleitet"/>
     <published>2024-10-09T11:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/wissenswertes-zur-waermepumpe</id>
+    <title>Wissenswertes zur Wärmepumpe</title>
+    <updated>2024-10-23T11:12:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/wissenswertes-zur-waermepumpe"/>
+    <published>2024-10-23T11:12:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wissen-f%C3%BCr-Gr%C3%BCndungen-und-junge-Unternehmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68225.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
