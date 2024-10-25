@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-25T11:12:44.588850+00:00</updated>
+  <updated>2024-10-25T15:15:34.407768+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -673,17 +673,6 @@
     <published>2024-10-23T11:12:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorbereitende-Markierungsarbeiten-am-Oswaldsgarten-beginnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68232.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Vorbereitende Markierungsarbeiten am Oswaldsgarten beginnen</title>
-    <updated>2024-10-04T10:16:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorbereitende-Markierungsarbeiten-am-Oswaldsgarten-beginnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68232.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-10-04T10:16:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Klimaschutz-und-Energiebericht-2024-wird-%C3%B6ffentlich-vorgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68239.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Klimaschutz- und Energiebericht 2024 wird öffentlich vorgestellt</title>
     <updated>2024-10-07T13:23:00+02:00</updated>
@@ -946,5 +935,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kampfmittelsondierung-auf-Rudolf-Diesel-Stra%C3%9Fe-und-R%C3%B6dgener-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68337.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-10-25T11:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Baustelle-L-3131-zwischen-Gie%C3%9Fen-Petersweiher-und-A485-Auffahrt-Strecke-soll-am-01-11-wieder-freigegeben-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68339.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Baustelle zwischen Gießen-Petersweiher und A485-Auffahrt: Strecke soll am 01.11. wieder freigegeben werden</title>
+    <updated>2024-10-25T15:15:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Baustelle-L-3131-zwischen-Gie%C3%9Fen-Petersweiher-und-A485-Auffahrt-Strecke-soll-am-01-11-wieder-freigegeben-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68339.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-25T15:15:00+02:00</published>
   </entry>
 </feed>
