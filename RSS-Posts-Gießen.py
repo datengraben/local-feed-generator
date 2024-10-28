@@ -129,10 +129,11 @@ all_posts += general_scraper(POSTS,
 
 year = datetime.date.today().year
 url = 'https://www.giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/index.php?ModID=255&object=tx%2C2874.5.1&La=1&NavID=1894.87&text=&kat=8.51&jahr={}&startkat=2874.229'.format(year)
+
 all_posts += general_scraper(url,
         lambda body: map(lambda x: {
              'title': x.select('h4')[0].text,
-             'link': 'http://giessen.de' + x.select('a')[0]['href'],
+             'link': 'http://giessen.de' + x.select('a')[2]['href'],
              'date-posted': localdt(x.select('small.date')[0].text, '%d.%m.%Y'),
              'date-raw': '',
              'text': '',
