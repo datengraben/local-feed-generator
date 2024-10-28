@@ -284,24 +284,43 @@ def import_into_feed(all_posts):
     i=0
     for post in all_posts:
 
-        # filter deleted uris
-        if post['link'] in deleted_urls:
-            # print("Skip", post['link'])
-            continue
+        try:
 
-        fe = fg.add_entry()
-        fe.id(post['link'])
-        fe.title(post['title'])
-        fe.source(post['link'])
-        fe.link(href=post['link'])
+            # filter deleted uris
+            if post['link'] in deleted_urls:
+                # print("Skip", post['link'])
+                continue
 
-        fe.author({
-            'name': post['author-name'],
-            'email': post['author-email']})
+            fe = fg.add_entry()
+            fe.id(post['link'])
+            fe.title(post['title'])
+            fe.source(post['link'])
+            fe.link(href=post['link'])
 
-        fe.pubDate(post['date-posted'])
-        fe.updated(post['date-posted'])
-        i+=1
+            fe.author({
+                'name': post['author-name'],
+                'email': post['author-email']})
+
+            date_posted = post['date-posted']
+
+            # Fix datetime objects when struct_time
+            if type(date_posted).__name__ == 'struct_time':
+                from datetime import datetime
+                from time import mktime
+                date_posted = datetime.fromtimestamp(mktime(date_posted))
+
+                # Make it timezone aware to fullfill FeedGenerator api
+                import pytz
+                date_posted = pytz.utc.localize(date_posted)
+
+            fe.pubDate(date_posted)
+            fe.updated(date_posted)
+            i+=1
+        except ValueError as e:
+            print(f"Problem with {post}")
+            print(e)
+            print(post['date-posted'])
+            print(type(post['date-posted']).__name__)
     print("----------------")
     print("Gesamt:", i-1)
     print("")
