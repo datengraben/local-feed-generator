@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-29T14:14:25.881833+00:00</updated>
+  <updated>2024-10-29T16:19:09.264689+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -684,6 +684,17 @@
     <published>2024-10-29T14:14:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Seltersweg-war-Thema-auf-EXPO-REAL-in-M%C3%BCnchen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68245.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Seltersweg war Thema auf EXPO REAL in München</title>
+    <updated>2024-10-09T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Seltersweg-war-Thema-auf-EXPO-REAL-in-M%C3%BCnchen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68245.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-09T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtarchiv-erwirbt-Ritgen-Brief.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68246.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Stadtarchiv erwirbt Ritgen-Brief</title>
     <updated>2024-10-09T11:14:00+02:00</updated>
@@ -770,17 +781,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-10-21T12:29:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortragsreihe-f%C3%BCr-Senioren-Elektronisches-Rezept-und-Elektronische-Patientenakte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68310.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Vortragsreihe für Senioren: Elektronisches Rezept und Elektronische Patientenakte</title>
-    <updated>2024-10-21T13:23:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortragsreihe-f%C3%BCr-Senioren-Elektronisches-Rezept-und-Elektronische-Patientenakte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68310.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-10-21T13:23:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Volkshochschule-Gie%C3%9Fen-informiert-%C3%BCber-aktuelle-Vortr%C3%A4ge-und-Kurse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68109.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
