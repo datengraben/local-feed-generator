@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-10-31T14:14:24.202908+00:00</updated>
+  <updated>2024-10-31T16:18:48.428770+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -552,17 +552,6 @@
     <published>2024-09-24T10:15:29+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/fernwaerme-statt-eigener-heizung</id>
-    <title>Fernwärme statt eigener Heizung</title>
-    <updated>2024-09-18T10:15:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/fernwaerme-statt-eigener-heizung"/>
-    <published>2024-09-18T10:15:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/schlachthofstrasse-fuer-die-durchfahrt-gesperrt</id>
     <title>Schlachthofstraße für die Durchfahrt gesperrt</title>
     <updated>2024-09-20T11:12:00+02:00</updated>
@@ -682,6 +671,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/powerlahn-die-bauarbeiten-laufen-auf-vollen-touren"/>
     <published>2024-10-31T12:28:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-linien-1-und-17</id>
+    <title>Umleitung für die Linien 1 und 17</title>
+    <updated>2024-10-31T16:18:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-linien-1-und-17"/>
+    <published>2024-10-31T16:18:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtarchiv-erwirbt-Ritgen-Brief.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68246.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
