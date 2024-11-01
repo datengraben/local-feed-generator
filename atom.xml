@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-01T06:22:03.301860+00:00</updated>
+  <updated>2024-11-01T09:15:42.884555+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -684,17 +684,6 @@
     <published>2024-10-31T16:18:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wege-zum-besseren-Mindset-und-Work-Life-Balance-des-einen-Freud-des-anderen-Leid.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68292.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wege zum besseren Mindset und Work-Life-Balance: des einen Freud, des anderen Leid</title>
-    <updated>2024-10-16T09:16:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wege-zum-besseren-Mindset-und-Work-Life-Balance-des-einen-Freud-des-anderen-Leid.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68292.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-10-16T09:16:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nachhaltigkeit-am-Stadttheater.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68299.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Nachhaltigkeit am Stadttheater</title>
     <updated>2024-10-17T07:14:00+02:00</updated>
@@ -957,5 +946,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gewalt-Sehen-Helfen-noch-Pl%C3%A4tze-frei.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68385.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-01T06:21:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4chster-Digitalisierungsschritt-im-Stadtb%C3%BCro.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Nächster Digitalisierungsschritt im Stadtbüro: digitales Fundbüro</title>
+    <updated>2024-11-01T09:15:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4chster-Digitalisierungsschritt-im-Stadtb%C3%BCro.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-01T09:15:00+01:00</published>
   </entry>
 </feed>
