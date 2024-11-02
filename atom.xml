@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-01T23:14:30.439412+00:00</updated>
+  <updated>2024-11-02T09:14:28.084757+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -673,6 +673,17 @@
     <published>2024-10-31T16:18:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verwaltungsstellen der Stadtteile schließen vorübergehend</title>
+    <updated>2024-10-21T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstellen-der-Stadtteile-schlie%C3%9Fen-vor%C3%BCbergehend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-21T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Volkshochschule-Gie%C3%9Fen-informiert-%C3%BCber-aktuelle-Vortr%C3%A4ge-und-Kurse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68109.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Die Volkshochschule Gießen informiert über aktuelle Angebote</title>
     <updated>2024-10-10T16:17:00+02:00</updated>
@@ -748,17 +759,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kampfmittelsondierung-auf-Rudolf-Diesel-Stra%C3%9Fe-und-R%C3%B6dgener-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68337.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-10-25T11:12:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Baustelle-L-3131-zwischen-Gie%C3%9Fen-Petersweiher-und-A485-Auffahrt-Strecke-soll-am-01-11-wieder-freigegeben-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68339.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Baustelle zwischen Gießen-Petersweiher und A485-Auffahrt: Strecke soll am 01.11. wieder freigegeben werden</title>
-    <updated>2024-10-25T15:15:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Baustelle-L-3131-zwischen-Gie%C3%9Fen-Petersweiher-und-A485-Auffahrt-Strecke-soll-am-01-11-wieder-freigegeben-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68339.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-10-25T15:15:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Gie%C3%9Fen-Triptychon-der-3Steps-als-Plus-an-Aufenthaltsqualit%C3%A4t-in-der-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68341.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
