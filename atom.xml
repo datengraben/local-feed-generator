@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-06T08:19:38.546773+00:00</updated>
+  <updated>2024-11-06T13:21:36.614468+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -475,17 +475,6 @@
     <published>2024-09-27T15:15:06+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 8. November - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
-    <updated>2024-07-28T09:14:39+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2024-07-28T09:14:39+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/doppelter-neustart-von-einfach-singen-fur-familien/</id>
     <title>Doppelter Neustart von „Einfach singen für Familien“ - „Einfach singen für Familien“ ist nach einer ausgiebigen Som...</title>
     <updated>2024-10-22T16:18:38+02:00</updated>
@@ -528,6 +517,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/parodie-nostalgie-und-der-zauber-des-moments/"/>
     <published>2024-11-04T11:14:34+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 8. November - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
+    <updated>2024-07-28T09:14:39+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2024-07-28T09:14:39+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/</id>
@@ -671,17 +671,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-linien-1-und-17"/>
     <published>2024-10-31T16:18:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-ver%C3%B6ffentlicht-Klimaschutz-und-Energiebericht-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68318.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadt Gießen veröffentlicht Klimaschutz- und Energiebericht 2024</title>
-    <updated>2024-10-23T10:15:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-ver%C3%B6ffentlicht-Klimaschutz-und-Energiebericht-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68318.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-10-23T10:15:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verz%C3%B6gerung-beim-st%C3%A4dtischen-M%C3%A4ngelmelder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68319.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -946,5 +935,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Messe-kultureller-Bildung-Die-Vielfalt-kultureller-Bildung-vernetzt-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68422.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-06T08:19:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-warnt-vor-gesundheitssch%C3%A4dlichen-Fruchtgummis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68423.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Veterinäramt warnt vor gesundheitsschädlichen Fruchtgummis</title>
+    <updated>2024-11-06T13:21:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-warnt-vor-gesundheitssch%C3%A4dlichen-Fruchtgummis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68423.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-06T13:21:00+01:00</published>
   </entry>
 </feed>
