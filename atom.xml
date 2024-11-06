@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-05T19:11:29.312775+00:00</updated>
+  <updated>2024-11-06T08:19:38.546773+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -673,17 +673,6 @@
     <published>2024-10-31T16:18:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Pogromnacht: Vielfältiges Programm rund um den 9. November in Gießen</title>
-    <updated>2024-10-22T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-10-22T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-ver%C3%B6ffentlicht-Klimaschutz-und-Energiebericht-2024.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68318.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Stadt Gießen veröffentlicht Klimaschutz- und Energiebericht 2024</title>
     <updated>2024-10-23T10:15:00+02:00</updated>
@@ -946,5 +935,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Endspurt-beim-ADFC-Fahrradklima-Test.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68408.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-05T11:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Messe-kultureller-Bildung-Die-Vielfalt-kultureller-Bildung-vernetzt-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68422.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Messe kultureller Bildung: Die Vielfalt kultureller Bildung vernetzt sich</title>
+    <updated>2024-11-06T08:19:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Messe-kultureller-Bildung-Die-Vielfalt-kultureller-Bildung-vernetzt-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68422.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-06T08:19:00+01:00</published>
   </entry>
 </feed>
