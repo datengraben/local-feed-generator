@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-11T14:14:38.589050+00:00</updated>
+  <updated>2024-11-11T15:15:10.283042+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -662,17 +662,6 @@
     <published>2024-10-31T16:18:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verz%C3%B6gerung-beim-st%C3%A4dtischen-M%C3%A4ngelmelder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68319.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verzögerung beim städtischen Mängelmelder</title>
-    <updated>2024-10-23T13:22:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verz%C3%B6gerung-beim-st%C3%A4dtischen-M%C3%A4ngelmelder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68319.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-10-23T13:22:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwald-Gie%C3%9Fen-erh%C3%A4lt-FSC-Zertifikat.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68329.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Stadtwald Gießen erhält FSC® Zertifikat</title>
     <updated>2024-10-24T12:29:00+02:00</updated>
@@ -935,5 +924,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationaler-Besuch-aus-Namibia-und-Japan-im-Oktober-F%C3%B6rderung-von-Bildung-und-Sport.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68463.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-11T14:14:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sch%C3%BCler-nehmen-ihre-Schulwege-unter-die-Lupe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68464.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Schüler nehmen ihre Schulwege unter die Lupe</title>
+    <updated>2024-11-11T15:14:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sch%C3%BCler-nehmen-ihre-Schulwege-unter-die-Lupe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68464.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-11T15:14:00+01:00</published>
   </entry>
 </feed>
