@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-11T15:15:10.283042+00:00</updated>
+  <updated>2024-11-12T13:21:59.965621+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -420,28 +420,6 @@
     <published>2024-10-26T01:06:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/doppelt-ausgezeichnet-bei-den-hessischen-theatertagen-2024-nach-uns-die-angst-kehrt-am-19-oktober-ins-kleine-haus-zuruck/</id>
-    <title>Doppelt ausgezeichnet bei den Hessischen Theatertagen 2024: „Nach uns die Angst“ kehrt am 19. Oktober ins Kleine Haus zurück - Falls Sie die Vorstellung von „Nach uns die Angst“ während d...</title>
-    <updated>2024-07-23T11:13:02+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/doppelt-ausgezeichnet-bei-den-hessischen-theatertagen-2024-nach-uns-die-angst-kehrt-am-19-oktober-ins-kleine-haus-zuruck/"/>
-    <published>2024-07-23T11:13:02+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/bunte-vielfalt-im-ganzen-haus/</id>
-    <title>Bunte Vielfalt im ganzen Haus! - Beim Theaterfest am Sonntag, 8. September rückten Publikum u...</title>
-    <updated>2024-09-10T12:29:01+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/bunte-vielfalt-im-ganzen-haus/"/>
-    <published>2024-09-10T12:29:01+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/</id>
     <title>Bildhauerei fürs Theater - Puppe oder Kostüm? Zwei Schlangen - eine blaue und eine gelb...</title>
     <updated>2024-09-27T15:15:06+02:00</updated>
@@ -497,6 +475,17 @@
     <published>2024-11-04T11:14:34+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/messe-kulturelle-bildung-giessen/</id>
+    <title>Messe Kulturelle Bildung Gießen - Die Vielfalt kultureller Bildung vernetzt sich im Rathaus. A...</title>
+    <updated>2024-11-12T13:21:48.113891+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/messe-kulturelle-bildung-giessen/"/>
+    <published>2024-11-12T13:21:48.113891+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ferdinand-keller-im-gesprach-und-auf-der-buhne/</id>
     <title>Ferdinand Keller im Gespräch und auf der Bühne - Ferdinand Keller begeisterte das Publikum im Sommer mit der ...</title>
     <updated>2024-11-07T12:28:00+01:00</updated>
@@ -517,6 +506,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
     <published>2024-07-28T09:14:39+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/</id>
+    <title>Über Hoffnung und falsche Versprechen - Die Regisseur*innen Constantin Hochkeppel und Amelie von God...</title>
+    <updated>2024-11-12T13:21:48.113891+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/"/>
+    <published>2024-11-12T13:21:48.113891+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/</id>
