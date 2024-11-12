@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-12T16:18:53.998049+00:00</updated>
+  <updated>2024-11-12T23:14:07.132712+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -365,17 +365,6 @@
     <published>2024-09-17T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10711_1.PDF?1728386706</id>
-    <title>2. Satzungsänderung der Hebesatzsatzung</title>
-    <updated>2024-10-12T01:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10711_1.PDF?1728386706"/>
-    <published>2024-10-12T01:05:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10700_1.PDF?1728033444</id>
     <title>3. Ankündigung von Baugrunduntersuchungen für die Trassenplanung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
     <updated>2024-10-16T01:08:00+02:00</updated>
@@ -662,6 +651,17 @@
     <published>2024-11-12T16:18:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Gie%C3%9Fen-Triptychon-der-3Steps-als-Plus-an-Aufenthaltsqualit%C3%A4t-in-der-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68341.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen Triptychon der 3Steps für die Innenstadt</title>
+    <updated>2024-10-25T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Gie%C3%9Fen-Triptychon-der-3Steps-als-Plus-an-Aufenthaltsqualit%C3%A4t-in-der-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68341.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-10-25T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B429-Arbeiten-zur-Verst%C3%A4rkung-der-Br%C3%BCcke-Eselswiese-stehen-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68345.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>B429: Arbeiten zur Verstärkung der Brücke "Eselswiese" stehen an</title>
     <updated>2024-10-28T07:14:00+01:00</updated>
@@ -758,17 +758,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsoptimierung-im-Bereich-Selterstor-Neue-Radverkehrsanlagen-und-Busbeschleunigung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68383.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-10-31T18:20:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-die-Buslinien-1-und-17.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68384.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Umleitung für die Buslinien 1 und 17</title>
-    <updated>2024-10-31T18:20:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-die-Buslinien-1-und-17.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68384.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-10-31T18:20:00+01:00</published>
   </entry>
   <entry>
