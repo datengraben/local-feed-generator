@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-13T15:15:18.942500+00:00</updated>
+  <updated>2024-11-13T16:18:34.314304+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -376,17 +376,6 @@
     <published>2024-10-16T01:08:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_10757_1.PDF?1729084768</id>
-    <title>Veröffentlichung des Jahresabschlusses des Eigenbetriebs Mittelhessische Wasserbetrieber (MWB) 2023</title>
-    <updated>2024-10-18T01:08:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10757_1.PDF?1729084768"/>
-    <published>2024-10-18T01:08:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_10762_1.PDF?1729157918</id>
     <title>Neues Mitglied im Ortsbeirat Gießen-Wieseck</title>
     <updated>2024-10-18T01:08:00+02:00</updated>
@@ -395,6 +384,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_10762_1.PDF?1729157918"/>
+    <published>2024-10-18T01:08:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_10757_1.PDF?1729084768</id>
+    <title>Veröffentlichung des Jahresabschlusses des Eigenbetriebs Mittelhessische Wasserbetrieber (MWB) 2023</title>
+    <updated>2024-10-18T01:08:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_10757_1.PDF?1729084768"/>
     <published>2024-10-18T01:08:00+02:00</published>
   </entry>
   <entry>
@@ -519,17 +519,6 @@
     <published>2024-09-24T10:15:29+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-die-preise-fuer-fernwaerme</id>
-    <title>Stadtwerke Gießen senken die Preise für Fernwärme</title>
-    <updated>2024-09-24T13:22:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-senken-die-preise-fuer-fernwaerme"/>
-    <published>2024-09-24T13:22:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/praemiertes-konzept-fuer-kuenftige-energiewendeprofis</id>
     <title>Prämiertes Konzept für künftige Energiewendeprofis</title>
     <updated>2024-09-26T14:13:00+02:00</updated>
@@ -651,15 +640,15 @@
     <published>2024-11-12T16:18:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Speisereste-geh%C3%B6ren-immer-in-den-M%C3%BClleimer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68353.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Schutz vor Afrikanischer Schweinepest: Speisereste gehören immer in den Mülleimer</title>
-    <updated>2024-10-29T13:23:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/die-naechste-stufe-der-energieberatung</id>
+    <title>Die nächste Stufe der Energieberatung</title>
+    <updated>2024-11-13T16:18:00+01:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Speisereste-geh%C3%B6ren-immer-in-den-M%C3%BClleimer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68353.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-10-29T13:23:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/die-naechste-stufe-der-energieberatung"/>
+    <published>2024-11-13T16:18:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kulturfonds-Gie%C3%9Fen-Wetzlar-2025-Antragsstellung-bereits-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68354.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -924,5 +913,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtb%C3%BCro-heute-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68471.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-13T09:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ampelanlage-Schiffenberger-Weg-ausgefallen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68474.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ampelanlage Schiffenberger Weg ausgefallen</title>
+    <updated>2024-11-13T16:18:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ampelanlage-Schiffenberger-Weg-ausgefallen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68474.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-13T16:18:00+01:00</published>
   </entry>
 </feed>
