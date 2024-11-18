@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-17T23:15:09.851803+00:00</updated>
+  <updated>2024-11-18T11:13:42.105841+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -761,17 +761,6 @@
     <published>2024-11-06T13:21:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-R%C3%B6dgen-ab-14-11-wieder-ge%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verwaltungsstelle in Rödgen ab 14.11. wieder geöffnet</title>
-    <updated>2024-11-07T13:20:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-R%C3%B6dgen-ab-14-11-wieder-ge%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-11-07T13:20:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationaler-Besuch-aus-Namibia-und-Japan-im-Oktober-F%C3%B6rderung-von-Bildung-und-Sport.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68463.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Internationaler Besuch aus Namibia und Japan im Oktober: Förderung von Bildung und Sport</title>
     <updated>2024-11-11T14:14:00+01:00</updated>
@@ -913,5 +902,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Weihnachtsmarkt-mit-neuen-Angeboten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68504.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-15T15:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsames-Gedenken-des-80-Jahrestages-der-Bombardierung-Gie%C3%9Fens.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.5746.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gemeinsames Gedenken des 80. Jahrestages der Bombardierung Gießens</title>
+    <updated>2024-11-18T11:13:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsames-Gedenken-des-80-Jahrestages-der-Bombardierung-Gie%C3%9Fens.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.5746.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-18T11:13:00+01:00</published>
   </entry>
 </feed>
