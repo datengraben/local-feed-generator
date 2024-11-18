@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-18T12:31:42.481781+00:00</updated>
+  <updated>2024-11-18T17:13:51.911110+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -400,13 +400,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/</id>
     <title>Bildhauerei fürs Theater - Puppe oder Kostüm? Zwei Schlangen - eine blaue und eine gelb...</title>
-    <updated>2024-11-18T12:31:30.258392+01:00</updated>
+    <updated>2024-11-18T12:31:30+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/"/>
-    <published>2024-11-18T12:31:30.258392+01:00</published>
+    <published>2024-11-18T12:31:30+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/doppelter-neustart-von-einfach-singen-fur-familien/</id>
@@ -638,17 +638,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/nur-minimale-einschraenkung-wegen-ampelausfall"/>
     <published>2024-11-14T16:18:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wasserpreise-Gie%C3%9Fen-Kartellverfahren-au%C3%9Fergerichtlich-beendet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68369.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wasserpreise Gießen: Kartellverfahren außergerichtlich beendet</title>
-    <updated>2024-10-31T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wasserpreise-Gie%C3%9Fen-Kartellverfahren-au%C3%9Fergerichtlich-beendet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68369.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-10-31T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/PowerLahn-Die-Bauarbeiten-laufen-auf-vollen-Touren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68381.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -913,5 +902,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsames-Gedenken-des-80-Jahrestages-der-Bombardierung-Gie%C3%9Fens.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.5746.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-18T11:13:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Staatssekret%C3%A4r-Ruhl-%C3%BCbergibt-Zusage-%C3%BCber-75-000-Euro-an-die-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68506.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Staatssekretär Ruhl übergibt Zusage über 75.000 Euro an die Stadt Gießen</title>
+    <updated>2024-11-18T17:13:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Staatssekret%C3%A4r-Ruhl-%C3%BCbergibt-Zusage-%C3%BCber-75-000-Euro-an-die-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68506.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-18T17:13:00+01:00</published>
   </entry>
 </feed>
