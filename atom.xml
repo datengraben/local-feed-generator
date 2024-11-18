@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-18T11:13:42.105841+00:00</updated>
+  <updated>2024-11-18T12:31:42.481781+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -398,6 +398,17 @@
     <published>2024-10-26T01:06:00+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/</id>
+    <title>Bildhauerei fürs Theater - Puppe oder Kostüm? Zwei Schlangen - eine blaue und eine gelb...</title>
+    <updated>2024-11-18T12:31:30.258392+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/"/>
+    <published>2024-11-18T12:31:30.258392+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/doppelter-neustart-von-einfach-singen-fur-familien/</id>
     <title>Doppelter Neustart von „Einfach singen für Familien“ - „Einfach singen für Familien“ ist nach einer ausgiebigen Som...</title>
     <updated>2024-10-22T16:18:38+02:00</updated>
@@ -484,17 +495,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/"/>
     <published>2024-11-12T13:21:48+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ich-ich-ich-entfallt/</id>
-    <title>"Ich, ich, ich" entfällt - Die Vorstellung am 17. November fällt krankheitsbedingt aus....</title>
-    <updated>2024-11-17T12:27:08+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ich-ich-ich-entfallt/"/>
-    <published>2024-11-17T12:27:08+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/</id>
