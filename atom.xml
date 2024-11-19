@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-19T12:30:43.955982+00:00</updated>
+  <updated>2024-11-19T15:16:40.545094+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -488,13 +488,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-zum-orange-day/</id>
     <title>Liebes Publikum zum „Orange Day“ - Menschen überall auf der Welt begehen am 25. November, dem „...</title>
-    <updated>2024-11-19T12:30:29.156163+01:00</updated>
+    <updated>2024-11-19T12:30:29+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-zum-orange-day/"/>
-    <published>2024-11-19T12:30:29.156163+01:00</published>
+    <published>2024-11-19T12:30:29+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stromkonzession-verlaengert</id>
@@ -627,17 +627,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/wie-lueften-das-heizen-effizienter-macht"/>
     <published>2024-11-19T12:30:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/PowerLahn-Die-Bauarbeiten-laufen-auf-vollen-Touren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68381.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>PowerLahn: Die Bauarbeiten laufen auf vollen Touren</title>
-    <updated>2024-10-31T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/PowerLahn-Die-Bauarbeiten-laufen-auf-vollen-Touren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68381.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-10-31T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gesundheitsamt-empfiehlt-Grippe-Impfung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68382.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -902,5 +891,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Staatssekret%C3%A4r-Ruhl-%C3%BCbergibt-Zusage-%C3%BCber-75-000-Euro-an-die-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68506.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-18T17:13:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bombenfund-in-der-Talstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68509.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bombenfund in der Talstraße</title>
+    <updated>2024-11-19T15:16:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bombenfund-in-der-Talstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68509.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-19T15:16:00+01:00</published>
   </entry>
 </feed>
