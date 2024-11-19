@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-18T23:14:44.676003+00:00</updated>
+  <updated>2024-11-19T12:30:43.955982+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -465,7 +465,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 23. Dezember - Am Theatertag kosten alle Tickets 10 Euro - egal auf welchem...</title>
+    <title>Theatertag am 23. Dezember - Letzte Gelegenheit: Wir spielen das Stück „Der Staat gegen F...</title>
     <updated>2024-07-28T09:14:39+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -486,26 +486,15 @@
     <published>2024-11-12T13:21:48+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/</id>
-    <title>Demokratie kann man üben - Warum das Theater der richtige Ort dafür ist....</title>
-    <updated>2024-09-24T10:15:29+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-zum-orange-day/</id>
+    <title>Liebes Publikum zum „Orange Day“ - Menschen überall auf der Welt begehen am 25. November, dem „...</title>
+    <updated>2024-11-19T12:30:29.156163+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/demokratie-kann-man-uben/"/>
-    <published>2024-09-24T10:15:29+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/nachtbuslinie-venus-wird-umgeleitet</id>
-    <title>Nachtbuslinie Venus wird umgeleitet</title>
-    <updated>2024-09-30T10:17:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/nachtbuslinie-venus-wird-umgeleitet"/>
-    <published>2024-09-30T10:17:00+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-zum-orange-day/"/>
+    <published>2024-11-19T12:30:29.156163+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/stromkonzession-verlaengert</id>
@@ -627,6 +616,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/nur-minimale-einschraenkung-wegen-ampelausfall"/>
     <published>2024-11-14T16:18:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/wie-lueften-das-heizen-effizienter-macht</id>
+    <title>Wie lüften das Heizen effizienter macht</title>
+    <updated>2024-11-19T12:30:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/wie-lueften-das-heizen-effizienter-macht"/>
+    <published>2024-11-19T12:30:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/PowerLahn-Die-Bauarbeiten-laufen-auf-vollen-Touren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68381.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
