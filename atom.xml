@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-20T11:12:54.765488+00:00</updated>
+  <updated>2024-11-20T12:31:13.469952+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -442,17 +442,6 @@
     <published>2024-11-04T11:14:34+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/messe-kulturelle-bildung-giessen/</id>
-    <title>Messe Kulturelle Bildung Gießen - Die Vielfalt kultureller Bildung vernetzt sich im Rathaus. A...</title>
-    <updated>2024-11-12T13:21:48+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/messe-kulturelle-bildung-giessen/"/>
-    <published>2024-11-12T13:21:48+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ferdinand-keller-im-gesprach-und-auf-der-buhne/</id>
     <title>Ferdinand Keller im Gespräch und auf der Bühne - Ferdinand Keller begeisterte das Publikum im Sommer mit der ...</title>
     <updated>2024-11-07T12:28:00+01:00</updated>
@@ -462,6 +451,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ferdinand-keller-im-gesprach-und-auf-der-buhne/"/>
     <published>2024-11-07T12:28:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/open-call-for-next-season/</id>
+    <title>Open call for next season - The dance ensemble at Stadttheater Gießen is looking for two...</title>
+    <updated>2024-11-20T12:31:01.419012+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/open-call-for-next-season/"/>
+    <published>2024-11-20T12:31:01.419012+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
