@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-20T12:31:13.469952+00:00</updated>
+  <updated>2024-11-20T15:16:28.504019+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -455,13 +455,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/open-call-for-next-season/</id>
     <title>Open call for next season - The dance ensemble at Stadttheater Gießen is looking for two...</title>
-    <updated>2024-11-20T12:31:01.419012+01:00</updated>
+    <updated>2024-11-20T12:31:01+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/open-call-for-next-season/"/>
-    <published>2024-11-20T12:31:01.419012+01:00</published>
+    <published>2024-11-20T12:31:01+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
@@ -627,17 +627,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/wie-lueften-das-heizen-effizienter-macht"/>
     <published>2024-11-19T12:30:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4chster-Digitalisierungsschritt-im-Stadtb%C3%BCro.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Nächster Digitalisierungsschritt im Stadtbüro: digitales Fundbüro</title>
-    <updated>2024-11-01T09:15:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4chster-Digitalisierungsschritt-im-Stadtb%C3%BCro.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68397.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-11-01T09:15:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neugew%C3%A4hlte-Pr%C3%A4sidentin-des-Hessischen-Landkreistages-warnt-mit-Wiesbadener-Erkl%C3%A4rung-vor-akut-bevorstehender-Haushaltsnotlage-der-Landkreise.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68399.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -902,5 +891,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Adventsnachmittag-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.62951.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-20T11:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortrag-f%C3%BCr-Seniorinnen-und-Senioren-Cybercrime-Pr%C3%A4vention.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68515.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vortrag für Seniorinnen und Senioren: Cybercrime-Prävention</title>
+    <updated>2024-11-20T15:16:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortrag-f%C3%BCr-Seniorinnen-und-Senioren-Cybercrime-Pr%C3%A4vention.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68515.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-20T15:16:00+01:00</published>
   </entry>
 </feed>
