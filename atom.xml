@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-22T12:30:19.477660+00:00</updated>
+  <updated>2024-11-22T14:15:14.002225+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -477,13 +477,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zoras-traume-brauchen-raume/</id>
     <title>„Zoras Träume brauchen Räume“ - Anna Huberta Präg, Darstellerin der Zora, im Gespräch über i...</title>
-    <updated>2024-11-22T12:30:07.522969+01:00</updated>
+    <updated>2024-11-22T12:30:07+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zoras-traume-brauchen-raume/"/>
-    <published>2024-11-22T12:30:07.522969+01:00</published>
+    <published>2024-11-22T12:30:07+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-zum-orange-day/</id>
@@ -495,17 +495,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-zum-orange-day/"/>
     <published>2024-11-19T12:30:29+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stromkonzession-verlaengert</id>
-    <title>Stromkonzession verlängert</title>
-    <updated>2024-10-08T12:28:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stromkonzession-verlaengert"/>
-    <published>2024-10-08T12:28:00+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/buslinien-1-und-6-werden-umgeleitet</id>
@@ -627,6 +616,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/wie-lueften-das-heizen-effizienter-macht"/>
     <published>2024-11-19T12:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/die-swg-geben-antworten</id>
+    <title>Die SWG geben Antworten</title>
+    <updated>2024-11-22T14:14:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/die-swg-geben-antworten"/>
+    <published>2024-11-22T14:14:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Endspurt-beim-ADFC-Fahrradklima-Test.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68408.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
