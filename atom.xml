@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-21T13:24:45.681207+00:00</updated>
+  <updated>2024-11-22T12:30:19.477660+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -387,17 +387,6 @@
     <published>2024-10-26T01:06:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/</id>
-    <title>Bildhauerei fürs Theater - Puppe oder Kostüm? Zwei Schlangen - eine blaue und eine gelb...</title>
-    <updated>2024-11-18T12:31:30+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/"/>
-    <published>2024-11-18T12:31:30+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/doppelter-neustart-von-einfach-singen-fur-familien/</id>
     <title>Doppelter Neustart von „Einfach singen für Familien“ - „Einfach singen für Familien“ ist nach einer ausgiebigen Som...</title>
     <updated>2024-10-22T16:18:38+02:00</updated>
@@ -484,6 +473,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/"/>
     <published>2024-11-12T13:21:48+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zoras-traume-brauchen-raume/</id>
+    <title>„Zoras Träume brauchen Räume“ - Anna Huberta Präg, Darstellerin der Zora, im Gespräch über i...</title>
+    <updated>2024-11-22T12:30:07.522969+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zoras-traume-brauchen-raume/"/>
+    <published>2024-11-22T12:30:07.522969+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-zum-orange-day/</id>
@@ -627,17 +627,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/wie-lueften-das-heizen-effizienter-macht"/>
     <published>2024-11-19T12:30:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Themenseite-zu-den-Bauma%C3%9Fnahmen-am-Alten-Steinbacher-Weg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68403.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neue Themenseite zu den Baumaßnahmen am Alten Steinbacher Weg</title>
-    <updated>2024-11-04T14:14:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Themenseite-zu-den-Bauma%C3%9Fnahmen-am-Alten-Steinbacher-Weg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68403.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-11-04T14:14:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Endspurt-beim-ADFC-Fahrradklima-Test.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68408.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -902,5 +891,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-f%C3%BChrt-KI-Tool-f%C3%BCr-Leichte-Sprache-ein-Ein-wichtiger-Schritt-in-Richtung-Barrierefreiheit-und-Digitalisierung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68519.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-21T13:24:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/155-Paar-Schuhe-zum-Internationalen-Tag-gegen-Gewalt-an-Frauen-am-25-11-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.38519.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>155 Paar Schuhe zum Internationalen Tag gegen Gewalt an Frauen am 25.11.</title>
+    <updated>2024-11-22T12:30:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/155-Paar-Schuhe-zum-Internationalen-Tag-gegen-Gewalt-an-Frauen-am-25-11-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.38519.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-22T12:30:00+01:00</published>
   </entry>
 </feed>
