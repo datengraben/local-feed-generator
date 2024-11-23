@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-23T11:11:36.301353+00:00</updated>
+  <updated>2024-11-23T15:13:46.442360+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -497,136 +497,59 @@
     <published>2024-11-19T12:30:29+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/buslinien-1-und-6-werden-umgeleitet</id>
-    <title>Buslinien 1 und 6 werden umgeleitet</title>
-    <updated>2024-10-09T11:14:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/5000-euro-fuer-den-ambulanten-kinder-und-jugendhospizdienst-giessen</id>
+    <title>5.000 Euro für den Ambulanten Kinder- und Jugendhospizdienst Gießen</title>
+    <updated>2024-01-08T00:00:00+01:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/buslinien-1-und-6-werden-umgeleitet"/>
-    <published>2024-10-09T11:14:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/5000-euro-fuer-den-ambulanten-kinder-und-jugendhospizdienst-giessen"/>
+    <published>2024-01-08T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/wissenswertes-zur-waermepumpe</id>
-    <title>Wissenswertes zur Wärmepumpe</title>
-    <updated>2024-10-23T11:12:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-unterstuetzen-bogensportler</id>
+    <title>Stadtwerke Gießen unterstützen Bogensportler</title>
+    <updated>2024-01-30T00:00:00+01:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/wissenswertes-zur-waermepumpe"/>
-    <published>2024-10-23T11:12:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-unterstuetzen-bogensportler"/>
+    <published>2024-01-30T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/linien-800-und-802-werden-umgeleitet</id>
-    <title>Linien 800 und 802 werden umgeleitet</title>
-    <updated>2024-10-28T12:29:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/warnstreik-samstagsfahrplan-am-freitag</id>
+    <title>Warnstreik: Samstagsfahrplan am Freitag</title>
+    <updated>2024-02-01T00:00:00+01:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/linien-800-und-802-werden-umgeleitet"/>
-    <published>2024-10-28T12:29:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/warnstreik-samstagsfahrplan-am-freitag"/>
+    <published>2024-02-01T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/aktualisierung-linien-800-und-802-werden-umgeleitet</id>
-    <title>Aktualisierung: Linien 800 und 802 werden umgeleitet</title>
-    <updated>2024-10-29T14:14:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/mitbus-setzt-weiter-auf-klimafreundliche-fahrzeugflotte</id>
+    <title>MIT.BUS setzt weiter auf klimafreundliche Fahrzeugflotte</title>
+    <updated>2024-02-05T00:00:00+01:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/aktualisierung-linien-800-und-802-werden-umgeleitet"/>
-    <published>2024-10-29T14:14:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/mitbus-setzt-weiter-auf-klimafreundliche-fahrzeugflotte"/>
+    <published>2024-02-05T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/powerlahn-die-bauarbeiten-laufen-auf-vollen-touren</id>
-    <title>PowerLahn: Die Bauarbeiten laufen auf vollen Touren </title>
-    <updated>2024-10-31T12:28:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/semesterferienfahrplan-eine-woche-frueher</id>
+    <title>Semesterferienfahrplan eine Woche früher</title>
+    <updated>2024-02-05T00:00:00+01:00</updated>
     <author>
       <name>SWG</name>
       <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/powerlahn-die-bauarbeiten-laufen-auf-vollen-touren"/>
-    <published>2024-10-31T12:28:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-linien-1-und-17</id>
-    <title>Umleitung für die Linien 1 und 17</title>
-    <updated>2024-10-31T16:18:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-linien-1-und-17"/>
-    <published>2024-10-31T16:18:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/photovoltaik-fuer-staedtische-liegenschaften</id>
-    <title>Photovoltaik für städtische Liegenschaften</title>
-    <updated>2024-11-12T15:16:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/photovoltaik-fuer-staedtische-liegenschaften"/>
-    <published>2024-11-12T15:16:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/ein-lieblingsbusfahrer-kommt-aus-giessen</id>
-    <title>Ein Lieblingsbusfahrer kommt aus Gießen</title>
-    <updated>2024-11-12T16:18:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/ein-lieblingsbusfahrer-kommt-aus-giessen"/>
-    <published>2024-11-12T16:18:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/die-naechste-stufe-der-energieberatung</id>
-    <title>Die nächste Stufe der Energieberatung</title>
-    <updated>2024-11-13T16:18:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/die-naechste-stufe-der-energieberatung"/>
-    <published>2024-11-13T16:18:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/nur-minimale-einschraenkung-wegen-ampelausfall</id>
-    <title>Nur minimale Einschränkung wegen Ampelausfall</title>
-    <updated>2024-11-14T16:18:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/nur-minimale-einschraenkung-wegen-ampelausfall"/>
-    <published>2024-11-14T16:18:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/wie-lueften-das-heizen-effizienter-macht</id>
-    <title>Wie lüften das Heizen effizienter macht</title>
-    <updated>2024-11-19T12:30:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/wie-lueften-das-heizen-effizienter-macht"/>
-    <published>2024-11-19T12:30:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/die-swg-geben-antworten</id>
-    <title>Die SWG geben Antworten</title>
-    <updated>2024-11-22T14:14:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/die-swg-geben-antworten"/>
-    <published>2024-11-22T14:14:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/semesterferienfahrplan-eine-woche-frueher"/>
+    <published>2024-02-05T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Themenseite-zu-den-Bauma%C3%9Fnahmen-am-Alten-Steinbacher-Weg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68403.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
