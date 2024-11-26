@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-26T15:16:50.950103+00:00</updated>
+  <updated>2024-11-26T23:14:43.643121+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -376,17 +376,6 @@
     <published>2024-10-16T01:08:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11389_1.PDF?1729850760</id>
-    <title>Umlegung Philosophenhöhe - In-Kraft-Setzung des Umlegungsplanes</title>
-    <updated>2024-10-26T01:06:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11389_1.PDF?1729850760"/>
-    <published>2024-10-26T01:06:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ohne-umwege-in-die-gegenwart/</id>
     <title>Ohne Umwege in die Gegenwart - Dick ist die Blutspur, die sich durch die Familiengeschichte...</title>
     <updated>2024-10-31T12:28:58+01:00</updated>
@@ -488,13 +477,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/es-steht-uns-zu-zuversichtlich-zu-sein/</id>
     <title>Es steht uns zu, zuversichtlich zu sein. - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2024-11-26T15:16:38.698360+01:00</updated>
+    <updated>2024-11-26T15:16:38+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/es-steht-uns-zu-zuversichtlich-zu-sein/"/>
-    <published>2024-11-26T15:16:38.698360+01:00</published>
+    <published>2024-11-26T15:16:38+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/buslinien-1-und-6-werden-umgeleitet</id>
