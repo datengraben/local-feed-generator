@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-27T12:31:45.628616+00:00</updated>
+  <updated>2024-11-27T15:16:31.217293+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -629,17 +629,6 @@
     <published>2024-11-27T12:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationaler-Besuch-aus-Namibia-und-Japan-im-Oktober-F%C3%B6rderung-von-Bildung-und-Sport.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68463.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Internationaler Besuch aus Namibia und Japan im Oktober: Förderung von Bildung und Sport</title>
-    <updated>2024-11-11T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationaler-Besuch-aus-Namibia-und-Japan-im-Oktober-F%C3%B6rderung-von-Bildung-und-Sport.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68463.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-11-11T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sch%C3%BCler-nehmen-ihre-Schulwege-unter-die-Lupe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68464.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Schüler nehmen ihre Schulwege unter die Lupe</title>
     <updated>2024-11-11T15:14:00+01:00</updated>
@@ -902,5 +891,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hoch-motiviert-vielseitig-kompetent-Zertifikate-f%C3%BCr-angehende-p%C3%A4dagogische-Fachkr%C3%A4fte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68544.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-26T14:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%9Cbungsleiterausbildung-f%C3%BCr-Menschen-aus-aller-Welt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68548.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Übungsleiterausbildung für Menschen aus aller Welt</title>
+    <updated>2024-11-27T15:16:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%9Cbungsleiterausbildung-f%C3%BCr-Menschen-aus-aller-Welt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68548.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-27T15:16:00+01:00</published>
   </entry>
 </feed>
