@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-26T23:14:43.643121+00:00</updated>
+  <updated>2024-11-27T01:14:03.940017+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -374,6 +374,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_10700_1.PDF?1728033444"/>
     <published>2024-10-16T01:08:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11553_1.PDF?1732609795</id>
+    <title>Nachrücker für die Stadtverordnetenversammlung</title>
+    <updated>2024-11-27T01:13:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11553_1.PDF?1732609795"/>
+    <published>2024-11-27T01:13:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ohne-umwege-in-die-gegenwart/</id>
