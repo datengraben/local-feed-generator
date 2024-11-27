@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-27T01:14:03.940017+00:00</updated>
+  <updated>2024-11-27T12:31:45.628616+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -497,17 +497,6 @@
     <published>2024-11-26T15:16:38+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/buslinien-1-und-6-werden-umgeleitet</id>
-    <title>Buslinien 1 und 6 werden umgeleitet</title>
-    <updated>2024-10-09T00:00:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/buslinien-1-und-6-werden-umgeleitet"/>
-    <published>2024-10-09T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/wissenswertes-zur-waermepumpe</id>
     <title>Wissenswertes zur Wärmepumpe</title>
     <updated>2024-10-23T00:00:00+02:00</updated>
@@ -627,6 +616,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/die-swg-geben-antworten"/>
     <published>2024-11-22T15:14:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/stabile-energiepreise-auch-nach-dem-jahreswechsel</id>
+    <title>Stabile Energiepreise auch nach dem Jahreswechsel</title>
+    <updated>2024-11-27T12:31:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/stabile-energiepreise-auch-nach-dem-jahreswechsel"/>
+    <published>2024-11-27T12:31:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationaler-Besuch-aus-Namibia-und-Japan-im-Oktober-F%C3%B6rderung-von-Bildung-und-Sport.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68463.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
