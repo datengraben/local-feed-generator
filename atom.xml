@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-28T15:16:21.924902+00:00</updated>
+  <updated>2024-11-29T11:12:56.440302+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -453,6 +453,17 @@
     <published>2024-11-25T13:25:10+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/</id>
+    <title>Deutscher Bühnenverein protestiert gegen die drastischen Kürzungen im Berliner Kulturhaushalt und fordert die Verantwortlichen zum Diskurs auf Augenhöhe auf - Kultur darf nicht weggespart werden. Als Stadttheater Gießen...</title>
+    <updated>2024-11-28T15:16:06+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/"/>
+    <published>2024-11-28T15:16:06+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-fremder-halt/</id>
     <title>Ein Fremder halt - Unsere konzertante Oper "Arabella" entführt Sie in...</title>
     <updated>2024-11-27T16:19:21+01:00</updated>
@@ -473,17 +484,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/"/>
     <published>2024-11-25T13:25:10+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/</id>
-    <title>Deutscher Bühnenverein protestiert gegen die drastischen Kürzungen im Berliner Kulturhaushalt und fordert die Verantwortlichen zum Diskurs auf Augenhöhe auf - Kultur darf nicht weggespart werden. Als Stadttheater Gießen...</title>
-    <updated>2024-11-28T15:16:06.829415+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/"/>
-    <published>2024-11-28T15:16:06.829415+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/es-steht-uns-zu-zuversichtlich-zu-sein/</id>
@@ -627,17 +627,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/swg-und-mittelhessen-cup"/>
     <published>2024-11-28T12:32:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Planungen-f%C3%BCr-die-Neuwahl-auch-in-Gie%C3%9Fen-angelaufen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68470.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Planungen für die Neuwahl auch in Gießen angelaufen</title>
-    <updated>2024-11-13T08:18:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Planungen-f%C3%BCr-die-Neuwahl-auch-in-Gie%C3%9Fen-angelaufen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68470.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-11-13T08:18:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4chster-Meilenstein-zur-Realisierung-des-Windparks-Fernewald-erreicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68472.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -902,5 +891,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Kampagne-Ich-zahl-f%C3%BCr-Zwei-Lay-Away.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68554.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-28T15:16:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-frei-Bildungsurlaub-F%C3%BChren-und-Leiten-in-sozialen-Einrichtungen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68572.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Noch ein Platz frei: Bildungsurlaub "Führen und Leiten in sozialen Einrichtungen"</title>
+    <updated>2024-11-29T11:12:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-frei-Bildungsurlaub-F%C3%BChren-und-Leiten-in-sozialen-Einrichtungen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68572.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-29T11:12:00+01:00</published>
   </entry>
 </feed>
