@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-29T11:12:56.440302+00:00</updated>
+  <updated>2024-11-29T12:31:05.363644+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -629,17 +629,6 @@
     <published>2024-11-28T12:32:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4chster-Meilenstein-zur-Realisierung-des-Windparks-Fernewald-erreicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68472.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Nächster Meilenstein zur Realisierung des Windparks Fernewald erreicht</title>
-    <updated>2024-11-13T15:15:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4chster-Meilenstein-zur-Realisierung-des-Windparks-Fernewald-erreicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68472.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-11-13T15:15:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-zu-Gast-auf-dem-Digital-Gipfel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68475.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Stadt Gießen zu Gast auf dem Digital Gipfel</title>
     <updated>2024-11-13T17:12:00+01:00</updated>
@@ -902,5 +891,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-frei-Bildungsurlaub-F%C3%BChren-und-Leiten-in-sozialen-Einrichtungen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68572.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-29T11:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Stadt-wird-zum-Adventskalender.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68573.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Die Stadt wird zum Adventskalender</title>
+    <updated>2024-11-29T12:30:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Stadt-wird-zum-Adventskalender.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68573.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-29T12:30:00+01:00</published>
   </entry>
 </feed>
