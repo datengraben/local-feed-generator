@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-11-30T01:11:33.070653+00:00</updated>
+  <updated>2024-11-30T22:13:53.167963+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -640,6 +640,17 @@
     <published>2024-11-28T12:32:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ampelanlage-Schiffenberger-Weg-ausgefallen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68474.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ampelanlage Schiffenberger Weg ausgefallen</title>
+    <updated>2024-11-13T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ampelanlage-Schiffenberger-Weg-ausgefallen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68474.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-13T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-n%C3%A4chste-Stufe-der-Energieberatung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68477.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Individueller Sanierungsfahrplan: Die nächste Stufe der Energieberatung</title>
     <updated>2024-11-14T11:12:00+01:00</updated>
@@ -891,17 +902,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Stadt-wird-zum-Adventskalender.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68573.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-29T14:14:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Lastenrad-voller-Schokolade.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68574.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ein Lastenrad voller Schokolade</title>
-    <updated>2024-11-29T13:24:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Lastenrad-voller-Schokolade.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68574.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-11-29T13:24:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Shuttle-an-den-Adventssamstagen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68578.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
