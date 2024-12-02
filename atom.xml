@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-01T09:15:18.507953+00:00</updated>
+  <updated>2024-12-02T10:17:54.655712+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -398,6 +398,17 @@
     <published>2024-11-30T01:11:00+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/parodie-nostalgie-und-der-zauber-des-moments/</id>
+    <title>Parodie, Nostalgie und der Zauber des Moments - Am 8. November haben John Cages „Europeras 3 &amp; 4“ im Kle...</title>
+    <updated>2024-12-02T10:17:42.896943+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/parodie-nostalgie-und-der-zauber-des-moments/"/>
+    <published>2024-12-02T10:17:42.896943+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ferdinand-keller-im-gesprach-und-auf-der-buhne/</id>
     <title>Ferdinand Keller im Gespräch und auf der Bühne - Ferdinand Keller begeisterte das Publikum im Sommer mit der ...</title>
     <updated>2024-11-07T12:28:00+01:00</updated>
@@ -451,17 +462,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zoras-traume-brauchen-raume/"/>
     <published>2024-11-22T12:30:07+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/workshop-zu-moses-in-agypten/</id>
-    <title>Workshop zu „Moses in Ägypten“ - Wir suchen Zukunftsvisionen gemeinsam mit Regisseurin Carmen...</title>
-    <updated>2024-11-25T13:25:10+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/workshop-zu-moses-in-agypten/"/>
-    <published>2024-11-25T13:25:10+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/</id>
