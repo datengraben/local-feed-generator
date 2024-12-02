@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-02T10:17:54.655712+00:00</updated>
+  <updated>2024-12-02T11:13:27.763288+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -400,13 +400,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/parodie-nostalgie-und-der-zauber-des-moments/</id>
     <title>Parodie, Nostalgie und der Zauber des Moments - Am 8. November haben John Cages „Europeras 3 &amp; 4“ im Kle...</title>
-    <updated>2024-12-02T10:17:42.896943+01:00</updated>
+    <updated>2024-12-02T10:17:42+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/parodie-nostalgie-und-der-zauber-des-moments/"/>
-    <published>2024-12-02T10:17:42.896943+01:00</published>
+    <published>2024-12-02T10:17:42+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ferdinand-keller-im-gesprach-und-auf-der-buhne/</id>
@@ -638,17 +638,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/swg-und-mittelhessen-cup"/>
     <published>2024-11-28T12:32:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-n%C3%A4chste-Stufe-der-Energieberatung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68477.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Individueller Sanierungsfahrplan: Die nächste Stufe der Energieberatung</title>
-    <updated>2024-11-14T11:12:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-n%C3%A4chste-Stufe-der-Energieberatung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68477.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-11-14T11:12:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hilfe-bei-h%C3%A4uslicher-Gewalt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68494.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -913,5 +902,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Adventsgewinnspiel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63580.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-12-01T09:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wegen-Arbeiten-am-Schmutzwasserkanal-Ludwigstra%C3%9Fe-wird-teilweise-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68579.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wegen Rohrbruch: Ludwigstraße teilweise gesperrt</title>
+    <updated>2024-12-02T11:13:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wegen-Arbeiten-am-Schmutzwasserkanal-Ludwigstra%C3%9Fe-wird-teilweise-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68579.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-12-02T11:13:00+01:00</published>
   </entry>
 </feed>
