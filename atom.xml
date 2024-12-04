@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-04T12:31:58.279699+00:00</updated>
+  <updated>2024-12-04T15:17:07.000941+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -409,17 +409,6 @@
     <published>2024-12-03T01:14:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/parodie-nostalgie-und-der-zauber-des-moments/</id>
-    <title>Parodie, Nostalgie und der Zauber des Moments - Am 8. November haben John Cages „Europeras 3 &amp; 4“ im Kle...</title>
-    <updated>2024-12-02T10:17:42+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/parodie-nostalgie-und-der-zauber-des-moments/"/>
-    <published>2024-12-02T10:17:42+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ferdinand-keller-im-gesprach-und-auf-der-buhne/</id>
     <title>Ferdinand Keller im Gespräch und auf der Bühne - Ferdinand Keller begeisterte das Publikum im Sommer mit der ...</title>
     <updated>2024-11-07T12:28:00+01:00</updated>
@@ -484,6 +473,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/"/>
     <published>2024-11-28T15:16:06+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/</id>
+    <title>Audition Call: Rehearsal Director &amp; Choreographic Assistant (m/f/x) - The dance ensemble at Stadttheater Gießen is looking for a r...</title>
+    <updated>2024-12-04T15:16:57.355227+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/"/>
+    <published>2024-12-04T15:16:57.355227+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-fremder-halt/</id>
@@ -649,6 +649,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/umleitungen-fuer-die-linien-3-13-und-802"/>
     <published>2024-12-02T15:16:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-n%C3%A4chste-Stufe-der-Energieberatung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68477.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Individueller Sanierungsfahrplan: Die nächste Stufe der Energieberatung</title>
+    <updated>2024-11-14T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-n%C3%A4chste-Stufe-der-Energieberatung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68477.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-11-14T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hilfe-bei-h%C3%A4uslicher-Gewalt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68494.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -836,17 +847,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Kampagne-Ich-zahl-f%C3%BCr-Zwei-Lay-Away.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68554.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-11-28T15:16:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-frei-Bildungsurlaub-F%C3%BChren-und-Leiten-in-sozialen-Einrichtungen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68572.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Noch ein Platz frei: Bildungsurlaub "Führen und Leiten in sozialen Einrichtungen"</title>
-    <updated>2024-11-29T11:12:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-frei-Bildungsurlaub-F%C3%BChren-und-Leiten-in-sozialen-Einrichtungen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68572.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-11-29T11:12:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Stadt-wird-zum-Adventskalender.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68573.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
