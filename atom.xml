@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-04T11:14:40.494902+00:00</updated>
+  <updated>2024-12-04T12:31:58.279699+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -651,28 +651,6 @@
     <published>2024-12-02T15:16:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ampelanlage-Schiffenberger-Weg-ausgefallen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68474.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ampelanlage Schiffenberger Weg ausgefallen</title>
-    <updated>2024-11-13T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ampelanlage-Schiffenberger-Weg-ausgefallen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68474.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-11-13T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-n%C3%A4chste-Stufe-der-Energieberatung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68477.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Individueller Sanierungsfahrplan: Die nächste Stufe der Energieberatung</title>
-    <updated>2024-11-14T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-n%C3%A4chste-Stufe-der-Energieberatung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68477.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2024-11-14T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hilfe-bei-h%C3%A4uslicher-Gewalt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68494.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Hilfe bei (häuslicher) Gewalt</title>
     <updated>2024-11-14T00:00:00+01:00</updated>
@@ -924,5 +902,27 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vier-neue-E-Lastenr%C3%A4der-im-Nextbike-Leihradsystem-der-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68587.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2024-12-03T12:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-Nikolaus-kommt-mit-dem-Blaulicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68596.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Der Nikolaus kommt mit dem Blaulicht</title>
+    <updated>2024-12-04T12:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-Nikolaus-kommt-mit-dem-Blaulicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68596.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-12-04T12:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Frauennachttaxi-Gutscheine-jetzt-digital-in-der-Giessen-App-erh%C3%A4ltlich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68598.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Frauennachttaxi-Gutscheine jetzt digital in der Giessen App erhältlich</title>
+    <updated>2024-12-04T12:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Frauennachttaxi-Gutscheine-jetzt-digital-in-der-Giessen-App-erh%C3%A4ltlich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68598.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2024-12-04T12:31:00+01:00</published>
   </entry>
 </feed>
