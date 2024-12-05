@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-04T16:20:22.121674+00:00</updated>
+  <updated>2024-12-05T14:15:50.383940+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -519,17 +519,6 @@
     <published>2024-11-26T15:16:38+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/aktualisierung-linien-800-und-802-werden-umgeleitet</id>
-    <title>Aktualisierung: Linien 800 und 802 werden umgeleitet</title>
-    <updated>2024-10-29T00:00:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/aktualisierung-linien-800-und-802-werden-umgeleitet"/>
-    <published>2024-10-29T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/powerlahn-die-bauarbeiten-laufen-auf-vollen-touren</id>
     <title>PowerLahn: Die Bauarbeiten laufen auf vollen Touren </title>
     <updated>2024-10-31T00:00:00+01:00</updated>
@@ -649,5 +638,16 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/umleitungen-fuer-die-linien-3-13-und-802"/>
     <published>2024-12-02T15:16:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/fuer-die-zukunft-lernen</id>
+    <title>Für die Zukunft lernen</title>
+    <updated>2024-12-05T14:15:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/fuer-die-zukunft-lernen"/>
+    <published>2024-12-05T14:15:00+01:00</published>
   </entry>
 </feed>
