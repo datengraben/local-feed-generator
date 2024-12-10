@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-10T14:04:10.814423+00:00</updated>
+  <updated>2024-12-10T16:04:45.008334+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -227,232 +227,6 @@
     <published>2024-11-24T12:28:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/-CoolerStadtplan-verschafft-Gie%C3%9Fen-Abk%C3%BChlung-B%C3%BCrger-arbeiten-aktiv-mit-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.64678.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>»CoolerStadtplan« verschafft Gießen Abkühlung - Bürger arbeiten aktiv mit!</title>
-    <updated>2024-05-29T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/-CoolerStadtplan-verschafft-Gie%C3%9Fen-Abk%C3%BChlung-B%C3%BCrger-arbeiten-aktiv-mit-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.64678.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2024-05-29T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitze-Warnungen-des-DWD-im-Stadtgebiet-und-oline.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67658.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Hitze-Warnungen des DWD im Stadtgebiet und online</title>
-    <updated>2024-07-15T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitze-Warnungen-des-DWD-im-Stadtgebiet-und-oline.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67658.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2024-07-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Blaualgen-im-Neuen-Teich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67894.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Blaualgen im Neuen Teich</title>
-    <updated>2024-08-02T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Blaualgen-im-Neuen-Teich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67894.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2024-08-02T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Die Verbraucherzentrale rät: Richtig trinken im Sommer</title>
-    <updated>2024-08-13T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2024-08-13T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Innenr%C3%A4ume-an-hei%C3%9Fen-Tagen-k%C3%BChl-halten.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67978.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Innenräume an heißen Tagen kühl halten</title>
-    <updated>2024-08-21T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Innenr%C3%A4ume-an-hei%C3%9Fen-Tagen-k%C3%BChl-halten.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67978.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2024-08-21T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Leib-sches-Haus-schlie%C3%9Ft-bis-voraussichtlich-Sommer-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.12511.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Leib'sches Haus schließt bis voraussichtlich Sommer 2025</title>
-    <updated>2021-07-16T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Leib-sches-Haus-schlie%C3%9Ft-bis-voraussichtlich-Sommer-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.12511.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2021-07-16T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Wegen-Umbau-des-Oberhessischen-Museums-schlie%C3%9Ft-auch-das-Wallenfels-sche-Haus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16033.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Wegen Umbau des Oberhessischen Museums schließt auch das Wallenfels'sche Haus</title>
-    <updated>2022-01-17T00:00:00+01:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Wegen-Umbau-des-Oberhessischen-Museums-schlie%C3%9Ft-auch-das-Wallenfels-sche-Haus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16033.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2022-01-17T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Oberhessisches-Museum-wird-Teil-von-museum4punkt0.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.17729.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Oberhessisches Museum wird Teil von museum4punkt0</title>
-    <updated>2022-05-02T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Oberhessisches-Museum-wird-Teil-von-museum4punkt0.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.17729.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2022-05-02T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Stadtgeschichte virtuell und lebendig: digitaler Audiowalk</title>
-    <updated>2023-04-14T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2023-04-14T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/museum4punkt0-vor-erfolgreichem-Abschluss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58346.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>museum4punkt0 vor erfolgreichem Abschluss</title>
-    <updated>2023-05-04T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/museum4punkt0-vor-erfolgreichem-Abschluss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58346.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2023-05-04T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/1975-Revisited-Gie%C3%9Fen-und-das-Jahr-der-Frau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58347.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>1975 Revisited. Gießen und das Jahr der Frau</title>
-    <updated>2023-05-04T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/1975-Revisited-Gie%C3%9Fen-und-das-Jahr-der-Frau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58347.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2023-05-04T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Die VideoBox - erzähle von deinem Gießen</title>
-    <updated>2023-06-06T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2023-06-06T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Beginn der Bauarbeiten am Oberhessischen Museum</title>
-    <updated>2024-09-17T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Beginn-der-Bauarbeiten-am-Oberhessischen-Museum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68111.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2024-09-17T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_10700_1.PDF?1728033444</id>
-    <title>3. Ankündigung von Baugrunduntersuchungen für die Trassenplanung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
-    <updated>2024-10-16T01:08:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_10700_1.PDF?1728033444"/>
-    <published>2024-10-16T01:08:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11553_1.PDF?1732609795</id>
-    <title>Nachrücker für die Stadtverordnetenversammlung</title>
-    <updated>2024-11-27T01:13:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11553_1.PDF?1732609795"/>
-    <published>2024-11-27T01:13:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11565_1.PDF?1732797116</id>
-    <title>Bekanntmachung der geprüften Jahresabschlüsse 2019 und 2020</title>
-    <updated>2024-11-30T01:11:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11565_1.PDF?1732797116"/>
-    <published>2024-11-30T01:11:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11581_1.PDF?1733138209</id>
-    <title>Nachrücker für die Stadtverordnetenversammlung</title>
-    <updated>2024-12-03T01:14:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11581_1.PDF?1733138209"/>
-    <published>2024-12-03T01:14:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
-    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
-    <updated>2024-12-07T01:13:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
-    <published>2024-12-07T01:13:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11607_1.PDF?1733317424</id>
-    <title>Nachruf Dr. Sigurd Beyer</title>
-    <updated>2024-12-07T01:13:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11607_1.PDF?1733317424"/>
-    <published>2024-12-07T01:13:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11605_1.PDF?1733310474</id>
-    <title>Planfeststellungsverfahren nach § 33 ff. Hessisches Straßengesetz (HStrG) in Verbindung mit §§ 72 ff. Hessisches Verwaltungsverfahrensgesetz (HVwVfG) - Lahnstraße</title>
-    <updated>2024-12-07T01:13:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11605_1.PDF?1733310474"/>
-    <published>2024-12-07T01:13:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11580_1.PDF?1733133426</id>
-    <title>Sport in der City 2025 - Freigabe der Öffnung von Verkaufsstellen aus Anlass von Märkten, örtlichen Festen oder ähn-lichen Veranstaltungen gemäß § 6 des Hessischen Ladenöffnungsgesetzes (HLöG)</title>
-    <updated>2024-12-07T01:13:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
-    <published>2024-12-07T01:13:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/</id>
     <title>Über Hoffnung und falsche Versprechen - Die Regisseur*innen Amelie von Godin und Constantin Hochkepp...</title>
     <updated>2024-11-12T13:21:48+01:00</updated>
@@ -510,13 +284,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/open-call-fur-videokunstler-innen/</id>
     <title>Open Call für Videokünstler*innen - Für seine ATW - Masterinszenierung „Polska Sztuka*“ am Stadt...</title>
-    <updated>2024-12-10T14:03:59.709553+01:00</updated>
+    <updated>2024-12-10T14:03:59+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/open-call-fur-videokunstler-innen/"/>
-    <published>2024-12-10T14:03:59.709553+01:00</published>
+    <published>2024-12-10T14:03:59+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/</id>
