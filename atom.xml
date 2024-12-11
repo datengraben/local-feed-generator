@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-11T12:06:29.075701+00:00</updated>
+  <updated>2024-12-11T17:04:01.723272+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -453,17 +453,6 @@
     <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/</id>
-    <title>Über Hoffnung und falsche Versprechen - Die Regisseur*innen Amelie von Godin und Constantin Hochkepp...</title>
-    <updated>2024-11-12T13:21:48+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/"/>
-    <published>2024-11-12T13:21:48+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/open-call-for-next-season/</id>
     <title>Open call for next season - The dance ensemble at Stadttheater Gießen is looking for two...</title>
     <updated>2024-11-20T12:31:01+01:00</updated>
@@ -539,6 +528,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-fremder-halt/"/>
     <published>2024-11-27T16:19:21+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/selbstbesessenheit-und-chaotische-energie/</id>
+    <title>Selbstbesessenheit und chaotische Energie - Vier Fragen an die Komponistin Raquel García-Tomás zu ihrer ...</title>
+    <updated>2024-12-11T17:03:50.346804+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/selbstbesessenheit-und-chaotische-energie/"/>
+    <published>2024-12-11T17:03:50.346804+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/</id>
