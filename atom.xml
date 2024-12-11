@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-10T17:04:04.023416+00:00</updated>
+  <updated>2024-12-11T12:06:29.075701+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -563,17 +563,6 @@
     <published>2024-11-26T15:16:38+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-linien-1-und-17</id>
-    <title>Umleitung für die Linien 1 und 17</title>
-    <updated>2024-10-31T00:00:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-linien-1-und-17"/>
-    <published>2024-10-31T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/photovoltaik-fuer-staedtische-liegenschaften</id>
     <title>Photovoltaik für städtische Liegenschaften</title>
     <updated>2024-11-12T00:00:00+01:00</updated>
@@ -693,5 +682,16 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/buslinie-10-wird-umgeleitet"/>
     <published>2024-12-06T12:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/stromsparen-leicht-gemacht</id>
+    <title>Stromsparen leicht gemacht</title>
+    <updated>2024-12-11T12:06:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/stromsparen-leicht-gemacht"/>
+    <published>2024-12-11T12:06:00+01:00</published>
   </entry>
 </feed>
