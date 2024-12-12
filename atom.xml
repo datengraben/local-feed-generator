@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-11T17:04:01.723272+00:00</updated>
+  <updated>2024-12-12T14:04:25.884096+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -409,28 +409,6 @@
     <published>2024-12-03T17:03:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
-    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
-    <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11607_1.PDF?1733317424</id>
-    <title>Nachruf Dr. Sigurd Beyer</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11607_1.PDF?1733317424"/>
-    <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11605_1.PDF?1733310474</id>
     <title>Planfeststellungsverfahren nach § 33 ff. Hessisches Straßengesetz (HStrG) in Verbindung mit §§ 72 ff. Hessisches Verwaltungsverfahrensgesetz (HVwVfG) - Lahnstraße</title>
     <updated>2024-12-07T17:03:00+01:00</updated>
@@ -450,6 +428,28 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
+    <published>2024-12-07T17:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
+    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
+    <updated>2024-12-07T17:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
+    <published>2024-12-07T17:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11607_1.PDF?1733317424</id>
+    <title>Nachruf Dr. Sigurd Beyer</title>
+    <updated>2024-12-07T17:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11607_1.PDF?1733317424"/>
     <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
@@ -532,13 +532,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/selbstbesessenheit-und-chaotische-energie/</id>
     <title>Selbstbesessenheit und chaotische Energie - Vier Fragen an die Komponistin Raquel García-Tomás zu ihrer ...</title>
-    <updated>2024-12-11T17:03:50.346804+01:00</updated>
+    <updated>2024-12-11T17:03:50+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/selbstbesessenheit-und-chaotische-energie/"/>
-    <published>2024-12-11T17:03:50.346804+01:00</published>
+    <published>2024-12-11T17:03:50+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/</id>
@@ -561,17 +561,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/es-steht-uns-zu-zuversichtlich-zu-sein/"/>
     <published>2024-11-26T15:16:38+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/photovoltaik-fuer-staedtische-liegenschaften</id>
-    <title>Photovoltaik für städtische Liegenschaften</title>
-    <updated>2024-11-12T00:00:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/photovoltaik-fuer-staedtische-liegenschaften"/>
-    <published>2024-11-12T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/ein-lieblingsbusfahrer-kommt-aus-giessen</id>
@@ -693,5 +682,16 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/stromsparen-leicht-gemacht"/>
     <published>2024-12-11T12:06:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/neuer-fahrplan-ab-dem-3-advent</id>
+    <title>Neuer Fahrplan ab dem 3. Advent</title>
+    <updated>2024-12-12T14:04:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/neuer-fahrplan-ab-dem-3-advent"/>
+    <published>2024-12-12T14:04:00+01:00</published>
   </entry>
 </feed>
