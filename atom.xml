@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-14T01:31:38.942984+00:00</updated>
+  <updated>2024-12-14T23:04:13.797477+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -387,17 +387,6 @@
     <published>2024-11-27T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11565_1.PDF?1732797116</id>
-    <title>Bekanntmachung der geprüften Jahresabschlüsse 2019 und 2020</title>
-    <updated>2024-11-30T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11565_1.PDF?1732797116"/>
-    <published>2024-11-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11581_1.PDF?1733138209</id>
     <title>Nachrücker für die Stadtverordnetenversammlung</title>
     <updated>2024-12-03T17:03:00+01:00</updated>
@@ -407,17 +396,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_11581_1.PDF?1733138209"/>
     <published>2024-12-03T17:03:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11580_1.PDF?1733133426</id>
-    <title>Sport in der City 2025 - Freigabe der Öffnung von Verkaufsstellen aus Anlass von Märkten, örtlichen Festen oder ähn-lichen Veranstaltungen gemäß § 6 des Hessischen Ladenöffnungsgesetzes (HLöG)</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
-    <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
@@ -450,6 +428,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11605_1.PDF?1733310474"/>
+    <published>2024-12-07T17:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11580_1.PDF?1733133426</id>
+    <title>Sport in der City 2025 - Freigabe der Öffnung von Verkaufsstellen aus Anlass von Märkten, örtlichen Festen oder ähn-lichen Veranstaltungen gemäß § 6 des Hessischen Ladenöffnungsgesetzes (HLöG)</title>
+    <updated>2024-12-07T17:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
     <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
