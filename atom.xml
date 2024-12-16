@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-16T12:06:58.632644+00:00</updated>
+  <updated>2024-12-16T16:04:49.018218+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -398,6 +398,17 @@
     <published>2024-12-03T17:03:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
+    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
+    <updated>2024-12-07T17:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
+    <published>2024-12-07T17:03:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_11607_1.PDF?1733317424</id>
     <title>Nachruf Dr. Sigurd Beyer</title>
     <updated>2024-12-07T17:03:00+01:00</updated>
@@ -428,17 +439,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
-    <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
-    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
     <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
@@ -475,26 +475,15 @@
     <published>2024-12-14T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/open-call-for-next-season/</id>
-    <title>Open call for next season - The dance ensemble at Stadttheater Gießen is looking for two...</title>
-    <updated>2024-11-20T12:31:01+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/</id>
+    <title>Über Hoffnung und falsche Versprechen - Die Regisseur*innen Amelie von Godin und Constantin Hochkepp...</title>
+    <updated>2024-12-16T16:04:37.423407+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/open-call-for-next-season/"/>
-    <published>2024-11-20T12:31:01+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 23. Dezember - Letzte Gelegenheit: Wir spielen das Stück „Der Staat gegen F...</title>
-    <updated>2024-07-28T09:14:39+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2024-07-28T09:14:39+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/"/>
+    <published>2024-12-16T16:04:37.423407+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zoras-traume-brauchen-raume/</id>
@@ -530,17 +519,6 @@
     <published>2024-12-10T14:03:59+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/</id>
-    <title>Audition Call: Rehearsal Director &amp; Choreographic Assistant (m/f/x) - The dance ensemble at Stadttheater Gießen is looking for a r...</title>
-    <updated>2024-12-04T15:16:57+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/"/>
-    <published>2024-12-04T15:16:57+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-fremder-halt/</id>
     <title>Ein Fremder halt - Unsere konzertante Oper "Arabella" entführt Sie in...</title>
     <updated>2024-11-27T16:19:21+01:00</updated>
@@ -550,6 +528,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-fremder-halt/"/>
     <published>2024-11-27T16:19:21+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 23. Dezember - Letzte Gelegenheit: Wir spielen das Stück „Der Staat gegen F...</title>
+    <updated>2024-07-28T09:14:39+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2024-07-28T09:14:39+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/selbstbesessenheit-und-chaotische-energie/</id>
@@ -563,6 +552,17 @@
     <published>2024-12-11T17:03:50+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/</id>
+    <title>Audition Call: Rehearsal Director &amp; Choreographic Assistant (m/f/x) - The dance ensemble at Stadttheater Gießen is looking for a r...</title>
+    <updated>2024-12-04T15:16:57+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/"/>
+    <published>2024-12-04T15:16:57+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/</id>
     <title>Unsere Weihnachtsangebote - Weihnachtssocken, Weihnachtsabos und vieles mehr für ein Wei...</title>
     <updated>2024-11-25T13:25:10+01:00</updated>
@@ -574,15 +574,15 @@
     <published>2024-11-25T13:25:10+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/es-steht-uns-zu-zuversichtlich-zu-sein/</id>
-    <title>Es steht uns zu, zuversichtlich zu sein. - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2024-11-26T15:16:38+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/hauptsache-zusammen/</id>
+    <title>Hauptsache zusammen. - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
+    <updated>2024-12-16T16:04:37.423407+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/es-steht-uns-zu-zuversichtlich-zu-sein/"/>
-    <published>2024-11-26T15:16:38+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/hauptsache-zusammen/"/>
+    <published>2024-12-16T16:04:37.423407+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/die-naechste-stufe-der-energieberatung</id>
