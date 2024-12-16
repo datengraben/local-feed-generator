@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-14T23:04:13.797477+00:00</updated>
+  <updated>2024-12-16T12:06:58.632644+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -398,17 +398,6 @@
     <published>2024-12-03T17:03:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
-    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
-    <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11607_1.PDF?1733317424</id>
     <title>Nachruf Dr. Sigurd Beyer</title>
     <updated>2024-12-07T17:03:00+01:00</updated>
@@ -439,6 +428,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
+    <published>2024-12-07T17:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
+    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
+    <updated>2024-12-07T17:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
     <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
@@ -585,17 +585,6 @@
     <published>2024-11-26T15:16:38+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/ein-lieblingsbusfahrer-kommt-aus-giessen</id>
-    <title>Ein Lieblingsbusfahrer kommt aus Gießen</title>
-    <updated>2024-11-12T00:00:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/ein-lieblingsbusfahrer-kommt-aus-giessen"/>
-    <published>2024-11-12T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/die-naechste-stufe-der-energieberatung</id>
     <title>Die nächste Stufe der Energieberatung</title>
     <updated>2024-11-13T00:00:00+01:00</updated>
@@ -715,5 +704,16 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/neuer-fahrplan-ab-dem-3-advent"/>
     <published>2024-12-12T14:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/linien-800-und-802-werden-umgeleitet-1</id>
+    <title>Linien 800 und 802 werden umgeleitet</title>
+    <updated>2024-12-16T12:06:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/linien-800-und-802-werden-umgeleitet-1"/>
+    <published>2024-12-16T12:06:00+01:00</published>
   </entry>
 </feed>
