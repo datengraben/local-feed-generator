@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-16T16:04:49.018218+00:00</updated>
+  <updated>2024-12-17T12:06:30.820502+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -398,17 +398,6 @@
     <published>2024-12-03T17:03:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
-    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
-    <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11607_1.PDF?1733317424</id>
     <title>Nachruf Dr. Sigurd Beyer</title>
     <updated>2024-12-07T17:03:00+01:00</updated>
@@ -439,6 +428,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
+    <published>2024-12-07T17:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
+    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
+    <updated>2024-12-07T17:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
     <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
@@ -477,13 +477,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/</id>
     <title>Über Hoffnung und falsche Versprechen - Die Regisseur*innen Amelie von Godin und Constantin Hochkepp...</title>
-    <updated>2024-12-16T16:04:37.423407+01:00</updated>
+    <updated>2024-12-16T16:04:37+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/"/>
-    <published>2024-12-16T16:04:37.423407+01:00</published>
+    <published>2024-12-16T16:04:37+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zoras-traume-brauchen-raume/</id>
@@ -576,24 +576,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/hauptsache-zusammen/</id>
     <title>Hauptsache zusammen. - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2024-12-16T16:04:37.423407+01:00</updated>
+    <updated>2024-12-16T16:04:37+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/hauptsache-zusammen/"/>
-    <published>2024-12-16T16:04:37.423407+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/die-naechste-stufe-der-energieberatung</id>
-    <title>Die nächste Stufe der Energieberatung</title>
-    <updated>2024-11-13T00:00:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/die-naechste-stufe-der-energieberatung"/>
-    <published>2024-11-13T00:00:00+01:00</published>
+    <published>2024-12-16T16:04:37+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/nur-minimale-einschraenkung-wegen-ampelausfall</id>
@@ -715,5 +704,16 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/linien-800-und-802-werden-umgeleitet-1"/>
     <published>2024-12-16T12:06:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/mtv-und-stadtwerke-kooperieren-weiter</id>
+    <title>MTV und Stadtwerke kooperieren weiter</title>
+    <updated>2024-12-17T12:06:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/mtv-und-stadtwerke-kooperieren-weiter"/>
+    <published>2024-12-17T12:06:00+01:00</published>
   </entry>
 </feed>
