@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-17T15:04:30.009646+00:00</updated>
+  <updated>2024-12-18T01:31:53.405606+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -398,6 +398,17 @@
     <published>2024-12-03T17:03:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
+    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
+    <updated>2024-12-07T17:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
+    <published>2024-12-07T17:03:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_11607_1.PDF?1733317424</id>
     <title>Nachruf Dr. Sigurd Beyer</title>
     <updated>2024-12-07T17:03:00+01:00</updated>
@@ -428,17 +439,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
-    <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
-    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
     <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
@@ -473,6 +473,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_11643_1.PDF?1733927706"/>
     <published>2024-12-14T01:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11669_1.PDF?1734430511</id>
+    <title>Neues Mitglied im Ortsbeirat Gießen-Rödgen</title>
+    <updated>2024-12-18T01:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11669_1.PDF?1734430511"/>
+    <published>2024-12-18T01:31:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zoras-traume-brauchen-raume/</id>
@@ -544,13 +555,13 @@
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/sich-auf-den-weg-machen-ohne-sich-zu-verirren/</id>
     <title>Sich auf den Weg machen, ohne sich zu verirren - Ein Probentagebuch zu „Etudes“ von Max Levy
 Von Eszter Sonne...</title>
-    <updated>2024-12-17T15:04:18.380110+01:00</updated>
+    <updated>2024-12-17T15:04:18+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/sich-auf-den-weg-machen-ohne-sich-zu-verirren/"/>
-    <published>2024-12-17T15:04:18.380110+01:00</published>
+    <published>2024-12-17T15:04:18+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/</id>
