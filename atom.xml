@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-18T01:31:53.405606+00:00</updated>
+  <updated>2024-12-19T12:06:36.909651+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -597,17 +597,6 @@ Von Eszter Sonne...</title>
     <published>2024-12-16T16:04:37+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/nur-minimale-einschraenkung-wegen-ampelausfall</id>
-    <title>Nur minimale Einschränkung wegen Ampelausfall</title>
-    <updated>2024-11-14T00:00:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/nur-minimale-einschraenkung-wegen-ampelausfall"/>
-    <published>2024-11-14T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/wie-lueften-das-heizen-effizienter-macht</id>
     <title>Wie lüften das Heizen effizienter macht</title>
     <updated>2024-11-19T15:14:00+01:00</updated>
@@ -727,5 +716,16 @@ Von Eszter Sonne...</title>
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/mtv-und-stadtwerke-kooperieren-weiter"/>
     <published>2024-12-17T12:06:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/neue-preise-im-nahverkehr</id>
+    <title>Neue Preise im Nahverkehr</title>
+    <updated>2024-12-19T12:06:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/neue-preise-im-nahverkehr"/>
+    <published>2024-12-19T12:06:00+01:00</published>
   </entry>
 </feed>
