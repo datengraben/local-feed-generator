@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-19T16:04:34.666653+00:00</updated>
+  <updated>2024-12-20T13:07:44.337476+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -486,17 +486,6 @@
     <published>2024-12-18T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zoras-traume-brauchen-raume/</id>
-    <title>„Zoras Träume brauchen Räume“ - Anna Huberta Präg, Darstellerin der Zora, im Gespräch über i...</title>
-    <updated>2024-11-22T12:30:07+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zoras-traume-brauchen-raume/"/>
-    <published>2024-11-22T12:30:07+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/</id>
     <title>Deutscher Bühnenverein protestiert gegen die drastischen Kürzungen im Berliner Kulturhaushalt und fordert die Verantwortlichen zum Diskurs auf Augenhöhe auf - Kultur darf nicht weggespart werden. Als Stadttheater Gießen...</title>
     <updated>2024-11-28T15:16:06+01:00</updated>
@@ -541,6 +530,17 @@
     <published>2024-12-11T17:03:50+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/</id>
+    <title>Audition Call: Rehearsal Director &amp; Choreographic Assistant (m/f/x) - The dance ensemble at Stadttheater Gießen is looking for a r...</title>
+    <updated>2024-12-04T15:16:57+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/"/>
+    <published>2024-12-04T15:16:57+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/sich-auf-den-weg-machen-ohne-sich-zu-verirren/</id>
     <title>Sich auf den Weg machen, ohne sich zu verirren - Ein Probentagebuch zu „Etudes“ von Max Levy | Von Eszter Son...</title>
     <updated>2024-12-17T15:04:18+01:00</updated>
@@ -552,15 +552,15 @@
     <published>2024-12-17T15:04:18+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/</id>
-    <title>Audition Call: Rehearsal Director &amp; Choreographic Assistant (m/f/x) - The dance ensemble at Stadttheater Gießen is looking for a r...</title>
-    <updated>2024-12-04T15:16:57+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/schnupper-proben-beim-kinder-und-jugendchor/</id>
+    <title>Schnupper-Proben beim Kinder- und Jugendchor - Lernt den Chor und die Chorleiterin Franziska de Gilde kenne...</title>
+    <updated>2024-12-20T13:07:30.134625+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/"/>
-    <published>2024-12-04T15:16:57+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schnupper-proben-beim-kinder-und-jugendchor/"/>
+    <published>2024-12-20T13:07:30.134625+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
