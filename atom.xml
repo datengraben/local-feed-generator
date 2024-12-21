@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-21T01:31:23.707213+00:00</updated>
+  <updated>2024-12-21T23:03:43.630263+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -409,17 +409,6 @@
     <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11607_1.PDF?1733317424</id>
-    <title>Nachruf Dr. Sigurd Beyer</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11607_1.PDF?1733317424"/>
-    <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11605_1.PDF?1733310474</id>
     <title>Planfeststellungsverfahren nach § 33 ff. Hessisches Straßengesetz (HStrG) in Verbindung mit §§ 72 ff. Hessisches Verwaltungsverfahrensgesetz (HVwVfG) - Lahnstraße</title>
     <updated>2024-12-07T17:03:00+01:00</updated>
@@ -486,17 +475,6 @@
     <published>2024-12-18T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11668_1.PDF?1734430328</id>
-    <title>Änderung der Wochenmarktverkaufszeiten</title>
-    <updated>2024-12-21T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11668_1.PDF?1734430328"/>
-    <published>2024-12-21T01:31:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11667_1.PDF?1734430178</id>
     <title>5. Satzung zur Änderung der Feuerwehrsatzung der Universitätsstadt Gießen</title>
     <updated>2024-12-21T01:31:00+01:00</updated>
@@ -527,6 +505,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11670_1.PDF?1734431280"/>
+    <published>2024-12-21T01:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11668_1.PDF?1734430328</id>
+    <title>Änderung der Wochenmarktverkaufszeiten</title>
+    <updated>2024-12-21T01:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11668_1.PDF?1734430328"/>
     <published>2024-12-21T01:31:00+01:00</published>
   </entry>
   <entry>
