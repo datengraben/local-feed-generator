@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-21T23:03:43.630263+00:00</updated>
+  <updated>2024-12-23T15:04:18.992677+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -398,6 +398,17 @@
     <published>2024-12-03T17:03:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_11580_1.PDF?1733133426</id>
+    <title>Sport in der City 2025 - Freigabe der Öffnung von Verkaufsstellen aus Anlass von Märkten, örtlichen Festen oder ähn-lichen Veranstaltungen gemäß § 6 des Hessischen Ladenöffnungsgesetzes (HLöG)</title>
+    <updated>2024-12-07T17:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
+    <published>2024-12-07T17:03:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
     <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
     <updated>2024-12-07T17:03:00+01:00</updated>
@@ -417,17 +428,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11605_1.PDF?1733310474"/>
-    <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11580_1.PDF?1733133426</id>
-    <title>Sport in der City 2025 - Freigabe der Öffnung von Verkaufsstellen aus Anlass von Märkten, örtlichen Festen oder ähn-lichen Veranstaltungen gemäß § 6 des Hessischen Ladenöffnungsgesetzes (HLöG)</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
     <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
@@ -475,17 +475,6 @@
     <published>2024-12-18T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11667_1.PDF?1734430178</id>
-    <title>5. Satzung zur Änderung der Feuerwehrsatzung der Universitätsstadt Gießen</title>
-    <updated>2024-12-21T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11667_1.PDF?1734430178"/>
-    <published>2024-12-21T01:31:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11681_1.PDF?1734623222</id>
     <title>Bauleitplanung: Erlass des Bebauungsplanes WI 06/11 "Sportzentrum Wieseck am Ried"</title>
     <updated>2024-12-21T01:31:00+01:00</updated>
@@ -519,15 +508,15 @@
     <published>2024-12-21T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/</id>
-    <title>Deutscher Bühnenverein protestiert gegen die drastischen Kürzungen im Berliner Kulturhaushalt und fordert die Verantwortlichen zum Diskurs auf Augenhöhe auf - Kultur darf nicht weggespart werden. Als Stadttheater Gießen...</title>
-    <updated>2024-11-28T15:16:06+01:00</updated>
+    <id>http://giessen.de/media/custom/2874_11667_1.PDF?1734430178</id>
+    <title>5. Satzung zur Änderung der Feuerwehrsatzung der Universitätsstadt Gießen</title>
+    <updated>2024-12-21T01:31:00+01:00</updated>
     <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/"/>
-    <published>2024-11-28T15:16:06+01:00</published>
+    <link href="http://giessen.de/media/custom/2874_11667_1.PDF?1734430178"/>
+    <published>2024-12-21T01:31:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/open-calls-fur-die-masterinszenierung-polska-sztuka/</id>
@@ -594,6 +583,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schnupper-proben-beim-kinder-und-jugendchor/"/>
     <published>2024-12-20T13:07:30+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/</id>
+    <title>„Jede Variation erzählt eine eigene Geschichte“ - Der Choreograf Max Levy im Gespräch mit der Dramaturgin Caro...</title>
+    <updated>2024-12-23T15:04:04.308953+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/"/>
+    <published>2024-12-23T15:04:04.308953+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
