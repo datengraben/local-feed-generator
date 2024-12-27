@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-26T08:05:18.539324+00:00</updated>
+  <updated>2024-12-27T12:06:21.811995+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -398,17 +398,6 @@
     <published>2024-12-03T17:03:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
-    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
-    <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11605_1.PDF?1733310474</id>
     <title>Planfeststellungsverfahren nach § 33 ff. Hessisches Straßengesetz (HStrG) in Verbindung mit §§ 72 ff. Hessisches Verwaltungsverfahrensgesetz (HVwVfG) - Lahnstraße</title>
     <updated>2024-12-07T17:03:00+01:00</updated>
@@ -428,6 +417,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
+    <published>2024-12-07T17:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
+    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
+    <updated>2024-12-07T17:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
     <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
@@ -475,6 +475,28 @@
     <published>2024-12-18T01:31:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_11681_1.PDF?1734623222</id>
+    <title>Bauleitplanung: Erlass des Bebauungsplanes WI 06/11 "Sportzentrum Wieseck am Ried"</title>
+    <updated>2024-12-21T01:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11681_1.PDF?1734623222"/>
+    <published>2024-12-21T01:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11670_1.PDF?1734431280</id>
+    <title>3. Satzung zur Änderung der Satzung über den Gießen-Pass</title>
+    <updated>2024-12-21T01:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11670_1.PDF?1734431280"/>
+    <published>2024-12-21T01:31:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_11668_1.PDF?1734430328</id>
     <title>Änderung der Wochenmarktverkaufszeiten</title>
     <updated>2024-12-21T01:31:00+01:00</updated>
@@ -497,26 +519,15 @@
     <published>2024-12-21T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11681_1.PDF?1734623222</id>
-    <title>Bauleitplanung: Erlass des Bebauungsplanes WI 06/11 "Sportzentrum Wieseck am Ried"</title>
-    <updated>2024-12-21T01:31:00+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/</id>
+    <title>Deutscher Bühnenverein protestiert gegen die drastischen Kürzungen im Berliner Kulturhaushalt und fordert die Verantwortlichen zum Diskurs auf Augenhöhe auf - Kultur darf nicht weggespart werden. Als Stadttheater Gießen...</title>
+    <updated>2024-12-27T12:06:06.921819+01:00</updated>
     <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://giessen.de/media/custom/2874_11681_1.PDF?1734623222"/>
-    <published>2024-12-21T01:31:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11670_1.PDF?1734431280</id>
-    <title>3. Satzung zur Änderung der Satzung über den Gießen-Pass</title>
-    <updated>2024-12-21T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11670_1.PDF?1734431280"/>
-    <published>2024-12-21T01:31:00+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/"/>
+    <published>2024-12-27T12:06:06.921819+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-fremder-halt/</id>
@@ -605,17 +616,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/"/>
     <published>2024-12-23T15:04:04+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/</id>
-    <title>Unsere Weihnachtsangebote - Weihnachtssocken, Weihnachtsabos und vieles mehr für ein Wei...</title>
-    <updated>2024-11-25T13:25:10+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/"/>
-    <published>2024-11-25T13:25:10+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/hauptsache-zusammen/</id>
