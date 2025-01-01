@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2024-12-28T23:04:02.217262+00:00</updated>
+  <updated>2025-01-01T00:17:14.207730+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -464,17 +464,6 @@
     <published>2024-12-18T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11681_1.PDF?1734623222</id>
-    <title>Bauleitplanung: Erlass des Bebauungsplanes WI 06/11 "Sportzentrum Wieseck am Ried"</title>
-    <updated>2024-12-21T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11681_1.PDF?1734623222"/>
-    <published>2024-12-21T01:31:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11670_1.PDF?1734431280</id>
     <title>3. Satzung zur Änderung der Satzung über den Gießen-Pass</title>
     <updated>2024-12-21T01:31:00+01:00</updated>
@@ -505,6 +494,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11667_1.PDF?1734430178"/>
+    <published>2024-12-21T01:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11681_1.PDF?1734623222</id>
+    <title>Bauleitplanung: Erlass des Bebauungsplanes WI 06/11 "Sportzentrum Wieseck am Ried"</title>
+    <updated>2024-12-21T01:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11681_1.PDF?1734623222"/>
     <published>2024-12-21T01:31:00+01:00</published>
   </entry>
   <entry>
@@ -616,137 +616,5 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/hauptsache-zusammen/"/>
     <published>2024-12-16T16:04:37+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/die-swg-geben-antworten</id>
-    <title>Die SWG geben Antworten</title>
-    <updated>2024-11-22T15:14:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/die-swg-geben-antworten"/>
-    <published>2024-11-22T15:14:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stabile-energiepreise-auch-nach-dem-jahreswechsel</id>
-    <title>Stabile Energiepreise auch nach dem Jahreswechsel</title>
-    <updated>2024-11-27T12:31:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stabile-energiepreise-auch-nach-dem-jahreswechsel"/>
-    <published>2024-11-27T12:31:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/swg-und-mittelhessen-cup</id>
-    <title>SWG und Mittelhessen-Cup</title>
-    <updated>2024-11-28T12:32:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-und-mittelhessen-cup"/>
-    <published>2024-11-28T12:32:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/umleitungen-fuer-die-linien-3-13-und-802</id>
-    <title>Umleitungen für die Linien 3, 13 und 802</title>
-    <updated>2024-12-02T15:16:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/umleitungen-fuer-die-linien-3-13-und-802"/>
-    <published>2024-12-02T15:16:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/fuer-die-zukunft-lernen</id>
-    <title>Für die Zukunft lernen</title>
-    <updated>2024-12-05T14:15:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/fuer-die-zukunft-lernen"/>
-    <published>2024-12-05T14:15:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/buslinie-10-wird-umgeleitet</id>
-    <title>Buslinie 10 wird umgeleitet</title>
-    <updated>2024-12-06T12:31:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/buslinie-10-wird-umgeleitet"/>
-    <published>2024-12-06T12:31:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stromsparen-leicht-gemacht</id>
-    <title>Stromsparen leicht gemacht</title>
-    <updated>2024-12-11T12:06:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stromsparen-leicht-gemacht"/>
-    <published>2024-12-11T12:06:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/neuer-fahrplan-ab-dem-3-advent</id>
-    <title>Neuer Fahrplan ab dem 3. Advent</title>
-    <updated>2024-12-12T14:04:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/neuer-fahrplan-ab-dem-3-advent"/>
-    <published>2024-12-12T14:04:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/linien-800-und-802-werden-umgeleitet-1</id>
-    <title>Linien 800 und 802 werden umgeleitet</title>
-    <updated>2024-12-16T12:06:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/linien-800-und-802-werden-umgeleitet-1"/>
-    <published>2024-12-16T12:06:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/mtv-und-stadtwerke-kooperieren-weiter</id>
-    <title>MTV und Stadtwerke kooperieren weiter</title>
-    <updated>2024-12-17T12:06:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/mtv-und-stadtwerke-kooperieren-weiter"/>
-    <published>2024-12-17T12:06:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/neue-preise-im-nahverkehr</id>
-    <title>Neue Preise im Nahverkehr</title>
-    <updated>2024-12-19T12:06:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/neue-preise-im-nahverkehr"/>
-    <published>2024-12-19T12:06:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/mit-dem-bus-zum-fest</id>
-    <title>  Mit dem Bus zum Fest</title>
-    <updated>2024-12-19T16:04:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/mit-dem-bus-zum-fest"/>
-    <published>2024-12-19T16:04:00+01:00</published>
   </entry>
 </feed>
