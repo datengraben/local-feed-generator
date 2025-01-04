@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-03T23:04:16.074385+00:00</updated>
+  <updated>2025-01-04T01:31:28.921634+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -420,17 +420,6 @@
     <published>2024-12-13T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11643_1.PDF?1733927706</id>
-    <title>4. Satzung zur Änderung der Abwassersatzung</title>
-    <updated>2024-12-14T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11643_1.PDF?1733927706"/>
-    <published>2024-12-14T01:31:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11644_1.PDF?1733927897</id>
     <title>4. Satzung zur Änderung der Wasserversorgungssatzung</title>
     <updated>2024-12-14T01:31:00+01:00</updated>
@@ -439,6 +428,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11644_1.PDF?1733927897"/>
+    <published>2024-12-14T01:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11643_1.PDF?1733927706</id>
+    <title>4. Satzung zur Änderung der Abwassersatzung</title>
+    <updated>2024-12-14T01:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11643_1.PDF?1733927706"/>
     <published>2024-12-14T01:31:00+01:00</published>
   </entry>
   <entry>
@@ -495,6 +495,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_11667_1.PDF?1734430178"/>
     <published>2024-12-21T01:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11711_1.PDF?1735895538</id>
+    <title>Neues Mitglied im Ausländerbeirat</title>
+    <updated>2025-01-04T01:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11711_1.PDF?1735895538"/>
+    <published>2025-01-04T01:31:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/</id>
