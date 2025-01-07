@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-07T16:17:08.287373+00:00</updated>
+  <updated>2025-01-07T23:03:53.255190+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -374,17 +374,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_10700_1.PDF?1728033444"/>
     <published>2024-10-16T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11580_1.PDF?1733133426</id>
-    <title>Sport in der City 2025 - Freigabe der Öffnung von Verkaufsstellen aus Anlass von Märkten, örtlichen Festen oder ähn-lichen Veranstaltungen gemäß § 6 des Hessischen Ladenöffnungsgesetzes (HLöG)</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
-    <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
