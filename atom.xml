@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-07T14:56:01.213494+00:00</updated>
+  <updated>2025-01-07T16:17:08.287373+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -376,6 +376,17 @@
     <published>2024-10-16T00:00:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_11580_1.PDF?1733133426</id>
+    <title>Sport in der City 2025 - Freigabe der Öffnung von Verkaufsstellen aus Anlass von Märkten, örtlichen Festen oder ähn-lichen Veranstaltungen gemäß § 6 des Hessischen Ladenöffnungsgesetzes (HLöG)</title>
+    <updated>2024-12-07T17:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
+    <published>2024-12-07T17:03:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
     <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
     <updated>2024-12-07T17:03:00+01:00</updated>
@@ -395,17 +406,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11605_1.PDF?1733310474"/>
-    <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11580_1.PDF?1733133426</id>
-    <title>Sport in der City 2025 - Freigabe der Öffnung von Verkaufsstellen aus Anlass von Märkten, örtlichen Festen oder ähn-lichen Veranstaltungen gemäß § 6 des Hessischen Ladenöffnungsgesetzes (HLöG)</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11580_1.PDF?1733133426"/>
     <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
@@ -453,6 +453,17 @@
     <published>2024-12-18T01:31:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_11681_1.PDF?1734623222</id>
+    <title>Bauleitplanung: Erlass des Bebauungsplanes WI 06/11 "Sportzentrum Wieseck am Ried"</title>
+    <updated>2024-12-21T01:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11681_1.PDF?1734623222"/>
+    <published>2024-12-21T01:31:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_11670_1.PDF?1734431280</id>
     <title>3. Satzung zur Änderung der Satzung über den Gießen-Pass</title>
     <updated>2024-12-21T01:31:00+01:00</updated>
@@ -472,17 +483,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11667_1.PDF?1734430178"/>
-    <published>2024-12-21T01:31:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11681_1.PDF?1734623222</id>
-    <title>Bauleitplanung: Erlass des Bebauungsplanes WI 06/11 "Sportzentrum Wieseck am Ried"</title>
-    <updated>2024-12-21T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11681_1.PDF?1734623222"/>
     <published>2024-12-21T01:31:00+01:00</published>
   </entry>
   <entry>
@@ -660,5 +660,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%A4hlerverzeichnisse-f%C3%BCr-die-Bundestagswahl-werden-aufgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68674.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-01-07T14:55:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-mit-vielen-Highlights.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68675.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neues Veranstaltungsprogramm der Stadtbibliothek mit vielen Highlights</title>
+    <updated>2025-01-07T16:16:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-mit-vielen-Highlights.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68675.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-01-07T16:16:00+01:00</published>
   </entry>
 </feed>
