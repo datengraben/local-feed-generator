@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-13T17:03:59.174321+00:00</updated>
+  <updated>2025-01-13T23:03:52.670895+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -396,17 +396,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_11605_1.PDF?1733310474"/>
     <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11648_1.PDF?1734005994</id>
-    <title>Nachrücker für den Ortsbeirat Gießen-Wieseck</title>
-    <updated>2024-12-13T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11648_1.PDF?1734005994"/>
-    <published>2024-12-13T01:31:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_11644_1.PDF?1733927897</id>
