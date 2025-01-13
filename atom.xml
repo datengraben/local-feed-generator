@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-13T15:04:27.567246+00:00</updated>
+  <updated>2025-01-13T17:03:59.174321+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -682,5 +682,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hohes-Risiko-f%C3%BCr-Vogelgrippe-im-Winter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68695.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-01-10T10:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/PopUp-Store-HOT-SPOT-im-Seltersweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68847.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>PopUp Store HOT SPOT im Seltersweg</title>
+    <updated>2025-01-13T17:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/PopUp-Store-HOT-SPOT-im-Seltersweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68847.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-01-13T17:03:00+01:00</published>
   </entry>
 </feed>
