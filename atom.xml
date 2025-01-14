@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-14T17:03:50.504024+00:00</updated>
+  <updated>2025-01-14T23:03:51.736775+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -376,17 +376,6 @@
     <published>2024-10-16T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11605_1.PDF?1733310474</id>
-    <title>Planfeststellungsverfahren nach § 33 ff. Hessisches Straßengesetz (HStrG) in Verbindung mit §§ 72 ff. Hessisches Verwaltungsverfahrensgesetz (HVwVfG) - Lahnstraße</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11605_1.PDF?1733310474"/>
-    <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
     <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
     <updated>2024-12-07T17:03:00+01:00</updated>
@@ -398,26 +387,15 @@
     <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11644_1.PDF?1733927897</id>
-    <title>4. Satzung zur Änderung der Wasserversorgungssatzung</title>
-    <updated>2024-12-14T01:31:00+01:00</updated>
+    <id>http://giessen.de/media/custom/2874_11605_1.PDF?1733310474</id>
+    <title>Planfeststellungsverfahren nach § 33 ff. Hessisches Straßengesetz (HStrG) in Verbindung mit §§ 72 ff. Hessisches Verwaltungsverfahrensgesetz (HVwVfG) - Lahnstraße</title>
+    <updated>2024-12-07T17:03:00+01:00</updated>
     <author>
       <name>Stadt - Amtliche Bekanntmachungen</name>
       <email>presse@giessen.de</email>
     </author>
-    <link href="http://giessen.de/media/custom/2874_11644_1.PDF?1733927897"/>
-    <published>2024-12-14T01:31:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11643_1.PDF?1733927706</id>
-    <title>4. Satzung zur Änderung der Abwassersatzung</title>
-    <updated>2024-12-14T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11643_1.PDF?1733927706"/>
-    <published>2024-12-14T01:31:00+01:00</published>
+    <link href="http://giessen.de/media/custom/2874_11605_1.PDF?1733310474"/>
+    <published>2024-12-07T17:03:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_11669_1.PDF?1734430511</id>
