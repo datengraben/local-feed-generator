@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-17T19:06:06.360527+00:00</updated>
+  <updated>2025-01-18T01:30:47.918898+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -462,6 +462,28 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_11721_1.PDF?1736255787"/>
     <published>2025-01-15T01:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11801_1.PDF?1737017896</id>
+    <title>Nachrücker für den Ortsbeirat Gießen-Wieseck</title>
+    <updated>2025-01-18T01:30:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11801_1.PDF?1737017896"/>
+    <published>2025-01-18T01:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11800_1.PDF?1736950478</id>
+    <title>Nachruf Monika Graulich</title>
+    <updated>2025-01-18T01:30:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11800_1.PDF?1736950478"/>
+    <published>2025-01-18T01:30:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/</id>
