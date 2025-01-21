@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-21T16:04:46.903430+00:00</updated>
+  <updated>2025-01-21T23:03:59.682530+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -365,17 +365,6 @@
     <published>2024-10-16T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11620_1.PDF?1733485316</id>
-    <title>Bauleitplanung: Offenlage des Bebauungsplans Nr. GI 01/45 "Schillerstraßen-Blöcke"</title>
-    <updated>2024-12-07T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11620_1.PDF?1733485316"/>
-    <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11605_1.PDF?1733310474</id>
     <title>Planfeststellungsverfahren nach § 33 ff. Hessisches Straßengesetz (HStrG) in Verbindung mit §§ 72 ff. Hessisches Verwaltungsverfahrensgesetz (HVwVfG) - Lahnstraße</title>
     <updated>2024-12-07T17:03:00+01:00</updated>
@@ -385,39 +374,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_11605_1.PDF?1733310474"/>
     <published>2024-12-07T17:03:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11681_1.PDF?1734623222</id>
-    <title>Bauleitplanung: Erlass des Bebauungsplanes WI 06/11 "Sportzentrum Wieseck am Ried"</title>
-    <updated>2024-12-21T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11681_1.PDF?1734623222"/>
-    <published>2024-12-21T01:31:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11670_1.PDF?1734431280</id>
-    <title>3. Satzung zur Änderung der Satzung über den Gießen-Pass</title>
-    <updated>2024-12-21T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11670_1.PDF?1734431280"/>
-    <published>2024-12-21T01:31:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11667_1.PDF?1734430178</id>
-    <title>5. Satzung zur Änderung der Feuerwehrsatzung der Universitätsstadt Gießen</title>
-    <updated>2024-12-21T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11667_1.PDF?1734430178"/>
-    <published>2024-12-21T01:31:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_11711_1.PDF?1735895538</id>
