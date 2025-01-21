@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-21T12:06:18.853598+00:00</updated>
+  <updated>2025-01-21T15:04:31.329060+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -453,17 +453,6 @@
     <published>2025-01-15T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11801_1.PDF?1737017896</id>
-    <title>Nachrücker für den Ortsbeirat Gießen-Wieseck</title>
-    <updated>2025-01-18T01:30:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11801_1.PDF?1737017896"/>
-    <published>2025-01-18T01:30:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11800_1.PDF?1736950478</id>
     <title>Nachruf Monika Graulich</title>
     <updated>2025-01-18T01:30:00+01:00</updated>
@@ -475,48 +464,15 @@
     <published>2025-01-18T01:30:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/</id>
-    <title>Deutscher Bühnenverein protestiert gegen die drastischen Kürzungen im Berliner Kulturhaushalt und fordert die Verantwortlichen zum Diskurs auf Augenhöhe auf - Kultur darf nicht weggespart werden. Als Stadttheater Gießen...</title>
-    <updated>2025-01-09T11:03:34+01:00</updated>
+    <id>http://giessen.de/media/custom/2874_11801_1.PDF?1737017896</id>
+    <title>Nachrücker für den Ortsbeirat Gießen-Wieseck</title>
+    <updated>2025-01-18T01:30:00+01:00</updated>
     <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-buhnenverein-protestiert-gegen-die-drastischen-kurzungen-im-berliner-kulturhaushalt-und-fordert-die-verantwortlichen/"/>
-    <published>2025-01-09T11:03:34+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-fremder-halt/</id>
-    <title>Ein Fremder halt - Unsere konzertante Oper "Arabella" entführt Sie in...</title>
-    <updated>2024-11-27T16:19:21+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-fremder-halt/"/>
-    <published>2024-11-27T16:19:21+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/open-calls-fur-die-masterinszenierung-polska-sztuka/</id>
-    <title>Open Calls für die Inszenierung „Polska Sztuka*“ - Für seine ATW - Masterinszenierung „Polska Sztuka*“ am Stadt...</title>
-    <updated>2024-12-20T17:03:32+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/open-calls-fur-die-masterinszenierung-polska-sztuka/"/>
-    <published>2024-12-20T17:03:32+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 28. Januar - Das Orchesterkonzert "Junges Podium" bietet aufstr...</title>
-    <updated>2024-07-28T09:14:39+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2024-07-28T09:14:39+02:00</published>
+    <link href="http://giessen.de/media/custom/2874_11801_1.PDF?1737017896"/>
+    <published>2025-01-18T01:30:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/sich-auf-den-weg-machen-ohne-sich-zu-verirren/</id>
@@ -530,6 +486,17 @@
     <published>2024-12-17T15:04:18+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/</id>
+    <title>Über Hoffnung und falsche Versprechen - Die Regisseur*innen Amelie von Godin und Constantin Hochkepp...</title>
+    <updated>2025-01-21T15:04:20.574400+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/"/>
+    <published>2025-01-21T15:04:20.574400+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/</id>
     <title>Audition Call: Rehearsal Director &amp; Choreographic Assistant (m/f/x) - The dance ensemble at Stadttheater Gießen is looking for a r...</title>
     <updated>2024-12-04T15:16:57+01:00</updated>
@@ -539,17 +506,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/audition-call/"/>
     <published>2024-12-04T15:16:57+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/selbstbesessenheit-und-chaotische-energie/</id>
-    <title>Selbstbesessenheit und chaotische Energie - Vier Fragen an die Komponistin Raquel García-Tomás zu ihrer ...</title>
-    <updated>2024-12-11T17:03:50+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/selbstbesessenheit-und-chaotische-energie/"/>
-    <published>2024-12-11T17:03:50+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schnupper-proben-beim-kinder-und-jugendchor/</id>
@@ -572,6 +528,50 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/"/>
     <published>2024-12-23T15:04:04+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 28. Januar - Das Orchesterkonzert "Junges Podium" bietet aufstr...</title>
+    <updated>2024-07-28T09:14:39+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2024-07-28T09:14:39+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/open-calls-fur-die-masterinszenierung-polska-sztuka/</id>
+    <title>Open Calls für die Inszenierung „Polska Sztuka*“ - Für seine ATW - Masterinszenierung „Polska Sztuka*“ am Stadt...</title>
+    <updated>2024-12-20T17:03:32+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/open-calls-fur-die-masterinszenierung-polska-sztuka/"/>
+    <published>2024-12-20T17:03:32+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ohne-umwege-in-die-gegenwart/</id>
+    <title>Ohne Umwege in die Gegenwart - Dick ist die Blutspur, die sich durch die Familiengeschichte...</title>
+    <updated>2025-01-21T15:04:20.574400+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ohne-umwege-in-die-gegenwart/"/>
+    <published>2025-01-21T15:04:20.574400+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/eine-geschichte-die-nicht-alt-wird/</id>
+    <title>Eine Geschichte, die nicht alt wird - Georg Büchners „Woyzeck“ kehrt zurück auf die Gießener Bühne...</title>
+    <updated>2025-01-21T15:04:20.574400+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/eine-geschichte-die-nicht-alt-wird/"/>
+    <published>2025-01-21T15:04:20.574400+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/hauptsache-zusammen/</id>
@@ -792,5 +792,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Im-Alten-Steinbacher-Weg-und-der-Danziger-Stra%C3%9Fe-wird-gebaut.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69267.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-01-21T12:06:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/20-Landeslisten-zur-Bundestagswahl-in-Hessen-eingereicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69268.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>20 Landeslisten zur Bundestagswahl in Hessen eingereicht</title>
+    <updated>2025-01-21T15:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/20-Landeslisten-zur-Bundestagswahl-in-Hessen-eingereicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69268.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-01-21T15:04:00+01:00</published>
   </entry>
 </feed>
