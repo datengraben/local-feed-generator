@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-23T16:04:42.105228+00:00</updated>
+  <updated>2025-01-24T13:08:31.550194+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -561,6 +561,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/vorsicht-betrueger"/>
     <published>2025-01-17T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-buslinien-18-und-801</id>
+    <title>Umleitung für die Buslinien 18 und 801</title>
+    <updated>2025-01-24T13:08:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-buslinien-18-und-801"/>
+    <published>2025-01-24T13:08:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundsteuer-Reform-Versendung-der-Steuerbescheide-ab-dem-06-01-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68670.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
