@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-25T11:03:40.093556+00:00</updated>
+  <updated>2025-01-25T23:04:13.089378+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -376,17 +376,6 @@
     <published>2025-01-04T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11735_1.PDF?1736350366</id>
-    <title>Nachruf Anette Vogelhöfer</title>
-    <updated>2025-01-11T01:30:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11735_1.PDF?1736350366"/>
-    <published>2025-01-11T01:30:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11721_1.PDF?1736255787</id>
     <title>Ankündigung von Vermessungs- und Kartierungsarbeiten, Ortsbesichtigungen und Dokumentation sowie Baugrunduntersuchungen für die Trassen-Planung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
     <updated>2025-01-15T01:31:00+01:00</updated>
@@ -398,17 +387,6 @@
     <published>2025-01-15T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11800_1.PDF?1736950478</id>
-    <title>Nachruf Monika Graulich</title>
-    <updated>2025-01-18T01:30:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11800_1.PDF?1736950478"/>
-    <published>2025-01-18T01:30:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11801_1.PDF?1737017896</id>
     <title>Nachrücker für den Ortsbeirat Gießen-Wieseck</title>
     <updated>2025-01-18T01:30:00+01:00</updated>
@@ -417,6 +395,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11801_1.PDF?1737017896"/>
+    <published>2025-01-18T01:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11800_1.PDF?1736950478</id>
+    <title>Nachruf Monika Graulich</title>
+    <updated>2025-01-18T01:30:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11800_1.PDF?1736950478"/>
     <published>2025-01-18T01:30:00+01:00</published>
   </entry>
   <entry>
@@ -455,13 +444,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/sich-auf-den-weg-machen-ohne-sich-zu-verirren/</id>
     <title>Sich auf den Weg machen, ohne sich zu verirren - Ein Probentagebuch zu „Etudes“ von Max Levy | Von Eszter Son...</title>
-    <updated>2025-01-25T11:03:29.405445+01:00</updated>
+    <updated>2025-01-25T11:03:29+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/sich-auf-den-weg-machen-ohne-sich-zu-verirren/"/>
-    <published>2025-01-25T11:03:29.405445+01:00</published>
+    <published>2025-01-25T11:03:29+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/</id>
