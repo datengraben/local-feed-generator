@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-28T12:06:20.028850+00:00</updated>
+  <updated>2025-01-29T10:04:25.145663+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -387,17 +387,6 @@
     <published>2025-01-15T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11801_1.PDF?1737017896</id>
-    <title>Nachrücker für den Ortsbeirat Gießen-Wieseck</title>
-    <updated>2025-01-18T01:30:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11801_1.PDF?1737017896"/>
-    <published>2025-01-18T01:30:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11800_1.PDF?1736950478</id>
     <title>Nachruf Monika Graulich</title>
     <updated>2025-01-18T01:30:00+01:00</updated>
@@ -406,6 +395,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11800_1.PDF?1736950478"/>
+    <published>2025-01-18T01:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11801_1.PDF?1737017896</id>
+    <title>Nachrücker für den Ortsbeirat Gießen-Wieseck</title>
+    <updated>2025-01-18T01:30:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11801_1.PDF?1737017896"/>
     <published>2025-01-18T01:30:00+01:00</published>
   </entry>
   <entry>
@@ -442,6 +442,17 @@
     <published>2025-01-25T01:30:00+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/hauptsache-zusammen/</id>
+    <title>Hauptsache zusammen. - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
+    <updated>2024-12-16T16:04:37+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/hauptsache-zusammen/"/>
+    <published>2024-12-16T16:04:37+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/sich-auf-den-weg-machen-ohne-sich-zu-verirren/</id>
     <title>Sich auf den Weg machen, ohne sich zu verirren - Ein Probentagebuch zu „Etudes“ von Max Levy | Von Eszter Son...</title>
     <updated>2025-01-25T11:03:29+01:00</updated>
@@ -453,41 +464,19 @@
     <published>2025-01-25T11:03:29+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/</id>
-    <title>Über Hoffnung und falsche Versprechen - Die Regisseur*innen Amelie von Godin und Constantin Hochkepp...</title>
-    <updated>2025-01-21T15:04:20+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/nachhaltigkeit-am-stadttheater/</id>
+    <title>Nachhaltigkeit am Stadttheater - Anschlussförderung im Fonds Zero ermöglicht Projekt zur Verk...</title>
+    <updated>2025-01-29T10:04:14.668583+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/"/>
-    <published>2025-01-21T15:04:20+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/schnupper-proben-beim-kinder-und-jugendchor/</id>
-    <title>Schnupper-Proben beim Kinder- und Jugendchor - Lernt den Chor und die Chorleiterin Franziska de Gilde kenne...</title>
-    <updated>2024-12-20T13:07:30+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schnupper-proben-beim-kinder-und-jugendchor/"/>
-    <published>2024-12-20T13:07:30+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/open-calls-fur-die-masterinszenierung-polska-sztuka/</id>
-    <title>Open Calls für die Inszenierung „Polska Sztuka*“ - Für seine ATW - Masterinszenierung „Polska Sztuka*“ am Stadt...</title>
-    <updated>2024-12-20T17:03:32+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/open-calls-fur-die-masterinszenierung-polska-sztuka/"/>
-    <published>2024-12-20T17:03:32+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nachhaltigkeit-am-stadttheater/"/>
+    <published>2025-01-29T10:04:14.668583+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 28. Januar - Das Orchesterkonzert "Junges Podium" bietet aufstr...</title>
+    <title>Theatertag am 17. Februar - Lassen Sie sich die Erfolgsproduktion „Woyzeck" aus der...</title>
     <updated>2024-07-28T09:14:39+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -530,6 +519,28 @@
     <published>2025-01-21T15:04:20+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/selbstbesessenheit-und-chaotische-energie/</id>
+    <title>Selbstbesessenheit und chaotische Energie - Vier Fragen an die Komponistin Raquel García-Tomás zu ihrer ...</title>
+    <updated>2025-01-29T10:04:14.668583+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/selbstbesessenheit-und-chaotische-energie/"/>
+    <published>2025-01-29T10:04:14.668583+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/</id>
+    <title>Über Hoffnung und falsche Versprechen - Die Regisseur*innen Amelie von Godin und Constantin Hochkepp...</title>
+    <updated>2025-01-21T15:04:20+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/"/>
+    <published>2025-01-21T15:04:20+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
     <title>Der Gang vor die Hunde - Ökonomische Unsicherheit, moralischer Verfall, wachsender Ex...</title>
     <updated>2025-01-22T10:03:37+01:00</updated>
@@ -539,17 +550,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/"/>
     <published>2025-01-22T10:03:37+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/hauptsache-zusammen/</id>
-    <title>Hauptsache zusammen. - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2024-12-16T16:04:37+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/hauptsache-zusammen/"/>
-    <published>2024-12-16T16:04:37+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/zeitgemaesse-waerme-fuer-das-liebig-museum-20</id>
