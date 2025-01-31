@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-30T10:05:14.445117+00:00</updated>
+  <updated>2025-01-31T08:05:12.453644+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -596,17 +596,6 @@
     <published>2025-01-30T10:05:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundsteuer-Reform-Versendung-der-Steuerbescheide-ab-dem-06-01-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68670.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Grundsteuer-Reform: Versendung der Steuerbescheide ab dem 06.01.2025</title>
-    <updated>2025-01-02T13:07:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundsteuer-Reform-Versendung-der-Steuerbescheide-ab-dem-06-01-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68670.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-01-02T13:07:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/L%C3%A4rmaktionsplan-2024-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68672.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Lärmaktionsplan 2024 online</title>
     <updated>2025-01-06T12:07:00+01:00</updated>
@@ -869,5 +858,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erneuerung-der-Ampelanlage-am-Bahn%C3%BCbergang-im-Schiffenberger-Weg-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68474.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-01-29T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Info-Aufenthaltsrecht-und-Integration-am-Donnerstag-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69274.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>"Info Aufenthaltsrecht und Integration" am Donnerstag geschlossen</title>
+    <updated>2025-01-31T08:05:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Info-Aufenthaltsrecht-und-Integration-am-Donnerstag-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69274.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-01-31T08:05:00+01:00</published>
   </entry>
 </feed>
