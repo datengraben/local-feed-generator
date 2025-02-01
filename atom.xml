@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-01-31T15:04:10.719458+00:00</updated>
+  <updated>2025-02-01T01:31:15.069955+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -365,6 +365,17 @@
     <published>2024-10-16T00:00:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_11897_1.PDF?1738322377</id>
+    <title>6. Satzung zur Änderung der Gebührensatzung über die Erhebung von Benutzungsgebühren auf dem Wochenmarkt in Gießen</title>
+    <updated>2025-01-01T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11897_1.PDF?1738322377"/>
+    <published>2025-01-01T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_11711_1.PDF?1735895538</id>
     <title>Neues Mitglied im Ausländerbeirat</title>
     <updated>2025-01-04T01:31:00+01:00</updated>
@@ -440,6 +451,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_11844_1.PDF?1737457311"/>
     <published>2025-01-25T01:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11882_1.PDF?1738061048</id>
+    <title>Wahl einer stellvertretenden Schiedsperson für den Schiedsamtsbezirk Gießen 2025</title>
+    <updated>2025-02-01T01:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11882_1.PDF?1738061048"/>
+    <published>2025-02-01T01:31:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/hauptsache-zusammen/</id>
