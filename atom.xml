@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-01T01:31:15.069955+00:00</updated>
+  <updated>2025-02-01T22:03:58.443657+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -618,6 +618,17 @@
     <published>2025-01-30T10:05:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B-429-Fahrbahnsanierung-zwischen-den-Anschlussstellen-Lahnfelddreieck-und-Wettenberg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67307.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>B 429: Fahrbahnsanierung zwischen den Anschlussstellen Lahnfelddreieck und Wettenberg</title>
+    <updated>2025-01-06T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B-429-Fahrbahnsanierung-zwischen-den-Anschlussstellen-Lahnfelddreieck-und-Wettenberg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67307.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-01-06T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%A4hlerverzeichnisse-f%C3%BCr-die-Bundestagswahl-werden-aufgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68674.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Wählerverzeichnisse für die Bundestagswahl werden aufgestellt</title>
     <updated>2025-01-07T14:55:00+01:00</updated>
@@ -770,17 +781,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/20-Landeslisten-zur-Bundestagswahl-in-Hessen-eingereicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69268.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-01-21T15:04:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanal-im-Ubbelohdeweg-wird-repariert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69269.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kanal im Ubbelohdeweg wird repariert</title>
-    <updated>2025-01-21T16:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanal-im-Ubbelohdeweg-wird-repariert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69269.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-01-21T16:04:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Schadstoffmobil-k%C3%BCndigt-sich-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16074.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
