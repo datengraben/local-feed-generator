@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-04T12:06:44.584816+00:00</updated>
+  <updated>2025-02-04T15:04:22.209276+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -607,17 +607,6 @@
     <published>2025-01-30T10:05:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/PopUp-Store-HOT-SPOT-im-Seltersweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68847.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>PopUp Store HOT SPOT im Seltersweg</title>
-    <updated>2025-01-13T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/PopUp-Store-HOT-SPOT-im-Seltersweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68847.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-01-13T17:03:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umfrage-zur-Sportentwicklungsplanung-des-Landkreises.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68972.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Umfrage zur Sportentwicklungsplanung des Landkreises</title>
     <updated>2025-01-14T13:06:00+01:00</updated>
@@ -871,14 +860,25 @@
     <published>2025-02-04T10:04:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sonntag-steht-in-Gie%C3%9Fen-ganz-im-Zeichen-des-Fassnachtsumzugs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neuer Streckenlauf des Fassenachtsumzugs am 2. März</title>
-    <updated>2025-02-04T12:06:00+01:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fassenachtsumzug-am-2-M%C3%A4rz-auf-neuer-Strecke-unterwegs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fassenachtsumzug am 2. März auf neuer Strecke unterwegs</title>
+    <updated>2025-02-04T15:04:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sonntag-steht-in-Gie%C3%9Fen-ganz-im-Zeichen-des-Fassnachtsumzugs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-04T12:06:00+01:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fassenachtsumzug-am-2-M%C3%A4rz-auf-neuer-Strecke-unterwegs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-04T15:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auf-der-Suche-nach-den-Zukunftsgestalter-innen-Infostand-der-Tr%C3%A4ger-Jugendhilfe-im-Neust%C3%A4dter-Tor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69505.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Auf der Suche nach den Zukunftsgestalter/innen</title>
+    <updated>2025-02-04T15:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auf-der-Suche-nach-den-Zukunftsgestalter-innen-Infostand-der-Tr%C3%A4ger-Jugendhilfe-im-Neust%C3%A4dter-Tor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69505.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-04T15:04:00+01:00</published>
   </entry>
 </feed>
