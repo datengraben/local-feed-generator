@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-03T16:07:02.096246+00:00</updated>
+  <updated>2025-02-04T09:04:18.973244+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -409,6 +409,17 @@
     <published>2025-01-18T01:30:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_11864_1.PDF?1737627151</id>
+    <title>Einleitung des Umlegungsverfahrens "Rinn'sche Grube"</title>
+    <updated>2025-01-25T01:30:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11864_1.PDF?1737627151"/>
+    <published>2025-01-25T01:30:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_11863_1.PDF?1737625682</id>
     <title>Recht auf Einsicht in das Wählerverzeichnis und die Erteilung von Wahlscheinen für die Wahl zum Deutschen Bundestag am 23. Februar 2025</title>
     <updated>2025-01-25T01:30:00+01:00</updated>
@@ -428,17 +439,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11844_1.PDF?1737457311"/>
-    <published>2025-01-25T01:30:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11864_1.PDF?1737627151</id>
-    <title>Einleitung des Umlegungsverfahrens "Rinn'sche Grube"</title>
-    <updated>2025-01-25T01:30:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11864_1.PDF?1737627151"/>
     <published>2025-01-25T01:30:00+01:00</published>
   </entry>
   <entry>
@@ -871,14 +871,14 @@
     <published>2025-01-07T14:55:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-neuen-Galakto-Player-und-Token-in-der-Stadtbibliothek-ausleihbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Die neuen Galakto-Player und »Token« in der Stadtbibliothek ausleihbar</title>
-    <updated>2025-02-03T16:06:00+01:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Galakto-Player-und-Token-in-der-Stadtbibliothek-ausleihbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue Galakto-Player und »Token« in der Stadtbibliothek ausleihbar</title>
+    <updated>2025-02-03T09:04:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-neuen-Galakto-Player-und-Token-in-der-Stadtbibliothek-ausleihbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-03T16:06:00+01:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Galakto-Player-und-Token-in-der-Stadtbibliothek-ausleihbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-03T09:04:00+01:00</published>
   </entry>
 </feed>
