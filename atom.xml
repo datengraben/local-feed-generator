@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-04T09:04:18.973244+00:00</updated>
+  <updated>2025-02-04T10:04:40.417307+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -607,17 +607,6 @@
     <published>2025-01-30T10:05:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68677.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Bürgermeister Wright lädt zur Bürgersprechstunde ein</title>
-    <updated>2025-01-09T11:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68677.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-01-09T11:03:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hohes-Risiko-f%C3%BCr-Vogelgrippe-im-Winter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68695.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Hohes Risiko für Vogelgrippe im Winter</title>
     <updated>2025-01-10T10:04:00+01:00</updated>
@@ -880,5 +869,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Galakto-Player-und-Token-in-der-Stadtbibliothek-ausleihbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-02-03T09:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-Samstag-Verkehrsbeeintr%C3%A4chtigungen-in-der-Gie%C3%9Fener-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69502.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Am Samstag Verkehrsbeeinträchtigungen in der Gießener Innenstadt</title>
+    <updated>2025-02-04T10:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-Samstag-Verkehrsbeeintr%C3%A4chtigungen-in-der-Gie%C3%9Fener-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69502.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-04T10:04:00+01:00</published>
   </entry>
 </feed>
