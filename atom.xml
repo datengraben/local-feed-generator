@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-04T23:04:15.088510+00:00</updated>
+  <updated>2025-02-05T11:04:16.222454+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -431,17 +431,6 @@
     <published>2025-02-01T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/sich-auf-den-weg-machen-ohne-sich-zu-verirren/</id>
-    <title>Sich auf den Weg machen, ohne sich zu verirren - Ein Probentagebuch zu „Etudes“ von Max Levy | Von Eszter Son...</title>
-    <updated>2025-01-25T11:03:29+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/sich-auf-den-weg-machen-ohne-sich-zu-verirren/"/>
-    <published>2025-01-25T11:03:29+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/nachhaltigkeit-am-stadttheater/</id>
     <title>Nachhaltigkeit am Stadttheater - Anschlussförderung im Fonds Zero ermöglicht Projekt zur Verk...</title>
     <updated>2025-01-29T10:04:14+01:00</updated>
@@ -517,6 +506,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/"/>
     <published>2025-01-21T15:04:20+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/am-fastnachtssonntag-aufs-gleis-neun-dreiviertel/</id>
+    <title>Am Fastnachtssonntag aufs Gleis Neun Dreiviertel - Konzert für Junges Publikum beginnt um 17:00 Uhr...</title>
+    <updated>2025-02-05T11:04:02.945102+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/am-fastnachtssonntag-aufs-gleis-neun-dreiviertel/"/>
+    <published>2025-02-05T11:04:02.945102+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
