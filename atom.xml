@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-05T11:04:16.222454+00:00</updated>
+  <updated>2025-02-05T14:03:54.672279+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -510,13 +510,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/am-fastnachtssonntag-aufs-gleis-neun-dreiviertel/</id>
     <title>Am Fastnachtssonntag aufs Gleis Neun Dreiviertel - Konzert für Junges Publikum beginnt um 17:00 Uhr...</title>
-    <updated>2025-02-05T11:04:02.945102+01:00</updated>
+    <updated>2025-02-05T11:04:02+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/am-fastnachtssonntag-aufs-gleis-neun-dreiviertel/"/>
-    <published>2025-02-05T11:04:02.945102+01:00</published>
+    <published>2025-02-05T11:04:02+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
@@ -583,17 +583,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/hilfe-fuer-helferinnen-und-helfer"/>
     <published>2025-01-30T10:05:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umfrage-zur-Sportentwicklungsplanung-des-Landkreises.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68972.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Umfrage zur Sportentwicklungsplanung des Landkreises</title>
-    <updated>2025-01-14T13:06:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umfrage-zur-Sportentwicklungsplanung-des-Landkreises.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68972.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-01-14T13:06:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Ferien-Freizeiten-f%C3%BCr-Gie%C3%9Fener-Kinder-und-Jugendliche-auf-einen-Blick.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68973.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -858,5 +847,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auf-der-Suche-nach-den-Zukunftsgestalter-innen-Infostand-der-Tr%C3%A4ger-Jugendhilfe-im-Neust%C3%A4dter-Tor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69505.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-02-04T15:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versand-und-Ausgabe-der-Briefwahlunterlagen-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69515.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Versand und Ausgabe der Briefwahlunterlagen beginnt</title>
+    <updated>2025-02-05T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versand-und-Ausgabe-der-Briefwahlunterlagen-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69515.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-05T14:03:00+01:00</published>
   </entry>
 </feed>
