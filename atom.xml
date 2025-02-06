@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-05T14:03:54.672279+00:00</updated>
+  <updated>2025-02-06T10:04:22.346845+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -585,17 +585,6 @@
     <published>2025-01-30T10:05:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Ferien-Freizeiten-f%C3%BCr-Gie%C3%9Fener-Kinder-und-Jugendliche-auf-einen-Blick.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68973.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>(Ferien-) Freizeiten für Gießener Kinder und Jugendliche auf einen Blick</title>
-    <updated>2025-01-14T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Ferien-Freizeiten-f%C3%BCr-Gie%C3%9Fener-Kinder-und-Jugendliche-auf-einen-Blick.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68973.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-01-14T17:03:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fr%C3%BChjahr-Sommer-Programm-Einfach-machen-des-Jugendbildungswerkes-ist-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68998.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Frühjahr-Sommer Programm "Einfach machen" des Jugendbildungswerks ist online</title>
     <updated>2025-01-15T14:04:00+01:00</updated>
@@ -858,5 +847,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versand-und-Ausgabe-der-Briefwahlunterlagen-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69515.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-02-05T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundesweiter-Aktionstag-Girls-Day-und-Boys-Day-am-3-April.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69518.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bundesweiter Aktionstag Girls' Day und Boys' Day am 3. April</title>
+    <updated>2025-02-06T10:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundesweiter-Aktionstag-Girls-Day-und-Boys-Day-am-3-April.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69518.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-06T10:04:00+01:00</published>
   </entry>
 </feed>
