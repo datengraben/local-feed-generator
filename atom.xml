@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-06T17:04:10.724872+00:00</updated>
+  <updated>2025-02-06T21:03:56.776413+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -585,6 +585,17 @@
     <published>2025-01-30T10:05:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-warnen-vor-Betr%C3%BCgern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69148.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>SWG warnen vor Betrügern</title>
+    <updated>2025-01-17T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-warnen-vor-Betr%C3%BCgern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69148.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-01-17T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/St%C3%A4dtebauf%C3%B6rderung-Minister-Mansoori-%C3%BCbergibt-Millionenf%C3%B6rderung-f%C3%BCr-nachhaltige-Stadtentwicklung-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69149.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Städtebauförderung: Minister Mansoori übergibt Millionenförderung für nachhaltige Stadtentwicklung in Gießen</title>
     <updated>2025-01-17T15:04:00+01:00</updated>
@@ -704,17 +715,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erneuerung-der-Ampelanlage-am-Bahn%C3%BCbergang-im-Schiffenberger-Weg-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68474.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-01-29T14:03:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Info-Aufenthaltsrecht-und-Integration-am-Donnerstag-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69274.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>"Info Aufenthaltsrecht und Integration" am Donnerstag geschlossen</title>
-    <updated>2025-01-31T08:05:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Info-Aufenthaltsrecht-und-Integration-am-Donnerstag-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69274.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-01-31T08:05:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nextbike-Leihradsystem-in-Gie%C3%9Fen-setzt-auf-Ausbau-und-E-Lastenr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69302.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
