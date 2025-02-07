@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-06T21:03:56.776413+00:00</updated>
+  <updated>2025-02-07T13:07:11.122566+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -387,6 +387,17 @@
     <published>2025-01-18T01:30:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_11844_1.PDF?1737457311</id>
+    <title>Nachruf Johann Burgardt</title>
+    <updated>2025-01-25T01:30:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11844_1.PDF?1737457311"/>
+    <published>2025-01-25T01:30:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_11864_1.PDF?1737627151</id>
     <title>Einleitung des Umlegungsverfahrens "Rinn'sche Grube"</title>
     <updated>2025-01-25T01:30:00+01:00</updated>
@@ -409,17 +420,6 @@
     <published>2025-01-25T01:30:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11844_1.PDF?1737457311</id>
-    <title>Nachruf Johann Burgardt</title>
-    <updated>2025-01-25T01:30:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11844_1.PDF?1737457311"/>
-    <published>2025-01-25T01:30:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11882_1.PDF?1738061048</id>
     <title>Wahl einer stellvertretenden Schiedsperson für den Schiedsamtsbezirk Gießen 2025</title>
     <updated>2025-02-01T01:31:00+01:00</updated>
@@ -429,17 +429,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_11882_1.PDF?1738061048"/>
     <published>2025-02-01T01:31:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 17. Februar - Lassen Sie sich die Erfolgsproduktion „Woyzeck" aus der...</title>
-    <updated>2024-07-28T09:14:39+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2024-07-28T09:14:39+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ohne-umwege-in-die-gegenwart/</id>
@@ -475,15 +464,15 @@
     <published>2025-01-21T15:04:20+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/selbstbesessenheit-und-chaotische-energie/</id>
-    <title>Selbstbesessenheit und chaotische Energie - Vier Fragen an die Komponistin Raquel García-Tomás zu ihrer ...</title>
-    <updated>2025-01-29T10:04:14+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/am-fastnachtssonntag-aufs-gleis-neun-dreiviertel/</id>
+    <title>Am Fastnachtssonntag aufs Gleis Neun Dreiviertel - Konzert für Junges Publikum beginnt um 17:00 Uhr...</title>
+    <updated>2025-02-05T11:04:02+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/selbstbesessenheit-und-chaotische-energie/"/>
-    <published>2025-01-29T10:04:14+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/am-fastnachtssonntag-aufs-gleis-neun-dreiviertel/"/>
+    <published>2025-02-05T11:04:02+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/</id>
@@ -497,15 +486,15 @@
     <published>2025-01-21T15:04:20+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/am-fastnachtssonntag-aufs-gleis-neun-dreiviertel/</id>
-    <title>Am Fastnachtssonntag aufs Gleis Neun Dreiviertel - Konzert für Junges Publikum beginnt um 17:00 Uhr...</title>
-    <updated>2025-02-05T11:04:02+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/one-billion-rising-2025/</id>
+    <title>One Billion Rising 2025 - Am 14. Februar finden sich weltweit alle zusammen, um ein gl...</title>
+    <updated>2025-02-07T13:06:58.443461+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/am-fastnachtssonntag-aufs-gleis-neun-dreiviertel/"/>
-    <published>2025-02-05T11:04:02+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/one-billion-rising-2025/"/>
+    <published>2025-02-07T13:06:58.443461+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
@@ -517,6 +506,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/"/>
     <published>2025-01-22T10:03:37+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/selbstbesessenheit-und-chaotische-energie/</id>
+    <title>Selbstbesessenheit und chaotische Energie - Vier Fragen an die Komponistin Raquel García-Tomás zu ihrer ...</title>
+    <updated>2025-01-29T10:04:14+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/selbstbesessenheit-und-chaotische-energie/"/>
+    <published>2025-01-29T10:04:14+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/demo-gegen-rechtsruck-am-8-februar/</id>
@@ -583,17 +583,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/hilfe-fuer-helferinnen-und-helfer"/>
     <published>2025-01-30T10:05:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-warnen-vor-Betr%C3%BCgern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69148.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>SWG warnen vor Betrügern</title>
-    <updated>2025-01-17T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-warnen-vor-Betr%C3%BCgern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69148.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-01-17T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/St%C3%A4dtebauf%C3%B6rderung-Minister-Mansoori-%C3%BCbergibt-Millionenf%C3%B6rderung-f%C3%BCr-nachhaltige-Stadtentwicklung-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69149.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -858,5 +847,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rodungsarbeiten-an-der-R%C3%B6dgener-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69534.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-02-06T17:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Im-Rathaus-gibt-es-jetzt-einen-R%C3%BCckzugsort-zum-Stillen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69536.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Im Rathaus gibt es jetzt einen Rückzugsort zum Stillen</title>
+    <updated>2025-02-07T13:06:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Im-Rathaus-gibt-es-jetzt-einen-R%C3%BCckzugsort-zum-Stillen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69536.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-07T13:06:00+01:00</published>
   </entry>
 </feed>
