@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-07T14:03:58.120689+00:00</updated>
+  <updated>2025-02-08T20:04:50.113767+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -585,6 +585,17 @@
     <published>2025-01-30T10:05:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/St%C3%A4dtebauf%C3%B6rderung-Minister-Mansoori-%C3%BCbergibt-Millionenf%C3%B6rderung-f%C3%BCr-nachhaltige-Stadtentwicklung-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69149.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Städtebauförderung: Minister Mansoori übergibt Millionenförderung für nachhaltige Stadtentwicklung in Gießen</title>
+    <updated>2025-01-17T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/St%C3%A4dtebauf%C3%B6rderung-Minister-Mansoori-%C3%BCbergibt-Millionenf%C3%B6rderung-f%C3%BCr-nachhaltige-Stadtentwicklung-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69149.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-01-17T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ortsgericht-Gie%C3%9Fen-sucht-Sch%C3%B6ffin-oder-Sch%C3%B6ffen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69266.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Ortsgericht Gießen sucht Schöffin oder Schöffen</title>
     <updated>2025-01-21T12:06:00+01:00</updated>
@@ -748,17 +759,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Galakto-Player-und-Token-in-der-Stadtbibliothek-ausleihbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-02-03T09:04:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-Samstag-Verkehrsbeeintr%C3%A4chtigungen-in-der-Gie%C3%9Fener-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69502.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Am Samstag Verkehrsbeeinträchtigungen in der Gießener Innenstadt</title>
-    <updated>2025-02-04T10:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-Samstag-Verkehrsbeeintr%C3%A4chtigungen-in-der-Gie%C3%9Fener-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69502.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-04T10:04:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fassenachtsumzug-am-2-M%C3%A4rz-auf-neuer-Strecke-unterwegs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
