@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-13T13:08:07.811910+00:00</updated>
+  <updated>2025-02-14T11:04:00.573230+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -387,17 +387,6 @@
     <published>2025-01-18T01:30:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11863_1.PDF?1737625682</id>
-    <title>Recht auf Einsicht in das Wählerverzeichnis und die Erteilung von Wahlscheinen für die Wahl zum Deutschen Bundestag am 23. Februar 2025</title>
-    <updated>2025-01-25T01:30:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11863_1.PDF?1737625682"/>
-    <published>2025-01-25T01:30:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11864_1.PDF?1737627151</id>
     <title>Einleitung des Umlegungsverfahrens "Rinn'sche Grube"</title>
     <updated>2025-01-25T01:30:00+01:00</updated>
@@ -406,6 +395,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11864_1.PDF?1737627151"/>
+    <published>2025-01-25T01:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11863_1.PDF?1737625682</id>
+    <title>Recht auf Einsicht in das Wählerverzeichnis und die Erteilung von Wahlscheinen für die Wahl zum Deutschen Bundestag am 23. Februar 2025</title>
+    <updated>2025-01-25T01:30:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11863_1.PDF?1737625682"/>
     <published>2025-01-25T01:30:00+01:00</published>
   </entry>
   <entry>
@@ -499,13 +499,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/nur-noch-zwei-mal-mitislaw-der-moderne/</id>
     <title>Nur noch zwei Mal: "Mitislaw der Moderne" - Wir spielen die Operette von Franz Lehár nur noch am 22. Feb...</title>
-    <updated>2025-02-13T13:07:56.904347+01:00</updated>
+    <updated>2025-02-13T13:07:56+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nur-noch-zwei-mal-mitislaw-der-moderne/"/>
-    <published>2025-02-13T13:07:56.904347+01:00</published>
+    <published>2025-02-13T13:07:56+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/hat-gott-eigentlich-die-arbeitswoche-erfunden/</id>
@@ -583,5 +583,16 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/buslinie-1-wird-an-zwei-samstagen-umgeleitet"/>
     <published>2025-02-13T10:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/swg-wieder-top</id>
+    <title>SWG wieder top</title>
+    <updated>2025-02-14T11:03:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/swg-wieder-top"/>
+    <published>2025-02-14T11:03:00+01:00</published>
   </entry>
 </feed>
