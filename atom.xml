@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-15T14:03:36.567370+00:00</updated>
+  <updated>2025-02-15T23:04:04.749918+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -363,17 +363,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_11897_1.PDF?1738322377"/>
     <published>2025-01-01T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_11721_1.PDF?1736255787</id>
-    <title>Ankündigung von Vermessungs- und Kartierungsarbeiten, Ortsbesichtigungen und Dokumentation sowie Baugrunduntersuchungen für die Trassen-Planung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
-    <updated>2025-01-15T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11721_1.PDF?1736255787"/>
-    <published>2025-01-15T01:31:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_11801_1.PDF?1737017896</id>
