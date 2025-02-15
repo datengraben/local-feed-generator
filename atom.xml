@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-15T01:31:05.401909+00:00</updated>
+  <updated>2025-02-15T14:03:36.567370+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -117,17 +117,6 @@
     <published>2024-06-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://universum-giessen.com/2024/02/15/magie-in-giessen-zu-gast-auf-dem-hokus-pokus-festival/</id>
-    <title>Magie in Gießen – Zu Gast auf dem „Hokus-Pokus“ Festival</title>
-    <updated>2024-02-15T15:11:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2024/02/15/magie-in-giessen-zu-gast-auf-dem-hokus-pokus-festival/"/>
-    <published>2024-02-15T15:11:00+01:00</published>
-  </entry>
-  <entry>
     <id>https://universum-giessen.com/2024/02/23/anderen-helfen-aber-wie-gespraech-zu-ehrenamtlicher-arbeit-mit-der-studentin-selin-demirci/</id>
     <title>Anderen helfen – Aber wie? Gespräch zu ehrenamtlicher Arbeit mit der Studentin Selin Demirci</title>
     <updated>2024-02-23T10:13:00+01:00</updated>
@@ -225,6 +214,17 @@
     </author>
     <link href="https://universum-giessen.com/2024/11/24/zuhause-aus-einer-anderen-perspektive-der-alltag-einer-milchkuh/"/>
     <published>2024-11-24T12:28:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/</id>
+    <title>UNIversum testet: Veganfreundliche und vegane Cafés in Gießen</title>
+    <updated>2025-02-15T14:03:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/"/>
+    <published>2025-02-15T14:03:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/-CoolerStadtplan-verschafft-Gie%C3%9Fen-Abk%C3%BChlung-B%C3%BCrger-arbeiten-aktiv-mit-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.64678.1&amp;NavID=2874.584&amp;La=1</id>
