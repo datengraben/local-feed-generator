@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-17T13:08:47.121732+00:00</updated>
+  <updated>2025-02-17T15:05:43.731780+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -376,17 +376,6 @@
     <published>2025-01-18T01:30:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11863_1.PDF?1737625682</id>
-    <title>Recht auf Einsicht in das Wählerverzeichnis und die Erteilung von Wahlscheinen für die Wahl zum Deutschen Bundestag am 23. Februar 2025</title>
-    <updated>2025-01-25T01:30:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11863_1.PDF?1737625682"/>
-    <published>2025-01-25T01:30:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11864_1.PDF?1737627151</id>
     <title>Einleitung des Umlegungsverfahrens "Rinn'sche Grube"</title>
     <updated>2025-01-25T01:30:00+01:00</updated>
@@ -395,6 +384,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11864_1.PDF?1737627151"/>
+    <published>2025-01-25T01:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11863_1.PDF?1737625682</id>
+    <title>Recht auf Einsicht in das Wählerverzeichnis und die Erteilung von Wahlscheinen für die Wahl zum Deutschen Bundestag am 23. Februar 2025</title>
+    <updated>2025-01-25T01:30:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11863_1.PDF?1737625682"/>
     <published>2025-01-25T01:30:00+01:00</published>
   </entry>
   <entry>
@@ -429,28 +429,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_11965_1.PDF?1739447136"/>
     <published>2025-02-15T01:30:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zoras-traume-brauchen-raume/</id>
-    <title>„Zoras Träume brauchen Räume“ - Anna Huberta Präg, Darstellerin der Zora, im Gespräch über i...</title>
-    <updated>2025-02-17T13:08:36.778774+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zoras-traume-brauchen-raume/"/>
-    <published>2025-02-17T13:08:36.778774+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/</id>
-    <title>Über Hoffnung und falsche Versprechen - Die Regisseur*innen Amelie von Godin und Constantin Hochkepp...</title>
-    <updated>2025-01-21T15:04:20+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/"/>
-    <published>2025-01-21T15:04:20+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/nachhaltigkeit-am-stadttheater/</id>
@@ -508,6 +486,17 @@
     <published>2025-02-04T16:05:49+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/open-call-stadttheater-takeover/</id>
+    <title>Open Call: Stadttheater Takeover - Gemeinsam bunt, kreativ, engagiert und wild...</title>
+    <updated>2025-02-17T15:05:30.602900+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/open-call-stadttheater-takeover/"/>
+    <published>2025-02-17T15:05:30.602900+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/hat-gott-eigentlich-die-arbeitswoche-erfunden/</id>
     <title>Hat Gott eigentlich die Arbeitswoche erfunden? - Amina Eisner geht in ihrem Theaterstück „Generation Arbeit –...</title>
     <updated>2025-02-12T18:05:05+01:00</updated>
@@ -528,6 +517,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nur-noch-zwei-mal-mitislaw-der-moderne/"/>
     <published>2025-02-13T13:07:56+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/drei-tenore-fur-moses/</id>
+    <title>Drei Tenöre für Moses - Eric Jongyoung Kim, Randall Bills und Dakai Wei sind für Gio...</title>
+    <updated>2025-02-17T15:05:30.602900+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/drei-tenore-fur-moses/"/>
+    <published>2025-02-17T15:05:30.602900+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
