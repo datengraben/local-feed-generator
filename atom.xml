@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-18T13:07:37.479612+00:00</updated>
+  <updated>2025-02-18T14:04:22.160173+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -431,28 +431,6 @@
     <published>2025-02-15T01:30:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
-    <title>Der Gang vor die Hunde - Ökonomische Unsicherheit, moralischer Verfall, wachsender Ex...</title>
-    <updated>2025-01-22T10:03:37+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/"/>
-    <published>2025-01-22T10:03:37+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/warten-ist-keine-option/</id>
-    <title>Warten ist keine Option - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2025-02-04T16:05:49+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/warten-ist-keine-option/"/>
-    <published>2025-02-04T16:05:49+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 23. März - "Etudes": Das atmosphärische Tanzstück von Max Lev...</title>
     <updated>2025-02-10T10:04:30+01:00</updated>
@@ -508,6 +486,17 @@
     <published>2025-02-12T18:05:05+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ohne-umwege-in-die-gegenwart/</id>
+    <title>Ohne Umwege in die Gegenwart - Dick ist die Blutspur, die sich durch die Familiengeschichte...</title>
+    <updated>2025-02-18T14:04:10.914546+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ohne-umwege-in-die-gegenwart/"/>
+    <published>2025-02-18T14:04:10.914546+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/nur-noch-zwei-mal-mitislaw-der-moderne/</id>
     <title>Nur noch zwei Mal: "Mitislaw der Moderne" - Wir spielen die Operette von Franz Lehár nur noch am 22. Feb...</title>
     <updated>2025-02-13T13:07:56+01:00</updated>
@@ -517,6 +506,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nur-noch-zwei-mal-mitislaw-der-moderne/"/>
     <published>2025-02-13T13:07:56+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/</id>
+    <title>Über Hoffnung und falsche Versprechen - Die Regisseur*innen Amelie von Godin und Constantin Hochkepp...</title>
+    <updated>2025-02-18T14:04:10.914546+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uber-hoffnung-und-falsche-versprechen/"/>
+    <published>2025-02-18T14:04:10.914546+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/drei-tenore-fur-moses/</id>
@@ -532,13 +532,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schulhoff-schnittke-und-schreker/</id>
     <title>Schulhoff, Schnittke und Schreker - Das 4. Sinfoniekonzert widmet sich drei jüdischen Komponiste...</title>
-    <updated>2025-02-18T13:07:22.957610+01:00</updated>
+    <updated>2025-02-18T13:07:22+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schulhoff-schnittke-und-schreker/"/>
-    <published>2025-02-18T13:07:22.957610+01:00</published>
+    <published>2025-02-18T13:07:22+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/zeitgemaesse-waerme-fuer-das-liebig-museum-20</id>
