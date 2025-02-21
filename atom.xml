@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-20T14:04:06.229726+00:00</updated>
+  <updated>2025-02-21T14:03:43.507608+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -616,5 +616,280 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/staufenberg-und-swg-erneuern-ihre-partnerschaft"/>
     <published>2025-02-20T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%A4hlerverzeichnisse-f%C3%BCr-die-Bundestagswahl-werden-aufgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68674.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Update: Briefwahl-Start hängt von Lieferung der Stimmzettel ab</title>
+    <updated>2025-02-03T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%A4hlerverzeichnisse-f%C3%BCr-die-Bundestagswahl-werden-aufgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68674.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-03T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Galakto-Player-und-Token-in-der-Stadtbibliothek-ausleihbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue Galakto-Player und »Token« in der Stadtbibliothek ausleihbar</title>
+    <updated>2025-02-03T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Galakto-Player-und-Token-in-der-Stadtbibliothek-ausleihbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-03T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auf-der-Suche-nach-den-Zukunftsgestalter-innen-Infostand-der-Tr%C3%A4ger-Jugendhilfe-im-Neust%C3%A4dter-Tor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69505.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Auf der Suche nach den Zukunftsgestalter/innen</title>
+    <updated>2025-02-04T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auf-der-Suche-nach-den-Zukunftsgestalter-innen-Infostand-der-Tr%C3%A4ger-Jugendhilfe-im-Neust%C3%A4dter-Tor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69505.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-04T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versand-und-Ausgabe-der-Briefwahlunterlagen-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69515.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Versand und Ausgabe der Briefwahlunterlagen beginnt</title>
+    <updated>2025-02-05T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versand-und-Ausgabe-der-Briefwahlunterlagen-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69515.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-05T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundesweiter-Aktionstag-Girls-Day-und-Boys-Day-am-3-April.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69518.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bundesweiter Aktionstag Girls' Day und Boys' Day am 3. April</title>
+    <updated>2025-02-06T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundesweiter-Aktionstag-Girls-Day-und-Boys-Day-am-3-April.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69518.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-06T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-f%C3%BCr-Fortgeschrittene-G%C3%A4stef%C3%BChrer-aus-den-St%C3%A4dten-an-der-Lahn-zu-Gast-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69531.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen für Fortgeschrittene: Gästeführer aus den Städten an der Lahn zu Gast in Gießen</title>
+    <updated>2025-02-06T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-f%C3%BCr-Fortgeschrittene-G%C3%A4stef%C3%BChrer-aus-den-St%C3%A4dten-an-der-Lahn-zu-Gast-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69531.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-06T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-Programmangebote-f%C3%BCr-das-Ferienprogramm-einreichen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69533.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Jetzt Programmangebote für das Ferienprogramm einreichen</title>
+    <updated>2025-02-06T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-Programmangebote-f%C3%BCr-das-Ferienprogramm-einreichen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69533.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-06T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Im-Rathaus-gibt-es-jetzt-einen-R%C3%BCckzugsort-zum-Stillen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69536.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Im Rathaus gibt es jetzt einen Rückzugsort zum Stillen</title>
+    <updated>2025-02-07T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Im-Rathaus-gibt-es-jetzt-einen-R%C3%BCckzugsort-zum-Stillen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69536.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-07T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Anmeldung-f%C3%BCr-die-Saisong%C3%A4rten-2025-gestartet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69566.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Anmeldung für die Saisongärten 2025 gestartet</title>
+    <updated>2025-02-11T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Anmeldung-f%C3%BCr-die-Saisong%C3%A4rten-2025-gestartet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69566.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-11T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Steine-Glas-und-Glauben-neue-Erlebnisse-rund-um-die-Johanneskirche-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69567.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Steine, Glas und Glauben - neue Erlebnisse rund um die Johanneskirche in Gießen</title>
+    <updated>2025-02-12T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Steine-Glas-und-Glauben-neue-Erlebnisse-rund-um-die-Johanneskirche-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69567.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-12T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rodungsarbeiten-an-der-R%C3%B6dgener-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69534.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Abgeschlossen: Rodungsarbeiten an der Rödgener Straße</title>
+    <updated>2025-02-13T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rodungsarbeiten-an-der-R%C3%B6dgener-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69534.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-13T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4rrische-Macht%C3%BCbernahme-durch-die-Gie%C3%9Fener-Fassenachts-Vereinigung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69743.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Närrische Machtübernahme durch die Gießener Fassenachts-Vereinigung</title>
+    <updated>2025-02-14T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4rrische-Macht%C3%BCbernahme-durch-die-Gie%C3%9Fener-Fassenachts-Vereinigung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69743.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-14T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Heimwegtelefon-und-Stadt-Gie%C3%9Fen-kooperieren-Ein-weiterer-Schritt-f%C3%BCr-mehr-Sicherheit-im-Nachtleben-und-auf-dem-Nachhauseweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69744.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Heimwegtelefon und Stadt Gießen kooperieren: Ein weiterer Schritt für mehr Sicherheit im Nachtleben und auf dem Nachhauseweg</title>
+    <updated>2025-02-14T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Heimwegtelefon-und-Stadt-Gie%C3%9Fen-kooperieren-Ein-weiterer-Schritt-f%C3%BCr-mehr-Sicherheit-im-Nachtleben-und-auf-dem-Nachhauseweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69744.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-14T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Baumf%C3%A4llungen-von-stark-gesch%C3%A4digten-Linden-entlang-des-Klingelbachs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69746.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Baumfällungen von stark geschädigten Linden entlang des Klingelbachs</title>
+    <updated>2025-02-14T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Baumf%C3%A4llungen-von-stark-gesch%C3%A4digten-Linden-entlang-des-Klingelbachs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69746.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-14T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/6-Gie%C3%9Fener-Senior-innenmesse-Anmeldungen-ab-sofort-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69754.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>6. Gießener Senior*innenmesse - Anmeldungen ab sofort möglich</title>
+    <updated>2025-02-17T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/6-Gie%C3%9Fener-Senior-innenmesse-Anmeldungen-ab-sofort-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69754.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-17T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gehwege-m%C3%BCssen-frei-bleiben-Stadt-erinnert-Grundst%C3%BCcksbesitzer-Hecken-zur%C3%BCckzuschneiden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69755.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gehwege müssen frei bleiben: Stadt erinnert Grundstücksbesitzer, Hecken zurückzuschneiden</title>
+    <updated>2025-02-17T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gehwege-m%C3%BCssen-frei-bleiben-Stadt-erinnert-Grundst%C3%BCcksbesitzer-Hecken-zur%C3%BCckzuschneiden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69755.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-17T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/K22-Udersbergstra%C3%9Fe-und-Seeweg-in-R%C3%B6dgen-wegen-Amphibienwanderungen-zeitweise-gesperrt-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69756.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>K22/Udersbergstraße und Seeweg in Rödgen wegen Amphibienwanderungen zeitweise gesperrt</title>
+    <updated>2025-02-17T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/K22-Udersbergstra%C3%9Fe-und-Seeweg-in-R%C3%B6dgen-wegen-Amphibienwanderungen-zeitweise-gesperrt-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69756.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-17T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zukunftsstrategie-f%C3%BCr-Gie%C3%9Fen-Digitalisierung-als-Motor-f%C3%BCr-eine-leistungsf%C3%A4hige-lebenswerte-und-b%C3%BCrgerfreundliche-Stadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69770.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Zukunftsstrategie für Gießen: Digitalisierung als Motor für eine leistungsfähige, lebenswerte und bürgerfreundliche Stadt</title>
+    <updated>2025-02-18T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zukunftsstrategie-f%C3%BCr-Gie%C3%9Fen-Digitalisierung-als-Motor-f%C3%BCr-eine-leistungsf%C3%A4hige-lebenswerte-und-b%C3%BCrgerfreundliche-Stadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69770.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-18T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Museum-f%C3%BCr-Gie%C3%9Fen-Studierende-pr%C3%A4sentieren-Interventionen-zur-verl%C3%A4ngerten-Ausstellung-Bruchst%C3%BCcke-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69771.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Museum für Gießen: Studierende präsentieren Interventionen zur verlängerten Ausstellung »Bruchstücke«</title>
+    <updated>2025-02-18T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Museum-f%C3%BCr-Gie%C3%9Fen-Studierende-pr%C3%A4sentieren-Interventionen-zur-verl%C3%A4ngerten-Ausstellung-Bruchst%C3%BCcke-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69771.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-18T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Leonardo-Ausstellung-im-Mathematikum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69569.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Leonardo-Ausstellung im Mathematikum</title>
+    <updated>2025-02-20T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Leonardo-Ausstellung-im-Mathematikum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69569.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-20T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Karten-f%C3%BCr-den-Fassenachtsnachmittag-der-Senioren-erh%C3%A4ltlich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69785.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Noch Karten für den Fassenachtsnachmittag der Senioren erhältlich</title>
+    <updated>2025-02-20T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Karten-f%C3%BCr-den-Fassenachtsnachmittag-der-Senioren-erh%C3%A4ltlich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69785.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-20T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ricarda-Huch-Schule-Rad-Projekt-ausgezeichnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69786.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ricarda-Huch-Schule Rad-Projekt ausgezeichnet</title>
+    <updated>2025-02-20T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ricarda-Huch-Schule-Rad-Projekt-ausgezeichnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69786.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-20T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Programm-zum-Internationalen-Frauentag-2025-liegt-vor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69787.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Das Programm zum Internationalen Frauentag 2025 liegt vor</title>
+    <updated>2025-02-20T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Programm-zum-Internationalen-Frauentag-2025-liegt-vor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69787.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-20T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wissenswertes-zur-Bundestagswahl-am-23-Februar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69745.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wissenswertes zur Bundestagswahl am 23. Februar</title>
+    <updated>2025-02-21T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wissenswertes-zur-Bundestagswahl-am-23-Februar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69745.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-21T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wahllokalfinder-und-Infos-f%C3%BCr-den-Wahltag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16301.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wahllokalfinder und Infos für den Wahltag</title>
+    <updated>2025-02-21T14:03:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wahllokalfinder-und-Infos-f%C3%BCr-den-Wahltag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16301.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-02-21T14:03:00+01:00</published>
   </entry>
 </feed>
