@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-21T15:04:16.052154+00:00</updated>
+  <updated>2025-02-22T15:03:49.991552+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -365,17 +365,6 @@
     <published>2025-01-01T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11864_1.PDF?1737627151</id>
-    <title>Einleitung des Umlegungsverfahrens "Rinn'sche Grube"</title>
-    <updated>2025-01-25T01:30:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11864_1.PDF?1737627151"/>
-    <published>2025-01-25T01:30:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11863_1.PDF?1737625682</id>
     <title>Recht auf Einsicht in das Wählerverzeichnis und die Erteilung von Wahlscheinen für die Wahl zum Deutschen Bundestag am 23. Februar 2025</title>
     <updated>2025-01-25T01:30:00+01:00</updated>
@@ -384,6 +373,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11863_1.PDF?1737625682"/>
+    <published>2025-01-25T01:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11864_1.PDF?1737627151</id>
+    <title>Einleitung des Umlegungsverfahrens "Rinn'sche Grube"</title>
+    <updated>2025-01-25T01:30:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11864_1.PDF?1737627151"/>
     <published>2025-01-25T01:30:00+01:00</published>
   </entry>
   <entry>
@@ -487,7 +487,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/nur-noch-zwei-mal-mitislaw-der-moderne/</id>
-    <title>Nur noch zwei Mal: "Mitislaw der Moderne" - Zum letzten Mal: Operette von Franz Lehár nur noch am 2. Mär...</title>
+    <title>Zum letzten Mal: "Mitislaw der Moderne" - Zum letzten Mal: Operette von Franz Lehár nur noch am 2. Mär...</title>
     <updated>2025-02-13T13:07:56+01:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -618,15 +618,26 @@
     <published>2025-02-20T14:03:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%A4hlerverzeichnisse-f%C3%BCr-die-Bundestagswahl-werden-aufgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68674.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Update: Briefwahl-Start hängt von Lieferung der Stimmzettel ab</title>
-    <updated>2025-02-03T00:00:00+01:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nextbike-Leihradsystem-in-Gie%C3%9Fen-setzt-auf-Ausbau-und-E-Lastenr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69302.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Nextbike-Leihradsystem in Gießen setzt auf Ausbau und E-Lastenräder</title>
+    <updated>2025-01-31T00:00:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/W%C3%A4hlerverzeichnisse-f%C3%BCr-die-Bundestagswahl-werden-aufgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68674.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-03T00:00:00+01:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nextbike-Leihradsystem-in-Gie%C3%9Fen-setzt-auf-Ausbau-und-E-Lastenr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69302.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-01-31T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-15-M%C3%A4rz-beginnt-die-Stadtf%C3%BChrungs-Saison.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69303.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Am 15. März beginnt die Stadtführungs-Saison</title>
+    <updated>2025-01-31T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-15-M%C3%A4rz-beginnt-die-Stadtf%C3%BChrungs-Saison.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69303.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-01-31T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Galakto-Player-und-Token-in-der-Stadtbibliothek-ausleihbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -649,17 +660,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auf-der-Suche-nach-den-Zukunftsgestalter-innen-Infostand-der-Tr%C3%A4ger-Jugendhilfe-im-Neust%C3%A4dter-Tor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69505.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-02-04T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versand-und-Ausgabe-der-Briefwahlunterlagen-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69515.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Versand und Ausgabe der Briefwahlunterlagen beginnt</title>
-    <updated>2025-02-05T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versand-und-Ausgabe-der-Briefwahlunterlagen-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69515.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-05T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundesweiter-Aktionstag-Girls-Day-und-Boys-Day-am-3-April.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69518.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
