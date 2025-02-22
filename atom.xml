@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-22T15:03:49.991552+00:00</updated>
+  <updated>2025-02-22T22:03:52.479047+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -365,17 +365,6 @@
     <published>2025-01-01T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11863_1.PDF?1737625682</id>
-    <title>Recht auf Einsicht in das Wählerverzeichnis und die Erteilung von Wahlscheinen für die Wahl zum Deutschen Bundestag am 23. Februar 2025</title>
-    <updated>2025-01-25T01:30:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11863_1.PDF?1737625682"/>
-    <published>2025-01-25T01:30:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11864_1.PDF?1737627151</id>
     <title>Einleitung des Umlegungsverfahrens "Rinn'sche Grube"</title>
     <updated>2025-01-25T01:30:00+01:00</updated>
@@ -384,6 +373,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_11864_1.PDF?1737627151"/>
+    <published>2025-01-25T01:30:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_11863_1.PDF?1737625682</id>
+    <title>Recht auf Einsicht in das Wählerverzeichnis und die Erteilung von Wahlscheinen für die Wahl zum Deutschen Bundestag am 23. Februar 2025</title>
+    <updated>2025-01-25T01:30:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_11863_1.PDF?1737625682"/>
     <published>2025-01-25T01:30:00+01:00</published>
   </entry>
   <entry>
@@ -616,6 +616,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/staufenberg-und-swg-erneuern-ihre-partnerschaft"/>
     <published>2025-02-20T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-in-Gie%C3%9Fen-Petersweiher-nach-Rohrbruch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69297.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vollsperrung in Gießen-Petersweiher nach Rohrbruch</title>
+    <updated>2025-01-28T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-in-Gie%C3%9Fen-Petersweiher-nach-Rohrbruch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69297.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-01-28T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nextbike-Leihradsystem-in-Gie%C3%9Fen-setzt-auf-Ausbau-und-E-Lastenr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69302.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -879,17 +890,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wissenswertes-zur-Bundestagswahl-am-23-Februar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69745.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-21T14:03:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wahllokalfinder-und-Infos-f%C3%BCr-den-Wahltag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16301.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wahllokalfinder und Infos für den Wahltag</title>
-    <updated>2025-02-21T14:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wahllokalfinder-und-Infos-f%C3%BCr-den-Wahltag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16301.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-02-21T14:03:00+01:00</published>
   </entry>
 </feed>
