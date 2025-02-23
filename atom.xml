@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-22T22:03:52.479047+00:00</updated>
+  <updated>2025-02-23T15:04:01.583002+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -618,6 +618,17 @@
     <published>2025-02-20T14:03:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kulturamt-baut-Netzwerke-Kulturelle-Bildung-weiter-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69290.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kulturamt baut Netzwerke Kulturelle Bildung weiter aus</title>
+    <updated>2025-01-27T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kulturamt-baut-Netzwerke-Kulturelle-Bildung-weiter-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69290.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-01-27T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-in-Gie%C3%9Fen-Petersweiher-nach-Rohrbruch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69297.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Vollsperrung in Gießen-Petersweiher nach Rohrbruch</title>
     <updated>2025-01-28T00:00:00+01:00</updated>
@@ -737,17 +748,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Steine-Glas-und-Glauben-neue-Erlebnisse-rund-um-die-Johanneskirche-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69567.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-02-12T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rodungsarbeiten-an-der-R%C3%B6dgener-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69534.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Abgeschlossen: Rodungsarbeiten an der Rödgener Straße</title>
-    <updated>2025-02-13T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rodungsarbeiten-an-der-R%C3%B6dgener-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69534.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-13T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4rrische-Macht%C3%BCbernahme-durch-die-Gie%C3%9Fener-Fassenachts-Vereinigung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69743.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
