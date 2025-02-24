@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-24T10:04:36.093949+00:00</updated>
+  <updated>2025-02-24T23:04:05.432327+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -365,17 +365,6 @@
     <published>2025-01-01T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_11863_1.PDF?1737625682</id>
-    <title>Recht auf Einsicht in das Wählerverzeichnis und die Erteilung von Wahlscheinen für die Wahl zum Deutschen Bundestag am 23. Februar 2025</title>
-    <updated>2025-01-25T01:30:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_11863_1.PDF?1737625682"/>
-    <published>2025-01-25T01:30:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_11864_1.PDF?1737627151</id>
     <title>Einleitung des Umlegungsverfahrens "Rinn'sche Grube"</title>
     <updated>2025-01-25T01:30:00+01:00</updated>
@@ -411,24 +400,24 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/warten-ist-keine-option/</id>
     <title>Warten ist keine Option - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2025-02-24T10:04:24.940102+01:00</updated>
+    <updated>2025-02-24T10:04:24+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/warten-ist-keine-option/"/>
-    <published>2025-02-24T10:04:24.940102+01:00</published>
+    <published>2025-02-24T10:04:24+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/</id>
     <title>„Jede Variation erzählt eine eigene Geschichte“ - Der Choreograf Max Levy im Gespräch mit der Dramaturgin Caro...</title>
-    <updated>2025-02-24T10:04:24.940102+01:00</updated>
+    <updated>2025-02-24T10:04:24+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/"/>
-    <published>2025-02-24T10:04:24.940102+01:00</published>
+    <published>2025-02-24T10:04:24+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
