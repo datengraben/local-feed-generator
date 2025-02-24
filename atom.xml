@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-23T23:03:59.563021+00:00</updated>
+  <updated>2025-02-24T03:10:58.364703+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -607,6 +607,17 @@
     <published>2025-02-20T14:03:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-die-Buslinien-18-und-801.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69289.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Umleitung für die Buslinien 18 und 801</title>
+    <updated>2025-01-24T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-die-Buslinien-18-und-801.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69289.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-01-24T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kulturamt-baut-Netzwerke-Kulturelle-Bildung-weiter-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69290.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Kulturamt baut Netzwerke Kulturelle Bildung weiter aus</title>
     <updated>2025-01-27T00:00:00+01:00</updated>
@@ -869,16 +880,5 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Programm-zum-Internationalen-Frauentag-2025-liegt-vor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69787.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-02-20T18:04:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wissenswertes-zur-Bundestagswahl-am-23-Februar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69745.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wissenswertes zur Bundestagswahl am 23. Februar</title>
-    <updated>2025-02-21T18:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wissenswertes-zur-Bundestagswahl-am-23-Februar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69745.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-21T18:04:00+01:00</published>
   </entry>
 </feed>
