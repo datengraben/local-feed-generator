@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-25T23:04:17.066505+00:00</updated>
+  <updated>2025-02-27T12:06:24.830009+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -583,5 +583,16 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/staufenberg-und-swg-erneuern-ihre-partnerschaft"/>
     <published>2025-02-20T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/busverkehr-am-faschingssonntag-3</id>
+    <title>Busverkehr am Faschingssonntag</title>
+    <updated>2025-02-27T12:06:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/busverkehr-am-faschingssonntag-3"/>
+    <published>2025-02-27T12:06:00+01:00</published>
   </entry>
 </feed>
