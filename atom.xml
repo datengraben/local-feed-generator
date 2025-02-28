@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-28T15:04:31.291351+00:00</updated>
+  <updated>2025-02-28T16:04:41.064431+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -387,17 +387,6 @@
     <published>2025-02-15T01:30:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/warten-ist-keine-option/</id>
-    <title>Warten ist keine Option - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2025-02-24T10:04:24+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/warten-ist-keine-option/"/>
-    <published>2025-02-24T10:04:24+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/</id>
     <title>„Jede Variation erzählt eine eigene Geschichte“ - Der Choreograf Max Levy im Gespräch mit der Dramaturgin Caro...</title>
     <updated>2025-02-24T10:04:24+01:00</updated>
@@ -475,15 +464,26 @@
     <published>2025-02-17T15:05:30+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/uberraschungsei-kapseln-fur-das-junge-theater-gesucht/</id>
+    <title>Überraschungsei-Kapseln für das Junge Theater gesucht - Das Junge Theater bereitet eine Überraschung vor für kommend...</title>
+    <updated>2025-02-28T16:04:29.838499+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uberraschungsei-kapseln-fur-das-junge-theater-gesucht/"/>
+    <published>2025-02-28T16:04:29.838499+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/42-heidelberger-stuckemarkt-wir-sind-dabei/</id>
     <title>42. Heidelberger Stückemarkt: Wir sind dabei! - Unsere Produktion "Gelbes Gold" ist zu dem renommi...</title>
-    <updated>2025-02-28T15:04:19.320776+01:00</updated>
+    <updated>2025-02-28T15:04:19+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/42-heidelberger-stuckemarkt-wir-sind-dabei/"/>
-    <published>2025-02-28T15:04:19.320776+01:00</published>
+    <published>2025-02-28T15:04:19+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/am-fastnachtssonntag-aufs-gleis-neun-dreiviertel/</id>
