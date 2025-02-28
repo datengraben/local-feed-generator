@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-02-27T12:06:24.830009+00:00</updated>
+  <updated>2025-02-28T15:04:31.291351+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -475,15 +475,15 @@
     <published>2025-02-17T15:05:30+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/nur-noch-zwei-mal-mitislaw-der-moderne/</id>
-    <title>Zum letzten Mal: "Mitislaw der Moderne" - Zum letzten Mal: Operette von Franz Lehár nur noch am 2. Mär...</title>
-    <updated>2025-02-13T13:07:56+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/42-heidelberger-stuckemarkt-wir-sind-dabei/</id>
+    <title>42. Heidelberger Stückemarkt: Wir sind dabei! - Unsere Produktion "Gelbes Gold" ist zu dem renommi...</title>
+    <updated>2025-02-28T15:04:19.320776+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nur-noch-zwei-mal-mitislaw-der-moderne/"/>
-    <published>2025-02-13T13:07:56+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/42-heidelberger-stuckemarkt-wir-sind-dabei/"/>
+    <published>2025-02-28T15:04:19.320776+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/am-fastnachtssonntag-aufs-gleis-neun-dreiviertel/</id>
