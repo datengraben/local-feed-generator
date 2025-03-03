@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-03T16:04:41.894533+00:00</updated>
+  <updated>2025-03-03T22:04:16.252157+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -510,13 +510,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jin-jiyan-azadi/</id>
     <title>Jin, Jiyan, Azadî - Am Samstag, den 8. März um 20 Uhr im Kleinen Haus: Musik, Te...</title>
-    <updated>2025-03-03T16:04:30.042850+01:00</updated>
+    <updated>2025-03-03T16:04:30+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jin-jiyan-azadi/"/>
-    <published>2025-03-03T16:04:30.042850+01:00</published>
+    <published>2025-03-03T16:04:30+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/zeitgemaesse-waerme-fuer-das-liebig-museum-20</id>
@@ -616,6 +616,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/busverkehr-am-faschingssonntag-3"/>
     <published>2025-02-27T12:06:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-15-M%C3%A4rz-beginnt-die-Stadtf%C3%BChrungs-Saison.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69303.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Am 15. März beginnt die Stadtführungs-Saison</title>
+    <updated>2025-01-31T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-15-M%C3%A4rz-beginnt-die-Stadtf%C3%BChrungs-Saison.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69303.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-01-31T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Galakto-Player-und-Token-in-der-Stadtbibliothek-ausleihbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -835,17 +846,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gefahrenabwehrzentrum-pr%C3%A4miert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72830.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-27T00:17:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ludwigstra%C3%9Fe-wegen-Fasching-kurzzeitig-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72822.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ludwigstraße an Fasching kurzzeitig voll gesperrt - Beeinträchtigungen im Busverkehr </title>
-    <updated>2025-02-27T00:17:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ludwigstra%C3%9Fe-wegen-Fasching-kurzzeitig-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72822.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-02-27T00:17:00+01:00</published>
   </entry>
   <entry>
