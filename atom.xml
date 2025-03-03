@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-03T09:05:18.917859+00:00</updated>
+  <updated>2025-03-03T12:06:35.040411+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -411,24 +411,24 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
     <title>Der Gang vor die Hunde - Ökonomische Unsicherheit, moralischer Verfall, wachsender Ex...</title>
-    <updated>2025-03-03T09:05:07.854492+01:00</updated>
+    <updated>2025-03-03T09:05:07+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/"/>
-    <published>2025-03-03T09:05:07.854492+01:00</published>
+    <published>2025-03-03T09:05:07+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/warten-ist-keine-option/</id>
     <title>Warten ist keine Option - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2025-03-03T09:05:07.854492+01:00</updated>
+    <updated>2025-03-03T09:05:07+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/warten-ist-keine-option/"/>
-    <published>2025-03-03T09:05:07.854492+01:00</published>
+    <published>2025-03-03T09:05:07+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/</id>
@@ -616,17 +616,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/busverkehr-am-faschingssonntag-3"/>
     <published>2025-02-27T12:06:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nextbike-Leihradsystem-in-Gie%C3%9Fen-setzt-auf-Ausbau-und-E-Lastenr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69302.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Nextbike-Leihradsystem in Gießen setzt auf Ausbau und E-Lastenräder</title>
-    <updated>2025-01-31T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nextbike-Leihradsystem-in-Gie%C3%9Fen-setzt-auf-Ausbau-und-E-Lastenr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69302.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-01-31T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-15-M%C3%A4rz-beginnt-die-Stadtf%C3%BChrungs-Saison.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69303.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -891,5 +880,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Viele-Impulse-f%C3%BCr-den-Ausbau-erneuerbarer-Energien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72838.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-02-28T00:17:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Qualifizierte-Energieberatung-f%C3%BCr-Eigenheimbesitzer-auf-der-BAUExpo.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72840.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Qualifizierte Energieberatung für Eigenheimbesitzer auf der BAUExpo</title>
+    <updated>2025-03-03T12:06:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Qualifizierte-Energieberatung-f%C3%BCr-Eigenheimbesitzer-auf-der-BAUExpo.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72840.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-03-03T12:06:00+01:00</published>
   </entry>
 </feed>
