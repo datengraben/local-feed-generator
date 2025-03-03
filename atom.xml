@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-03T12:06:35.040411+00:00</updated>
+  <updated>2025-03-03T15:04:33.297537+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -618,17 +618,6 @@
     <published>2025-02-27T12:06:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-15-M%C3%A4rz-beginnt-die-Stadtf%C3%BChrungs-Saison.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69303.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Am 15. März beginnt die Stadtführungs-Saison</title>
-    <updated>2025-01-31T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-15-M%C3%A4rz-beginnt-die-Stadtf%C3%BChrungs-Saison.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69303.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-01-31T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Galakto-Player-und-Token-in-der-Stadtbibliothek-ausleihbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Neue Galakto-Player und »Token« in der Stadtbibliothek ausleihbar</title>
     <updated>2025-02-03T00:00:00+01:00</updated>
@@ -891,5 +880,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Qualifizierte-Energieberatung-f%C3%BCr-Eigenheimbesitzer-auf-der-BAUExpo.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72840.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-03-03T12:06:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sprachkurs-trifft-Stadtpolitik-Gefl%C3%BCchtete-zu-Besuch-im-Rathaus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72841.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sprachkurs trifft Stadtpolitik: Geflüchtete zu Besuch im Rathaus</title>
+    <updated>2025-03-03T15:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sprachkurs-trifft-Stadtpolitik-Gefl%C3%BCchtete-zu-Besuch-im-Rathaus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72841.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-03-03T15:04:00+01:00</published>
   </entry>
 </feed>
