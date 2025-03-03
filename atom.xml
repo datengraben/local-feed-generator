@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-03T00:18:10.585323+00:00</updated>
+  <updated>2025-03-03T09:05:18.917859+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -376,6 +376,17 @@
     <published>2025-02-15T01:30:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_12031_1.PDF?1740744438</id>
+    <title>Bauleitplanung: Offenlage des vorhabenbezogenen Bebauungsplanes GI 04/33 "Schiffenberger Weg 21 + 23" (Grüne Stadt-Terrassen Gießen)</title>
+    <updated>2025-03-01T01:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12031_1.PDF?1740744438"/>
+    <published>2025-03-01T01:31:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_12030_1.PDF?1740744438</id>
     <title>Bauleitplanung: Erlass des Bebauungsplans Nr. G 70 »Eisteiche« 2. Änderung</title>
     <updated>2025-03-01T01:31:00+01:00</updated>
@@ -398,15 +409,26 @@
     <published>2025-03-01T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_12031_1.PDF?1740744438</id>
-    <title>Bauleitplanung: Offenlage des vorhabenbezogenen Bebauungsplanes GI 04/33 "Schiffenberger Weg 21 + 23" (Grüne Stadt-Terrassen Gießen)</title>
-    <updated>2025-03-01T01:31:00+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
+    <title>Der Gang vor die Hunde - Ökonomische Unsicherheit, moralischer Verfall, wachsender Ex...</title>
+    <updated>2025-03-03T09:05:07.854492+01:00</updated>
     <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://giessen.de/media/custom/2874_12031_1.PDF?1740744438"/>
-    <published>2025-03-01T01:31:00+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/"/>
+    <published>2025-03-03T09:05:07.854492+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/warten-ist-keine-option/</id>
+    <title>Warten ist keine Option - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
+    <updated>2025-03-03T09:05:07.854492+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/warten-ist-keine-option/"/>
+    <published>2025-03-03T09:05:07.854492+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/</id>
@@ -440,17 +462,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/hat-gott-eigentlich-die-arbeitswoche-erfunden/"/>
     <published>2025-02-12T18:05:05+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ohne-umwege-in-die-gegenwart/</id>
-    <title>Ohne Umwege in die Gegenwart - Dick ist die Blutspur, die sich durch die Familiengeschichte...</title>
-    <updated>2025-02-18T14:04:10+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ohne-umwege-in-die-gegenwart/"/>
-    <published>2025-02-18T14:04:10+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
@@ -506,17 +517,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/42-heidelberger-stuckemarkt-wir-sind-dabei/"/>
     <published>2025-02-28T15:04:19+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/am-fastnachtssonntag-aufs-gleis-neun-dreiviertel/</id>
-    <title>Am Fastnachtssonntag aufs Gleis Neun Dreiviertel - Konzert für Junges Publikum beginnt um 17:00 Uhr...</title>
-    <updated>2025-02-05T11:04:02+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/am-fastnachtssonntag-aufs-gleis-neun-dreiviertel/"/>
-    <published>2025-02-05T11:04:02+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/zeitgemaesse-waerme-fuer-das-liebig-museum-20</id>
