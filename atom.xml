@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-03T15:04:33.297537+00:00</updated>
+  <updated>2025-03-03T16:04:41.894533+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -409,17 +409,6 @@
     <published>2025-03-01T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
-    <title>Der Gang vor die Hunde - Ökonomische Unsicherheit, moralischer Verfall, wachsender Ex...</title>
-    <updated>2025-03-03T09:05:07+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/"/>
-    <published>2025-03-03T09:05:07+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/warten-ist-keine-option/</id>
     <title>Warten ist keine Option - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
     <updated>2025-03-03T09:05:07+01:00</updated>
@@ -517,6 +506,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/42-heidelberger-stuckemarkt-wir-sind-dabei/"/>
     <published>2025-02-28T15:04:19+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jin-jiyan-azadi/</id>
+    <title>Jin, Jiyan, Azadî - Am Samstag, den 8. März um 20 Uhr im Kleinen Haus: Musik, Te...</title>
+    <updated>2025-03-03T16:04:30.042850+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jin-jiyan-azadi/"/>
+    <published>2025-03-03T16:04:30.042850+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/zeitgemaesse-waerme-fuer-das-liebig-museum-20</id>
