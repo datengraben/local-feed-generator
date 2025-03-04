@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-04T13:09:06.622282+00:00</updated>
+  <updated>2025-03-04T14:04:31.216477+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -510,13 +510,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/izabella-radic-zu-die-brucke-von-mostar/</id>
     <title>Izabella Radić zu „Die Brücke von Mostar“ - In drei kurzen Antworten erzählt uns Schauspielerin Izabella...</title>
-    <updated>2025-03-04T13:08:52.733154+01:00</updated>
+    <updated>2025-03-04T13:08:52+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/izabella-radic-zu-die-brucke-von-mostar/"/>
-    <published>2025-03-04T13:08:52.733154+01:00</published>
+    <published>2025-03-04T13:08:52+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/zeitgemaesse-waerme-fuer-das-liebig-museum-20</id>
@@ -616,17 +616,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/busverkehr-am-faschingssonntag-3"/>
     <published>2025-02-27T12:06:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Galakto-Player-und-Token-in-der-Stadtbibliothek-ausleihbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neue Galakto-Player und »Token« in der Stadtbibliothek ausleihbar</title>
-    <updated>2025-02-03T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Galakto-Player-und-Token-in-der-Stadtbibliothek-ausleihbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-03T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auf-der-Suche-nach-den-Zukunftsgestalter-innen-Infostand-der-Tr%C3%A4ger-Jugendhilfe-im-Neust%C3%A4dter-Tor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69505.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -891,5 +880,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/13-600-Glasfaseranschl%C3%BCsse-f%C3%BCr-Gie%C3%9Fen-Stadt-und-Telekom-unterzeichnen-gemeinsames-Eckpunktepapier.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72843.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-03-04T10:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gedenken-an-die-Deportation-Gie%C3%9Fener-Sinti-und-Jenischen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16509.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gedenken an die Deportation Gießener Sinti und Jenischen</title>
+    <updated>2025-03-04T14:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gedenken-an-die-Deportation-Gie%C3%9Fener-Sinti-und-Jenischen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16509.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-03-04T14:04:00+01:00</published>
   </entry>
 </feed>
