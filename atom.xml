@@ -2,21 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-05T13:09:12.012718+00:00</updated>
+  <updated>2025-03-05T18:05:18.421946+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.asta-giessen.de/tvstud_aktionswoche_programm/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2023-11-27T00:00:00+01:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/tvstud_aktionswoche_programm/"/>
-    <published>2023-11-27T00:00:00+01:00</published>
-  </entry>
   <entry>
     <id>https://www.asta-giessen.de/8616-2/</id>
     <title>Neuer Beitrag</title>
@@ -115,6 +104,17 @@
     </author>
     <link href="https://www.asta-giessen.de/9131-2/"/>
     <published>2024-06-30T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/9370-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2024-09-25T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/9370-2/"/>
+    <published>2024-09-25T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>https://universum-giessen.com/2024/02/23/anderen-helfen-aber-wie-gespraech-zu-ehrenamtlicher-arbeit-mit-der-studentin-selin-demirci/</id>
