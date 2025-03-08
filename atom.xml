@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-07T11:04:09.859207+00:00</updated>
+  <updated>2025-03-08T01:29:10.664872+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -398,6 +398,17 @@
     <published>2025-03-01T01:31:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_12082_1.PDF?1741270329</id>
+    <title>Bauleitplanung: Erlass der 2. vorhabenbezogenen Änderung des vorhabenbezogenen Bebauungsplanes KL 09/05 "Waldweide"</title>
+    <updated>2025-03-08T01:28:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12082_1.PDF?1741270329"/>
+    <published>2025-03-08T01:28:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/girls-boys-day-2025/</id>
     <title>Girls*&amp;Boys*-Day 2025 - Wir laden interessierte junge Menschen ein, ihren diesjährig...</title>
     <updated>2025-02-11T13:08:01+01:00</updated>
@@ -499,13 +510,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
     <title>Weil es in alle Herzen passt - Regisseurin Simone Sterr im Gespräch mit Lena Meyerhoff über...</title>
-    <updated>2025-03-07T11:03:55.029707+01:00</updated>
+    <updated>2025-03-07T11:03:55+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/"/>
-    <published>2025-03-07T11:03:55.029707+01:00</published>
+    <published>2025-03-07T11:03:55+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/zeitgemaesse-waerme-fuer-das-liebig-museum-20</id>
