@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-13T13:09:39.192453+00:00</updated>
+  <updated>2025-03-13T14:04:24.061586+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -365,17 +365,6 @@
     <published>2025-02-15T01:30:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_12031_1.PDF?1740744438</id>
-    <title>Bauleitplanung: Offenlage des vorhabenbezogenen Bebauungsplanes GI 04/33 "Schiffenberger Weg 21 + 23" (Grüne Stadt-Terrassen Gießen)</title>
-    <updated>2025-03-01T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_12031_1.PDF?1740744438"/>
-    <published>2025-03-01T01:31:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_12030_1.PDF?1740744438</id>
     <title>Bauleitplanung: Erlass des Bebauungsplans Nr. G 70 »Eisteiche« 2. Änderung</title>
     <updated>2025-03-01T01:31:00+01:00</updated>
@@ -395,6 +384,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_12011_1.PDF?1740647565"/>
+    <published>2025-03-01T01:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_12031_1.PDF?1740744438</id>
+    <title>Bauleitplanung: Offenlage des vorhabenbezogenen Bebauungsplanes GI 04/33 "Schiffenberger Weg 21 + 23" (Grüne Stadt-Terrassen Gießen)</title>
+    <updated>2025-03-01T01:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12031_1.PDF?1740744438"/>
     <published>2025-03-01T01:31:00+01:00</published>
   </entry>
   <entry>
@@ -499,13 +499,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/dank-an-unser-fantastisches-publikum-900-eur-fur-wichtige-initiativen-gesammelt/</id>
     <title>Dank an unser fantastisches Publikum – 900 EUR für wichtige Initiativen gesammelt - Die Spenden gehen jeweils zur Hälfte an zwei bedeutende Init...</title>
-    <updated>2025-03-13T13:09:26.818040+01:00</updated>
+    <updated>2025-03-13T13:09:26+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/dank-an-unser-fantastisches-publikum-900-eur-fur-wichtige-initiativen-gesammelt/"/>
-    <published>2025-03-13T13:09:26.818040+01:00</published>
+    <published>2025-03-13T13:09:26+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
@@ -649,17 +649,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/weltwassertag-fuehrung-durch-das-wasserwerk-queckborn"/>
     <published>2025-03-12T14:05:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Heimwegtelefon-und-Stadt-Gie%C3%9Fen-kooperieren-Ein-weiterer-Schritt-f%C3%BCr-mehr-Sicherheit-im-Nachtleben-und-auf-dem-Nachhauseweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69744.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Heimwegtelefon und Stadt Gießen kooperieren: Ein weiterer Schritt für mehr Sicherheit im Nachtleben und auf dem Nachhauseweg</title>
-    <updated>2025-02-14T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Heimwegtelefon-und-Stadt-Gie%C3%9Fen-kooperieren-Ein-weiterer-Schritt-f%C3%BCr-mehr-Sicherheit-im-Nachtleben-und-auf-dem-Nachhauseweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69744.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-14T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/6-Gie%C3%9Fener-Senior-innenmesse-Anmeldungen-ab-sofort-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69754.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -924,5 +913,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Warnstreik-hat-Auswirkung-auf-M%C3%BCllabfuhr-und-Stra%C3%9Fenreinigung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72865.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-03-10T15:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Fr%C3%BChjahrsmesse-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73019.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießener Frühjahrsmesse 2025</title>
+    <updated>2025-03-13T14:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Fr%C3%BChjahrsmesse-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73019.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-03-13T14:04:00+01:00</published>
   </entry>
 </feed>
