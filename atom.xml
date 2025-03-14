@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-13T14:04:24.061586+00:00</updated>
+  <updated>2025-03-14T12:06:35.408076+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -365,17 +365,6 @@
     <published>2025-02-15T01:30:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_12030_1.PDF?1740744438</id>
-    <title>Bauleitplanung: Erlass des Bebauungsplans Nr. G 70 »Eisteiche« 2. Änderung</title>
-    <updated>2025-03-01T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_12030_1.PDF?1740744438"/>
-    <published>2025-03-01T01:31:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_12011_1.PDF?1740647565</id>
     <title>Haushaltssatzung und Bekanntmachung der Haushaltssatzung der Universitätsstadt Gießen</title>
     <updated>2025-03-01T01:31:00+01:00</updated>
@@ -395,6 +384,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_12031_1.PDF?1740744438"/>
+    <published>2025-03-01T01:31:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_12030_1.PDF?1740744438</id>
+    <title>Bauleitplanung: Erlass des Bebauungsplans Nr. G 70 »Eisteiche« 2. Änderung</title>
+    <updated>2025-03-01T01:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12030_1.PDF?1740744438"/>
     <published>2025-03-01T01:31:00+01:00</published>
   </entry>
   <entry>
@@ -509,7 +509,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
-    <title>Weil es in alle Herzen passt - Regisseurin Simone Sterr im Gespräch mit Lena Meyerhoff über...</title>
+    <title>Weil es in alle Herzen passt - "Die Brücke von Mostar": Regisseurin Simone Sterr ...</title>
     <updated>2025-03-07T11:03:55+01:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -649,17 +649,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/weltwassertag-fuehrung-durch-das-wasserwerk-queckborn"/>
     <published>2025-03-12T14:05:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/6-Gie%C3%9Fener-Senior-innenmesse-Anmeldungen-ab-sofort-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69754.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>6. Gießener Senior*innenmesse - Anmeldungen ab sofort möglich</title>
-    <updated>2025-02-17T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/6-Gie%C3%9Fener-Senior-innenmesse-Anmeldungen-ab-sofort-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69754.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-17T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gehwege-m%C3%BCssen-frei-bleiben-Stadt-erinnert-Grundst%C3%BCcksbesitzer-Hecken-zur%C3%BCckzuschneiden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69755.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -924,5 +913,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Fr%C3%BChjahrsmesse-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73019.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-03-13T14:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Strom-tanken-an-der-Zulassungsstelle-im-Bachweg-9.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73095.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Strom tanken an der Zulassungsstelle im Bachweg 9</title>
+    <updated>2025-03-14T12:06:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Strom-tanken-an-der-Zulassungsstelle-im-Bachweg-9.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73095.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-03-14T12:06:00+01:00</published>
   </entry>
 </feed>
