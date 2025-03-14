@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-14T14:04:19.457399+00:00</updated>
+  <updated>2025-03-14T16:04:44.890676+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -519,17 +519,6 @@
     <published>2025-03-07T11:03:55+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/zeitgemaesse-waerme-fuer-das-liebig-museum-20</id>
-    <title>Zeitgemäße Wärme für das Liebig-Museum 2.0</title>
-    <updated>2025-01-14T09:04:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/zeitgemaesse-waerme-fuer-das-liebig-museum-20"/>
-    <published>2025-01-14T09:04:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/vorsicht-betrueger</id>
     <title>Vorsicht Betrüger</title>
     <updated>2025-01-17T14:03:00+01:00</updated>
@@ -651,26 +640,15 @@
     <published>2025-03-12T14:05:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/K22-Udersbergstra%C3%9Fe-und-Seeweg-in-R%C3%B6dgen-wegen-Amphibienwanderungen-zeitweise-gesperrt-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69756.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>K22/Udersbergstraße und Seeweg in Rödgen wegen Amphibienwanderungen zeitweise gesperrt</title>
-    <updated>2025-02-17T00:00:00+01:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/swg-bauen-das-fernwaermnetz-aus</id>
+    <title>SWG bauen das Fernwärmnetz aus</title>
+    <updated>2025-03-14T16:04:00+01:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/K22-Udersbergstra%C3%9Fe-und-Seeweg-in-R%C3%B6dgen-wegen-Amphibienwanderungen-zeitweise-gesperrt-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69756.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-17T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zukunftsstrategie-f%C3%BCr-Gie%C3%9Fen-Digitalisierung-als-Motor-f%C3%BCr-eine-leistungsf%C3%A4hige-lebenswerte-und-b%C3%BCrgerfreundliche-Stadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69770.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Zukunftsstrategie für Gießen: Digitalisierung als Motor für eine leistungsfähige, lebenswerte und bürgerfreundliche Stadt</title>
-    <updated>2025-02-18T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zukunftsstrategie-f%C3%BCr-Gie%C3%9Fen-Digitalisierung-als-Motor-f%C3%BCr-eine-leistungsf%C3%A4hige-lebenswerte-und-b%C3%BCrgerfreundliche-Stadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69770.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-18T00:00:00+01:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/swg-bauen-das-fernwaermnetz-aus"/>
+    <published>2025-03-14T16:04:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Leonardo-Ausstellung-im-Mathematikum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69569.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -924,5 +902,27 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%96ffentliche-Gedenkveranstaltung-anl%C3%A4sslich-des-80-Jahrestages-der-Befreiung-Gie%C3%9Fens-vom-Nationalsozialismus-durch-US-amerikanische-Truppen-am-28-M%C3%A4rz-1945.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73097.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-03-14T14:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lahn-Kinzig-Bahn-Kommunale-Arbeitsgemeinschaft-Nahverkehr-fordert-dringende-Ma%C3%9Fnahmen-zur-Stabilisierung-des-Betriebs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73098.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Lahn-Kinzig-Bahn: Kommunale Arbeitsgemeinschaft Nahverkehr fordert dringende Maßnahmen zur Stabilisierung des Betriebs</title>
+    <updated>2025-03-14T16:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lahn-Kinzig-Bahn-Kommunale-Arbeitsgemeinschaft-Nahverkehr-fordert-dringende-Ma%C3%9Fnahmen-zur-Stabilisierung-des-Betriebs.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73098.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-03-14T16:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-bauen-das-Fernw%C3%A4rmnetz-aus-Buslinie-5-wird-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73099.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>SWG bauen das Fernwärmnetz aus - Buslinie 5 wird umgeleitet</title>
+    <updated>2025-03-14T16:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-bauen-das-Fernw%C3%A4rmnetz-aus-Buslinie-5-wird-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73099.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-03-14T16:04:00+01:00</published>
   </entry>
 </feed>
