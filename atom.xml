@@ -2,10 +2,120 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-18T13:11:26.144421+00:00</updated>
+  <updated>2025-03-18T14:04:51.135438+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
+  <entry>
+    <id>https://www.asta-giessen.de/8616-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-12-20T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8616-2/"/>
+    <published>2023-12-20T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8623-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2023-12-22T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8623-2/"/>
+    <published>2023-12-22T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8704-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2024-02-15T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8704-2/"/>
+    <published>2024-02-15T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8933-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2024-04-03T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8933-2/"/>
+    <published>2024-04-03T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8944-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2024-04-06T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8944-2/"/>
+    <published>2024-04-06T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/8979-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2024-04-15T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/8979-2/"/>
+    <published>2024-04-15T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/hochschulwahlen-2024/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2024-06-12T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/hochschulwahlen-2024/"/>
+    <published>2024-06-12T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/9105-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2024-06-15T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/9105-2/"/>
+    <published>2024-06-15T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/9131-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2024-06-30T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/9131-2/"/>
+    <published>2024-06-30T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/9370-2/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2024-09-25T00:00:00+02:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/9370-2/"/>
+    <published>2024-09-25T00:00:00+02:00</published>
+  </entry>
   <entry>
     <id>https://universum-giessen.com/2024/02/23/anderen-helfen-aber-wie-gespraech-zu-ehrenamtlicher-arbeit-mit-der-studentin-selin-demirci/</id>
     <title>Anderen helfen – Aber wie? Gespräch zu ehrenamtlicher Arbeit mit der Studentin Selin Demirci</title>
@@ -519,17 +629,6 @@
     <published>2025-03-18T13:09:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ricarda-Huch-Schule-Rad-Projekt-ausgezeichnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69786.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ricarda-Huch-Schule Rad-Projekt ausgezeichnet</title>
-    <updated>2025-02-20T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ricarda-Huch-Schule-Rad-Projekt-ausgezeichnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69786.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-02-20T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Programm-zum-Internationalen-Frauentag-2025-liegt-vor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69787.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Das Programm zum Internationalen Frauentag 2025 liegt vor</title>
     <updated>2025-02-20T00:00:00+01:00</updated>
@@ -792,5 +891,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-warnen-vor-unseri%C3%B6sem-Berater.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-03-18T13:09:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-ZEPPELIN-OBEN-RECHTS-Dokumentarfilm-zum-Atelier23.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73109.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>"ZEPPELIN OBEN RECHTS" - Dokumentarfilm zum Atelier23</title>
+    <updated>2025-03-18T14:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-ZEPPELIN-OBEN-RECHTS-Dokumentarfilm-zum-Atelier23.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73109.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-03-18T14:04:00+01:00</published>
   </entry>
 </feed>
