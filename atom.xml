@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-22T01:32:09.018329+00:00</updated>
+  <updated>2025-03-24T15:04:39.281383+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -343,6 +343,17 @@
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
+    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
+    <title>Vermittlungsraum des MfG erstrahlt in neuem Glanz</title>
+    <updated>2025-03-24T15:04:00+01:00</updated>
+    <author>
+      <name>Oberhessisches Museum</name>
+      <email>museum@giessen.de</email>
+    </author>
+    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <published>2025-03-24T15:04:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_12031_1.PDF?1740744438</id>
     <title>Bauleitplanung: Offenlage des vorhabenbezogenen Bebauungsplanes GI 04/33 "Schiffenberger Weg 21 + 23" (Grüne Stadt-Terrassen Gießen)</title>
     <updated>2025-03-01T01:31:00+01:00</updated>
@@ -640,17 +651,6 @@
     <published>2025-03-21T15:04:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Ferien-Freizeiten-f%C3%BCr-Gie%C3%9Fener-Kinder-und-Jugendliche-auf-einen-Blick.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68973.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>(Ferien-) Freizeiten für Gießener Kinder und Jugendliche auf einen Blick</title>
-    <updated>2025-03-06T14:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Ferien-Freizeiten-f%C3%BCr-Gie%C3%9Fener-Kinder-und-Jugendliche-auf-einen-Blick.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68973.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-03-06T14:04:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Im-Stadtbus-bargeldlos-Ticket-kaufen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72854.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Im Stadtbus bargeldlos Ticket kaufen</title>
     <updated>2025-03-06T15:04:00+01:00</updated>
@@ -913,5 +913,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Aulweg-wird-in-zwei-Abschnitten-zur-Einbahnstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73130.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-03-21T16:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vermittlungsraum des MfG erstrahlt in neuem Glanz</title>
+    <updated>2025-03-24T15:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-03-24T15:04:00+01:00</published>
   </entry>
 </feed>
