@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-27T11:04:16.843558+00:00</updated>
+  <updated>2025-03-27T12:07:26.434413+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -519,17 +519,6 @@
     <published>2025-03-07T11:03:55+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/spiel-dein-spiel-startet-2025-wieder-durch</id>
-    <title> „Spiel‘ Dein Spiel“ startet 2025 wieder durch</title>
-    <updated>2025-02-19T14:04:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/spiel-dein-spiel-startet-2025-wieder-durch"/>
-    <published>2025-02-19T14:04:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/staufenberg-und-swg-erneuern-ihre-partnerschaft</id>
     <title>Staufenberg und SWG erneuern ihre Partnerschaft</title>
     <updated>2025-02-20T14:03:00+01:00</updated>
@@ -649,6 +638,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/die-buslinien-5-und-15-werden-umgeleitet"/>
     <published>2025-03-27T11:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-buslinien-800-und-802</id>
+    <title>Umleitung für die Buslinien 800 und 802</title>
+    <updated>2025-03-27T12:07:00+01:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-buslinien-800-und-802"/>
+    <published>2025-03-27T12:07:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrerschein-kann-in-vielen-F%C3%A4llen-nun-bequem-komplett-digital-beantragt-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72863.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
