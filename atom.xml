@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-03-27T12:07:26.434413+00:00</updated>
+  <updated>2025-03-27T13:10:16.253159+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -409,28 +409,6 @@
     <published>2025-03-22T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/</id>
-    <title>„Jede Variation erzählt eine eigene Geschichte“ - Der Choreograf Max Levy im Gespräch mit der Dramaturgin Caro...</title>
-    <updated>2025-03-10T10:04:28+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/"/>
-    <published>2025-03-10T10:04:28+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/girls-boys-day-2025/</id>
-    <title>Girls*&amp;Boys*-Day 2025 - Wir laden interessierte junge Menschen ein, ihren diesjährig...</title>
-    <updated>2025-02-11T13:08:01+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/girls-boys-day-2025/"/>
-    <published>2025-02-11T13:08:01+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/izabella-radic-zu-die-brucke-von-mostar/</id>
     <title>Izabella Radić zu „Die Brücke von Mostar“ - In drei kurzen Antworten erzählt uns Schauspielerin Izabella...</title>
     <updated>2025-03-04T13:08:52+01:00</updated>
@@ -506,6 +484,28 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/dank-an-unser-fantastisches-publikum-900-eur-fur-wichtige-initiativen-gesammelt/"/>
     <published>2025-03-13T13:09:26+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-leonora-und-graf-luna/</id>
+    <title>Vier traumatisierte Figuren: Leonora und Graf Luna - In „Der Troubadour“ treffen vier Personen aufeinander, die d...</title>
+    <updated>2025-03-27T13:10:03.714185+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-leonora-und-graf-luna/"/>
+    <published>2025-03-27T13:10:03.714185+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-azucena-und-manrico/</id>
+    <title>Vier traumatisierte Figuren - Azucena und Manrico - In „Der Troubadour“ treffen vier Personen aufeinander, die d...</title>
+    <updated>2025-03-27T13:10:03.714185+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-azucena-und-manrico/"/>
+    <published>2025-03-27T13:10:03.714185+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
@@ -649,17 +649,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/umleitung-fuer-die-buslinien-800-und-802"/>
     <published>2025-03-27T12:07:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrerschein-kann-in-vielen-F%C3%A4llen-nun-bequem-komplett-digital-beantragt-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72863.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Führerschein kann in vielen Fällen nun bequem komplett digital beantragt werden</title>
-    <updated>2025-03-10T11:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrerschein-kann-in-vielen-F%C3%A4llen-nun-bequem-komplett-digital-beantragt-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72863.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-03-10T11:04:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eine-E-Mail-Adresse-f%C3%BCr-alle-Fragen-zum-Glasfaserausbau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72864.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -924,5 +913,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tourismussaison-2024-im-Lahntal-erreicht-neue-Bestmarke-Positive-Aussichten-f%C3%BCr-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73148.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-03-27T11:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Osteraktion-Stempeljagd-an-der-Lahn-Familien-entdecken-Gie%C3%9Fens-Natur.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73153.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Osteraktion: Stempeljagd an der Lahn - Familien entdecken Gießens Natur</title>
+    <updated>2025-03-27T13:10:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Osteraktion-Stempeljagd-an-der-Lahn-Familien-entdecken-Gie%C3%9Fens-Natur.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73153.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-03-27T13:10:00+01:00</published>
   </entry>
 </feed>
