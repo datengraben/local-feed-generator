@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-02T14:04:21.410169+00:00</updated>
+  <updated>2025-04-02T15:04:36.036326+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -662,17 +662,6 @@
     <published>2025-03-31T15:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tote-Wildtiere-nicht-anfassen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73114.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Tote Wildtiere nicht anfassen</title>
-    <updated>2025-03-20T11:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tote-Wildtiere-nicht-anfassen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73114.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-03-20T11:04:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gef%C3%A4lschte-QR-Codes-auf-Parkschein-Automaten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73117.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gefälschte QR-Codes auf Parkschein-Automaten</title>
     <updated>2025-03-20T15:04:00+01:00</updated>
@@ -935,5 +924,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-R%C3%A4der-werden-wieder-eingesammelt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-04-02T14:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Katharina-Br%C3%BCnink-ist-Nachtbeauftragte-der-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73252.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Katharina Brünink ist Nachtbeauftragte der Stadt Gießen</title>
+    <updated>2025-04-02T15:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Katharina-Br%C3%BCnink-ist-Nachtbeauftragte-der-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73252.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-02T15:04:00+02:00</published>
   </entry>
 </feed>
