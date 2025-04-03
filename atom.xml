@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-03T14:04:33.166502+00:00</updated>
+  <updated>2025-04-03T22:04:17.112338+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -662,6 +662,17 @@
     <published>2025-03-31T15:04:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vermittlungsraum des MfG erstrahlt in neuem Glanz</title>
+    <updated>2025-03-24T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-03-24T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Betreuung-f%C3%BCr-das-Ferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73138.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Betreuung für das Ferienprogramm der Universitätsstadt Gießen gesucht</title>
     <updated>2025-03-25T10:04:00+01:00</updated>
@@ -759,17 +770,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Deutschlands-erster-Entsiegelungs-Wettbewerb-kommt-nach-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73160.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-03-27T17:03:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Beteiligung-zum-Berichtsentwurf-der-Sportentwicklungsplanung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73111.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Online-Beteiligung zum Berichtsentwurf der Sportentwicklungsplanung</title>
-    <updated>2025-03-18T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Beteiligung-zum-Berichtsentwurf-der-Sportentwicklungsplanung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73111.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-03-18T17:03:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Besonderes-Programm-zur-Nacht-der-Bibliotheken-in-der-Stadtbibliothek-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73172.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
