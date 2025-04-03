@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-03T10:07:51.244877+00:00</updated>
+  <updated>2025-04-03T14:04:33.166502+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -662,28 +662,6 @@
     <published>2025-03-31T15:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Aulweg-wird-in-zwei-Abschnitten-zur-Einbahnstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73130.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Aulweg wird in zwei Abschnitten zur Einbahnstraße</title>
-    <updated>2025-03-21T16:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Aulweg-wird-in-zwei-Abschnitten-zur-Einbahnstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73130.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-03-21T16:04:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Vermittlungsraum des MfG erstrahlt in neuem Glanz</title>
-    <updated>2025-03-24T15:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-03-24T15:04:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Betreuung-f%C3%BCr-das-Ferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73138.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Betreuung für das Ferienprogramm der Universitätsstadt Gießen gesucht</title>
     <updated>2025-03-25T10:04:00+01:00</updated>
@@ -935,5 +913,27 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-unterst%C3%BCtzt-Zukunftstag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73332.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-04-03T10:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Osterferien-im-Mathematikum-T%C3%A4glich-ge%C3%B6ffnet-ein-Erlebnis-f%C3%BCr-die-ganze-Familie.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73334.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Osterferien im Mathematikum: Täglich geöffnet, ein Erlebnis für die ganze Familie</title>
+    <updated>2025-04-03T14:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Osterferien-im-Mathematikum-T%C3%A4glich-ge%C3%B6ffnet-ein-Erlebnis-f%C3%BCr-die-ganze-Familie.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73334.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-03T14:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auch-die-vhs-Gie%C3%9Fen-hat-Osterferien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73335.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Auch die vhs Gießen hat Osterferien</title>
+    <updated>2025-04-03T14:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auch-die-vhs-Gie%C3%9Fen-hat-Osterferien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73335.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-03T14:04:00+02:00</published>
   </entry>
 </feed>
