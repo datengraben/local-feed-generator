@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-03T22:04:17.112338+00:00</updated>
+  <updated>2025-04-04T09:04:35.502789+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -420,26 +420,15 @@
     <published>2025-03-29T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/hat-gott-eigentlich-die-arbeitswoche-erfunden/</id>
-    <title>Hat Gott eigentlich die Arbeitswoche erfunden? - Amina Eisner geht in ihrem Theaterstück „Generation Arbeit –...</title>
-    <updated>2025-02-12T18:05:05+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/izabella-radic-zu-die-brucke-von-mostar/</id>
+    <title>Izabella Radić zu „Die Brücke von Mostar“ - In drei kurzen Antworten erzählt uns Schauspielerin Izabella...</title>
+    <updated>2025-04-04T09:04:21.318989+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/hat-gott-eigentlich-die-arbeitswoche-erfunden/"/>
-    <published>2025-02-12T18:05:05+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 19. April - "Der Troubadour" von Giuseppe Verdi. Am Theatertag...</title>
-    <updated>2025-02-10T10:04:30+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2025-02-10T10:04:30+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/izabella-radic-zu-die-brucke-von-mostar/"/>
+    <published>2025-04-04T09:04:21.318989+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/drei-tenore-fur-moses/</id>
@@ -486,15 +475,15 @@
     <published>2025-03-13T13:09:26+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/25-gute-grunde-sich-der-staat-gegen-fritz-bauer-anzusehen/</id>
-    <title>25 gute Gründe, sich „Der Staat gegen Fritz Bauer“ anzusehen - Zur 25. Jubiläumsvorstellung liefern wir Ihnen 25 gute, aber...</title>
-    <updated>2025-03-28T18:05:10+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 19. April - "Der Troubadour" von Giuseppe Verdi. Am Theatertag...</title>
+    <updated>2025-02-10T10:04:30+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/25-gute-grunde-sich-der-staat-gegen-fritz-bauer-anzusehen/"/>
-    <published>2025-03-28T18:05:10+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2025-02-10T10:04:30+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-leonora-und-graf-luna/</id>
@@ -517,6 +506,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-azucena-und-manrico/"/>
     <published>2025-03-27T13:10:03+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/25-gute-grunde-sich-der-staat-gegen-fritz-bauer-anzusehen/</id>
+    <title>25 gute Gründe, sich „Der Staat gegen Fritz Bauer“ anzusehen - Zur 25. Jubiläumsvorstellung liefern wir Ihnen 25 gute, aber...</title>
+    <updated>2025-03-28T18:05:10+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/25-gute-grunde-sich-der-staat-gegen-fritz-bauer-anzusehen/"/>
+    <published>2025-03-28T18:05:10+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
@@ -660,17 +660,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/giessener-baeder-passen-preise-an"/>
     <published>2025-03-31T15:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Vermittlungsraum des MfG erstrahlt in neuem Glanz</title>
-    <updated>2025-03-24T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-03-24T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Betreuung-f%C3%BCr-das-Ferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73138.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -935,5 +924,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auch-die-vhs-Gie%C3%9Fen-hat-Osterferien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73335.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-04-03T14:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Manisch-ist-nun-Immaterielles-Kulturerbe-der-UNESCO.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73336.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Manisch ist nun Immaterielles Kulturerbe der UNESCO</title>
+    <updated>2025-04-04T09:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Manisch-ist-nun-Immaterielles-Kulturerbe-der-UNESCO.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73336.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-04T09:04:00+02:00</published>
   </entry>
 </feed>
