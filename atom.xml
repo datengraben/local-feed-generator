@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-04T09:04:35.502789+00:00</updated>
+  <updated>2025-04-04T13:10:58.929284+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -422,13 +422,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/izabella-radic-zu-die-brucke-von-mostar/</id>
     <title>Izabella Radić zu „Die Brücke von Mostar“ - In drei kurzen Antworten erzählt uns Schauspielerin Izabella...</title>
-    <updated>2025-04-04T09:04:21.318989+02:00</updated>
+    <updated>2025-04-04T09:04:21+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/izabella-radic-zu-die-brucke-von-mostar/"/>
-    <published>2025-04-04T09:04:21.318989+02:00</published>
+    <published>2025-04-04T09:04:21+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/drei-tenore-fur-moses/</id>
@@ -660,17 +660,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/giessener-baeder-passen-preise-an"/>
     <published>2025-03-31T15:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Betreuung-f%C3%BCr-das-Ferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73138.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Betreuung für das Ferienprogramm der Universitätsstadt Gießen gesucht</title>
-    <updated>2025-03-25T10:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Betreuung-f%C3%BCr-das-Ferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73138.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-03-25T10:04:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tempo-30-Zone-in-Bleichstra%C3%9Fe-und-Schlachthofstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73140.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -924,6 +913,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auch-die-vhs-Gie%C3%9Fen-hat-Osterferien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73335.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-04-03T14:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>+++Update+++ Einschränkungen auf der A485 - Gießener Südkreuz</title>
+    <updated>2025-04-04T13:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-04T13:10:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Manisch-ist-nun-Immaterielles-Kulturerbe-der-UNESCO.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73336.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
