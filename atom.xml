@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-09T15:06:03.931669+00:00</updated>
+  <updated>2025-04-09T22:04:21.031364+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -365,17 +365,6 @@
     <published>2025-03-01T01:31:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_12082_1.PDF?1741270329</id>
-    <title>Bauleitplanung: Erlass der 2. vorhabenbezogenen Änderung des vorhabenbezogenen Bebauungsplanes KL 09/05 "Waldweide"</title>
-    <updated>2025-03-08T01:28:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_12082_1.PDF?1741270329"/>
-    <published>2025-03-08T01:28:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_12142_1.PDF?1742375512</id>
     <title>Bekanntmachung_Einleitung</title>
     <updated>2025-03-22T01:31:00+01:00</updated>
@@ -455,13 +444,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/</id>
     <title>Jetzt Karten fürs Musical sichern! - Der Vorverkauf für alle Vorstellungen der musikalischen Poli...</title>
-    <updated>2025-04-09T15:05:50.835120+02:00</updated>
+    <updated>2025-04-09T15:05:50+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/"/>
-    <published>2025-04-09T15:05:50.835120+02:00</published>
+    <published>2025-04-09T15:05:50+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
