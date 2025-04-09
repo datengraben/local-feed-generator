@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-09T14:05:10.107984+00:00</updated>
+  <updated>2025-04-09T15:06:03.931669+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -409,17 +409,6 @@
     <published>2025-04-09T00:16:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/izabella-radic-zu-die-brucke-von-mostar/</id>
-    <title>Izabella Radić zu „Die Brücke von Mostar“ - In drei kurzen Antworten erzählt uns Schauspielerin Izabella...</title>
-    <updated>2025-04-04T09:04:21+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/izabella-radic-zu-die-brucke-von-mostar/"/>
-    <published>2025-04-04T09:04:21+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/drei-tenore-fur-moses/</id>
     <title>Drei Tenöre für Moses - Eric Jongyoung Kim, Randall Bills und Dakai Wei sind für Gio...</title>
     <updated>2025-02-17T15:05:30+01:00</updated>
@@ -462,6 +451,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/dank-an-unser-fantastisches-publikum-900-eur-fur-wichtige-initiativen-gesammelt/"/>
     <published>2025-03-13T13:09:26+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/</id>
+    <title>Jetzt Karten fürs Musical sichern! - Der Vorverkauf für alle Vorstellungen der musikalischen Poli...</title>
+    <updated>2025-04-09T15:05:50.835120+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/"/>
+    <published>2025-04-09T15:05:50.835120+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
