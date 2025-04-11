@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-11T10:05:30.323768+00:00</updated>
+  <updated>2025-04-11T14:04:49.280221+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -640,6 +640,17 @@
     <published>2025-04-09T12:07:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Osteraktion-Stempeljagd-an-der-Lahn-Familien-entdecken-Gie%C3%9Fens-Natur.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73153.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Osteraktion: Stempeljagd an der Lahn - Familien entdecken Gießens Natur</title>
+    <updated>2025-03-27T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Osteraktion-Stempeljagd-an-der-Lahn-Familien-entdecken-Gie%C3%9Fens-Natur.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73153.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-03-27T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-2025-Jetzt-registrieren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73154.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>STADTRADELN 2025 - Jetzt registrieren</title>
     <updated>2025-03-27T15:04:00+01:00</updated>
@@ -660,17 +671,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sperrung-im-Bereich-Georg-Schlosser-Stra%C3%9Fe-Burggraben-Kirchenplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73155.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-03-27T15:04:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weg-zum-Aussichtsgipfel-auf-der-Deponie-Gie%C3%9Fen-Allendorf-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73158.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Weg zum Aussichtsgipfel auf der Deponie Gießen-Allendorf gesperrt</title>
-    <updated>2025-03-27T16:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weg-zum-Aussichtsgipfel-auf-der-Deponie-Gie%C3%9Fen-Allendorf-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73158.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-03-27T16:04:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-Gie%C3%9Fen-mit-dem-Osterhasen-Express-durch-die-Wetterau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73159.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
