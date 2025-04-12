@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-11T14:04:49.280221+00:00</updated>
+  <updated>2025-04-12T00:16:37.977468+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -396,6 +396,39 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_12255_1.PDF?1744120473"/>
     <published>2025-04-09T00:16:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_12252_1.PDF?1744108671</id>
+    <title>Nachruf Hannelore Kraushaar-Hoffmann</title>
+    <updated>2025-04-12T00:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12252_1.PDF?1744108671"/>
+    <published>2025-04-12T00:16:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_12247_1.PDF?1744030694</id>
+    <title>4. Satzung zur Änderung der Satzung über die Benutzung von städtischen Kindertagesstätten</title>
+    <updated>2025-04-12T00:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12247_1.PDF?1744030694"/>
+    <published>2025-04-12T00:16:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_12246_1.PDF?1744030608</id>
+    <title>Satzung der Universitätsstadt Gießen über die Aufgaben und die Benutzung des Stadtarchivs sowie die Archivierung städtischen Archivguts</title>
+    <updated>2025-04-12T00:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12246_1.PDF?1744030608"/>
+    <published>2025-04-12T00:16:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/drei-tenore-fur-moses/</id>
