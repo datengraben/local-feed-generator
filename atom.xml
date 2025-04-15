@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-12T17:03:48.958015+00:00</updated>
+  <updated>2025-04-15T00:17:11.027427+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -431,6 +431,28 @@
     <published>2025-04-12T00:16:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_12272_1.PDF?1744618622</id>
+    <title>Feststellung über das Leerbleiben eines Sitzes im Ortsbeirat Gießen-Rödgen</title>
+    <updated>2025-04-15T00:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12272_1.PDF?1744618622"/>
+    <published>2025-04-15T00:16:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_12242_1.PDF?1743757143</id>
+    <title>4. Ankündigung von Baugrunduntersuchungen für die Trassenplanung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
+    <updated>2025-04-15T00:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12242_1.PDF?1743757143"/>
+    <published>2025-04-15T00:16:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/open-call-stadttheater-takeover/</id>
     <title>Open Call: Stadttheater Takeover - Gemeinsam bunt, kreativ, engagiert und wild...</title>
     <updated>2025-02-17T15:05:30+01:00</updated>
@@ -510,13 +532,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/aggression-und-rhythmus/</id>
     <title>Aggression und Rhythmus - Die Choreografin Reut Shemesh im Interview mit der Dramaturg...</title>
-    <updated>2025-04-12T17:03:33.811078+02:00</updated>
+    <updated>2025-04-12T17:03:33+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/aggression-und-rhythmus/"/>
-    <published>2025-04-12T17:03:33.811078+02:00</published>
+    <published>2025-04-12T17:03:33+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/25-gute-grunde-sich-der-staat-gegen-fritz-bauer-anzusehen/</id>
