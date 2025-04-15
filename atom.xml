@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-15T13:11:23.055641+00:00</updated>
+  <updated>2025-04-15T14:06:00.997537+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -275,17 +275,6 @@
     </author>
     <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Innenr%C3%A4ume-an-hei%C3%9Fen-Tagen-k%C3%BChl-halten.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67978.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2024-08-21T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Leib-sches-Haus-schlie%C3%9Ft-bis-voraussichtlich-Sommer-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.12511.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Leib'sches Haus schließt bis voraussichtlich Sommer 2025</title>
-    <updated>2021-07-16T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Leib-sches-Haus-schlie%C3%9Ft-bis-voraussichtlich-Sommer-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.12511.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2021-07-16T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Oberhessisches-Museum-wird-Teil-von-museum4punkt0.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.17729.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
@@ -695,17 +684,6 @@
     <published>2025-04-09T12:07:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-Gie%C3%9Fen-mit-dem-Osterhasen-Express-durch-die-Wetterau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73159.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ab Gießen mit dem Osterhasen-Express durch die Wetterau</title>
-    <updated>2025-03-27T17:03:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-Gie%C3%9Fen-mit-dem-Osterhasen-Express-durch-die-Wetterau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73159.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-03-27T17:03:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Deutschlands-erster-Entsiegelungs-Wettbewerb-kommt-nach-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73160.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Deutschlands erster Entsiegelungs-Wettbewerb kommt nach Gießen</title>
     <updated>2025-03-27T17:03:00+01:00</updated>
@@ -968,5 +946,16 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/An-und-Ummeldung-beim-Stadtb%C3%BCro-Gie%C3%9Fen-ab-sofort-online-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67703.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-04-15T13:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundhafte-Erneuerung-der-Stra%C3%9Fe-Reichensand-startet-am-22-April.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73414.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Grundhafte Erneuerung der Straße Reichensand startet am 22. April</title>
+    <updated>2025-04-15T14:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundhafte-Erneuerung-der-Stra%C3%9Fe-Reichensand-startet-am-22-April.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73414.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-15T14:05:00+02:00</published>
   </entry>
 </feed>
