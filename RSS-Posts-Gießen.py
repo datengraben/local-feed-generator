@@ -100,7 +100,7 @@ def general_scraper(_url, _mapper, _header=headers):
         with open(erroroutfile, 'w+') as fp:
             fp.write(resp.text)
             print("Written output to", erroroutfile)
-    print("Importiere:", len(posts))
+    print("Importiere:", len(posts), " für ", _url)
     return posts
 
 
@@ -254,8 +254,13 @@ all_posts += general_scraper('https://universum-giessen.com/',
 
 # Asta Uni Gießen
 
-all_posts += general_scraper('https://www.asta-giessen.de/',
-        lambda body: map(lambda x:{
+def asta_mapper( body ):
+
+    posts = _bs4(body).select('article.post')
+
+    #print(posts)
+
+    return map(lambda x:{
             'title': 'Neuer Beitrag',
             'link': x.select('figure > a')[0]['href'],
             'date-raw': x.find('time', itemprop='datePublished').text,
@@ -263,8 +268,40 @@ all_posts += general_scraper('https://www.asta-giessen.de/',
             # TODO hier direkt das datetime aus dem itemprop nehmen
             'author-name': 'Asta - Uni Gießen',
             'author-email': 'info@asta-giessen.de'
-            }, _bs4(body).select('article.post')))
+            }, posts)
 
+all_posts += general_scraper('https://www.asta-giessen.de/', asta_mapper)
+
+def hdn_element ( x ):
+
+    #print(x)
+    
+    link = x.select('a')
+    link = link[0]['href']
+    #title = x.select('* > h3')[0].text
+    title = x.select('div.elementor-post__text > h3.elementor-post__title')[0].text
+    date_raw = x.select('span.elementor-post-date')[0].text.strip()
+
+    return {
+                                 'title': title,
+                                 'link': link,
+                                 'date-raw': date_raw,
+                                 'date-posted': localdt(date_raw, '%d. %B %Y', _fix=True),
+                                 'author-name': 'Haus der Nachhaltigkeit',
+                                 'author-email': 'info@hdn-giessen.de'
+                             }
+
+def hdn_mapper2( body ):
+
+    posts = _bs4(body).select('article.elementor-post')
+
+    #print(posts)
+
+    return map(hdn_element, posts)
+
+# Haus der Nachhaltigkeit
+
+all_posts += general_scraper('https://hdn-giessen.de/aktuelles-2', hdn_mapper2)
 
 # # Erstellung des Atom-Feeds
 #
