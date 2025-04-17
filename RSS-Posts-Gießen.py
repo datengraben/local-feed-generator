@@ -16,6 +16,7 @@ import datetime
 import html
 import json
 import locale
+import random
 from json.decoder import JSONDecodeError
 
 import bs4
@@ -435,7 +436,7 @@ import_into_feed(all_posts)
 # Validation
 
 for e in fg.entry():
-    if e.id() == None or e.title() == None:
+    if e.id() is None or e.title() is None:
         print(e.id())
 
 computed_posts = {}
