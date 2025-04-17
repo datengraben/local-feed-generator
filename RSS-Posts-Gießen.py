@@ -272,13 +272,12 @@ def asta_mapper( body ):
 
 all_posts += general_scraper('https://www.asta-giessen.de/', asta_mapper)
 
-def hdn_element ( x ):
+# Haus der Nachhaltigkeit
 
-    #print(x)
+def hdn_element ( x ):
     
     link = x.select('a')
     link = link[0]['href']
-    #title = x.select('* > h3')[0].text
     title = x.select('div.elementor-post__text > h3.elementor-post__title')[0].text
     date_raw = x.select('span.elementor-post-date')[0].text.strip()
 
@@ -291,17 +290,11 @@ def hdn_element ( x ):
                                  'author-email': 'info@hdn-giessen.de'
                              }
 
-def hdn_mapper2( body ):
-
+def hdn_mapper( body ):
     posts = _bs4(body).select('article.elementor-post')
-
-    #print(posts)
-
     return map(hdn_element, posts)
 
-# Haus der Nachhaltigkeit
-
-all_posts += general_scraper('https://hdn-giessen.de/aktuelles-2', hdn_mapper2)
+all_posts += general_scraper('https://hdn-giessen.de/aktuelles-2', hdn_mapper)
 
 # # Erstellung des Atom-Feeds
 #
