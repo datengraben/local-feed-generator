@@ -126,11 +126,10 @@ all_posts += general_scraper(
     POSTS,
     lambda body: map(
         lambda x: {
-            "title": x.select("h2.eael-entry-title > a")[0].text,
-            "link": x.select("h2.eael-entry-title > a")[0]["href"],
+            "title": x.select("h4 > a")[0].text,
+            "link": x.select("h4 > a")[0]["href"],
             "date-raw": x.select("time")[0]["datetime"],
-            "date-posted": localdt(x.select("time")[0]["datetime"], "%d. %B %Y"),
-            "text": x.select("p")[0].text,
+            "date-posted": localdt(x.select("time")[0]["datetime"][:-6], "%Y-%m-%dT%H:%M:%S"),
             "author-name": "Werkstatt-Kirche",
             "author-email": "info@werkstattkirche.de",
         },
@@ -350,7 +349,7 @@ def hdn_element(x):
 
     link = x.select("a")
     link = link[0]["href"]
-    title = x.select("div.elementor-post__text > h3.elementor-post__title")[0].text
+    title = x.select("div.elementor-post__text > h3.elementor-post__title")[0].text.strip()
     date_raw = x.select("span.elementor-post-date")[0].text.strip()
 
     return {
