@@ -2,16 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-19T00:16:20.620034+00:00</updated>
+  <updated>2025-04-19T09:02:22.070836+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
   <entry>
     <id>https://hdn-giessen.de/oeft/</id>
-    <title>
-
-				Ökofeldtage ’22			
-</title>
+    <title>Ökofeldtage ’22</title>
     <updated>2024-01-25T00:00:00+01:00</updated>
     <author>
       <name>Haus der Nachhaltigkeit</name>
@@ -22,10 +19,7 @@
   </entry>
   <entry>
     <id>https://hdn-giessen.de/fermentier-workshops/</id>
-    <title>
-
-				Fermentier Workshops			
-</title>
+    <title>Fermentier Workshops</title>
     <updated>2024-01-25T00:00:00+01:00</updated>
     <author>
       <name>Haus der Nachhaltigkeit</name>
@@ -36,10 +30,7 @@
   </entry>
   <entry>
     <id>https://hdn-giessen.de/gwoeakt/</id>
-    <title>
-
-				Gemeinwohlökonomie			
-</title>
+    <title>Gemeinwohlökonomie</title>
     <updated>2024-02-22T00:00:00+01:00</updated>
     <author>
       <name>Haus der Nachhaltigkeit</name>
@@ -50,10 +41,7 @@
   </entry>
   <entry>
     <id>https://hdn-giessen.de/kochworkshop/</id>
-    <title>
-
-				Kochworkshop			
-</title>
+    <title>Kochworkshop</title>
     <updated>2024-03-04T00:00:00+01:00</updated>
     <author>
       <name>Haus der Nachhaltigkeit</name>
@@ -64,10 +52,7 @@
   </entry>
   <entry>
     <id>https://hdn-giessen.de/worldcafe/</id>
-    <title>
-
-				World-Café			
-</title>
+    <title>World-Café</title>
     <updated>2024-09-16T00:00:00+02:00</updated>
     <author>
       <name>Haus der Nachhaltigkeit</name>
@@ -78,10 +63,7 @@
   </entry>
   <entry>
     <id>https://hdn-giessen.de/zukunftsfaehigleben/</id>
-    <title>
-
-				Rahmenprogramm abpflastern			
-</title>
+    <title>Rahmenprogramm abpflastern</title>
     <updated>2025-03-29T00:00:00+01:00</updated>
     <author>
       <name>Haus der Nachhaltigkeit</name>
@@ -1052,5 +1034,148 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Basilika-Besichtigungen-auf-dem-Schiffenberg-starten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73427.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-04-17T10:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
+    <title>Supp‘ un‘ Schwätze Unterwegs durch die Nordstadt</title>
+    <updated>2023-11-11T20:14:14+01:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/"/>
+    <published>2023-11-11T20:14:14+01:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/fachtag-an-der-jlu-kunststoff-reduzieren/</id>
+    <title>Fachtag an der JLU: Kunststoff reduzieren</title>
+    <updated>2023-11-29T20:27:00+01:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/fachtag-an-der-jlu-kunststoff-reduzieren/"/>
+    <published>2023-11-29T20:27:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/adventssingen-2023/</id>
+    <title>Adventssingen 2023</title>
+    <updated>2023-12-04T20:16:56+01:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/adventssingen-2023/"/>
+    <published>2023-12-04T20:16:56+01:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/weihnachtsgruss-2023/</id>
+    <title>Weihnachtsgruß 2023</title>
+    <updated>2023-12-12T18:34:00+01:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/weihnachtsgruss-2023/"/>
+    <published>2023-12-12T18:34:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/supp-und-schwaetze-fruehjahr-2024/</id>
+    <title>Supp‘ un‘ Schwätze Frühjahr 2024</title>
+    <updated>2024-03-12T12:00:00+01:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/supp-und-schwaetze-fruehjahr-2024/"/>
+    <published>2024-03-12T12:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
+    <title>Es geht weiter mit Supp‘ un‘ Schwätze bis 2025</title>
+    <updated>2024-05-08T20:03:32+02:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/"/>
+    <published>2024-05-08T20:03:32+02:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
+    <title>Kleidertauschparty im JOKUS</title>
+    <updated>2024-05-24T20:10:57+02:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/kleidertauschparty-im-jokus/"/>
+    <published>2024-05-24T20:10:57+02:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/sommerkirche-im-hof-der-werkstattkirche/</id>
+    <title>Sommerkirche im Hof der Werkstattkirche</title>
+    <updated>2024-06-26T19:58:00+02:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/sommerkirche-im-hof-der-werkstattkirche/"/>
+    <published>2024-06-26T19:58:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/koenig-pimp-und-die-mompeln-und-weiter-termine-sommer-2024/</id>
+    <title>„König Pimp und die Mompeln“ und weitere Termine Sommer 2024</title>
+    <updated>2024-07-12T12:00:00+02:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/koenig-pimp-und-die-mompeln-und-weiter-termine-sommer-2024/"/>
+    <published>2024-07-12T12:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/basteln-bei-st-thomas-morus/</id>
+    <title>Basteln bei St. Thomas Morus</title>
+    <updated>2024-10-01T15:17:02+02:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/basteln-bei-st-thomas-morus/"/>
+    <published>2024-10-01T15:17:02+02:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/letztes-mal-supp-und-schwaetze-fuer-2024-im-hof-der-werkstattkirche/</id>
+    <title>Letztes Mal Supp‘ und Schwätze für 2024 im Hof der Werkstattkirche</title>
+    <updated>2024-10-04T15:27:05+02:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/letztes-mal-supp-und-schwaetze-fuer-2024-im-hof-der-werkstattkirche/"/>
+    <published>2024-10-04T15:27:05+02:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/werkstattkirche-ist-kooperationspartner-des-giessener-bilderbuch-festivals/</id>
+    <title>Werkstattkirche ist Kooperationspartner des Gießener Bilderbuch-Festivals</title>
+    <updated>2025-03-25T12:00:18+01:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/werkstattkirche-ist-kooperationspartner-des-giessener-bilderbuch-festivals/"/>
+    <published>2025-03-25T12:00:18+01:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/werkstattkirche-ist-kooperationspartner-des-giessener-bilderbuch-festivals/</id>
+    <title>Werkstattkirche ist Kooperationspartner des Gießener Bilderbuch-Festivals</title>
+    <updated>2025-03-25T12:00:18+01:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/werkstattkirche-ist-kooperationspartner-des-giessener-bilderbuch-festivals/"/>
+    <published>2025-03-25T12:00:18+01:00</published>
   </entry>
 </feed>
