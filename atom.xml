@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-19T09:02:22.070836+00:00</updated>
+  <updated>2025-04-20T14:04:52.751392+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -453,17 +453,6 @@
     <published>2025-04-09T00:16:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_12252_1.PDF?1744108671</id>
-    <title>Nachruf Hannelore Kraushaar-Hoffmann</title>
-    <updated>2025-04-12T00:16:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_12252_1.PDF?1744108671"/>
-    <published>2025-04-12T00:16:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_12247_1.PDF?1744030694</id>
     <title>4. Satzung zur Änderung der Satzung über die Benutzung von städtischen Kindertagesstätten</title>
     <updated>2025-04-12T00:16:00+02:00</updated>
@@ -486,15 +475,15 @@
     <published>2025-04-12T00:16:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_12272_1.PDF?1744618622</id>
-    <title>Feststellung über das Leerbleiben eines Sitzes im Ortsbeirat Gießen-Rödgen</title>
-    <updated>2025-04-15T00:16:00+02:00</updated>
+    <id>http://giessen.de/media/custom/2874_12252_1.PDF?1744108671</id>
+    <title>Nachruf Hannelore Kraushaar-Hoffmann</title>
+    <updated>2025-04-12T00:16:00+02:00</updated>
     <author>
       <name>Stadt - Amtliche Bekanntmachungen</name>
       <email>presse@giessen.de</email>
     </author>
-    <link href="http://giessen.de/media/custom/2874_12272_1.PDF?1744618622"/>
-    <published>2025-04-15T00:16:00+02:00</published>
+    <link href="http://giessen.de/media/custom/2874_12252_1.PDF?1744108671"/>
+    <published>2025-04-12T00:16:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_12242_1.PDF?1743757143</id>
@@ -505,6 +494,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_12242_1.PDF?1743757143"/>
+    <published>2025-04-15T00:16:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_12272_1.PDF?1744618622</id>
+    <title>Feststellung über das Leerbleiben eines Sitzes im Ortsbeirat Gießen-Rödgen</title>
+    <updated>2025-04-15T00:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12272_1.PDF?1744618622"/>
     <published>2025-04-15T00:16:00+02:00</published>
   </entry>
   <entry>
@@ -761,6 +761,17 @@
     <published>2025-04-17T14:04:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Ausgabe-des-LahntalLiebe-Magazins-erschienen-eine-Entdeckungsreise-durch-das-Lahntal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73177.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue Ausgabe des "#LahntalLiebe"-Magazins erschienen - eine Entdeckungsreise durch das Lahntal</title>
+    <updated>2025-03-31T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Ausgabe-des-LahntalLiebe-Magazins-erschienen-eine-Entdeckungsreise-durch-das-Lahntal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73177.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-03-31T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/stellvertretende-Generalkonsulin-des-US-amerikanischen-Generalkonsulats-Frankfurt-Jennifer-DeWitt-Walsh-sich-ins-Goldene-Buch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73178.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Stellvertretende US-Generalkonsulin DeWitt Walsh trägt sich ins Goldene Buch ein</title>
     <updated>2025-03-31T00:00:00+02:00</updated>
@@ -957,17 +968,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Instandhaltung-der-Pflasterfl%C3%A4chen-in-der-Fu%C3%9Fg%C3%A4ngerzone.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73411.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-04-15T08:05:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtb%C3%BCro-und-Stadtbibliothek-bleiben-an-Ostersamstag-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73412.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadtbüro und Stadtbibliothek bleiben an Ostersamstag geschlossen</title>
-    <updated>2025-04-15T11:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtb%C3%BCro-und-Stadtbibliothek-bleiben-an-Ostersamstag-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73412.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-15T11:04:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/An-und-Ummeldung-beim-Stadtb%C3%BCro-Gie%C3%9Fen-ab-sofort-online-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67703.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
