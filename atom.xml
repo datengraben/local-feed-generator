@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-25T10:05:54.161830+00:00</updated>
+  <updated>2025-04-25T11:04:21.912615+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -761,39 +761,6 @@
     <published>2025-04-23T12:07:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Ausgabe-des-LahntalLiebe-Magazins-erschienen-eine-Entdeckungsreise-durch-das-Lahntal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73177.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neue Ausgabe des "#LahntalLiebe"-Magazins erschienen - eine Entdeckungsreise durch das Lahntal</title>
-    <updated>2025-03-31T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Ausgabe-des-LahntalLiebe-Magazins-erschienen-eine-Entdeckungsreise-durch-das-Lahntal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73177.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-03-31T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/stellvertretende-Generalkonsulin-des-US-amerikanischen-Generalkonsulats-Frankfurt-Jennifer-DeWitt-Walsh-sich-ins-Goldene-Buch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73178.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stellvertretende US-Generalkonsulin DeWitt Walsh trägt sich ins Goldene Buch ein</title>
-    <updated>2025-03-31T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/stellvertretende-Generalkonsulin-des-US-amerikanischen-Generalkonsulats-Frankfurt-Jennifer-DeWitt-Walsh-sich-ins-Goldene-Buch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73178.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-03-31T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gastfamilien-f%C3%BCr-Austauschsch%C3%BCler-innen-im-Landkreis-Gie%C3%9Fen-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73180.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gastfamilien für Austauschschüler/innen im Landkreis Gießen gesucht</title>
-    <updated>2025-03-31T14:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gastfamilien-f%C3%BCr-Austauschsch%C3%BCler-innen-im-Landkreis-Gie%C3%9Fen-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73180.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-03-31T14:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-B%C3%A4der-passen-Preise-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73181.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gießener Bäder passen Preise an</title>
     <updated>2025-03-31T15:04:00+02:00</updated>
@@ -1034,6 +1001,39 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Preistr%C3%A4ger-im-Hessischen-Landeswettbewerb-Ab-in-die-Mitte-2025-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73445.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-04-25T10:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dieses-Jahr-ww%C3%B6lf-Naturschutzwanderungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73446.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Die Naturschutzwanderungen für 2025 sind da</title>
+    <updated>2025-04-25T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dieses-Jahr-ww%C3%B6lf-Naturschutzwanderungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73446.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-25T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-28-April-starten-Ma%C3%9Fnahmen-gegen-den-Eichenprozessionsspinner-im-Stadtgebiet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73447.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ab 28. April starten Maßnahmen gegen den Eichenprozessionsspinner im Stadtgebiet</title>
+    <updated>2025-04-25T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-28-April-starten-Ma%C3%9Fnahmen-gegen-den-Eichenprozessionsspinner-im-Stadtgebiet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73447.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-25T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-dem-1-Mai-nur-noch-digitale-Lichbilder-f%C3%BCr-Ausweise-und-P%C3%A4sse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73448.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ab dem 1. Mai nur noch digitale Lichbilder für Ausweise und Pässe</title>
+    <updated>2025-04-25T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-dem-1-Mai-nur-noch-digitale-Lichbilder-f%C3%BCr-Ausweise-und-P%C3%A4sse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73448.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-25T11:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
