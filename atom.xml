@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-25T12:07:02.425456+00:00</updated>
+  <updated>2025-04-25T22:04:18.909858+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -429,17 +429,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_12142_1.PDF?1742375512"/>
     <published>2025-03-22T01:31:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_12161_1.PDF?1742811359</id>
-    <title>Versteigerung von Fundgegenständen</title>
-    <updated>2025-03-29T01:31:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_12161_1.PDF?1742811359"/>
-    <published>2025-03-29T01:31:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_12255_1.PDF?1744120473</id>
