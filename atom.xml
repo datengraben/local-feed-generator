@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-25T22:04:18.909858+00:00</updated>
+  <updated>2025-04-28T13:18:49.500472+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -618,17 +618,6 @@
     <published>2025-03-07T11:03:55+01:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/swg-warnen-vor-unserioesem-berater</id>
-    <title>SWG warnen vor unseriösem Berater</title>
-    <updated>2025-03-18T13:09:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-warnen-vor-unserioesem-berater"/>
-    <published>2025-03-18T13:09:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/umleitungen-fuer-vier-buslinien</id>
     <title>Umleitungen für vier Buslinien</title>
     <updated>2025-03-20T14:04:00+01:00</updated>
@@ -748,6 +737,17 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/spielend-konstruieren"/>
     <published>2025-04-23T12:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/giessener-freibadsaison-startet</id>
+    <title>Gießener Freibadsaison startet</title>
+    <updated>2025-04-28T13:18:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/giessener-freibadsaison-startet"/>
+    <published>2025-04-28T13:18:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
