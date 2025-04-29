@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-04-28T15:05:01.396330+00:00</updated>
+  <updated>2025-04-29T16:05:03.419517+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -421,7 +421,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_12142_1.PDF?1742375512</id>
-    <title>Bekanntmachung_Einleitung</title>
+    <title>Einleitung des  Umlegungsverfahrens «Margaretenhütte« gemäß § 47 Baugesetzbuch (BauGB)</title>
     <updated>2025-03-22T01:31:00+01:00</updated>
     <author>
       <name>Stadt - Amtliche Bekanntmachungen</name>
@@ -521,13 +521,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/</id>
     <title>Bildhauerei fürs Theater - Puppe oder Kostüm? Zwei Schlangen - eine blaue und eine gelb...</title>
-    <updated>2025-04-28T15:04:39.032715+02:00</updated>
+    <updated>2025-04-28T15:04:39+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/"/>
-    <published>2025-04-28T15:04:39.032715+02:00</published>
+    <published>2025-04-28T15:04:39+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/</id>
@@ -616,28 +616,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/"/>
     <published>2025-03-07T11:03:55+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/umleitungen-fuer-vier-buslinien</id>
-    <title>Umleitungen für vier Buslinien</title>
-    <updated>2025-03-20T14:04:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/umleitungen-fuer-vier-buslinien"/>
-    <published>2025-03-20T14:04:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/fernwaerme-statt-eigener-heizung-eine-clevere-alternative</id>
-    <title>Fernwärme statt eigener Heizung – eine clevere Alternative</title>
-    <updated>2025-03-20T15:04:00+01:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/fernwaerme-statt-eigener-heizung-eine-clevere-alternative"/>
-    <published>2025-03-20T15:04:00+01:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/aulweg-wird-in-zwei-abschnitten-zur-einbahnstrasse</id>
@@ -748,6 +726,28 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/giessener-freibadsaison-startet"/>
     <published>2025-04-28T13:18:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/fernwaermeausbau-im-giessener-norden</id>
+    <title>Fernwärmeausbau im Gießener Norden</title>
+    <updated>2025-04-29T16:04:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/fernwaermeausbau-im-giessener-norden"/>
+    <published>2025-04-29T16:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-warnen-vor-unserioesen-telefonanrufen</id>
+    <title>Stadtwerke Gießen warnen vor unseriösen Telefonanrufen</title>
+    <updated>2025-04-29T16:04:00+02:00</updated>
+    <author>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
+    </author>
+    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-warnen-vor-unserioesen-telefonanrufen"/>
+    <published>2025-04-29T16:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
