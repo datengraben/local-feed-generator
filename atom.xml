@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-02T09:04:49.731119+00:00</updated>
+  <updated>2025-05-02T11:04:32.556496+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -488,13 +488,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-azucena-und-manrico/</id>
     <title>Vier traumatisierte Figuren - Azucena und Manrico - In „Der Troubadour“ treffen vier Personen aufeinander, die d...</title>
-    <updated>2025-05-02T09:04:34.372115+02:00</updated>
+    <updated>2025-05-02T09:04:34+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-azucena-und-manrico/"/>
-    <published>2025-05-02T09:04:34.372115+02:00</published>
+    <published>2025-05-02T09:04:34+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/</id>
@@ -726,6 +726,281 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-warnen-vor-unserioesen-telefonanrufen"/>
     <published>2025-04-29T16:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einrichtung-von-Halteverboten-in-Siemensstra%C3%9Fe-Am-Unteren-Rain-Talstra%C3%9Fe-und-Klingelbachweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73346.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Einrichtung von Halteverboten in Siemensstraße, Am Unteren Rain, Talstraße und Klingelbachweg</title>
+    <updated>2025-04-08T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einrichtung-von-Halteverboten-in-Siemensstra%C3%9Fe-Am-Unteren-Rain-Talstra%C3%9Fe-und-Klingelbachweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73346.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-08T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-die-Gnauthstra%C3%9Fe-Die-SWG-erweitern-das-Fernw%C3%A4rmenetz-im-Gie%C3%9Fener-S%C3%BCden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73376.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fernwärme für die Gnauthstraße: Die SWG erweitern das Fernwärmenetz im Gießener Süden</title>
+    <updated>2025-04-09T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-die-Gnauthstra%C3%9Fe-Die-SWG-erweitern-das-Fernw%C3%A4rmenetz-im-Gie%C3%9Fener-S%C3%BCden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73376.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-09T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Entschleunigte-Wanderung-auf-der-Hohen-Warte-Von-Panzern-und-tierischen-Rasenm%C3%A4hern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73400.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Entschleunigte Wanderung auf der Hohen Warte - Von Panzern und tierischen Rasenmähern</title>
+    <updated>2025-04-11T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Entschleunigte-Wanderung-auf-der-Hohen-Warte-Von-Panzern-und-tierischen-Rasenm%C3%A4hern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73400.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-11T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Instandhaltung-der-Pflasterfl%C3%A4chen-in-der-Fu%C3%9Fg%C3%A4ngerzone.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73411.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Instandhaltung der Pflasterflächen in der Fußgängerzone</title>
+    <updated>2025-04-15T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Instandhaltung-der-Pflasterfl%C3%A4chen-in-der-Fu%C3%9Fg%C3%A4ngerzone.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73411.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-15T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/An-und-Ummeldung-beim-Stadtb%C3%BCro-Gie%C3%9Fen-ab-sofort-online-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67703.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>An- und Ummeldung beim Stadtbüro Gießen online möglich</title>
+    <updated>2025-04-15T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/An-und-Ummeldung-beim-Stadtb%C3%BCro-Gie%C3%9Fen-ab-sofort-online-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67703.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-15T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pflegefamilientag-des-Jugendamtes-in-der-Kletterhalle.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73415.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Pflegefamilientag des Jugendamtes in der Kletterhalle</title>
+    <updated>2025-04-16T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pflegefamilientag-des-Jugendamtes-in-der-Kletterhalle.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73415.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-16T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundhafte-Erneuerung-der-Stra%C3%9Fe-Reichensand-startet-am-22-April.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73414.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Grundhafte Erneuerung der Straße Reichensand startet am 22. April</title>
+    <updated>2025-04-17T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundhafte-Erneuerung-der-Stra%C3%9Fe-Reichensand-startet-am-22-April.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73414.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-17T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Basilika-Besichtigungen-auf-dem-Schiffenberg-starten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73427.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Basilika-Besichtigungen auf dem Schiffenberg starten</title>
+    <updated>2025-04-17T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Basilika-Besichtigungen-auf-dem-Schiffenberg-starten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73427.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-17T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jugendverkehrsschule-%C3%B6ffnet-ab-Samstag-26-04-wieder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73436.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Jugendverkehrsschule öffnet ab Samstag, 26.04., wieder</title>
+    <updated>2025-04-24T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jugendverkehrsschule-%C3%B6ffnet-ab-Samstag-26-04-wieder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73436.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-24T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Preistr%C3%A4ger-im-Hessischen-Landeswettbewerb-Ab-in-die-Mitte-2025-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73445.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen Preisträger im Hessischen Landeswettbewerb "Ab in die Mitte 2025"</title>
+    <updated>2025-04-25T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Preistr%C3%A4ger-im-Hessischen-Landeswettbewerb-Ab-in-die-Mitte-2025-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73445.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-25T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dieses-Jahr-ww%C3%B6lf-Naturschutzwanderungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73446.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Die Naturschutzwanderungen für 2025 sind da</title>
+    <updated>2025-04-25T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dieses-Jahr-ww%C3%B6lf-Naturschutzwanderungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73446.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-25T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-28-April-starten-Ma%C3%9Fnahmen-gegen-den-Eichenprozessionsspinner-im-Stadtgebiet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73447.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ab 28. April starten Maßnahmen gegen den Eichenprozessionsspinner im Stadtgebiet</title>
+    <updated>2025-04-25T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-28-April-starten-Ma%C3%9Fnahmen-gegen-den-Eichenprozessionsspinner-im-Stadtgebiet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73447.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-25T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-M%C3%B6glichkeiten-bei-der-Namenswahl.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73456.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue Möglichkeiten bei der Namenswahl</title>
+    <updated>2025-04-25T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-M%C3%B6glichkeiten-bei-der-Namenswahl.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73456.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-25T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-dem-1-Mai-nur-noch-digitale-Lichbilder-f%C3%BCr-Ausweise-und-P%C3%A4sse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73448.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ab dem 1. Mai nur noch digitale Lichbilder für Ausweise und Pässe</title>
+    <updated>2025-04-25T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-dem-1-Mai-nur-noch-digitale-Lichbilder-f%C3%BCr-Ausweise-und-P%C3%A4sse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73448.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-25T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Programm-zum-Bilderbuchfestival-2025-ist-da.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73457.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Das Programm zum Bilderbuchfestival 2025 ist da</title>
+    <updated>2025-04-28T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Programm-zum-Bilderbuchfestival-2025-ist-da.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73457.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-28T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Freibadsaison-startet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73458.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießener Freibadsaison startet</title>
+    <updated>2025-04-28T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Freibadsaison-startet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73458.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-28T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-Afrikanischer-Schweinepest-Speisereste-niemals-in-der-Natur-zur%C3%BCcklassen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73459.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Schutz vor Afrikanischer Schweinepest: Speisereste niemals in der Natur zurücklassen</title>
+    <updated>2025-04-28T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-Afrikanischer-Schweinepest-Speisereste-niemals-in-der-Natur-zur%C3%BCcklassen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73459.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-28T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weg-zum-Aussichtsgipfel-auf-der-Deponie-Gie%C3%9Fen-Allendorf-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73158.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Update: Der Weg zum Aussichtsgipfel auf der Deponie Gießen-Allendorf ist wieder frei</title>
+    <updated>2025-04-28T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weg-zum-Aussichtsgipfel-auf-der-Deponie-Gie%C3%9Fen-Allendorf-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73158.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-28T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-Vorstand-des-Stadtelternbeirats-f%C3%BCr-Kindertagesst%C3%A4tten-in-Gie%C3%9Fen-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73460.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neuer Vorstand des Stadtelternbeirats für Kindertagesstätten in Gießen gewählt</title>
+    <updated>2025-04-28T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-Vorstand-des-Stadtelternbeirats-f%C3%BCr-Kindertagesst%C3%A4tten-in-Gie%C3%9Fen-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73460.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-28T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Potenzial-der-stillgelegten-Deponie-in-Gie%C3%9Fen-Allendorf-optimal-genutzt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73462.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Potenzial der stillgelegten Deponie in Gießen-Allendorf optimal genutzt</title>
+    <updated>2025-04-29T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Potenzial-der-stillgelegten-Deponie-in-Gie%C3%9Fen-Allendorf-optimal-genutzt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73462.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-29T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Solarstrom-f%C3%BCr-W%C3%A4rmepumpen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73469.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Energieberatung der Verbraucherzentrale: Solarstrom für Wärmepumpen</title>
+    <updated>2025-04-30T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Solarstrom-f%C3%BCr-W%C3%A4rmepumpen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73469.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-30T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-erschlie%C3%9Fen-Steinstra%C3%9Fe-mit-Fernw%C3%A4rme.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73471.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>SWG erschließen Steinstraße mit Fernwärme</title>
+    <updated>2025-04-30T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-erschlie%C3%9Fen-Steinstra%C3%9Fe-mit-Fernw%C3%A4rme.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73471.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-30T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-warnen-vor-unseri%C3%B6sen-Telefonanrufen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73472.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtwerke warnen vor unseriösen Telefonanrufen</title>
+    <updated>2025-04-30T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-warnen-vor-unseri%C3%B6sen-Telefonanrufen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73472.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-30T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-f%C3%BCr-Teilnahme-bewerben-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73473.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Zweite Gießener Kulturnacht am 16. Mai 2026 - Jetzt für Teilnahme bewerben!</title>
+    <updated>2025-04-30T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-f%C3%BCr-Teilnahme-bewerben-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73473.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-30T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienprogramm-2025-Anmeldung-ab-5-Mai-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73479.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ferienprogramm 2025: Anmeldung ab 5. Mai möglich</title>
+    <updated>2025-05-02T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienprogramm-2025-Anmeldung-ab-5-Mai-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73479.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-02T11:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
