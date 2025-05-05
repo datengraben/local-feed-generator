@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-02T22:04:25.638235+00:00</updated>
+  <updated>2025-05-05T09:05:21.937388+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -706,17 +706,6 @@
     <published>2025-04-29T16:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einrichtung-von-Halteverboten-in-Siemensstra%C3%9Fe-Am-Unteren-Rain-Talstra%C3%9Fe-und-Klingelbachweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73346.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Einrichtung von Halteverboten in Siemensstraße, Am Unteren Rain, Talstraße und Klingelbachweg</title>
-    <updated>2025-04-08T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einrichtung-von-Halteverboten-in-Siemensstra%C3%9Fe-Am-Unteren-Rain-Talstra%C3%9Fe-und-Klingelbachweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73346.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-08T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-die-Gnauthstra%C3%9Fe-Die-SWG-erweitern-das-Fernw%C3%A4rmenetz-im-Gie%C3%9Fener-S%C3%BCden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73376.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Fernwärme für die Gnauthstraße: Die SWG erweitern das Fernwärmenetz im Gießener Süden</title>
     <updated>2025-04-09T00:00:00+02:00</updated>
@@ -979,6 +968,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienprogramm-2025-Anmeldung-ab-5-Mai-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73479.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-02T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwald-nach-Sturm-meiden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73481.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtwald nach Sturm meiden</title>
+    <updated>2025-05-05T09:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwald-nach-Sturm-meiden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73481.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-05T09:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
