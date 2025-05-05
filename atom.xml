@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-05T09:05:21.937388+00:00</updated>
+  <updated>2025-05-05T12:07:10.860799+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -464,6 +464,17 @@
     <published>2025-04-19T00:16:00+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-leonora-und-graf-luna/</id>
+    <title>Vier traumatisierte Figuren: Leonora und Graf Luna - In „Der Troubadour“ treffen vier Personen aufeinander, die d...</title>
+    <updated>2025-05-05T12:06:56.778988+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-leonora-und-graf-luna/"/>
+    <published>2025-05-05T12:06:56.778988+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-azucena-und-manrico/</id>
     <title>Vier traumatisierte Figuren - Azucena und Manrico - In „Der Troubadour“ treffen vier Personen aufeinander, die d...</title>
     <updated>2025-05-02T09:04:34+02:00</updated>
@@ -495,17 +506,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/explosive-mischung/"/>
     <published>2025-04-15T12:06:55+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/42-heidelberger-stuckemarkt-wir-sind-dabei/</id>
-    <title>42. Heidelberger Stückemarkt: Wir sind dabei! - Unsere Produktion "Gelbes Gold" ist zu dem renommi...</title>
-    <updated>2025-02-28T15:04:19+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/42-heidelberger-stuckemarkt-wir-sind-dabei/"/>
-    <published>2025-02-28T15:04:19+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/aggression-und-rhythmus/</id>
@@ -541,17 +541,6 @@
     <published>2025-04-09T15:05:50+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/eine-geschichte-die-nicht-alt-wird/</id>
-    <title>Eine Geschichte, die nicht alt wird - Am 4. Mai spielen wir Georg Büchners „Woyzeck“ zum letzten M...</title>
-    <updated>2025-04-22T12:07:34+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/eine-geschichte-die-nicht-alt-wird/"/>
-    <published>2025-04-22T12:07:34+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
     <title>Weil es in alle Herzen passt - "Die Brücke von Mostar": Regisseurin Simone Sterr ...</title>
     <updated>2025-03-07T11:03:55+01:00</updated>
@@ -561,6 +550,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/"/>
     <published>2025-03-07T11:03:55+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/gelbes-gold-erhalt-nachspielpreis/</id>
+    <title>"Gelbes Gold" erhält Nachspielpreis! - "Am Stadttheater Gießen glauben wir [an die Repertoiref...</title>
+    <updated>2025-05-05T12:06:56.778988+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/gelbes-gold-erhalt-nachspielpreis/"/>
+    <published>2025-05-05T12:06:56.778988+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-fur-alle-vorstellungen-startet-am-1-mai/</id>
