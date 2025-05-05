@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-05T12:07:10.860799+00:00</updated>
+  <updated>2025-05-05T14:04:38.803677+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -464,17 +464,6 @@
     <published>2025-04-19T00:16:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-leonora-und-graf-luna/</id>
-    <title>Vier traumatisierte Figuren: Leonora und Graf Luna - In „Der Troubadour“ treffen vier Personen aufeinander, die d...</title>
-    <updated>2025-05-05T12:06:56.778988+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-leonora-und-graf-luna/"/>
-    <published>2025-05-05T12:06:56.778988+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-azucena-und-manrico/</id>
     <title>Vier traumatisierte Figuren - Azucena und Manrico - In „Der Troubadour“ treffen vier Personen aufeinander, die d...</title>
     <updated>2025-05-02T09:04:34+02:00</updated>
@@ -530,6 +519,17 @@
     <published>2025-03-28T18:05:10+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/musiker-innen-fur-theaterproduktion-gesucht/</id>
+    <title>Musiker*innen für Theaterproduktion gesucht! - Für unsere Inszenierung von „Prinz Friedrich von Homburg“ su...</title>
+    <updated>2025-05-05T14:04:23.149395+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/musiker-innen-fur-theaterproduktion-gesucht/"/>
+    <published>2025-05-05T14:04:23.149395+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/</id>
     <title>Jetzt Karten fürs Musical sichern! - Der Vorverkauf für alle Vorstellungen der musikalischen Poli...</title>
     <updated>2025-04-09T15:05:50+02:00</updated>
@@ -554,13 +554,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/gelbes-gold-erhalt-nachspielpreis/</id>
     <title>"Gelbes Gold" erhält Nachspielpreis! - "Am Stadttheater Gießen glauben wir [an die Repertoiref...</title>
-    <updated>2025-05-05T12:06:56.778988+02:00</updated>
+    <updated>2025-05-05T12:06:56+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/gelbes-gold-erhalt-nachspielpreis/"/>
-    <published>2025-05-05T12:06:56.778988+02:00</published>
+    <published>2025-05-05T12:06:56+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-fur-alle-vorstellungen-startet-am-1-mai/</id>
@@ -704,17 +704,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-warnen-vor-unserioesen-telefonanrufen"/>
     <published>2025-04-29T16:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-die-Gnauthstra%C3%9Fe-Die-SWG-erweitern-das-Fernw%C3%A4rmenetz-im-Gie%C3%9Fener-S%C3%BCden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73376.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Fernwärme für die Gnauthstraße: Die SWG erweitern das Fernwärmenetz im Gießener Süden</title>
-    <updated>2025-04-09T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-die-Gnauthstra%C3%9Fe-Die-SWG-erweitern-das-Fernw%C3%A4rmenetz-im-Gie%C3%9Fener-S%C3%BCden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73376.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-09T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Entschleunigte-Wanderung-auf-der-Hohen-Warte-Von-Panzern-und-tierischen-Rasenm%C3%A4hern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73400.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -979,6 +968,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwald-nach-Sturm-meiden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73481.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-05T09:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-mit-vielen-Highlights.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73483.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neues Veranstaltungsprogramm der Stadtbibliothek mit vielen Highlights</title>
+    <updated>2025-05-05T14:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-mit-vielen-Highlights.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73483.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-05T14:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
