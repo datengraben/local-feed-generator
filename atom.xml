@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-05T14:04:38.803677+00:00</updated>
+  <updated>2025-05-06T06:07:13.200719+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -521,13 +521,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/musiker-innen-fur-theaterproduktion-gesucht/</id>
     <title>Musiker*innen für Theaterproduktion gesucht! - Für unsere Inszenierung von „Prinz Friedrich von Homburg“ su...</title>
-    <updated>2025-05-05T14:04:23.149395+02:00</updated>
+    <updated>2025-05-05T14:04:23+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/musiker-innen-fur-theaterproduktion-gesucht/"/>
-    <published>2025-05-05T14:04:23.149395+02:00</published>
+    <published>2025-05-05T14:04:23+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/</id>
@@ -704,28 +704,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-warnen-vor-unserioesen-telefonanrufen"/>
     <published>2025-04-29T16:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Entschleunigte-Wanderung-auf-der-Hohen-Warte-Von-Panzern-und-tierischen-Rasenm%C3%A4hern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73400.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Entschleunigte Wanderung auf der Hohen Warte - Von Panzern und tierischen Rasenmähern</title>
-    <updated>2025-04-11T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Entschleunigte-Wanderung-auf-der-Hohen-Warte-Von-Panzern-und-tierischen-Rasenm%C3%A4hern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73400.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-11T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Instandhaltung-der-Pflasterfl%C3%A4chen-in-der-Fu%C3%9Fg%C3%A4ngerzone.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73411.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Instandhaltung der Pflasterflächen in der Fußgängerzone</title>
-    <updated>2025-04-15T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Instandhaltung-der-Pflasterfl%C3%A4chen-in-der-Fu%C3%9Fg%C3%A4ngerzone.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73411.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-15T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/An-und-Ummeldung-beim-Stadtb%C3%BCro-Gie%C3%9Fen-ab-sofort-online-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67703.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -979,6 +957,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-mit-vielen-Highlights.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73483.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-05T14:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-St%C3%A4dtebauf%C3%B6rderung-am-10-Mai-in-der-N%C3%B6rdlichen-Weststadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73485.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Tag der Städtebauförderung am 10. Mai in der Nördlichen Weststadt</title>
+    <updated>2025-05-06T06:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-St%C3%A4dtebauf%C3%B6rderung-am-10-Mai-in-der-N%C3%B6rdlichen-Weststadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73485.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-06T06:06:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Gelbes-Gold-ausgezeichnet-mit-dem-Nachspielpreis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73486.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>"Gelbes Gold" ausgezeichnet mit dem Nachspielpreis</title>
+    <updated>2025-05-06T06:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Gelbes-Gold-ausgezeichnet-mit-dem-Nachspielpreis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73486.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-06T06:06:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
