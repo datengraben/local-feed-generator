@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-06T06:07:13.200719+00:00</updated>
+  <updated>2025-05-06T11:04:26.101609+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -464,17 +464,6 @@
     <published>2025-04-19T00:16:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-azucena-und-manrico/</id>
-    <title>Vier traumatisierte Figuren - Azucena und Manrico - In „Der Troubadour“ treffen vier Personen aufeinander, die d...</title>
-    <updated>2025-05-02T09:04:34+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vier-traumatisierte-figuren-azucena-und-manrico/"/>
-    <published>2025-05-02T09:04:34+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/</id>
     <title>Bildhauerei fürs Theater - Puppe oder Kostüm? Zwei Schlangen - eine blaue und eine gelb...</title>
     <updated>2025-04-28T15:04:39+02:00</updated>
@@ -572,6 +561,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-fur-alle-vorstellungen-startet-am-1-mai/"/>
     <published>2025-04-30T12:09:39+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/moglichkeiten-der-gegenwart-zu-begegnen/</id>
+    <title>Möglichkeiten, der Gegenwart zu begegnen - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
+    <updated>2025-05-06T11:04:10.390055+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/moglichkeiten-der-gegenwart-zu-begegnen/"/>
+    <published>2025-05-06T11:04:10.390055+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/aulweg-wird-in-zwei-abschnitten-zur-einbahnstrasse</id>
