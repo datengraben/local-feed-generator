@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-07T13:15:07.560787+00:00</updated>
+  <updated>2025-05-07T14:04:48.331412+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -761,17 +761,6 @@
     <published>2025-04-25T11:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-28-April-starten-Ma%C3%9Fnahmen-gegen-den-Eichenprozessionsspinner-im-Stadtgebiet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73447.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ab 28. April starten Maßnahmen gegen den Eichenprozessionsspinner im Stadtgebiet</title>
-    <updated>2025-04-25T11:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-28-April-starten-Ma%C3%9Fnahmen-gegen-den-Eichenprozessionsspinner-im-Stadtgebiet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73447.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-25T11:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-M%C3%B6glichkeiten-bei-der-Namenswahl.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73456.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Neue Möglichkeiten bei der Namenswahl</title>
     <updated>2025-04-25T11:04:00+02:00</updated>
@@ -979,6 +968,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinder-setzen-Zeichen-f%C3%BCr-Umweltschutz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73491.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-07T13:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B-429-Fahrbahnsanierung-der-Bundesstra%C3%9Fe-bei-Wettenberg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>B 429: Fahrbahnsanierung der Bundesstraße bei Wettenberg</title>
+    <updated>2025-05-07T14:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B-429-Fahrbahnsanierung-der-Bundesstra%C3%9Fe-bei-Wettenberg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-07T14:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
