@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-06T12:07:48.604791+00:00</updated>
+  <updated>2025-05-07T09:04:53.161708+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -532,13 +532,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/</id>
     <title>Ich bin eine Teamplayerin - Am Sonntag, 11. Mai, ist Amina Eisner im Kleinen Haus beim &amp;...</title>
-    <updated>2025-05-06T12:07:30.730669+02:00</updated>
+    <updated>2025-05-06T12:07:30+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/"/>
-    <published>2025-05-06T12:07:30.730669+02:00</published>
+    <published>2025-05-06T12:07:30+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/gelbes-gold-erhalt-nachspielpreis/</id>
@@ -553,7 +553,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-fur-alle-vorstellungen-startet-am-1-mai/</id>
-    <title>Jetzt im Vorverkauf - Ab dem 1. Mai können Sie Karten für alle Vorstellungen bis z...</title>
+    <title>Jetzt im Vorverkauf - Ab sofort können Sie Karten für alle Vorstellungen bis zur S...</title>
     <updated>2025-04-30T12:09:39+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -704,17 +704,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-warnen-vor-unserioesen-telefonanrufen"/>
     <published>2025-04-29T16:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/An-und-Ummeldung-beim-Stadtb%C3%BCro-Gie%C3%9Fen-ab-sofort-online-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67703.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>An- und Ummeldung beim Stadtbüro Gießen online möglich</title>
-    <updated>2025-04-15T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/An-und-Ummeldung-beim-Stadtb%C3%BCro-Gie%C3%9Fen-ab-sofort-online-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67703.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-15T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pflegefamilientag-des-Jugendamtes-in-der-Kletterhalle.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73415.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -979,6 +968,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Gelbes-Gold-ausgezeichnet-mit-dem-Nachspielpreis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73486.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-06T06:06:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubau-des-Blechdachs-in-Wieseck-eingeweiht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73487.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neubau des "Blechdachs" in Wieseck eingeweiht</title>
+    <updated>2025-05-07T09:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubau-des-Blechdachs-in-Wieseck-eingeweiht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73487.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-07T09:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
