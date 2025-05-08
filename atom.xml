@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-08T16:05:21.254422+00:00</updated>
+  <updated>2025-05-08T23:05:30.942368+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -706,6 +706,17 @@
     <published>2025-05-08T14:04:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Preistr%C3%A4ger-im-Hessischen-Landeswettbewerb-Ab-in-die-Mitte-2025-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73445.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen Preisträger im Hessischen Landeswettbewerb "Ab in die Mitte 2025"</title>
+    <updated>2025-04-25T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Preistr%C3%A4ger-im-Hessischen-Landeswettbewerb-Ab-in-die-Mitte-2025-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73445.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-25T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dieses-Jahr-ww%C3%B6lf-Naturschutzwanderungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73446.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Die Naturschutzwanderungen für 2025 sind da</title>
     <updated>2025-04-25T11:04:00+02:00</updated>
@@ -924,17 +935,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinder-setzen-Zeichen-f%C3%BCr-Umweltschutz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73491.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-07T13:14:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B-429-Fahrbahnsanierung-der-Bundesstra%C3%9Fe-bei-Wettenberg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>B 429: Fahrbahnsanierung der Bundesstraße bei Wettenberg</title>
-    <updated>2025-05-07T14:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B-429-Fahrbahnsanierung-der-Bundesstra%C3%9Fe-bei-Wettenberg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73493.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-07T14:04:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtradel-Stars-und-Programm-ab-25-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73507.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
