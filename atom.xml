@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-08T23:05:30.942368+00:00</updated>
+  <updated>2025-05-09T12:07:12.302474+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -706,39 +706,6 @@
     <published>2025-05-08T14:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Preistr%C3%A4ger-im-Hessischen-Landeswettbewerb-Ab-in-die-Mitte-2025-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73445.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gießen Preisträger im Hessischen Landeswettbewerb "Ab in die Mitte 2025"</title>
-    <updated>2025-04-25T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Preistr%C3%A4ger-im-Hessischen-Landeswettbewerb-Ab-in-die-Mitte-2025-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73445.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-25T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dieses-Jahr-ww%C3%B6lf-Naturschutzwanderungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73446.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Die Naturschutzwanderungen für 2025 sind da</title>
-    <updated>2025-04-25T11:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dieses-Jahr-ww%C3%B6lf-Naturschutzwanderungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73446.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-25T11:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-M%C3%B6glichkeiten-bei-der-Namenswahl.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73456.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neue Möglichkeiten bei der Namenswahl</title>
-    <updated>2025-04-25T11:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-M%C3%B6glichkeiten-bei-der-Namenswahl.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73456.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-25T11:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-dem-1-Mai-nur-noch-digitale-Lichbilder-f%C3%BCr-Ausweise-und-P%C3%A4sse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73448.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Ab dem 1. Mai nur noch digitale Lichbilder für Ausweise und Pässe</title>
     <updated>2025-04-25T11:04:00+02:00</updated>
@@ -979,6 +946,39 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Zwei-f%C3%BCr-eins-am-11-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73513.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-08T16:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalarbeiten-Halteverbote-in-der-Roonstra%C3%9Fe-ab-12-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73531.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Halteverbote in der Roonstraße ab 12. Mai</title>
+    <updated>2025-05-09T12:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalarbeiten-Halteverbote-in-der-Roonstra%C3%9Fe-ab-12-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73531.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-09T12:06:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtnahe-Wanderung-zum-Tag-des-Wanderns-Stadtpark-Wiesekaue.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73532.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtnahe Wanderung zum Tag des Wanderns: Stadtpark Wiesekaue</title>
+    <updated>2025-05-09T12:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtnahe-Wanderung-zum-Tag-des-Wanderns-Stadtpark-Wiesekaue.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73532.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-09T12:06:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-R%C3%B6dgen-ab-14-11-wieder-ge%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verwaltungsstellen in den Ortsteilen von 15. bis 23. Mai geschlossen</title>
+    <updated>2025-05-09T12:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-R%C3%B6dgen-ab-14-11-wieder-ge%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-09T12:06:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
