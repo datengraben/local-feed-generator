@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-11T11:03:52.433082+00:00</updated>
+  <updated>2025-05-11T14:04:11.342953+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -695,6 +695,17 @@
     <published>2025-05-08T14:04:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-M%C3%B6glichkeiten-bei-der-Namenswahl.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73456.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue Möglichkeiten bei der Namenswahl</title>
+    <updated>2025-04-25T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-M%C3%B6glichkeiten-bei-der-Namenswahl.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73456.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-04-25T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-dem-1-Mai-nur-noch-digitale-Lichbilder-f%C3%BCr-Ausweise-und-P%C3%A4sse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73448.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Ab dem 1. Mai nur noch digitale Lichbilder für Ausweise und Pässe</title>
     <updated>2025-04-25T00:00:00+02:00</updated>
@@ -912,17 +923,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Aulweg-wird-in-zwei-Abschnitten-zur-Einbahnstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73130.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-08T16:05:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Zwei-f%C3%BCr-eins-am-11-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73513.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadttheater: Zwei für eins am 11. Mai</title>
-    <updated>2025-05-08T16:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Zwei-f%C3%BCr-eins-am-11-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73513.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-08T16:05:00+02:00</published>
   </entry>
   <entry>
