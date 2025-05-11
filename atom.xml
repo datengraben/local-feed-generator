@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-10T22:04:01.353423+00:00</updated>
+  <updated>2025-05-11T11:03:52.433082+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -970,28 +970,6 @@
     <published>2025-05-09T15:04:00+02:00</published>
   </entry>
   <entry>
-    <id>https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/</id>
-    <title>Supp‘ un‘ Schwätze Unterwegs durch die Nordstadt</title>
-    <updated>2023-11-11T20:14:14+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/supp-un-schwaetze-unterwegs-durch-die-nordstadt/"/>
-    <published>2023-11-11T20:14:14+01:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/fachtag-an-der-jlu-kunststoff-reduzieren/</id>
-    <title>Fachtag an der JLU: Kunststoff reduzieren</title>
-    <updated>2023-11-29T20:27:00+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/fachtag-an-der-jlu-kunststoff-reduzieren/"/>
-    <published>2023-11-29T20:27:00+01:00</published>
-  </entry>
-  <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
     <title>Adventssingen 2023</title>
     <updated>2023-12-04T20:16:56+01:00</updated>
@@ -1102,14 +1080,36 @@
     <published>2025-03-25T12:00:18+01:00</published>
   </entry>
   <entry>
-    <id>https://werkstattkirche.de/werkstattkirche-ist-kooperationspartner-des-giessener-bilderbuch-festivals/</id>
-    <title>Werkstattkirche ist Kooperationspartner des Gießener Bilderbuch-Festivals</title>
-    <updated>2025-03-25T12:00:18+01:00</updated>
+    <id>https://werkstattkirche.de/supp-un-schwaetze-geht-in-die-naechste-runde/</id>
+    <title>Supp‘ un‘ Schwätze geht in die nächste Runde</title>
+    <updated>2025-04-28T12:21:24+02:00</updated>
     <author>
       <name>Werkstatt-Kirche</name>
       <email>info@werkstattkirche.de</email>
     </author>
-    <link href="https://werkstattkirche.de/werkstattkirche-ist-kooperationspartner-des-giessener-bilderbuch-festivals/"/>
-    <published>2025-03-25T12:00:18+01:00</published>
+    <link href="https://werkstattkirche.de/supp-un-schwaetze-geht-in-die-naechste-runde/"/>
+    <published>2025-04-28T12:21:24+02:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/supp-un-schwaetze-in-der-zeitung/</id>
+    <title>Supp‘ un‘ Schwätze in der Zeitung</title>
+    <updated>2025-04-29T12:31:09+02:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/supp-un-schwaetze-in-der-zeitung/"/>
+    <published>2025-04-29T12:31:09+02:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/supp-un-schwaetze-in-der-zeitung/</id>
+    <title>Supp‘ un‘ Schwätze in der Zeitung</title>
+    <updated>2025-04-29T12:31:09+02:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/supp-un-schwaetze-in-der-zeitung/"/>
+    <published>2025-04-29T12:31:09+02:00</published>
   </entry>
 </feed>
