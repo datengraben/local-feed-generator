@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-12T10:05:59.392641+00:00</updated>
+  <updated>2025-05-12T13:13:20.992128+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -433,13 +433,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/drei-tenore-fur-moses/</id>
     <title>Drei Tenöre für Moses - Eric Jongyoung Kim, Randall Bills und Dakai Wei sind für Gio...</title>
-    <updated>2025-05-12T10:05:46.012197+02:00</updated>
+    <updated>2025-05-12T10:05:46+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/drei-tenore-fur-moses/"/>
-    <published>2025-05-12T10:05:46.012197+02:00</published>
+    <published>2025-05-12T10:05:46+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/aggression-und-rhythmus/</id>
@@ -671,17 +671,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/baustelle-im-aulweg-kommt-in-die-zweite-phase"/>
     <published>2025-05-08T14:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-dem-1-Mai-nur-noch-digitale-Lichbilder-f%C3%BCr-Ausweise-und-P%C3%A4sse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73448.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ab dem 1. Mai nur noch digitale Lichbilder für Ausweise und Pässe</title>
-    <updated>2025-04-25T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ab-dem-1-Mai-nur-noch-digitale-Lichbilder-f%C3%BCr-Ausweise-und-P%C3%A4sse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73448.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-25T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Programm-zum-Bilderbuchfestival-2025-ist-da.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73457.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -946,6 +935,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-46ers-Fanfahrt-zum-Playoff-Halbfinale-kommt-zustande.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73536.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-12T10:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinderhaus-Alter-Wetzlarer-Weg-gewinnt-Medienpreis-in-Kassel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73537.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kinderhaus "Alter Wetzlarer Weg" gewinnt Medienpreis in Kassel</title>
+    <updated>2025-05-12T13:13:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinderhaus-Alter-Wetzlarer-Weg-gewinnt-Medienpreis-in-Kassel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73537.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-12T13:13:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
