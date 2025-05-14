@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-14T11:04:16.527060+00:00</updated>
+  <updated>2025-05-14T15:04:42.705886+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -673,39 +673,6 @@
     <published>2025-05-13T17:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-Vorstand-des-Stadtelternbeirats-f%C3%BCr-Kindertagesst%C3%A4tten-in-Gie%C3%9Fen-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73460.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neuer Vorstand des Stadtelternbeirats für Kindertagesstätten in Gießen gewählt</title>
-    <updated>2025-04-28T11:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-Vorstand-des-Stadtelternbeirats-f%C3%BCr-Kindertagesst%C3%A4tten-in-Gie%C3%9Fen-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73460.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-28T11:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Potenzial-der-stillgelegten-Deponie-in-Gie%C3%9Fen-Allendorf-optimal-genutzt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73462.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Potenzial der stillgelegten Deponie in Gießen-Allendorf optimal genutzt</title>
-    <updated>2025-04-29T11:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Potenzial-der-stillgelegten-Deponie-in-Gie%C3%9Fen-Allendorf-optimal-genutzt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73462.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-29T11:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Solarstrom-f%C3%BCr-W%C3%A4rmepumpen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73469.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Energieberatung der Verbraucherzentrale: Solarstrom für Wärmepumpen</title>
-    <updated>2025-04-30T11:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Solarstrom-f%C3%BCr-W%C3%A4rmepumpen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73469.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-30T11:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-erschlie%C3%9Fen-Steinstra%C3%9Fe-mit-Fernw%C3%A4rme.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73471.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>SWG erschließen Steinstraße mit Fernwärme</title>
     <updated>2025-04-30T11:04:00+02:00</updated>
@@ -946,6 +913,39 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Umwelt-und-Klimaschutzpreis-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73560.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-14T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-l%C3%A4dt-ein-zum-Townhall-Gespr%C3%A4ch-mit-dem-Ausw%C3%A4rtigen-Amt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73561.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen lädt ein zum Townhall-Gespräch mit dem Auswärtigen Amt</title>
+    <updated>2025-05-14T15:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-l%C3%A4dt-ein-zum-Townhall-Gespr%C3%A4ch-mit-dem-Ausw%C3%A4rtigen-Amt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73561.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-14T15:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Beteiligungsplattform-erh%C3%A4lt-neues-Design.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73562.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießener Beteiligungsplattform erhält neues Design</title>
+    <updated>2025-05-14T15:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Beteiligungsplattform-erh%C3%A4lt-neues-Design.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73562.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-14T15:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-weiterhin-Fairtraide-Stadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73563.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen ist weiterhin Fairtraide-Stadt</title>
+    <updated>2025-05-14T15:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-weiterhin-Fairtraide-Stadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73563.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-14T15:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
