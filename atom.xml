@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-13T17:04:40.171537+00:00</updated>
+  <updated>2025-05-14T11:04:16.527060+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -510,13 +510,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ausgezeichnet/</id>
     <title>Ausgezeichnet - Germaine Sollberger erhält Schweizer "Aufmunterungsprei...</title>
-    <updated>2025-05-13T17:04:26.610205+02:00</updated>
+    <updated>2025-05-13T17:04:26+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ausgezeichnet/"/>
-    <published>2025-05-13T17:04:26.610205+02:00</published>
+    <published>2025-05-13T17:04:26+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-fur-alle-vorstellungen-startet-am-1-mai/</id>
@@ -671,17 +671,6 @@
     </author>
     <link href="http://www.swg-konzern.de/presse/detail/news/stromkonzession-verlaengert-1"/>
     <published>2025-05-13T17:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weg-zum-Aussichtsgipfel-auf-der-Deponie-Gie%C3%9Fen-Allendorf-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73158.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Update: Der Weg zum Aussichtsgipfel auf der Deponie Gießen-Allendorf ist wieder frei</title>
-    <updated>2025-04-28T11:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weg-zum-Aussichtsgipfel-auf-der-Deponie-Gie%C3%9Fen-Allendorf-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73158.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-28T11:04:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-Vorstand-des-Stadtelternbeirats-f%C3%BCr-Kindertagesst%C3%A4tten-in-Gie%C3%9Fen-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73460.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -946,6 +935,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-modernisieren-Mittelspannungsleitung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73545.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-13T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Umwelt-und-Klimaschutzpreis-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73560.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bewerbungen für Umwelt- und Klimaschutzpreis möglich</title>
+    <updated>2025-05-14T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Umwelt-und-Klimaschutzpreis-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73560.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-14T11:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
