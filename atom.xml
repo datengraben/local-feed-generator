@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-15T07:04:58.479198+00:00</updated>
+  <updated>2025-05-15T10:07:18.156477+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -541,17 +541,6 @@
     <published>2025-05-06T11:04:10+02:00</published>
   </entry>
   <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/fernwaerme-fuer-die-gnauthstrasse</id>
-    <title>Fernwärme für die Gnauthstraße</title>
-    <updated>2025-04-09T12:07:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/fernwaerme-fuer-die-gnauthstrasse"/>
-    <published>2025-04-09T12:07:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/die-buslinien-5-und-15-werden-umgeleitet</id>
     <title>Die Buslinien 5 und 15 werden umgeleitet</title>
     <updated>2025-04-16T14:05:00+02:00</updated>
@@ -673,15 +662,15 @@
     <published>2025-05-13T17:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-warnen-vor-unseri%C3%B6sen-Telefonanrufen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73472.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadtwerke warnen vor unseriösen Telefonanrufen</title>
-    <updated>2025-04-30T11:04:00+02:00</updated>
+    <id>http://www.swg-konzern.de/presse/detail/news/buslinie-1-muss-umleitung-fahren</id>
+    <title>Buslinie 1 muss Umleitung fahren</title>
+    <updated>2025-05-15T10:07:00+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>SWG</name>
+      <email>info@swg-konzern.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-warnen-vor-unseri%C3%B6sen-Telefonanrufen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73472.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-30T11:04:00+02:00</published>
+    <link href="http://www.swg-konzern.de/presse/detail/news/buslinie-1-muss-umleitung-fahren"/>
+    <published>2025-05-15T10:07:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-f%C3%BCr-Teilnahme-bewerben-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73473.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -926,15 +915,15 @@
     <published>2025-05-14T15:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-weiterhin-Fairtraide-Stadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73563.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gießen ist weiterhin Fairtraide-Stadt</title>
-    <updated>2025-05-14T15:04:00+02:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-weiterhin-Fairtrade-Stadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73563.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen ist weiterhin Fairtrade-Stadt</title>
+    <updated>2025-05-14T10:07:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-weiterhin-Fairtraide-Stadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73563.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-14T15:04:00+02:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-weiterhin-Fairtrade-Stadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73563.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-14T10:07:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Carsharing-in-Gie%C3%9Fen-w%C3%A4chst-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73564.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -946,6 +935,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Carsharing-in-Gie%C3%9Fen-w%C3%A4chst-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73564.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-15T07:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalbauma%C3%9Fnahmen-ab-19-Mai-im-Hasenk%C3%B6ppel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73565.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kanalbaumaßnahmen ab 19. Mai im Hasenköppel</title>
+    <updated>2025-05-15T10:07:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalbauma%C3%9Fnahmen-ab-19-Mai-im-Hasenk%C3%B6ppel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73565.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-15T10:07:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
