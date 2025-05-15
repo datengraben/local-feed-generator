@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-15T13:11:59.006059+00:00</updated>
+  <updated>2025-05-15T14:04:44.969018+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -695,17 +695,6 @@
     <published>2025-05-02T11:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwald-nach-Sturm-meiden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73481.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadtwald nach Sturm meiden</title>
-    <updated>2025-05-05T09:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwald-nach-Sturm-meiden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73481.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-05T09:05:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-mit-vielen-Highlights.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73483.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Neues Veranstaltungsprogramm der Stadtbibliothek mit vielen Highlights</title>
     <updated>2025-05-05T14:04:00+02:00</updated>
@@ -946,6 +935,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-Buslinie-1-in-R%C3%B6dgen-erforderlich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73566.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-15T13:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorsorgevollmacht-und-Patientenverf%C3%BCgung-den-ersten-Schritt-tun.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73568.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vorsorgevollmacht und Patientenverfügung - den ersten Schritt tun</title>
+    <updated>2025-05-15T14:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorsorgevollmacht-und-Patientenverf%C3%BCgung-den-ersten-Schritt-tun.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73568.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-15T14:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
