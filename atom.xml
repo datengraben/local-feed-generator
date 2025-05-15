@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-15T10:07:18.156477+00:00</updated>
+  <updated>2025-05-15T13:11:59.006059+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -827,17 +827,6 @@
     <published>2025-05-09T15:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-46ers-Fanfahrt-zum-Playoff-Halbfinale-kommt-zustande.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73536.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gießen 46ers: Fanfahrt zum Playoff-Halbfinale kommt zustande</title>
-    <updated>2025-05-12T10:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-46ers-Fanfahrt-zum-Playoff-Halbfinale-kommt-zustande.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73536.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-12T10:05:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinderhaus-Alter-Wetzlarer-Weg-gewinnt-Medienpreis-in-Kassel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73537.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Kinderhaus "Alter Wetzlarer Weg" gewinnt Medienpreis in Kassel</title>
     <updated>2025-05-12T13:13:00+02:00</updated>
@@ -946,6 +935,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalbauma%C3%9Fnahmen-ab-19-Mai-im-Hasenk%C3%B6ppel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73565.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-15T10:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-Buslinie-1-in-R%C3%B6dgen-erforderlich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73566.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Umleitung für Buslinie 1 in Rödgen erforderlich</title>
+    <updated>2025-05-15T13:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-Buslinie-1-in-R%C3%B6dgen-erforderlich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73566.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-15T13:11:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
