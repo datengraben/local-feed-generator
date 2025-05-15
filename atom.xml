@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-14T15:04:42.705886+00:00</updated>
+  <updated>2025-05-15T07:04:58.479198+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -673,17 +673,6 @@
     <published>2025-05-13T17:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-erschlie%C3%9Fen-Steinstra%C3%9Fe-mit-Fernw%C3%A4rme.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73471.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>SWG erschließen Steinstraße mit Fernwärme</title>
-    <updated>2025-04-30T11:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-erschlie%C3%9Fen-Steinstra%C3%9Fe-mit-Fernw%C3%A4rme.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73471.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-30T11:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtwerke-warnen-vor-unseri%C3%B6sen-Telefonanrufen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73472.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Stadtwerke warnen vor unseriösen Telefonanrufen</title>
     <updated>2025-04-30T11:04:00+02:00</updated>
@@ -946,6 +935,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-weiterhin-Fairtraide-Stadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73563.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-14T15:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Carsharing-in-Gie%C3%9Fen-w%C3%A4chst-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73564.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Carsharing in Gießen wächst weiter</title>
+    <updated>2025-05-15T07:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Carsharing-in-Gie%C3%9Fen-w%C3%A4chst-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73564.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-15T07:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
