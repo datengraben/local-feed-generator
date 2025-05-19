@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-19T09:05:24.243206+00:00</updated>
+  <updated>2025-05-19T13:13:39.354049+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -409,17 +409,6 @@
     <published>2025-04-19T00:16:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/aggression-und-rhythmus/</id>
-    <title>Aggression und Rhythmus - Die Choreografin Reut Shemesh im Interview mit der Dramaturg...</title>
-    <updated>2025-04-12T17:03:33+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/aggression-und-rhythmus/"/>
-    <published>2025-04-12T17:03:33+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/25-gute-grunde-sich-der-staat-gegen-fritz-bauer-anzusehen/</id>
     <title>25 gute Gründe, sich „Der Staat gegen Fritz Bauer“ anzusehen - Zur 25. Jubiläumsvorstellung liefern wir Ihnen 25 gute, aber...</title>
     <updated>2025-03-28T18:05:10+01:00</updated>
@@ -440,17 +429,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
     <published>2025-05-07T12:08:18+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/</id>
-    <title>Jetzt Karten fürs Musical sichern! - Der Vorverkauf für alle Vorstellungen der musikalischen Poli...</title>
-    <updated>2025-04-09T15:05:50+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/"/>
-    <published>2025-04-09T15:05:50+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
@@ -484,6 +462,28 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/gelbes-gold-erhalt-nachspielpreis/"/>
     <published>2025-05-05T12:06:56+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/</id>
+    <title>Jetzt Karten fürs Musical sichern! - Der Vorverkauf für alle Vorstellungen der musikalischen Poli...</title>
+    <updated>2025-04-09T15:05:50+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/"/>
+    <published>2025-04-09T15:05:50+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/abonnent-innen-werben-abonnent-innen/</id>
+    <title>Abonnent*innen werben Abonnent*innen! - Jetzt Freund*innen, Verwandte und Kolleg*innen für ein Abo g...</title>
+    <updated>2025-05-19T13:13:23.621995+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/abonnent-innen-werben-abonnent-innen/"/>
+    <published>2025-05-19T13:13:23.621995+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ausgezeichnet/</id>
