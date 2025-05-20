@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-20T13:13:44.064217+00:00</updated>
+  <updated>2025-05-20T22:05:22.007046+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -398,17 +398,6 @@
     <published>2025-03-24T15:04:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_12286_1.PDF?1744719740</id>
-    <title>Einleitung und Unterrichtung der Öffentlichkeit zur Aufstellung des Bebauungsplan Nr. KL 09/08 "Gregor-Mendel-Straße"</title>
-    <updated>2025-04-19T00:16:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_12286_1.PDF?1744719740"/>
-    <published>2025-04-19T00:16:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_12500_1.PDF?1747644142</id>
     <title>Freigabe der Öffnung von Verkaufsstellen aus Anlass von Märkten, örtlichen Festen oder ähnlichen Veranstaltungen gemäß § 6 des Hessischen Ladenöffnungsgesetzes (HLöG) - Krämermarkt 2025</title>
     <updated>2025-05-24T02:33:00+02:00</updated>
@@ -521,13 +510,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/</id>
     <title>Spielzeit 2025/2026 - Neugierig? Durchstöbert jetzt unsere Website für Infos zu de...</title>
-    <updated>2025-05-20T13:13:30.000650+02:00</updated>
+    <updated>2025-05-20T13:13:30+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/"/>
-    <published>2025-05-20T13:13:30.000650+02:00</published>
+    <published>2025-05-20T13:13:30+02:00</published>
   </entry>
   <entry>
     <id>http://www.swg-konzern.de/presse/detail/news/swg-unterstuetzen-den-frauen-radsport</id>
