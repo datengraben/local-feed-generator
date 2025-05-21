@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-21T14:04:54.949037+00:00</updated>
+  <updated>2025-05-21T17:05:13.899047+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -519,17 +519,6 @@
     <published>2025-05-20T13:13:30+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-f%C3%BCr-Teilnahme-bewerben-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73473.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Zweite Gießener Kulturnacht am 16. Mai 2026 - Jetzt für Teilnahme bewerben!</title>
-    <updated>2025-04-30T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-f%C3%BCr-Teilnahme-bewerben-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73473.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-04-30T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienprogramm-2025-Anmeldung-ab-5-Mai-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73479.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Ferienprogramm 2025: Anmeldung ab 5. Mai möglich</title>
     <updated>2025-05-02T11:04:00+02:00</updated>
@@ -792,6 +781,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Schulradroutennetz-Nachhaltig-und-sicher-mit-dem-Fahrrad-zur-Schule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73575.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-19T09:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ordnungsamt-f%C3%BChrte-Taxen-und-Mietwagenkontrollen-durch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73579.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Taxen- und Mietwagenkontrollen in Gießen</title>
+    <updated>2025-05-21T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ordnungsamt-f%C3%BChrte-Taxen-und-Mietwagenkontrollen-durch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73579.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-21T17:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
