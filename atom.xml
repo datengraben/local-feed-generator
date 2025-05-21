@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-21T09:04:49.070182+00:00</updated>
+  <updated>2025-05-21T12:07:23.278617+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -517,138 +517,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/"/>
     <published>2025-05-20T13:13:30+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/sorgsam-mit-energie-umgehen</id>
-    <title>Sorgsam mit Energie umgehen</title>
-    <updated>2025-04-17T14:04:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/sorgsam-mit-energie-umgehen"/>
-    <published>2025-04-17T14:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/spielend-konstruieren</id>
-    <title>Spielend konstruieren</title>
-    <updated>2025-04-23T12:07:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/spielend-konstruieren"/>
-    <published>2025-04-23T12:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/giessener-freibadsaison-startet</id>
-    <title>Gießener Freibadsaison startet</title>
-    <updated>2025-04-28T13:18:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/giessener-freibadsaison-startet"/>
-    <published>2025-04-28T13:18:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/fernwaermeausbau-im-giessener-norden</id>
-    <title>Fernwärmeausbau im Gießener Norden</title>
-    <updated>2025-04-29T16:04:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/fernwaermeausbau-im-giessener-norden"/>
-    <published>2025-04-29T16:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-warnen-vor-unserioesen-telefonanrufen</id>
-    <title>Stadtwerke Gießen warnen vor unseriösen Telefonanrufen</title>
-    <updated>2025-04-29T16:04:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stadtwerke-giessen-warnen-vor-unserioesen-telefonanrufen"/>
-    <published>2025-04-29T16:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/swg-und-tour-der-hoffnung-verlaengern-ihre-partnerschaft</id>
-    <title>SWG und Tour der Hoffnung verlängern ihre Partnerschaft</title>
-    <updated>2025-05-07T12:08:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-und-tour-der-hoffnung-verlaengern-ihre-partnerschaft"/>
-    <published>2025-05-07T12:08:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/baustelle-im-aulweg-kommt-in-die-zweite-phase</id>
-    <title>Baustelle im Aulweg kommt in die zweite Phase</title>
-    <updated>2025-05-08T14:04:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/baustelle-im-aulweg-kommt-in-die-zweite-phase"/>
-    <published>2025-05-08T14:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/swg-modernisieren-mittelspannungsleitung</id>
-    <title>SWG modernisieren Mittelspannungsleitung</title>
-    <updated>2025-05-13T14:04:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-modernisieren-mittelspannungsleitung"/>
-    <published>2025-05-13T14:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/stromkonzession-verlaengert-1</id>
-    <title>Stromkonzession verlängert</title>
-    <updated>2025-05-13T17:04:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/stromkonzession-verlaengert-1"/>
-    <published>2025-05-13T17:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/buslinie-1-muss-umleitung-fahren</id>
-    <title>Buslinie 1 muss Umleitung fahren</title>
-    <updated>2025-05-15T10:07:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/buslinie-1-muss-umleitung-fahren"/>
-    <published>2025-05-15T10:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/wohnhaus-sanieren-besser-mit-fahrplan</id>
-    <title>Wohnhaus sanieren – besser mit Fahrplan</title>
-    <updated>2025-05-16T11:04:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/wohnhaus-sanieren-besser-mit-fahrplan"/>
-    <published>2025-05-16T11:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://www.swg-konzern.de/presse/detail/news/swg-unterstuetzen-kommunen</id>
-    <title>SWG unterstützen Kommunen</title>
-    <updated>2025-05-21T09:04:00+02:00</updated>
-    <author>
-      <name>SWG</name>
-      <email>info@swg-konzern.de</email>
-    </author>
-    <link href="http://www.swg-konzern.de/presse/detail/news/swg-unterstuetzen-kommunen"/>
-    <published>2025-05-21T09:04:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienprogramm-2025-Anmeldung-ab-5-Mai-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73479.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
