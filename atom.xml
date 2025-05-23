@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-23T11:04:16.144653+00:00</updated>
+  <updated>2025-05-23T14:05:20.931122+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -387,17 +387,6 @@
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Vermittlungsraum des MfG erstrahlt in neuem Glanz</title>
-    <updated>2025-03-24T15:04:00+01:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2025-03-24T15:04:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_12500_1.PDF?1747644142</id>
     <title>Freigabe der Öffnung von Verkaufsstellen aus Anlass von Märkten, örtlichen Festen oder ähnlichen Veranstaltungen gemäß § 6 des Hessischen Ladenöffnungsgesetzes (HLöG) - Krämermarkt 2025</title>
     <updated>2025-05-24T02:33:00+02:00</updated>
@@ -407,17 +396,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_12500_1.PDF?1747644142"/>
     <published>2025-05-24T02:33:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/musiker-innen-fur-theaterproduktion-gesucht/</id>
-    <title>Musiker*innen für Theaterproduktion gesucht! - Für unsere Inszenierung von „Prinz Friedrich von Homburg“ su...</title>
-    <updated>2025-05-05T14:04:23+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/musiker-innen-fur-theaterproduktion-gesucht/"/>
-    <published>2025-05-05T14:04:23+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/abonnent-innen-werben-abonnent-innen/</id>
@@ -453,6 +431,17 @@
     <published>2025-05-05T12:06:56+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/helfer-innen-gesucht-fur-den-zeitraum-zwischen-dem-7.6-und-18.6/</id>
+    <title>Helfer*innen gesucht für den Zeitraum zwischen dem 7.6. und 18.6. - Das Stadttheater Gießen sucht Helfer*innen, die Zeit und Lus...</title>
+    <updated>2025-05-23T14:05:06.212002+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/helfer-innen-gesucht-fur-den-zeitraum-zwischen-dem-7.6-und-18.6/"/>
+    <published>2025-05-23T14:05:06.212002+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 9. Juni - Tolle Schauspieler*innen, ein beeindruckendes Bühnenbild, ei...</title>
     <updated>2025-05-07T12:08:18+02:00</updated>
@@ -477,13 +466,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-erinnerung-ein-bild-jedes-bild-eine-szene/</id>
     <title>Jede Erinnerung ein Bild, jedes Bild eine Szene. - Einblick in „Polska Sztuka* Ein biografisches Gemälde mit ze...</title>
-    <updated>2025-05-23T11:03:59.420821+02:00</updated>
+    <updated>2025-05-23T11:03:59+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-erinnerung-ein-bild-jedes-bild-eine-szene/"/>
-    <published>2025-05-23T11:03:59.420821+02:00</published>
+    <published>2025-05-23T11:03:59+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-fur-alle-vorstellungen-startet-am-1-mai/</id>
@@ -517,28 +506,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/"/>
     <published>2025-05-20T13:13:30+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Gelbes-Gold-ausgezeichnet-mit-dem-Nachspielpreis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73486.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>"Gelbes Gold" ausgezeichnet mit dem Nachspielpreis</title>
-    <updated>2025-05-06T06:06:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Gelbes-Gold-ausgezeichnet-mit-dem-Nachspielpreis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73486.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-06T06:06:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubau-des-Blechdachs-in-Wieseck-eingeweiht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73487.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neubau des "Blechdachs" in Wieseck eingeweiht</title>
-    <updated>2025-05-07T09:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubau-des-Blechdachs-in-Wieseck-eingeweiht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73487.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-07T09:04:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinder-setzen-Zeichen-f%C3%BCr-Umweltschutz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73491.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -792,6 +759,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-gratuliert-JLU-zum-Erfolg-bei-Exzellenzstrategie-Zwei-Cluster-verl%C3%A4ngert-drittes-Cluster-neu-bewilligt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73586.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-23T09:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vertrag-von-Wohnbau-Chefin-Haberland-verl%C3%A4ngert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73588.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vertrag von Wohnbau-Chefin Haberland verlängert</title>
+    <updated>2025-05-23T14:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vertrag-von-Wohnbau-Chefin-Haberland-verl%C3%A4ngert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73588.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-23T14:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Metalldiebstahl-auf-dem-Alten-Friedhof-Stadt-schreibt-Belohnung-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73587.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Metalldiebstahl auf dem Alten Friedhof - Stadt schreibt Belohnung aus</title>
+    <updated>2025-05-23T14:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Metalldiebstahl-auf-dem-Alten-Friedhof-Stadt-schreibt-Belohnung-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73587.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-23T14:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
