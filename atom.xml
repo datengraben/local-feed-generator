@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-05-23T09:04:53.108128+00:00</updated>
+  <updated>2025-05-23T11:04:16.144653+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -409,28 +409,6 @@
     <published>2025-05-24T02:33:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 9. Juni - Tolle Schauspieler*innen, ein beeindruckendes Bühnenbild, ei...</title>
-    <updated>2025-05-07T12:08:18+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2025-05-07T12:08:18+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
-    <title>Weil es in alle Herzen passt - "Die Brücke von Mostar": Regisseurin Simone Sterr ...</title>
-    <updated>2025-03-07T11:03:55+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/"/>
-    <published>2025-03-07T11:03:55+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/musiker-innen-fur-theaterproduktion-gesucht/</id>
     <title>Musiker*innen für Theaterproduktion gesucht! - Für unsere Inszenierung von „Prinz Friedrich von Homburg“ su...</title>
     <updated>2025-05-05T14:04:23+02:00</updated>
@@ -440,28 +418,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/musiker-innen-fur-theaterproduktion-gesucht/"/>
     <published>2025-05-05T14:04:23+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/gelbes-gold-erhalt-nachspielpreis/</id>
-    <title>"Gelbes Gold" erhält Nachspielpreis! - "Am Stadttheater Gießen glauben wir [an die Repertoiref...</title>
-    <updated>2025-05-05T12:06:56+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/gelbes-gold-erhalt-nachspielpreis/"/>
-    <published>2025-05-05T12:06:56+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/</id>
-    <title>Jetzt Karten fürs Musical sichern! - Der Vorverkauf für alle Vorstellungen der musikalischen Poli...</title>
-    <updated>2025-04-09T15:05:50+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/"/>
-    <published>2025-04-09T15:05:50+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/abonnent-innen-werben-abonnent-innen/</id>
@@ -484,6 +440,50 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ausgezeichnet/"/>
     <published>2025-05-13T17:04:26+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/gelbes-gold-erhalt-nachspielpreis/</id>
+    <title>"Gelbes Gold" erhält Nachspielpreis! - "Am Stadttheater Gießen glauben wir [an die Repertoiref...</title>
+    <updated>2025-05-05T12:06:56+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/gelbes-gold-erhalt-nachspielpreis/"/>
+    <published>2025-05-05T12:06:56+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 9. Juni - Tolle Schauspieler*innen, ein beeindruckendes Bühnenbild, ei...</title>
+    <updated>2025-05-07T12:08:18+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2025-05-07T12:08:18+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/</id>
+    <title>Jetzt Karten fürs Musical sichern! - Der Vorverkauf für alle Vorstellungen der musikalischen Poli...</title>
+    <updated>2025-04-09T15:05:50+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/"/>
+    <published>2025-04-09T15:05:50+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-erinnerung-ein-bild-jedes-bild-eine-szene/</id>
+    <title>Jede Erinnerung ein Bild, jedes Bild eine Szene. - Einblick in „Polska Sztuka* Ein biografisches Gemälde mit ze...</title>
+    <updated>2025-05-23T11:03:59.420821+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-erinnerung-ein-bild-jedes-bild-eine-szene/"/>
+    <published>2025-05-23T11:03:59.420821+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-fur-alle-vorstellungen-startet-am-1-mai/</id>
