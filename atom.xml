@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-01T23:04:22.424515+00:00</updated>
+  <updated>2025-06-02T08:06:38.153970+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -293,26 +293,6 @@
     <published>2025-02-15T14:03:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/-CoolerStadtplan-verschafft-Gie%C3%9Fen-Abk%C3%BChlung-B%C3%BCrger-arbeiten-aktiv-mit-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.64678.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>»CoolerStadtplan« verschafft Gießen Abkühlung - Bürger arbeiten aktiv mit!</title>
-    <updated>2024-05-29T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/-CoolerStadtplan-verschafft-Gie%C3%9Fen-Abk%C3%BChlung-B%C3%BCrger-arbeiten-aktiv-mit-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.64678.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2024-05-29T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitze-Warnungen-des-DWD-im-Stadtgebiet-und-oline.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67658.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Hitze-Warnungen des DWD im Stadtgebiet und online</title>
-    <updated>2024-07-15T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitze-Warnungen-des-DWD-im-Stadtgebiet-und-oline.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67658.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2024-07-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Blaualgen-im-Neuen-Teich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67894.1&amp;NavID=2874.584&amp;La=1</id>
     <title>Blaualgen im Neuen Teich</title>
     <updated>2024-08-02T00:00:00+02:00</updated>
@@ -341,6 +321,16 @@
     </author>
     <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Innenr%C3%A4ume-an-hei%C3%9Fen-Tagen-k%C3%BChl-halten.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67978.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2024-08-21T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzegefahren-ernst-nehmen-Hitzeaktionstag-am-4-Juni.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.73593.1&amp;NavID=2874.584&amp;La=1</id>
+    <title>Hitzegefahren ernst nehmen: Hitzeaktionstag am 4. Juni</title>
+    <updated>2025-05-28T08:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Hitze und Trockenheit</name>
+    </author>
+    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzegefahren-ernst-nehmen-Hitzeaktionstag-am-4-Juni.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.73593.1&amp;NavID=2874.584&amp;La=1"/>
+    <published>2025-05-28T08:06:00+02:00</published>
   </entry>
   <entry>
     <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
