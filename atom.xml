@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-03T00:18:30.812174+00:00</updated>
+  <updated>2025-06-03T13:14:13.295342+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -520,17 +520,6 @@
     <published>2025-05-20T13:13:30+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtnahe-Wanderung-zum-Tag-des-Wanderns-Stadtpark-Wiesekaue.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73532.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadtnahe Wanderung zum Tag des Wanderns: Stadtpark Wiesekaue</title>
-    <updated>2025-05-09T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtnahe-Wanderung-zum-Tag-des-Wanderns-Stadtpark-Wiesekaue.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73532.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-09T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sportentwicklungsplan-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73533.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Sportentwicklungsplan im Ausschuss vorgestellt</title>
     <updated>2025-05-09T15:04:00+02:00</updated>
@@ -793,6 +782,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsbeeintr%C3%A4chtigungen-in-der-Innenstadt-am-8-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73622.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-06-02T10:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-neue-Stadtf%C3%BChrungsprogramm-ist-da.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73625.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Das neue Stadtführungsprogramm ist da</title>
+    <updated>2025-06-03T13:13:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-neue-Stadtf%C3%BChrungsprogramm-ist-da.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73625.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-03T13:13:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
