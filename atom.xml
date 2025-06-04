@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-03T14:05:18.205147+00:00</updated>
+  <updated>2025-06-04T11:04:27.855253+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -324,7 +324,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzegefahren-ernst-nehmen-Hitzeaktionstag-am-4-Juni.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.73593.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Hitzegefahren ernst nehmen: Hitzeaktionstag am 4. Juni</title>
+    <title>Update: Heute ist Hitzeaktionstag</title>
     <updated>2025-05-28T08:06:00+02:00</updated>
     <author>
       <name>Stadt - Hitze und Trockenheit</name>
@@ -520,17 +520,6 @@
     <published>2025-05-20T13:13:30+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinderhaus-Alter-Wetzlarer-Weg-gewinnt-Medienpreis-in-Kassel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73537.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kinderhaus "Alter Wetzlarer Weg" gewinnt Medienpreis in Kassel</title>
-    <updated>2025-05-12T13:13:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinderhaus-Alter-Wetzlarer-Weg-gewinnt-Medienpreis-in-Kassel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73537.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-12T13:13:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Diverse-Stadt-2025-Vielfalt-leben-und-erleben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73540.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Diverse Stadt 2025 - Vielfalt leben und erleben</title>
     <updated>2025-05-13T07:05:00+02:00</updated>
@@ -718,17 +707,6 @@
     <published>2025-05-27T15:05:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitzegefahren-ernst-nehmen-Hitzeaktionstag-am-4-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73593.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Hitzegefahren ernst nehmen: Hitzeaktionstag am 4. Juni</title>
-    <updated>2025-05-28T08:06:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitzegefahren-ernst-nehmen-Hitzeaktionstag-am-4-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73593.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-28T08:06:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freibadsaison-in-Kleinlinden-und-L%C3%BCtzellinden-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73606.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Freibadsaison in Kleinlinden und Lützellinden beginnt</title>
     <updated>2025-05-28T18:05:00+02:00</updated>
@@ -793,6 +771,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenamt-und-Friedhofsverwaltung-am-5-Juni-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73626.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-06-03T14:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitzegefahren-ernst-nehmen-Hitzeaktionstag-am-4-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73593.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Update: Heute ist Hitzeaktionstag</title>
+    <updated>2025-05-28T08:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hitzegefahren-ernst-nehmen-Hitzeaktionstag-am-4-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73593.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-28T08:06:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-R%C3%B6dgen-ab-14-11-wieder-ge%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verwaltungsstellen in den Ortsteilen bis 17. Juni geschlossen</title>
+    <updated>2025-06-04T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-R%C3%B6dgen-ab-14-11-wieder-ge%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-04T11:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
