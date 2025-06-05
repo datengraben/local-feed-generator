@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-05T14:04:38.533387+00:00</updated>
+  <updated>2025-06-05T22:04:23.355094+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -520,6 +520,17 @@
     <published>2025-06-05T13:13:56+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Damit-man-mitschw%C3%A4tzen-kann-WhatsApp-Kanal-der-Stadt-nun-auch-offiziell-verifiziert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73541.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Damit man mitschwätzen kann - WhatsApp-Kanal der Stadt nun auch offiziell verifiziert</title>
+    <updated>2025-05-13T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Damit-man-mitschw%C3%A4tzen-kann-WhatsApp-Kanal-der-Stadt-nun-auch-offiziell-verifiziert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73541.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-13T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-modernisieren-Mittelspannungsleitung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73545.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>SWG modernisieren Mittelspannungsleitung - Röderring etwa sechs Wochen gesperrt</title>
     <updated>2025-05-13T00:00:00+02:00</updated>
@@ -737,17 +748,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-neue-Stadtf%C3%BChrungsprogramm-ist-da.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73625.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-06-03T09:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenamt-und-Friedhofsverwaltung-am-5-Juni-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73626.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gartenamt und Friedhofsverwaltung am 5. Juni geschlossen</title>
-    <updated>2025-06-03T09:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenamt-und-Friedhofsverwaltung-am-5-Juni-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73626.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-06-03T09:04:00+02:00</published>
   </entry>
   <entry>
