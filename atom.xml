@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-07T00:19:11.096077+00:00</updated>
+  <updated>2025-06-07T15:04:14.535588+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -531,6 +531,17 @@
     <published>2025-06-05T13:13:56+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Umwelt-und-Klimaschutzpreis-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73560.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bewerbungen für Umwelt- und Klimaschutzpreis möglich</title>
+    <updated>2025-05-14T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Umwelt-und-Klimaschutzpreis-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73560.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-14T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Beteiligungsplattform-erh%C3%A4lt-neues-Design.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73562.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gießener Beteiligungsplattform erhält neues Design</title>
     <updated>2025-05-14T00:00:00+02:00</updated>
@@ -771,17 +782,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bauingenieure-f%C3%BCr-die-%C3%B6ffentliche-Verwaltung-sollen-in-Limburg-ausgebildet-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73632.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-06-05T09:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Radtour-f%C3%BCr-Organspende-f%C3%BChrt-kurzzeitig-zu-Verkehrsbehinderungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73640.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>"Radtour für Organspende" führt kurzzeitig zu Verkehrsbehinderungen</title>
-    <updated>2025-06-06T10:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Radtour-f%C3%BCr-Organspende-f%C3%BChrt-kurzzeitig-zu-Verkehrsbehinderungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73640.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-06-06T10:04:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-h%C3%A4lt-an-Kita-Seltersweg-fest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73641.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
