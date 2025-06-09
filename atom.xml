@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-08T18:05:08.303021+00:00</updated>
+  <updated>2025-06-09T14:05:01.708288+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -531,6 +531,17 @@
     <published>2025-06-05T13:13:56+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Damit-man-mitschw%C3%A4tzen-kann-WhatsApp-Kanal-der-Stadt-nun-auch-offiziell-verifiziert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73541.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Damit man mitschwätzen kann - WhatsApp-Kanal der Stadt nun auch offiziell verifiziert</title>
+    <updated>2025-05-13T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Damit-man-mitschw%C3%A4tzen-kann-WhatsApp-Kanal-der-Stadt-nun-auch-offiziell-verifiziert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73541.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-13T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-modernisieren-Mittelspannungsleitung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73545.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>SWG modernisieren Mittelspannungsleitung - Röderring etwa sechs Wochen gesperrt</title>
     <updated>2025-05-13T00:00:00+02:00</updated>
@@ -683,17 +694,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rohrbruch-in-einer-Hauptwasserleitung-im-Aulweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73590.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-05-26T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ampelanlage-Berliner-Platz-Kurzzeitiges-Provisorium-wegen-Wartungsarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73592.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ampelanlage Berliner Platz: Kurzzeitiges Provisorium wegen Wartungsarbeiten</title>
-    <updated>2025-05-27T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ampelanlage-Berliner-Platz-Kurzzeitiges-Provisorium-wegen-Wartungsarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73592.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-27T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freibadsaison-in-Kleinlinden-und-L%C3%BCtzellinden-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73606.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
