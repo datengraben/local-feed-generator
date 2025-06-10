@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-10T08:07:32.508229+00:00</updated>
+  <updated>2025-06-10T09:05:45.789431+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -421,6 +421,17 @@
     <published>2025-06-07T00:18:00+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/helfer-innen-gesucht-fur-den-zeitraum-zwischen-dem-7.6-und-18.6/</id>
+    <title>Helfer*innen gesucht für den Zeitraum zwischen dem 7.6. und 18.6. - Das Stadttheater Gießen sucht Helfer*innen, die Zeit und Lus...</title>
+    <updated>2025-06-10T09:05:26.449110+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/helfer-innen-gesucht-fur-den-zeitraum-zwischen-dem-7.6-und-18.6/"/>
+    <published>2025-06-10T09:05:26.449110+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/22-sportler-innen-beim-feig-firmenlauf-2025/</id>
     <title>35 Sportler*innen beim FEIG Firmenlauf 2025 - Mit unserer Teilnahme unterstützen wir den Startschuss fürs ...</title>
     <updated>2025-05-23T16:04:52+02:00</updated>
@@ -474,17 +485,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-erinnerung-ein-bild-jedes-bild-eine-szene/"/>
     <published>2025-05-23T11:03:59+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 9. Juni - Tolle Schauspieler*innen, ein beeindruckendes Bühnenbild, ei...</title>
-    <updated>2025-05-07T12:08:18+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2025-05-07T12:08:18+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-fur-alle-vorstellungen-startet-am-1-mai/</id>
