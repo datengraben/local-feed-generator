@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-11T14:04:43.010141+00:00</updated>
+  <updated>2025-06-12T05:05:04.626953+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -531,6 +531,17 @@
     <published>2025-06-05T13:13:56+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Umwelt-und-Klimaschutzpreis-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73560.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bewerbungen für Umwelt- und Klimaschutzpreis möglich</title>
+    <updated>2025-05-14T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Umwelt-und-Klimaschutzpreis-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73560.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-14T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Beteiligungsplattform-erh%C3%A4lt-neues-Design.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73562.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gießener Beteiligungsplattform erhält neues Design</title>
     <updated>2025-05-14T00:00:00+02:00</updated>
@@ -760,17 +771,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-h%C3%A4lt-an-Kita-Seltersweg-fest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73641.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-06-06T11:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A45-N%C3%A4chtliche-Sperrungen-der-Anschlussstelle-Gie%C3%9Fen-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73642.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>A45: Nächtliche Sperrung der Anschlussstelle Gießen-Lützellinden</title>
-    <updated>2025-06-06T13:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A45-N%C3%A4chtliche-Sperrungen-der-Anschlussstelle-Gie%C3%9Fen-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73642.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-06-06T13:12:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kampfmittelsondierung-im-Nahrungsberg-ab-23-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73651.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
