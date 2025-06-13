@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-12T17:06:00.954634+00:00</updated>
+  <updated>2025-06-13T11:04:27.371791+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -542,17 +542,6 @@
     <published>2025-06-05T13:13:56+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Beteiligungsplattform-erh%C3%A4lt-neues-Design.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73562.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gießener Beteiligungsplattform erhält neues Design</title>
-    <updated>2025-05-14T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Beteiligungsplattform-erh%C3%A4lt-neues-Design.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73562.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-14T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-weiterhin-Fairtrade-Stadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73563.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gießen ist weiterhin Fairtrade-Stadt</title>
     <updated>2025-05-14T00:00:00+02:00</updated>
@@ -815,6 +804,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Beim-STADTRADELN-Gewinnspiel-mitmachen-und-gewinnen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73662.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-06-12T14:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-Es-gibt-noch-freie-Pl%C3%A4tze.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ferienprogramm der Universitätsstadt Gießen: Es gibt noch freie Plätze</title>
+    <updated>2025-06-13T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-Es-gibt-noch-freie-Pl%C3%A4tze.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-13T11:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
