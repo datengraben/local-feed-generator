@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-15T22:05:15.526787+00:00</updated>
+  <updated>2025-06-16T08:06:58.468927+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -432,28 +432,6 @@
     <published>2025-06-07T00:18:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/22-sportler-innen-beim-feig-firmenlauf-2025/</id>
-    <title>35 Sportler*innen beim FEIG Firmenlauf 2025 - Mit unserer Teilnahme unterstützen wir den Startschuss fürs ...</title>
-    <updated>2025-05-23T16:04:52+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/22-sportler-innen-beim-feig-firmenlauf-2025/"/>
-    <published>2025-05-23T16:04:52+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 5. Juli - Appell an die Menschlichkeit: Am nächsten Theatertag zeigen ...</title>
-    <updated>2025-06-10T13:14:16+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2025-06-10T13:14:16+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/bildhauerei-furs-theater/</id>
     <title>Bildhauerei fürs Theater - Puppe oder Kostüm? Zwei Schlangen - eine blaue und eine gelb...</title>
     <updated>2025-06-02T10:05:37+02:00</updated>
@@ -498,6 +476,17 @@
     <published>2025-05-23T11:03:59+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 5. Juli - Appell an die Menschlichkeit: Am nächsten Theatertag zeigen ...</title>
+    <updated>2025-06-10T13:14:16+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2025-06-10T13:14:16+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-fur-alle-vorstellungen-startet-am-1-mai/</id>
     <title>Jetzt im Vorverkauf - Ab sofort können Sie Karten für alle Vorstellungen bis zur S...</title>
     <updated>2025-04-30T12:09:39+02:00</updated>
@@ -518,6 +507,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/moglichkeiten-der-gegenwart-zu-begegnen/"/>
     <published>2025-05-06T11:04:10+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ausgezeichnet/</id>
+    <title>Ausgezeichnet - Germaine Sollberger erhält Schweizer "Aufmunterungsprei...</title>
+    <updated>2025-06-16T08:06:44.447215+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ausgezeichnet/"/>
+    <published>2025-06-16T08:06:44.447215+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/</id>
