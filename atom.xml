@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-16T15:04:54.357288+00:00</updated>
+  <updated>2025-06-17T05:05:42.114324+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -542,6 +542,17 @@
     <published>2025-06-05T13:13:56+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Diverse-Stadt-2025-Vielfalt-leben-und-erleben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73540.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Diverse Stadt 2025 - Vielfalt leben und erleben</title>
+    <updated>2025-05-13T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Diverse-Stadt-2025-Vielfalt-leben-und-erleben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73540.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-05-13T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-modernisieren-Mittelspannungsleitung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73545.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>SWG modernisieren Mittelspannungsleitung - Röderring etwa sechs Wochen gesperrt</title>
     <updated>2025-05-13T00:00:00+02:00</updated>
@@ -793,17 +804,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-Es-gibt-noch-freie-Pl%C3%A4tze.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-06-13T11:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A45-A485-N%C3%A4chtliche-Sperrung-im-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73674.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>A45/A485: Heute nächtliche Sperrung im Gießener Südkreuz</title>
-    <updated>2025-06-16T15:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A45-A485-N%C3%A4chtliche-Sperrung-im-Gie%C3%9Fener-S%C3%BCdkreuz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73674.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-06-16T15:04:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dialog-und-Beteiligung-geht-in-die-n%C3%A4chste-Runde-Jugend-im-Rathaus-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73675.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
