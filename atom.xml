@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-17T22:09:09.892391+00:00</updated>
+  <updated>2025-06-18T13:14:04.982560+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -542,39 +542,6 @@
     <published>2025-06-05T13:13:56+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Schulradroutennetz-Nachhaltig-und-sicher-mit-dem-Fahrrad-zur-Schule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73575.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neues Schulradroutennetz: Nachhaltig und sicher mit dem Fahrrad zur Schule</title>
-    <updated>2025-05-19T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Schulradroutennetz-Nachhaltig-und-sicher-mit-dem-Fahrrad-zur-Schule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73575.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-19T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ordnungsamt-f%C3%BChrte-Taxen-und-Mietwagenkontrollen-durch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73579.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Taxen- und Mietwagenkontrollen in Gießen</title>
-    <updated>2025-05-21T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ordnungsamt-f%C3%BChrte-Taxen-und-Mietwagenkontrollen-durch.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73579.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-21T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Musikalischer-Sommer-2025-auf-dem-Schiffenberg-und-der-StadtRaumB%C3%BChne.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73582.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Musikalischer Sommer 2025 auf dem Schiffenberg und der StadtRaumBühne</title>
-    <updated>2025-05-22T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Musikalischer-Sommer-2025-auf-dem-Schiffenberg-und-der-StadtRaumB%C3%BChne.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73582.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-22T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-gratuliert-JLU-zum-Erfolg-bei-Exzellenzstrategie-Zwei-Cluster-verl%C3%A4ngert-drittes-Cluster-neu-bewilligt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73586.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Stadt gratuliert JLU zum Erfolg bei Exzellenzstrategie: Zwei Cluster verlängert, drittes Cluster neu bewilligt</title>
     <updated>2025-05-23T00:00:00+02:00</updated>
@@ -815,6 +782,39 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neu-bei-WIR-sprechen-Das-Zeitungscaf%C3%A9.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73623.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-06-17T15:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reparieren-tauschen-und-Nachhaltigkeit-hautnah-erleben-beim-Green-Market-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73715.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Reparieren, tauschen und Nachhaltigkeit hautnah erleben beim "Green Market"</title>
+    <updated>2025-06-18T13:13:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reparieren-tauschen-und-Nachhaltigkeit-hautnah-erleben-beim-Green-Market-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73715.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-18T13:13:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bald-auch-amtlich-Gie%C3%9Fen-soll-Gebiet-mit-angespanntem-Wohnungsmarkt-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73716.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bald auch amtlich: Gießen soll "Gebiet mit angespanntem Wohnungsmarkt" werden</title>
+    <updated>2025-06-18T13:13:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bald-auch-amtlich-Gie%C3%9Fen-soll-Gebiet-mit-angespanntem-Wohnungsmarkt-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73716.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-18T13:13:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neu-im-Rathaus-Digitale-Fotoautomaten-f%C3%BCr-Passbilder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73717.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neu im Rathaus: Digitale Fotoautomaten für Passbilder</title>
+    <updated>2025-06-18T13:13:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neu-im-Rathaus-Digitale-Fotoautomaten-f%C3%BCr-Passbilder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73717.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-18T13:13:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
