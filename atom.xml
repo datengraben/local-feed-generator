@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-20T09:05:14.230281+00:00</updated>
+  <updated>2025-06-20T11:04:19.418371+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -432,17 +432,6 @@
     <published>2025-06-07T00:18:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
-    <title>Weil es in alle Herzen passt - "Die Brücke von Mostar": Regisseurin Simone Sterr ...</title>
-    <updated>2025-06-02T10:05:37+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/"/>
-    <published>2025-06-02T10:05:37+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/</id>
     <title>Jetzt Karten fürs Musical sichern! - Der Vorverkauf für alle Vorstellungen der musikalischen Poli...</title>
     <updated>2025-04-09T15:05:50+02:00</updated>
@@ -496,6 +485,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/moglichkeiten-der-gegenwart-zu-begegnen/"/>
     <published>2025-05-06T11:04:10+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/</id>
+    <title>Ein Tag voller Kreativität! - Das Stadttheater TAKEOVER am 4. Juli ist vollgepackt mit kre...</title>
+    <updated>2025-06-20T11:04:06.624839+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/"/>
+    <published>2025-06-20T11:04:06.624839+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ausgezeichnet/</id>
