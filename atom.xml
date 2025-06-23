@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-22T14:05:15.365894+00:00</updated>
+  <updated>2025-06-23T13:16:01.687395+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -542,28 +542,6 @@
     <published>2025-06-05T13:13:56+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-gratuliert-JLU-zum-Erfolg-bei-Exzellenzstrategie-Zwei-Cluster-verl%C3%A4ngert-drittes-Cluster-neu-bewilligt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73586.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadt gratuliert JLU zum Erfolg bei Exzellenzstrategie: Zwei Cluster verlängert, drittes Cluster neu bewilligt</title>
-    <updated>2025-05-23T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-gratuliert-JLU-zum-Erfolg-bei-Exzellenzstrategie-Zwei-Cluster-verl%C3%A4ngert-drittes-Cluster-neu-bewilligt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73586.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-23T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Fernw%C3%A4rmeleitung-in-der-Colemanstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73589.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neue Fernwärmeleitung in der Colemanstraße</title>
-    <updated>2025-05-26T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Fernw%C3%A4rmeleitung-in-der-Colemanstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73589.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-26T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rohrbruch-in-einer-Hauptwasserleitung-im-Aulweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73590.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Rohrbruch in einer der größten Gießener Wasserleitungen im Aulweg</title>
     <updated>2025-05-26T00:00:00+02:00</updated>
@@ -815,6 +793,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A45-A485-Erneute-Sperrung-im-Gie%C3%9Fener-S%C3%BCdkreuz-wegen-Sanierungsarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73749.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-06-20T12:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-Tresen-Tradition-und-Treffpunkten-Gie%C3%9Fens-Kultkneipen-erz%C3%A4hlen-Stadtgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73751.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Von Tresen, Tradition und Treffpunkten: Gießens Kultkneipen erzählen Stadtgeschichte</title>
+    <updated>2025-06-23T13:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-Tresen-Tradition-und-Treffpunkten-Gie%C3%9Fens-Kultkneipen-erz%C3%A4hlen-Stadtgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73751.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-23T13:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reisen-mit-Heimtier-Jetzt-schon-Impfschutz-und-Regelungen-im-Ausland-checken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64725.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Reisen mit Heimtier: Jetzt schon Impfschutz und Regelungen im Ausland checken</title>
+    <updated>2025-06-23T13:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reisen-mit-Heimtier-Jetzt-schon-Impfschutz-und-Regelungen-im-Ausland-checken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64725.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-23T13:14:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
