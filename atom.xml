@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-23T13:16:01.687395+00:00</updated>
+  <updated>2025-06-24T11:04:34.022344+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -542,17 +542,6 @@
     <published>2025-06-05T13:13:56+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rohrbruch-in-einer-Hauptwasserleitung-im-Aulweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73590.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Rohrbruch in einer der größten Gießener Wasserleitungen im Aulweg</title>
-    <updated>2025-05-26T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rohrbruch-in-einer-Hauptwasserleitung-im-Aulweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73590.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-05-26T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freibadsaison-in-Kleinlinden-und-L%C3%BCtzellinden-beginnt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73606.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Freibadsaison in Kleinlinden und Lützellinden beginnt</title>
     <updated>2025-05-28T00:00:00+02:00</updated>
@@ -815,6 +804,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reisen-mit-Heimtier-Jetzt-schon-Impfschutz-und-Regelungen-im-Ausland-checken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64725.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-06-23T13:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kriminalpr%C3%A4ventionspreis-2026-Jetzt-Projekte-einreichen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73752.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kriminalpräventionspreis 2026: Jetzt Projekte einreichen</title>
+    <updated>2025-06-24T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kriminalpr%C3%A4ventionspreis-2026-Jetzt-Projekte-einreichen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73752.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-24T11:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
