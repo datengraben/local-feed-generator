@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-25T22:05:10.230751+00:00</updated>
+  <updated>2025-06-27T17:04:17.527663+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -454,17 +454,6 @@
     <published>2025-05-23T11:03:59+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 5. Juli - Appell an die Menschlichkeit: Am nächsten Theatertag zeigen ...</title>
-    <updated>2025-06-10T13:14:16+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2025-06-10T13:14:16+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-fur-alle-vorstellungen-startet-am-1-mai/</id>
     <title>Jetzt im Vorverkauf - Ab sofort können Sie Karten für alle Vorstellungen bis zur S...</title>
     <updated>2025-04-30T12:09:39+02:00</updated>
@@ -487,17 +476,6 @@
     <published>2025-05-06T11:04:10+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/</id>
-    <title>Ein Tag voller Kreativität! - Das Stadttheater TAKEOVER am 4. Juli ist vollgepackt mit kre...</title>
-    <updated>2025-06-20T11:04:06+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/"/>
-    <published>2025-06-20T11:04:06+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ausgezeichnet/</id>
     <title>Ausgezeichnet - Germaine Sollberger erhält Schweizer "Aufmunterungsprei...</title>
     <updated>2025-06-16T08:06:44+02:00</updated>
@@ -507,6 +485,28 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ausgezeichnet/"/>
     <published>2025-06-16T08:06:44+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 5. Juli - Appell an die Menschlichkeit: Am nächsten Theatertag zeigen ...</title>
+    <updated>2025-06-10T13:14:16+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2025-06-10T13:14:16+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/</id>
+    <title>Ein Tag voller Kreativität! - Das Stadttheater TAKEOVER am 4. Juli ist vollgepackt mit kre...</title>
+    <updated>2025-06-20T11:04:06+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/"/>
+    <published>2025-06-20T11:04:06+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/</id>
@@ -529,6 +529,281 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-sind-neugierig/"/>
     <published>2025-06-05T13:13:56+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenken-statt-wegwerfen-auf-dem-Verschenkmarkt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64364.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verschenken statt wegwerfen auf dem Verschenkmarkt</title>
+    <updated>2025-06-10T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenken-statt-wegwerfen-auf-dem-Verschenkmarkt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64364.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-10T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/3-Gie%C3%9Fener-Bilderbuchfestival-lockt-mit-vielen-Highlights.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73652.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>3. Gießener Bilderbuchfestival lockt mit vielen Highlights</title>
+    <updated>2025-06-11T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/3-Gie%C3%9Fener-Bilderbuchfestival-lockt-mit-vielen-Highlights.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73652.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-11T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-Es-gibt-noch-freie-Pl%C3%A4tze.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ferienprogramm der Universitätsstadt Gießen: Es gibt noch freie Plätze</title>
+    <updated>2025-06-13T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-Es-gibt-noch-freie-Pl%C3%A4tze.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-13T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dialog-und-Beteiligung-geht-in-die-n%C3%A4chste-Runde-Jugend-im-Rathaus-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73675.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Dialog und Beteiligung geht in die nächste Runde - Jugend im Rathaus 2025</title>
+    <updated>2025-06-16T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dialog-und-Beteiligung-geht-in-die-n%C3%A4chste-Runde-Jugend-im-Rathaus-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73675.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-16T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B429-Arbeiten-zur-Verst%C3%A4rkung-der-Br%C3%BCcke-Eselswiese-stehen-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68345.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Update B429: Lkw-Sperrung der Brücke „Eselswiese“ über die Lahn</title>
+    <updated>2025-06-17T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B429-Arbeiten-zur-Verst%C3%A4rkung-der-Br%C3%BCcke-Eselswiese-stehen-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68345.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-17T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-f%C3%BCr-Gie%C3%9Fen-abstimmen-Fotowettbewerb-zum-Tag-der-St%C3%A4dtebauf%C3%B6rderung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73677.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Jetzt für Gießen abstimmen: Fotowettbewerb zum Tag der Städtebauförderung</title>
+    <updated>2025-06-17T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-f%C3%BCr-Gie%C3%9Fen-abstimmen-Fotowettbewerb-zum-Tag-der-St%C3%A4dtebauf%C3%B6rderung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73677.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-17T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Daseinsvorsorge-f%C3%BCr-ein-lebenswertes-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73680.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Daseinsvorsorge für ein lebenswertes Gießen</title>
+    <updated>2025-06-17T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Daseinsvorsorge-f%C3%BCr-ein-lebenswertes-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73680.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-17T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neu-bei-WIR-sprechen-Das-Zeitungscaf%C3%A9.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73623.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neu bei WIR-sprechen: Das Zeitungscafé</title>
+    <updated>2025-06-17T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neu-bei-WIR-sprechen-Das-Zeitungscaf%C3%A9.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73623.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-17T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reparieren-tauschen-und-Nachhaltigkeit-hautnah-erleben-beim-Green-Market-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73715.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Reparieren, tauschen und Nachhaltigkeit hautnah erleben beim "Green Market"</title>
+    <updated>2025-06-18T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reparieren-tauschen-und-Nachhaltigkeit-hautnah-erleben-beim-Green-Market-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73715.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-18T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bald-auch-amtlich-Gie%C3%9Fen-soll-Gebiet-mit-angespanntem-Wohnungsmarkt-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73716.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bald auch amtlich: Gießen soll "Gebiet mit angespanntem Wohnungsmarkt" werden</title>
+    <updated>2025-06-18T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bald-auch-amtlich-Gie%C3%9Fen-soll-Gebiet-mit-angespanntem-Wohnungsmarkt-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73716.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-18T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neu-im-Rathaus-Digitale-Fotoautomaten-f%C3%BCr-Passbilder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73717.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neu im Rathaus: Digitale Fotoautomaten für Passbilder</title>
+    <updated>2025-06-18T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neu-im-Rathaus-Digitale-Fotoautomaten-f%C3%BCr-Passbilder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73717.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-18T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dienstjubil%C3%A4en-und-Abschiede-Feierstunde-f%C3%BCr-st%C3%A4dtische-Bedienstete.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73748.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Dienstjubiläen und Abschiede: Feierstunde für städtische Bedienstete</title>
+    <updated>2025-06-20T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dienstjubil%C3%A4en-und-Abschiede-Feierstunde-f%C3%BCr-st%C3%A4dtische-Bedienstete.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73748.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-20T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A45-A485-Erneute-Sperrung-im-Gie%C3%9Fener-S%C3%BCdkreuz-wegen-Sanierungsarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73749.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>A45/A485: Erneute Sperrung im Gießener Südkreuz wegen Sanierungsarbeiten</title>
+    <updated>2025-06-20T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A45-A485-Erneute-Sperrung-im-Gie%C3%9Fener-S%C3%BCdkreuz-wegen-Sanierungsarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73749.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-20T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-Tresen-Tradition-und-Treffpunkten-Gie%C3%9Fens-Kultkneipen-erz%C3%A4hlen-Stadtgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73751.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Von Tresen, Tradition und Treffpunkten: Gießens Kultkneipen erzählen Stadtgeschichte</title>
+    <updated>2025-06-23T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-Tresen-Tradition-und-Treffpunkten-Gie%C3%9Fens-Kultkneipen-erz%C3%A4hlen-Stadtgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73751.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-23T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reisen-mit-Heimtier-Jetzt-schon-Impfschutz-und-Regelungen-im-Ausland-checken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64725.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Reisen mit Heimtier: Jetzt schon Impfschutz und Regelungen im Ausland checken</title>
+    <updated>2025-06-23T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reisen-mit-Heimtier-Jetzt-schon-Impfschutz-und-Regelungen-im-Ausland-checken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64725.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-23T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kriminalpr%C3%A4ventionspreis-2026-Jetzt-Projekte-einreichen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73752.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kriminalpräventionspreis 2026: Jetzt Projekte einreichen</title>
+    <updated>2025-06-24T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kriminalpr%C3%A4ventionspreis-2026-Jetzt-Projekte-einreichen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73752.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-24T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hessische-Fairtrade-Kommunen-vernetzen-sich-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73753.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Hessische Fairtrade-Kommunen vernetzen sich in Gießen</title>
+    <updated>2025-06-24T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hessische-Fairtrade-Kommunen-vernetzen-sich-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73753.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-24T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nutzungsvertrag-zwischen-Stadt-und-FC-Gie%C3%9Fen-1927-Teutonia-1900-VfB-e-V-verl%C3%A4ngert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73755.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Nutzungsvertrag zwischen Stadt und FC Gießen 1927 Teutonia 1900 VfB e.V. verlängert</title>
+    <updated>2025-06-24T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nutzungsvertrag-zwischen-Stadt-und-FC-Gie%C3%9Fen-1927-Teutonia-1900-VfB-e-V-verl%C3%A4ngert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73755.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-24T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-nun-auch-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73760.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Präventionsangebote des Ordnungsamtes nun auch in den Stadtteilen</title>
+    <updated>2025-06-25T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-nun-auch-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73760.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-25T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalbauma%C3%9Fnahme-ab-30-Juni-Teil-der-Pestalozzistra%C3%9Fe-wird-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73763.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kanalbaumaßnahme ab 30. Juni: Teil der Pestalozzistraße wird gesperrt</title>
+    <updated>2025-06-25T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalbauma%C3%9Fnahme-ab-30-Juni-Teil-der-Pestalozzistra%C3%9Fe-wird-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73763.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-25T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Volkshochschulen-von-Stadt-und-Landkreis-Gie%C3%9Fen-im-Austausch-Gemeinsame-Strategien-f%C3%BCr-starke-Bildungsangebote.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73764.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Volkshochschulen von Stadt und Landkreis Gießen im Austausch: Gemeinsame Strategien für starke Bildungsangebote</title>
+    <updated>2025-06-25T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Volkshochschulen-von-Stadt-und-Landkreis-Gie%C3%9Fen-im-Austausch-Gemeinsame-Strategien-f%C3%BCr-starke-Bildungsangebote.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73764.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-25T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wasserrohrbruch-im-Wiesecker-Weg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73769.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wasserrohrbruch im Wiesecker Weg</title>
+    <updated>2025-06-26T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wasserrohrbruch-im-Wiesecker-Weg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73769.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-26T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Br%C3%BCcke-f%C3%BCr-Radverkehr-in-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73771.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue Brücke für Radverkehr in Lützellinden</title>
+    <updated>2025-06-26T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Br%C3%BCcke-f%C3%BCr-Radverkehr-in-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73771.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-26T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-2025-Gie%C3%9Fen-zieht-Bilanz-und-zeichnet-aktivste-Schulen-Teams-und-Radelnde-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73772.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>STADTRADELN 2025: Gießen zieht Bilanz und zeichnet aktivste Schulen, Teams und Radelnde aus</title>
+    <updated>2025-06-26T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-2025-Gie%C3%9Fen-zieht-Bilanz-und-zeichnet-aktivste-Schulen-Teams-und-Radelnde-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73772.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-26T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Prober%C3%A4ume-der-Kulturinitiative-Gie%C3%9Fen-haben-Zukunft.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73773.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Proberäume der Kulturinitiative Gießen haben Zukunft</title>
+    <updated>2025-06-26T17:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Prober%C3%A4ume-der-Kulturinitiative-Gie%C3%9Fen-haben-Zukunft.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73773.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-06-26T17:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
