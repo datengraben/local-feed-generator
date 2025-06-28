@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-27T17:04:17.527663+00:00</updated>
+  <updated>2025-06-28T00:17:38.688504+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -388,6 +388,17 @@
     <published>2025-03-24T00:00:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_12699_1.PDF?1750862046</id>
+    <title>Bauleitplanung: Einleitungsbeschluss und frühzeitige Beteiligung der Öffentlichkeit zur 2. Änderung des Bebauungsplanes WI 6/01 »Teichweg/Kiesweg» Bereich: Brauhausareal</title>
+    <updated>2020-11-30T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12699_1.PDF?1750862046"/>
+    <published>2020-11-30T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_12472_1.PDF?1747062284</id>
     <title>Ankündigung von Vermessungs- und Kartierungsarbeiten, Ortsbesichtigungen und Dokumentation sowie Baugrunduntersuchungen für die Trassen-Planung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
     <updated>2025-05-28T01:33:00+02:00</updated>
@@ -419,6 +430,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_12600_1.PDF?1749105592"/>
     <published>2025-06-07T00:18:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_12672_1.PDF?1750669278</id>
+    <title>Nachruf Thomas Boll</title>
+    <updated>2025-06-28T00:17:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12672_1.PDF?1750669278"/>
+    <published>2025-06-28T00:17:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
