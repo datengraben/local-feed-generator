@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-06-28T20:04:39.477277+00:00</updated>
+  <updated>2025-06-29T11:04:25.093535+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -443,17 +443,6 @@
     <published>2025-06-28T00:17:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
-    <title>Weil es in alle Herzen passt - "Die Brücke von Mostar": Regisseurin Simone Sterr ...</title>
-    <updated>2025-06-20T15:05:03+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/"/>
-    <published>2025-06-20T15:05:03+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/</id>
     <title>Jetzt Karten fürs Musical sichern! - Der Vorverkauf für alle Vorstellungen der musikalischen Poli...</title>
     <updated>2025-04-09T15:05:50+02:00</updated>
@@ -551,6 +540,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-sind-neugierig/"/>
     <published>2025-06-05T13:13:56+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-vom-konzertplatz-im-botanischen-garten/</id>
+    <title>“Zauberdings” startet heute vom Konzertplatz im Botanischen Garten! - Bitte kleiden Sie sich so, dass Sie eine gute Stunde an der ...</title>
+    <updated>2025-06-29T11:04:10.626289+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zauberdings-startet-heute-vom-konzertplatz-im-botanischen-garten/"/>
+    <published>2025-06-29T11:04:10.626289+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-h%C3%A4lt-an-Kita-Seltersweg-fest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73641.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
