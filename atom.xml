@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-01T09:06:10.866827+00:00</updated>
+  <updated>2025-07-01T11:05:34.283957+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -553,17 +553,6 @@
     <published>2025-06-05T13:13:56+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-h%C3%A4lt-an-Kita-Seltersweg-fest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73641.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadt hält an Kita Seltersweg fest</title>
-    <updated>2025-06-06T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-h%C3%A4lt-an-Kita-Seltersweg-fest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73641.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-06-06T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-Es-gibt-noch-freie-Pl%C3%A4tze.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Ferienprogramm der Universitätsstadt Gießen: Es gibt noch freie Plätze</title>
     <updated>2025-06-13T00:00:00+02:00</updated>
@@ -826,6 +815,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/TNG-Stadtnetz-GmbH-und-Stadt-Gie%C3%9Fen-beschlie%C3%9Fen-enge-Zusammenarbeit-im-Glasfaserausbau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73779.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-01T09:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsbeeintr%C3%A4chtigungen-am-Samstag-5-Juli-in-der-Gie%C3%9Fener-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73781.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verkehrsbeeinträchtigungen am Samstag (5. Juli) in der Gießener Innenstadt</title>
+    <updated>2025-07-01T11:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsbeeintr%C3%A4chtigungen-am-Samstag-5-Juli-in-der-Gie%C3%9Fener-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73781.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-01T11:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
