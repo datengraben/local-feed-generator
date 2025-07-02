@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-02T10:06:29.605855+00:00</updated>
+  <updated>2025-07-02T13:14:41.755260+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -443,17 +443,6 @@
     <published>2025-06-28T00:17:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
-    <title>Weil es in alle Herzen passt - "Die Brücke von Mostar": Regisseurin Simone Sterr ...</title>
-    <updated>2025-06-30T13:14:00+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/"/>
-    <published>2025-06-30T13:14:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/</id>
     <title>Jetzt Karten fürs Musical sichern! - Der Vorverkauf für alle Vorstellungen der musikalischen Poli...</title>
     <updated>2025-04-09T15:05:50+02:00</updated>
@@ -509,6 +498,17 @@
     <published>2025-06-16T08:06:44+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/sommerbuhne-vor-dem-stadttheater/</id>
+    <title>Sommerbühne 2025/2026 - Das kleine Sommer-Festival zum Auftakt in die neue Saison. V...</title>
+    <updated>2025-07-02T13:14:27.455224+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/sommerbuhne-vor-dem-stadttheater/"/>
+    <published>2025-07-02T13:14:27.455224+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 5. Juli - Appell an die Menschlichkeit: Am nächsten Theatertag zeigen ...</title>
     <updated>2025-06-10T13:14:16+02:00</updated>
@@ -551,17 +551,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-sind-neugierig/"/>
     <published>2025-06-05T13:13:56+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-f%C3%BCr-Gie%C3%9Fen-abstimmen-Fotowettbewerb-zum-Tag-der-St%C3%A4dtebauf%C3%B6rderung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73677.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Jetzt für Gießen abstimmen: Fotowettbewerb zum Tag der Städtebauförderung</title>
-    <updated>2025-06-17T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-f%C3%BCr-Gie%C3%9Fen-abstimmen-Fotowettbewerb-zum-Tag-der-St%C3%A4dtebauf%C3%B6rderung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73677.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-06-17T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Daseinsvorsorge-f%C3%BCr-ein-lebenswertes-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73680.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -826,6 +815,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/TV-Inspektionen-der-Zuleitungskan%C3%A4le-in-R%C3%B6dgen-Sperrung-der-Ortsdurchfahrt-ab-7-Juli.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73785.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-02T10:06:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>+++Update+++ Einschränkungen auf der A485/A45 - Gießener Südkreuz</title>
+    <updated>2025-07-02T13:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-02T13:14:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
