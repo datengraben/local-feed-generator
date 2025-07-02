@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-02T13:14:41.755260+00:00</updated>
+  <updated>2025-07-02T14:04:40.482234+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -333,6 +333,16 @@
     <published>2025-05-28T08:06:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Anhaltende-Trockenheit-Keine-Wasserentnahme-aus-Seen-Fl%C3%BCssen-und-B%C3%A4chen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.73787.1&amp;NavID=2874.584&amp;La=1</id>
+    <title>Anhaltende Trockenheit: Keine Wasserentnahme aus Seen, Flüssen und Bächen</title>
+    <updated>2025-07-02T14:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Hitze und Trockenheit</name>
+    </author>
+    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Anhaltende-Trockenheit-Keine-Wasserentnahme-aus-Seen-Fl%C3%BCssen-und-B%C3%A4chen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.73787.1&amp;NavID=2874.584&amp;La=1"/>
+    <published>2025-07-02T14:04:00+02:00</published>
+  </entry>
+  <entry>
     <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Stadtgeschichte virtuell und lebendig: digitaler Audiowalk</title>
     <updated>2023-04-14T00:00:00+02:00</updated>
@@ -500,13 +510,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/sommerbuhne-vor-dem-stadttheater/</id>
     <title>Sommerbühne 2025/2026 - Das kleine Sommer-Festival zum Auftakt in die neue Saison. V...</title>
-    <updated>2025-07-02T13:14:27.455224+02:00</updated>
+    <updated>2025-07-02T13:14:27+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/sommerbuhne-vor-dem-stadttheater/"/>
-    <published>2025-07-02T13:14:27.455224+02:00</published>
+    <published>2025-07-02T13:14:27+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
@@ -551,28 +561,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-sind-neugierig/"/>
     <published>2025-06-05T13:13:56+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Daseinsvorsorge-f%C3%BCr-ein-lebenswertes-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73680.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Daseinsvorsorge für ein lebenswertes Gießen</title>
-    <updated>2025-06-17T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Daseinsvorsorge-f%C3%BCr-ein-lebenswertes-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73680.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-06-17T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neu-bei-WIR-sprechen-Das-Zeitungscaf%C3%A9.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73623.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neu bei WIR-sprechen: Das Zeitungscafé</title>
-    <updated>2025-06-17T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neu-bei-WIR-sprechen-Das-Zeitungscaf%C3%A9.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73623.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-06-17T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reparieren-tauschen-und-Nachhaltigkeit-hautnah-erleben-beim-Green-Market-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73715.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -826,6 +814,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-02T13:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Anhaltende-Trockenheit-Keine-Wasserentnahme-aus-Seen-Fl%C3%BCssen-und-B%C3%A4chen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73787.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Anhaltende Trockenheit: Keine Wasserentnahme aus Seen, Flüssen und Bächen</title>
+    <updated>2025-07-02T14:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Anhaltende-Trockenheit-Keine-Wasserentnahme-aus-Seen-Fl%C3%BCssen-und-B%C3%A4chen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73787.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-02T14:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hei%C3%9F-auf-B%C3%BCcher-2025-Die-Ferien-Freizeit-Leseaktion-der-Stadtbibliothek-geht-in-eine-neue-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73788.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Heiß auf Bücher?!« 2025 - Die Ferien-Freizeit-Leseaktion der Stadtbibliothek geht in eine neue Runde</title>
+    <updated>2025-07-02T14:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hei%C3%9F-auf-B%C3%BCcher-2025-Die-Ferien-Freizeit-Leseaktion-der-Stadtbibliothek-geht-in-eine-neue-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73788.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-02T14:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
