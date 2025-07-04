@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-04T06:06:45.394961+00:00</updated>
+  <updated>2025-07-04T09:05:24.701749+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -398,17 +398,6 @@
     <published>2025-03-24T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_12699_1.PDF?1750862046</id>
-    <title>Bauleitplanung: Einleitungsbeschluss und frühzeitige Beteiligung der Öffentlichkeit zur 2. Änderung des Bebauungsplanes WI 6/01 »Teichweg/Kiesweg» Bereich: Brauhausareal</title>
-    <updated>2020-11-30T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_12699_1.PDF?1750862046"/>
-    <published>2020-11-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_12472_1.PDF?1747062284</id>
     <title>Ankündigung von Vermessungs- und Kartierungsarbeiten, Ortsbesichtigungen und Dokumentation sowie Baugrunduntersuchungen für die Trassen-Planung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
     <updated>2025-05-28T01:33:00+02:00</updated>
@@ -442,6 +431,17 @@
     <published>2025-06-07T00:18:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_12699_1.PDF?1750862046</id>
+    <title>Bauleitplanung: Einleitungsbeschluss und frühzeitige Beteiligung der Öffentlichkeit zur 2. Änderung des Bebauungsplanes WI 6/01 »Teichweg/Kiesweg» Bereich: Brauhausareal</title>
+    <updated>2020-11-30T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12699_1.PDF?1750862046"/>
+    <published>2020-11-30T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_12672_1.PDF?1750669278</id>
     <title>Nachruf Thomas Boll</title>
     <updated>2025-06-28T00:17:00+02:00</updated>
@@ -451,17 +451,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_12672_1.PDF?1750669278"/>
     <published>2025-06-28T00:17:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/</id>
-    <title>Jetzt Karten fürs Musical sichern! - Der Vorverkauf für alle Vorstellungen der musikalischen Poli...</title>
-    <updated>2025-04-09T15:05:50+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-karten-furs-musical-sichern/"/>
-    <published>2025-04-09T15:05:50+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-erinnerung-ein-bild-jedes-bild-eine-szene/</id>
@@ -519,28 +508,6 @@
     <published>2025-07-02T13:14:27+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 5. Juli - Appell an die Menschlichkeit: Am nächsten Theatertag zeigen ...</title>
-    <updated>2025-06-10T13:14:16+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2025-06-10T13:14:16+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/</id>
-    <title>Ein Tag voller Kreativität! - Das Stadttheater TAKEOVER am 4. Juli ist vollgepackt mit kre...</title>
-    <updated>2025-06-20T11:04:06+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/"/>
-    <published>2025-06-20T11:04:06+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/</id>
     <title>Spielzeit 2025/2026 - Neugierig? Durchstöbert jetzt unsere Website für Infos zu de...</title>
     <updated>2025-05-20T13:13:30+02:00</updated>
@@ -563,15 +530,37 @@
     <published>2025-06-05T13:13:56+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-Tresen-Tradition-und-Treffpunkten-Gie%C3%9Fens-Kultkneipen-erz%C3%A4hlen-Stadtgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73751.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Von Tresen, Tradition und Treffpunkten: Gießens Kultkneipen erzählen Stadtgeschichte</title>
-    <updated>2025-06-23T17:04:00+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 5. Juli - Appell an die Menschlichkeit: Am nächsten Theatertag zeigen ...</title>
+    <updated>2025-06-10T13:14:16+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-Tresen-Tradition-und-Treffpunkten-Gie%C3%9Fens-Kultkneipen-erz%C3%A4hlen-Stadtgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73751.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-06-23T17:04:00+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2025-06-10T13:14:16+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/</id>
+    <title>Ein Abend. Drei Stücke. Viele Anfänge. - Im Rahmen der Choreografischen Werkstatt „Am Anfang“ choreog...</title>
+    <updated>2025-07-04T09:05:10.491228+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/"/>
+    <published>2025-07-04T09:05:10.491228+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/</id>
+    <title>Ein Tag voller Kreativität! - Das Stadttheater TAKEOVER am 4. Juli ist vollgepackt mit kre...</title>
+    <updated>2025-06-20T11:04:06+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/"/>
+    <published>2025-06-20T11:04:06+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Reisen-mit-Heimtier-Jetzt-schon-Impfschutz-und-Regelungen-im-Ausland-checken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64725.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -828,7 +817,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Vorbilder-f%C3%BCr-Erhalt-alter-Baukultur-Verleihung-des-Denkmalpreis-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73789.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Zwei Vorbilder für Erhalt alter Baukultur: Verleihung des Denkmalpreis 2025</title>
+    <title>Zwei Vorbilder für Erhalt alter Baukultur: Verleihung des Denkmalpreises 2025</title>
     <updated>2025-07-04T06:06:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
@@ -836,6 +825,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Vorbilder-f%C3%BCr-Erhalt-alter-Baukultur-Verleihung-des-Denkmalpreis-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73789.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-04T06:06:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-ELEFANTASTISCH-weil-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73803.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen ist ELEFANTASTISCH, weil…</title>
+    <updated>2025-07-04T09:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-ELEFANTASTISCH-weil-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73803.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-04T09:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
