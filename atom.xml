@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-04T22:04:36.547937+00:00</updated>
+  <updated>2025-07-05T00:17:26.023927+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -440,6 +440,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_12672_1.PDF?1750669278"/>
     <published>2025-06-28T00:17:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_12761_1.PDF?1751613643</id>
+    <title>Bauleitplanung: 1. Offenlegung des Entwurfs zur 23. Änderung des Flächennutzungsplanes »Erweiterung Firma Bieber + Marburg II«  | 2. Offenlegung des vorhabenbezogenen Bebauungsplanentwurfes SCH 08/04 »Erweiterung Firma Bieber + Marburg II«</title>
+    <updated>2025-07-04T00:17:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12761_1.PDF?1751613643"/>
+    <published>2025-07-04T00:17:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-erinnerung-ein-bild-jedes-bild-eine-szene/</id>
