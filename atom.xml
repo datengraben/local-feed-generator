@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-07T09:06:28.257305+00:00</updated>
+  <updated>2025-07-07T10:05:16.332267+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -442,17 +442,6 @@
     <published>2025-07-04T00:17:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-erinnerung-ein-bild-jedes-bild-eine-szene/</id>
-    <title>Jede Erinnerung ein Bild, jedes Bild eine Szene. - Einblick in „Polska Sztuka* Ein biografisches Gemälde mit ze...</title>
-    <updated>2025-05-23T11:03:59+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-erinnerung-ein-bild-jedes-bild-eine-szene/"/>
-    <published>2025-05-23T11:03:59+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/</id>
     <title>Ein Tag voller Kreativität! - Das Stadttheater TAKEOVER am 4. Juli ist vollgepackt mit kre...</title>
     <updated>2025-06-20T11:04:06+02:00</updated>
@@ -499,13 +488,24 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/abonnent-innen-werben-abonnent-innen/</id>
     <title>Abonnent*innen werben Abonnent*innen! - Jetzt Freund*innen, Verwandte und Kolleg*innen für ein Abo g...</title>
-    <updated>2025-07-07T09:06:13.253316+02:00</updated>
+    <updated>2025-07-07T09:06:13+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/abonnent-innen-werben-abonnent-innen/"/>
-    <published>2025-07-07T09:06:13.253316+02:00</published>
+    <published>2025-07-07T09:06:13+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/haus-der-karten-geanderte-offnungszeiten/</id>
+    <title>Haus der Karten: Geänderte Öffnungszeiten - Während der Theaterferien ist das Haus der Karten Mo. - Fr. ...</title>
+    <updated>2025-07-07T10:05:02.991907+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haus-der-karten-geanderte-offnungszeiten/"/>
+    <published>2025-07-07T10:05:02.991907+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/sommerbuhne-vor-dem-stadttheater/</id>
