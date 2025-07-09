@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-08T22:04:27.744942+00:00</updated>
+  <updated>2025-07-09T13:14:30.944534+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -541,17 +541,6 @@
     <published>2025-07-04T09:05:10+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalbauma%C3%9Fnahme-ab-30-Juni-Teil-der-Pestalozzistra%C3%9Fe-wird-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73763.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kanalbaumaßnahme ab 30. Juni: Teil der Pestalozzistraße wird gesperrt</title>
-    <updated>2025-06-25T17:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalbauma%C3%9Fnahme-ab-30-Juni-Teil-der-Pestalozzistra%C3%9Fe-wird-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73763.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-06-25T17:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Volkshochschulen-von-Stadt-und-Landkreis-Gie%C3%9Fen-im-Austausch-Gemeinsame-Strategien-f%C3%BCr-starke-Bildungsangebote.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73764.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Volkshochschulen von Stadt und Landkreis Gießen im Austausch: Gemeinsame Strategien für starke Bildungsangebote</title>
     <updated>2025-06-25T17:04:00+02:00</updated>
@@ -814,6 +803,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtg%C3%A4rtnerei-Gie%C3%9Fen-ist-an-neuen-Standort-in-der-Heuchelheimer-Stra%C3%9Fe-umgezogen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73816.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-08T14:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Sonderpreis-alte-Bekannte-und-Newcomer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73818.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>STADTRADELN-Sonderpreis - alte Bekannte und Newcomer</title>
+    <updated>2025-07-09T13:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Sonderpreis-alte-Bekannte-und-Newcomer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73818.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-09T13:14:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
