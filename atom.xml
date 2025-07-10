@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-10T09:06:16.836450+00:00</updated>
+  <updated>2025-07-10T10:05:38.929586+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -431,6 +431,17 @@
     <published>2025-07-04T00:17:00+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-erinnerung-ein-bild-jedes-bild-eine-szene/</id>
+    <title>Jede Erinnerung ein Bild, jedes Bild eine Szene. - Einblick in „Polska Sztuka* Ein biografisches Gemälde mit ze...</title>
+    <updated>2025-07-10T10:05:24.459927+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-erinnerung-ein-bild-jedes-bild-eine-szene/"/>
+    <published>2025-07-10T10:05:24.459927+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/</id>
     <title>Ein Tag voller Kreativität! - Das Stadttheater TAKEOVER am 4. Juli ist vollgepackt mit kre...</title>
     <updated>2025-06-20T11:04:06+02:00</updated>
@@ -519,17 +530,6 @@
     <published>2025-05-20T13:13:30+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wir-sind-neugierig/</id>
-    <title>Wir sind neugierig! - Machen Sie mit bei unserer Publikumsbefragung. Online oder v...</title>
-    <updated>2025-06-05T13:13:56+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-sind-neugierig/"/>
-    <published>2025-06-05T13:13:56+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/</id>
     <title>Ein Abend. Drei Stücke. Viele Anfänge. - Im Rahmen der Choreografischen Werkstatt „Am Anfang“ choreog...</title>
     <updated>2025-07-04T09:05:10+02:00</updated>
@@ -539,17 +539,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/"/>
     <published>2025-07-04T09:05:10+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wasserrohrbruch-im-Wiesecker-Weg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73769.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wasserrohrbruch im Wiesecker Weg</title>
-    <updated>2025-06-26T17:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wasserrohrbruch-im-Wiesecker-Weg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73769.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-06-26T17:04:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Br%C3%BCcke-f%C3%BCr-Radverkehr-in-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73771.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -814,6 +803,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Taubenschlag-im-Fokus-Gut-f%C3%BCr-Mensch-und-Taube.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73821.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-10T09:06:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-sucht-Sponsoringpartner-innen-f%C3%BCr-die-Gie%C3%9Fener-Kulturnacht-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73822.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadt sucht Sponsoringpartner*innen für die Gießener Kulturnacht 2026</title>
+    <updated>2025-07-10T10:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-sucht-Sponsoringpartner-innen-f%C3%BCr-die-Gie%C3%9Fener-Kulturnacht-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73822.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-10T10:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
