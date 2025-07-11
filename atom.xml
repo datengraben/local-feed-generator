@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-10T10:05:38.929586+00:00</updated>
+  <updated>2025-07-11T13:13:49.810161+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -431,48 +431,48 @@
     <published>2025-07-04T00:17:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-erinnerung-ein-bild-jedes-bild-eine-szene/</id>
-    <title>Jede Erinnerung ein Bild, jedes Bild eine Szene. - Einblick in „Polska Sztuka* Ein biografisches Gemälde mit ze...</title>
-    <updated>2025-07-10T10:05:24.459927+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
+    <title>Weil es in alle Herzen passt - "Die Brücke von Mostar": Regisseurin Simone Sterr ...</title>
+    <updated>2025-07-11T13:13:38.390344+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-erinnerung-ein-bild-jedes-bild-eine-szene/"/>
-    <published>2025-07-10T10:05:24.459927+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/"/>
+    <published>2025-07-11T13:13:38.390344+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/</id>
-    <title>Ein Tag voller Kreativität! - Das Stadttheater TAKEOVER am 4. Juli ist vollgepackt mit kre...</title>
-    <updated>2025-06-20T11:04:06+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/nachhaltigkeit-am-stadttheater/</id>
+    <title>Nachhaltigkeit am Stadttheater - Anschlussförderung im Fonds Zero ermöglicht Projekt zur Verk...</title>
+    <updated>2025-07-11T13:13:38.390344+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-tag-voller-kreativitat/"/>
-    <published>2025-06-20T11:04:06+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nachhaltigkeit-am-stadttheater/"/>
+    <published>2025-07-11T13:13:38.390344+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-fur-alle-vorstellungen-startet-am-1-mai/</id>
-    <title>Jetzt im Vorverkauf - Ab sofort können Sie Karten für alle Vorstellungen bis zur S...</title>
-    <updated>2025-04-30T12:09:39+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/</id>
+    <title>Ich bin eine Teamplayerin - Lesen Sie hier das Portrait über die Drehbuchautorin, Darste...</title>
+    <updated>2025-07-11T13:13:38.390344+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-fur-alle-vorstellungen-startet-am-1-mai/"/>
-    <published>2025-04-30T12:09:39+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/"/>
+    <published>2025-07-11T13:13:38.390344+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/moglichkeiten-der-gegenwart-zu-begegnen/</id>
-    <title>Möglichkeiten, der Gegenwart zu begegnen - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2025-05-06T11:04:10+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/</id>
+    <title>Ein Abend. Drei Stücke. Viele Anfänge. - Im Rahmen der Choreografischen Werkstatt „Am Anfang“ choreog...</title>
+    <updated>2025-07-04T09:05:10+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/moglichkeiten-der-gegenwart-zu-begegnen/"/>
-    <published>2025-05-06T11:04:10+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/"/>
+    <published>2025-07-04T09:05:10+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ausgezeichnet/</id>
@@ -530,15 +530,15 @@
     <published>2025-05-20T13:13:30+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/</id>
-    <title>Ein Abend. Drei Stücke. Viele Anfänge. - Im Rahmen der Choreografischen Werkstatt „Am Anfang“ choreog...</title>
-    <updated>2025-07-04T09:05:10+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vielseitig-vielstimmig-und-vielgestaltig/</id>
+    <title>Vielseitig, vielstimmig und vielgestaltig - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
+    <updated>2025-07-11T13:13:38.390344+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/"/>
-    <published>2025-07-04T09:05:10+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vielseitig-vielstimmig-und-vielgestaltig/"/>
+    <published>2025-07-11T13:13:38.390344+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Br%C3%BCcke-f%C3%BCr-Radverkehr-in-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73771.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -806,7 +806,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-sucht-Sponsoringpartner-innen-f%C3%BCr-die-Gie%C3%9Fener-Kulturnacht-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73822.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadt sucht Sponsoringpartner*innen für die Gießener Kulturnacht 2026</title>
+    <title>Stadt sucht Sponsoringpartner für die Gießener Kulturnacht 2026</title>
     <updated>2025-07-10T10:05:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
