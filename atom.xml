@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-12T00:18:14.980503+00:00</updated>
+  <updated>2025-07-12T22:04:22.463823+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -407,17 +407,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_12699_1.PDF?1750862046"/>
     <published>2020-11-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_12672_1.PDF?1750669278</id>
-    <title>Nachruf Thomas Boll</title>
-    <updated>2025-06-28T00:17:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_12672_1.PDF?1750669278"/>
-    <published>2025-06-28T00:17:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_12761_1.PDF?1751613643</id>
