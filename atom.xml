@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-17T09:10:30.053650+00:00</updated>
+  <updated>2025-07-18T00:19:03.665922+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -462,6 +462,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_12817_1.PDF?1752139551"/>
     <published>2025-07-12T00:17:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_12744_1.PDF?1751388244</id>
+    <title>5. Ankündigung von Baugrunduntersuchungen für die Trassenplanung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
+    <updated>2025-07-18T00:18:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_12744_1.PDF?1751388244"/>
+    <published>2025-07-18T00:18:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
