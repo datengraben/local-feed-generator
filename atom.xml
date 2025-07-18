@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-18T00:19:03.665922+00:00</updated>
+  <updated>2025-07-18T09:08:21.836546+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -585,17 +585,6 @@
     <published>2025-07-11T13:13:38+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-2025-Gie%C3%9Fen-zieht-Bilanz-und-zeichnet-aktivste-Schulen-Teams-und-Radelnde-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73772.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>STADTRADELN 2025: Gießen zieht Bilanz und zeichnet aktivste Schulen, Teams und Radelnde aus</title>
-    <updated>2025-06-26T17:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-2025-Gie%C3%9Fen-zieht-Bilanz-und-zeichnet-aktivste-Schulen-Teams-und-Radelnde-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73772.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-06-26T17:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Prober%C3%A4ume-der-Kulturinitiative-Gie%C3%9Fen-haben-Zukunft.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73773.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Proberäume der Kulturinitiative Gießen haben Zukunft</title>
     <updated>2025-06-26T17:04:00+02:00</updated>
@@ -858,6 +847,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-Afrikanischer-Schweinepest-Niemals-Speisereste-in-der-Natur-zur%C3%BCcklassen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73845.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-15T15:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ehrenamtliche-Verst%C3%A4rkung-gesucht-Freiwilliger-Polizeidienst-in-Gie%C3%9Fen-freut-sich-auf-neue-Helferinnen-und-Helfer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73978.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ehrenamtliche Verstärkung gesucht: Freiwilliger Polizeidienst in Gießen freut sich auf neue Helferinnen und Helfer</title>
+    <updated>2025-07-18T09:08:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ehrenamtliche-Verst%C3%A4rkung-gesucht-Freiwilliger-Polizeidienst-in-Gie%C3%9Fen-freut-sich-auf-neue-Helferinnen-und-Helfer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73978.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-18T09:08:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
