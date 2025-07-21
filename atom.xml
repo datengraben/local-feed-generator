@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-18T10:05:05.074285+00:00</updated>
+  <updated>2025-07-21T10:05:33.487733+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -585,17 +585,6 @@
     <published>2025-07-11T13:13:38+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-PowerLahn-in-der-Schlachthofstra%C3%9Fe-nimmt-Konturen-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73775.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>"PowerLahn" in der Schlachthofstraße nimmt Konturen an</title>
-    <updated>2025-06-30T08:06:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-PowerLahn-in-der-Schlachthofstra%C3%9Fe-nimmt-Konturen-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73775.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-06-30T08:06:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/TNG-Stadtnetz-GmbH-und-Stadt-Gie%C3%9Fen-beschlie%C3%9Fen-enge-Zusammenarbeit-im-Glasfaserausbau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73779.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>TNG Stadtnetz GmbH und Stadt Gießen beschließen enge Zusammenarbeit im Glasfaserausbau</title>
     <updated>2025-07-01T09:05:00+02:00</updated>
@@ -858,6 +847,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lokale-Agenda-21-auf-den-Spuren-des-Holzes.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73979.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-18T10:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zu-Fu%C3%9F-oder-mit-dem-Rad-Aktiv-unterwegs-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73984.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Zu Fuß oder mit dem Rad - Aktiv unterwegs in Gießen</title>
+    <updated>2025-07-21T10:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zu-Fu%C3%9F-oder-mit-dem-Rad-Aktiv-unterwegs-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73984.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-21T10:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
