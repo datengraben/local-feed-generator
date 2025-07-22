@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-22T12:07:50.744746+00:00</updated>
+  <updated>2025-07-22T13:16:25.321392+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -849,15 +849,15 @@
     <published>2025-07-22T09:08:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de#nr_2</id>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Musikalische-H%C3%B6hepunkte-beim-39-Gie%C3%9Fener-Stadtfest-2025-Boppin-B-Liedfett-und-Welthits-auf-Hessisch-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73987.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Musikalische Höhepunkte beim 39. Gießener Stadtfest 2025 »Boppin B.« , »Liedfett« und »Welthits auf Hessisch«</title>
-    <updated>2025-07-22T12:07:00+02:00</updated>
+    <updated>2025-07-22T13:16:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de#nr_2"/>
-    <published>2025-07-22T12:07:00+02:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Musikalische-H%C3%B6hepunkte-beim-39-Gie%C3%9Fener-Stadtfest-2025-Boppin-B-Liedfett-und-Welthits-auf-Hessisch-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73987.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-22T13:16:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
