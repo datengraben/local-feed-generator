@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-22T09:08:41.430348+00:00</updated>
+  <updated>2025-07-22T12:07:50.744746+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -585,17 +585,6 @@
     <published>2025-07-11T13:13:38+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sommerferien-im-Mathematikum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73782.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Sommerferien im Mathematikum</title>
-    <updated>2025-07-01T13:14:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sommerferien-im-Mathematikum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73782.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-07-01T13:14:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Easy-Going-Verkehrssicherheits-Check-an-Gie%C3%9Fener-Schule-Sicherheitsrisiko-Elterntaxi-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73783.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Easy Going: Verkehrssicherheits-Check an Gießener Schule - Sicherheitsrisiko "Elterntaxi"</title>
     <updated>2025-07-02T09:06:00+02:00</updated>
@@ -858,6 +847,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Radrennen-Rund-um-das-Stadttheater-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73986.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-22T09:08:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de#nr_2</id>
+    <title>Musikalische Höhepunkte beim 39. Gießener Stadtfest 2025 »Boppin B.« , »Liedfett« und »Welthits auf Hessisch«</title>
+    <updated>2025-07-22T12:07:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de#nr_2"/>
+    <published>2025-07-22T12:07:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
