@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-30T05:10:57.845222+00:00</updated>
+  <updated>2025-07-30T09:09:24.733339+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -477,123 +477,112 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
     <title>Weil es in alle Herzen passt - "Die Brücke von Mostar": Regisseurin Simone Sterr ...</title>
-    <updated>2025-07-30T05:10:46.400160+02:00</updated>
+    <updated>2025-07-30T05:10:46+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/"/>
-    <published>2025-07-30T05:10:46.400160+02:00</published>
+    <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/nachhaltigkeit-am-stadttheater/</id>
     <title>Nachhaltigkeit am Stadttheater - Anschlussförderung im Fonds Zero ermöglicht Projekt zur Verk...</title>
-    <updated>2025-07-30T05:10:46.400160+02:00</updated>
+    <updated>2025-07-30T05:10:46+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/nachhaltigkeit-am-stadttheater/"/>
-    <published>2025-07-30T05:10:46.400160+02:00</published>
+    <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/</id>
     <title>Ich bin eine Teamplayerin - Lesen Sie hier das Portrait über die Drehbuchautorin, Darste...</title>
-    <updated>2025-07-30T05:10:46.400160+02:00</updated>
+    <updated>2025-07-30T05:10:46+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/"/>
-    <published>2025-07-30T05:10:46.400160+02:00</published>
+    <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/</id>
     <title>Ein Abend. Drei Stücke. Viele Anfänge. - Im Rahmen der Choreografischen Werkstatt „Am Anfang“ choreog...</title>
-    <updated>2025-07-30T05:10:46.400160+02:00</updated>
+    <updated>2025-07-30T05:10:46+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/"/>
-    <published>2025-07-30T05:10:46.400160+02:00</published>
+    <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ausgezeichnet/</id>
     <title>Ausgezeichnet - Germaine Sollberger erhält Schweizer "Aufmunterungsprei...</title>
-    <updated>2025-07-30T05:10:46.400160+02:00</updated>
+    <updated>2025-07-30T05:10:46+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ausgezeichnet/"/>
-    <published>2025-07-30T05:10:46.400160+02:00</published>
+    <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/abonnent-innen-werben-abonnent-innen/</id>
     <title>Abonnent*innen werben Abonnent*innen! - Jetzt Freund*innen, Verwandte und Kolleg*innen für ein Abo g...</title>
-    <updated>2025-07-30T05:10:46.400160+02:00</updated>
+    <updated>2025-07-30T05:10:46+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/abonnent-innen-werben-abonnent-innen/"/>
-    <published>2025-07-30T05:10:46.400160+02:00</published>
+    <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haus-der-karten-geanderte-offnungszeiten/</id>
     <title>Haus der Karten: Geänderte Öffnungszeiten - Während der Theaterferien ist das Haus der Karten Mo. - Fr. ...</title>
-    <updated>2025-07-30T05:10:46.400160+02:00</updated>
+    <updated>2025-07-30T05:10:46+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haus-der-karten-geanderte-offnungszeiten/"/>
-    <published>2025-07-30T05:10:46.400160+02:00</published>
+    <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/sommerbuhne-vor-dem-stadttheater/</id>
     <title>Sommerbühne 2025/2026 - Das kleine Sommer-Festival zum Auftakt in die neue Saison. V...</title>
-    <updated>2025-07-30T05:10:46.400160+02:00</updated>
+    <updated>2025-07-30T05:10:46+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/sommerbuhne-vor-dem-stadttheater/"/>
-    <published>2025-07-30T05:10:46.400160+02:00</published>
+    <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/</id>
     <title>Spielzeit 2025/2026 - Neugierig? Durchstöbert jetzt unsere Website für Infos zu de...</title>
-    <updated>2025-07-30T05:10:46.400160+02:00</updated>
+    <updated>2025-07-30T05:10:46+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/"/>
-    <published>2025-07-30T05:10:46.400160+02:00</published>
+    <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vielseitig-vielstimmig-und-vielgestaltig/</id>
     <title>Vielseitig, vielstimmig und vielgestaltig - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2025-07-30T05:10:46.400160+02:00</updated>
+    <updated>2025-07-30T05:10:46+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vielseitig-vielstimmig-und-vielgestaltig/"/>
-    <published>2025-07-30T05:10:46.400160+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>+++Update+++ Einschränkungen auf der A485/A45 - Gießener Südkreuz</title>
-    <updated>2025-07-02T13:14:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-07-02T13:14:00+02:00</published>
+    <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Anhaltende-Trockenheit-Keine-Wasserentnahme-aus-Seen-Fl%C3%BCssen-und-B%C3%A4chen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73787.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -858,6 +847,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folge-und-Erstanmeldungen-zur-Vergabe-der-Ehrenamts-Card-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74000.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-28T14:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Datenbank-f%C3%BCr-Kulturkontakte-jetzt-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74008.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Datenbank für Kulturkontakte jetzt online</title>
+    <updated>2025-07-30T09:09:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Datenbank-f%C3%BCr-Kulturkontakte-jetzt-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74008.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-30T09:09:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
