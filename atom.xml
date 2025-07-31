@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-31T08:07:30.259694+00:00</updated>
+  <updated>2025-07-31T09:07:58.709864+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -293,16 +293,6 @@
     <published>2025-02-15T14:03:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Blaualgen-im-Neuen-Teich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67894.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Blaualgen im Neuen Teich</title>
-    <updated>2024-08-02T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Blaualgen-im-Neuen-Teich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67894.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2024-08-02T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=2874.584&amp;La=1</id>
     <title>Die Verbraucherzentrale rät: Richtig trinken im Sommer</title>
     <updated>2024-08-13T00:00:00+02:00</updated>
@@ -341,6 +331,16 @@
     </author>
     <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Anhaltende-Trockenheit-Keine-Wasserentnahme-aus-Seen-Fl%C3%BCssen-und-B%C3%A4chen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.73787.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2025-07-02T14:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Blaualgen-im-Neuen-Teich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67894.1&amp;NavID=2874.584&amp;La=1</id>
+    <title>Blaualgen im Neuen Teich</title>
+    <updated>2024-08-02T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Hitze und Trockenheit</name>
+    </author>
+    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Blaualgen-im-Neuen-Teich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67894.1&amp;NavID=2874.584&amp;La=1"/>
+    <published>2024-08-02T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
@@ -583,17 +583,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vielseitig-vielstimmig-und-vielgestaltig/"/>
     <published>2025-07-30T05:10:46+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hei%C3%9F-auf-B%C3%BCcher-2025-Die-Ferien-Freizeit-Leseaktion-der-Stadtbibliothek-geht-in-eine-neue-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73788.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Heiß auf Bücher?!« 2025 - Die Ferien-Freizeit-Leseaktion der Stadtbibliothek geht in eine neue Runde</title>
-    <updated>2025-07-02T14:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hei%C3%9F-auf-B%C3%BCcher-2025-Die-Ferien-Freizeit-Leseaktion-der-Stadtbibliothek-geht-in-eine-neue-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73788.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-07-02T14:04:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Frankfurter-Wirtschaftsf%C3%B6rderung-zu-Gast-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73792.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -858,6 +847,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schadstoffmobil-tourt-ab-August-wieder-durch-das-Kreisgebiet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16074.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-31T08:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Blaualgen-im-Neuen-Teich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67894.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Blaualgen im Neuen Teich</title>
+    <updated>2025-07-31T09:07:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Blaualgen-im-Neuen-Teich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67894.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-31T09:07:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
