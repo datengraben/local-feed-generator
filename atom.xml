@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-07-31T13:17:56.649540+00:00</updated>
+  <updated>2025-08-01T09:08:05.717454+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -585,17 +585,6 @@
     <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-blicken-auf-ein-erfolgreiches-Gesch%C3%A4ftsjahr-zur%C3%BCck-und-k%C3%BCndigen-Investitionen-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73793.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>SWG blicken auf ein erfolgreiches Geschäftsjahr zurück und kündigen Investitionen an</title>
-    <updated>2025-07-03T14:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-blicken-auf-ein-erfolgreiches-Gesch%C3%A4ftsjahr-zur%C3%BCck-und-k%C3%BCndigen-Investitionen-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73793.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-07-03T14:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zensus-Ergebnis-kommt-auf-weniger-Einwohner-Gie%C3%9Fen-will-dagegen-klagen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73794.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Zensus-Ergebnis kommt auf weniger Einwohner - Gießen will dagegen klagen</title>
     <updated>2025-07-03T15:04:00+02:00</updated>
@@ -858,6 +847,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Aulweg-wird-in-zwei-Abschnitten-zur-Einbahnstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73130.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-31T13:17:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalbauma%C3%9Fnahme-auf-Teilst%C3%BCck-der-Stra%C3%9Fe-Rodtg%C3%A4rten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74017.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kanalbaumaßnahme auf Teilstück der Straße Rodtgärten</title>
+    <updated>2025-08-01T09:07:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalbauma%C3%9Fnahme-auf-Teilst%C3%BCck-der-Stra%C3%9Fe-Rodtg%C3%A4rten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74017.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-08-01T09:07:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
