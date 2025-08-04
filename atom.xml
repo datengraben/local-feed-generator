@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-08-02T00:19:05.415894+00:00</updated>
+  <updated>2025-08-04T14:07:25.040108+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -596,6 +596,17 @@
     <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-ELEFANTASTISCH-weil-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73803.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen ist ELEFANTASTISCH, weil…</title>
+    <updated>2025-07-04T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-ELEFANTASTISCH-weil-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73803.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-04T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sch%C3%BClerinnen-und-Sch%C3%BClern-der-Ostschule-erhalten-Zertifikate-f%C3%BCr-ehrenamtliche-Arbeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73810.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Schülerinnen und Schülern der Ostschule erhalten Zertifikate für ehrenamtliche Arbeit</title>
     <updated>2025-07-07T08:06:00+02:00</updated>
@@ -704,17 +715,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-Afrikanischer-Schweinepest-Niemals-Speisereste-in-der-Natur-zur%C3%BCcklassen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73845.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-15T15:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ehrenamtliche-Verst%C3%A4rkung-gesucht-Freiwilliger-Polizeidienst-in-Gie%C3%9Fen-freut-sich-auf-neue-Helferinnen-und-Helfer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73978.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ehrenamtliche Verstärkung gesucht: Freiwilliger Polizeidienst in Gießen freut sich auf neue Helferinnen und Helfer</title>
-    <updated>2025-07-18T09:08:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ehrenamtliche-Verst%C3%A4rkung-gesucht-Freiwilliger-Polizeidienst-in-Gie%C3%9Fen-freut-sich-auf-neue-Helferinnen-und-Helfer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73978.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-07-18T09:08:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lokale-Agenda-21-auf-den-Spuren-des-Holzes.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73979.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
