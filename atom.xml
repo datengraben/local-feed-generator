@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-08-04T14:07:25.040108+00:00</updated>
+  <updated>2025-08-06T14:08:29.926073+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -596,6 +596,28 @@
     <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hei%C3%9F-auf-B%C3%BCcher-2025-Die-Ferien-Freizeit-Leseaktion-der-Stadtbibliothek-geht-in-eine-neue-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73788.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Heiß auf Bücher?!« 2025 - Die Ferien-Freizeit-Leseaktion der Stadtbibliothek geht in eine neue Runde</title>
+    <updated>2025-07-02T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hei%C3%9F-auf-B%C3%BCcher-2025-Die-Ferien-Freizeit-Leseaktion-der-Stadtbibliothek-geht-in-eine-neue-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73788.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-02T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Vorbilder-f%C3%BCr-Erhalt-alter-Baukultur-Verleihung-des-Denkmalpreis-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73789.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Zwei Vorbilder für Erhalt alter Baukultur: Verleihung des Denkmalpreises 2025</title>
+    <updated>2025-07-04T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Vorbilder-f%C3%BCr-Erhalt-alter-Baukultur-Verleihung-des-Denkmalpreis-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73789.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-04T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-ELEFANTASTISCH-weil-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73803.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gießen ist ELEFANTASTISCH, weil…</title>
     <updated>2025-07-04T00:00:00+02:00</updated>
@@ -605,28 +627,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-ELEFANTASTISCH-weil-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73803.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-04T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sch%C3%BClerinnen-und-Sch%C3%BClern-der-Ostschule-erhalten-Zertifikate-f%C3%BCr-ehrenamtliche-Arbeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73810.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Schülerinnen und Schülern der Ostschule erhalten Zertifikate für ehrenamtliche Arbeit</title>
-    <updated>2025-07-07T08:06:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sch%C3%BClerinnen-und-Sch%C3%BClern-der-Ostschule-erhalten-Zertifikate-f%C3%BCr-ehrenamtliche-Arbeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73810.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-07-07T08:06:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtverwaltung-Gie%C3%9Fen-verabschiedet-erfolgreiche-Absolventen-in-den-Berufsalltag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73811.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadtverwaltung Gießen verabschiedet erfolgreiche Absolventen in den Berufsalltag</title>
-    <updated>2025-07-07T13:13:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtverwaltung-Gie%C3%9Fen-verabschiedet-erfolgreiche-Absolventen-in-den-Berufsalltag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73811.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-07-07T13:13:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/P%C3%A4chter-f%C3%BCr-das-Restaurant-im-B%C3%BCrgerhaus-Wieseck-gefunden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73812.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
