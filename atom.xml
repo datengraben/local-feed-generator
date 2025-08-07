@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-08-07T13:18:41.026763+00:00</updated>
+  <updated>2025-08-07T14:08:19.169173+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -596,6 +596,28 @@
     <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hei%C3%9F-auf-B%C3%BCcher-2025-Die-Ferien-Freizeit-Leseaktion-der-Stadtbibliothek-geht-in-eine-neue-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73788.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Heiß auf Bücher?!« 2025 - Die Ferien-Freizeit-Leseaktion der Stadtbibliothek geht in eine neue Runde</title>
+    <updated>2025-07-02T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hei%C3%9F-auf-B%C3%BCcher-2025-Die-Ferien-Freizeit-Leseaktion-der-Stadtbibliothek-geht-in-eine-neue-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73788.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-02T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Vorbilder-f%C3%BCr-Erhalt-alter-Baukultur-Verleihung-des-Denkmalpreis-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73789.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Zwei Vorbilder für Erhalt alter Baukultur: Verleihung des Denkmalpreises 2025</title>
+    <updated>2025-07-04T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Vorbilder-f%C3%BCr-Erhalt-alter-Baukultur-Verleihung-des-Denkmalpreis-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73789.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-04T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-ELEFANTASTISCH-weil-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73803.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gießen ist ELEFANTASTISCH, weil…</title>
     <updated>2025-07-04T00:00:00+02:00</updated>
@@ -627,28 +649,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fmos-Irrweg-Neue-Kinderstadtralley-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73813.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-07-07T14:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-f%C3%BCr-die-Lahn-aktiv.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73815.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gemeinsam für die Lahn aktiv</title>
-    <updated>2025-07-08T14:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-f%C3%BCr-die-Lahn-aktiv.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73815.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-07-08T14:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtg%C3%A4rtnerei-Gie%C3%9Fen-ist-an-neuen-Standort-in-der-Heuchelheimer-Stra%C3%9Fe-umgezogen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73816.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadtgärtnerei Gießen ist an neuen Standort in der Heuchelheimer Straße umgezogen</title>
-    <updated>2025-07-08T14:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtg%C3%A4rtnerei-Gie%C3%9Fen-ist-an-neuen-Standort-in-der-Heuchelheimer-Stra%C3%9Fe-umgezogen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73816.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-07-08T14:04:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Sonderpreis-alte-Bekannte-und-Newcomer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73818.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
