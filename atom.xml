@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-08-07T14:08:19.169173+00:00</updated>
+  <updated>2025-08-08T14:06:17.120003+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -651,17 +651,6 @@
     <published>2025-07-07T14:04:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Sonderpreis-alte-Bekannte-und-Newcomer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73818.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>STADTRADELN-Sonderpreis - alte Bekannte und Newcomer</title>
-    <updated>2025-07-09T13:14:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Sonderpreis-alte-Bekannte-und-Newcomer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73818.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-07-09T13:14:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Taubenschlag-im-Fokus-Gut-f%C3%BCr-Mensch-und-Taube.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73821.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Taubenschlag im Fokus: Gut für Mensch und Taube</title>
     <updated>2025-07-10T09:06:00+02:00</updated>
@@ -869,6 +858,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Brandplatz-Umgestaltung-Neuer-Entwurf-wird-vorgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74026.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-08-07T13:18:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%84nderungen-in-der-Verkehrsf%C3%BChrung-beim-Gie%C3%9Fener-Stadtfest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74044.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Änderungen in der Verkehrsführung beim Gießener Stadtfest</title>
+    <updated>2025-08-08T14:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%84nderungen-in-der-Verkehrsf%C3%BChrung-beim-Gie%C3%9Fener-Stadtfest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74044.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-08-08T14:06:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
