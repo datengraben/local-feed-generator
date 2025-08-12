@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-08-12T15:05:10.533885+00:00</updated>
+  <updated>2025-08-12T22:05:22.149818+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -407,50 +407,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_12761_1.PDF?1751613643"/>
     <published>2025-07-04T00:17:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_12824_1.PDF?1752144451</id>
-    <title>Gefahrenabwehrverordnung der Stadt Gießen über das Verbot der Abgabe von Distickstoffmonoxid (»Lachgas«) an Minderjährige</title>
-    <updated>2025-07-12T00:17:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_12824_1.PDF?1752144451"/>
-    <published>2025-07-12T00:17:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_12823_1.PDF?1752144300</id>
-    <title>Gefahrenabwehrverordnung über die Aufrechterhaltung der öffentlichen Sicherheit und Ordnung in der Stadt Gießen (Allgemeine Gefahrenabwehrverordnung)</title>
-    <updated>2025-07-12T00:17:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_12823_1.PDF?1752144300"/>
-    <published>2025-07-12T00:17:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_12822_1.PDF?1752144146</id>
-    <title>Wochenmarktsatzung für die Universitätsstadt Gießen</title>
-    <updated>2025-07-12T00:17:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_12822_1.PDF?1752144146"/>
-    <published>2025-07-12T00:17:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_12817_1.PDF?1752139551</id>
-    <title>Bauleitplanung: Erlass des Bebauungsplans Nr. GI 04/36 »Steinberger Weg«</title>
-    <updated>2025-07-12T00:17:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_12817_1.PDF?1752139551"/>
-    <published>2025-07-12T00:17:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_12744_1.PDF?1751388244</id>
