@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-08-11T22:04:38.413932+00:00</updated>
+  <updated>2025-08-12T14:05:12.803793+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -585,6 +585,17 @@
     <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Anhaltende-Trockenheit-Keine-Wasserentnahme-aus-Seen-Fl%C3%BCssen-und-B%C3%A4chen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73787.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Anhaltende Trockenheit: Keine Wasserentnahme aus Seen, Flüssen und Bächen</title>
+    <updated>2025-07-02T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Anhaltende-Trockenheit-Keine-Wasserentnahme-aus-Seen-Fl%C3%BCssen-und-B%C3%A4chen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73787.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-02T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hei%C3%9F-auf-B%C3%BCcher-2025-Die-Ferien-Freizeit-Leseaktion-der-Stadtbibliothek-geht-in-eine-neue-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73788.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Heiß auf Bücher?!« 2025 - Die Ferien-Freizeit-Leseaktion der Stadtbibliothek geht in eine neue Runde</title>
     <updated>2025-07-02T00:00:00+02:00</updated>
@@ -770,17 +781,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalbauma%C3%9Fnahme-auf-Teilst%C3%BCck-der-Stra%C3%9Fe-Rodtg%C3%A4rten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74017.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-08-01T09:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-meingiessen-Fotowettbewerb-2025-sucht-die-sch%C3%B6nsten-Perspektiven-auf-Gie%C3%9Fen-und-Region-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74018.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>#meingiessen Fotowettbewerb 2025 sucht die schönsten Perspektiven auf Gießen und Region!</title>
-    <updated>2025-08-01T10:06:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-meingiessen-Fotowettbewerb-2025-sucht-die-sch%C3%B6nsten-Perspektiven-auf-Gie%C3%9Fen-und-Region-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74018.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-01T10:06:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sommerrathaus-mit-OB-Frank-Tilo-Becher-geht-in-neue-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.18783.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
