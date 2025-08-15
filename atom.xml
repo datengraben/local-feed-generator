@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-08-15T14:05:41.959921+00:00</updated>
+  <updated>2025-08-15T15:07:48.934976+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -351,6 +351,16 @@
     </author>
     <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzewelle-worauf-man-achten-sollte-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74054.1&amp;NavID=2874.584&amp;La=1"/>
     <published>2025-08-13T12:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Erh%C3%B6hte-Temperaturen-Biofilm-auf-dem-Schwanenteich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74072.1&amp;NavID=2874.584&amp;La=1</id>
+    <title>Erhöhte Temperaturen - Biofilm auf dem Schwanenteich</title>
+    <updated>2025-08-15T15:07:00+02:00</updated>
+    <author>
+      <name>Stadt - Hitze und Trockenheit</name>
+    </author>
+    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Erh%C3%B6hte-Temperaturen-Biofilm-auf-dem-Schwanenteich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74072.1&amp;NavID=2874.584&amp;La=1"/>
+    <published>2025-08-15T15:07:00+02:00</published>
   </entry>
   <entry>
     <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
