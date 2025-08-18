@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-08-18T03:32:58.979326+00:00</updated>
+  <updated>2025-08-18T04:18:07.892161+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -561,6 +561,17 @@
     <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/TNG-Stadtnetz-GmbH-und-Stadt-Gie%C3%9Fen-beschlie%C3%9Fen-enge-Zusammenarbeit-im-Glasfaserausbau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73779.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>TNG Stadtnetz GmbH und Stadt Gießen beschließen enge Zusammenarbeit im Glasfaserausbau</title>
+    <updated>2025-07-01T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/TNG-Stadtnetz-GmbH-und-Stadt-Gie%C3%9Fen-beschlie%C3%9Fen-enge-Zusammenarbeit-im-Glasfaserausbau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73779.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-01T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Easy-Going-Verkehrssicherheits-Check-an-Gie%C3%9Fener-Schule-Sicherheitsrisiko-Elterntaxi-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73783.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Easy Going: Verkehrssicherheits-Check an Gießener Schule - Sicherheitsrisiko "Elterntaxi"</title>
     <updated>2025-07-02T00:00:00+02:00</updated>
@@ -757,17 +768,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Brandplatz-Umgestaltung-Neuer-Entwurf-wird-vorgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74026.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-08-07T13:18:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%84nderungen-in-der-Verkehrsf%C3%BChrung-beim-Gie%C3%9Fener-Stadtfest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74044.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Änderungen in der Verkehrsführung beim Gießener Stadtfest</title>
-    <updated>2025-08-08T14:06:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%84nderungen-in-der-Verkehrsf%C3%BChrung-beim-Gie%C3%9Fener-Stadtfest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74044.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-08T14:06:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbildungsstart-Oberb%C3%BCrgermeister-begr%C3%BC%C3%9Ft-28-neue-Auszubildende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74047.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
