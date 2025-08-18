@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-08-17T14:04:44.254394+00:00</updated>
+  <updated>2025-08-18T02:43:14.575604+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -561,6 +561,17 @@
     <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>+++Update+++ Einschränkungen auf der A485/A45 - Gießener Südkreuz</title>
+    <updated>2025-07-02T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-02T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Vorbilder-f%C3%BCr-Erhalt-alter-Baukultur-Verleihung-des-Denkmalpreis-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73789.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Zwei Vorbilder für Erhalt alter Baukultur: Verleihung des Denkmalpreises 2025</title>
     <updated>2025-07-04T00:00:00+02:00</updated>
@@ -768,17 +779,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbildungsstart-Oberb%C3%BCrgermeister-begr%C3%BC%C3%9Ft-28-neue-Auszubildende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74047.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-08-11T10:05:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Per-Bus-zum-Stadtfest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74051.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Per Bus zum Stadtfest</title>
-    <updated>2025-08-12T15:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Per-Bus-zum-Stadtfest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74051.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-12T15:04:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-setzt-auf-die-Nette-Toilette-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74053.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
