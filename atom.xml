@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-08-20T14:04:48.243491+00:00</updated>
+  <updated>2025-08-20T21:04:34.171388+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -550,6 +550,17 @@
     <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Easy-Going-Verkehrssicherheits-Check-an-Gie%C3%9Fener-Schule-Sicherheitsrisiko-Elterntaxi-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73783.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Easy Going: Verkehrssicherheits-Check an Gießener Schule - Sicherheitsrisiko "Elterntaxi"</title>
+    <updated>2025-07-02T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Easy-Going-Verkehrssicherheits-Check-an-Gie%C3%9Fener-Schule-Sicherheitsrisiko-Elterntaxi-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73783.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-02T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>+++Update+++ Einschränkungen auf der A485/A45 - Gießener Südkreuz</title>
     <updated>2025-07-02T00:00:00+02:00</updated>
@@ -713,17 +724,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B429-Arbeiten-zur-Verst%C3%A4rkung-der-Br%C3%BCcke-Eselswiese-stehen-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68345.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-08-01T13:16:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Brandplatz-Umgestaltung-Neuer-Entwurf-wird-vorgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74026.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Brandplatz-Umgestaltung: Neuer Entwurf wird vorgestellt</title>
-    <updated>2025-08-07T13:18:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Brandplatz-Umgestaltung-Neuer-Entwurf-wird-vorgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74026.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-07T13:18:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbildungsstart-Oberb%C3%BCrgermeister-begr%C3%BC%C3%9Ft-28-neue-Auszubildende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74047.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
