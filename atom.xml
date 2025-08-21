@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-08-21T06:07:30.152919+00:00</updated>
+  <updated>2025-08-21T07:07:54.774750+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -550,17 +550,6 @@
     <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>+++Update+++ Einschränkungen auf der A485/A45 - Gießener Südkreuz</title>
-    <updated>2025-07-02T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-07-02T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Vorbilder-f%C3%BCr-Erhalt-alter-Baukultur-Verleihung-des-Denkmalpreis-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73789.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Zwei Vorbilder für Erhalt alter Baukultur: Verleihung des Denkmalpreises 2025</title>
     <updated>2025-07-04T00:00:00+02:00</updated>
@@ -823,6 +812,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nur-f%C3%BCr-Anlieger-%C3%84nderung-in-Lony-und-L%C3%B6berstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74080.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-08-21T06:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-sucht-neue-Ampelfiguren-f%C3%BCr-den-Anlagenring.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74081.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Jetzt mitmachen: Suche nach neuen Ampelfiguren für den Anlagenring</title>
+    <updated>2025-08-21T07:07:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-sucht-neue-Ampelfiguren-f%C3%BCr-den-Anlagenring.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74081.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-08-21T07:07:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
