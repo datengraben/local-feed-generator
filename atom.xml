@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-08-25T14:05:41.741036+00:00</updated>
+  <updated>2025-08-26T22:04:24.757103+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -561,6 +561,17 @@
     <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fmos-Irrweg-Neue-Kinderstadtralley-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73813.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießmos Irrweg: Neue Kinderstadtralley in Gießen</title>
+    <updated>2025-07-07T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fmos-Irrweg-Neue-Kinderstadtralley-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73813.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-07-07T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-Afrikanischer-Schweinepest-Niemals-Speisereste-in-der-Natur-zur%C3%BCcklassen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73845.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Schutz vor Afrikanischer Schweinepest: Niemals Speisereste in der Natur zurücklassen!</title>
     <updated>2025-07-15T15:04:00+02:00</updated>
@@ -724,17 +735,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rollstuhlgerechter-Umbau-im-Freibad-Ringallee.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74078.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-08-19T12:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Steinberger-Weg-zwischen-Gie%C3%9Fen-und-Watzenborn-Steinberg-vom-22-bis-26-August-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74079.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Steinberger Weg zwischen Gießen und Watzenborn-Steinberg vom 22. bis 26. August voll gesperrt</title>
-    <updated>2025-08-20T12:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Steinberger-Weg-zwischen-Gie%C3%9Fen-und-Watzenborn-Steinberg-vom-22-bis-26-August-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74079.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-20T12:07:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nur-f%C3%BCr-Anlieger-%C3%84nderung-in-Lony-und-L%C3%B6berstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74080.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
