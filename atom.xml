@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-04T06:07:34.985145+00:00</updated>
+  <updated>2025-09-05T13:11:49.495365+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,17 +539,6 @@
     <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Trinkwasserleitung-in-Allendorf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74062.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neue Trinkwasserleitung in Allendorf</title>
-    <updated>2025-08-15T07:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Trinkwasserleitung-in-Allendorf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74062.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-15T07:05:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-neun-Buslinien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74063.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Umleitung für neun Buslinien erforderlich</title>
     <updated>2025-08-15T07:05:00+02:00</updated>
@@ -605,17 +594,6 @@
     <published>2025-08-21T07:07:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Oktoberfest für Seniorinnen und Senioren</title>
-    <updated>2025-08-21T12:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-21T12:07:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinie-7-wird-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74083.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Buslinie 7 wird umgeleitet</title>
     <updated>2025-08-21T12:07:00+02:00</updated>
@@ -658,17 +636,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sicher-im-Stra%C3%9Fenverkehr-Noch-drei-Termine-der-Jugendverkehrsschule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-08-25T13:14:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-nun-auch-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73760.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Präventionsangebote des Ordnungsamtes nun auch in den Stadtteilen</title>
-    <updated>2025-08-25T14:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-nun-auch-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73760.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-25T14:05:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zur%C3%BCck-aus-der-Sommerpause-Stadttheater-startet-in-neue-Spielzeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74093.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -792,6 +759,17 @@
     <published>2025-09-04T06:07:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Justus-im-Hessichen-Hof-erneut-mit-Hessen-%C3%A0-la-Carte-ausgezeichnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74124.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Justus im Hessichen Hof erneut mit Hessen à la Carte ausgezeichnet</title>
+    <updated>2025-09-04T06:07:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Justus-im-Hessichen-Hof-erneut-mit-Hessen-%C3%A0-la-Carte-ausgezeichnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74124.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-04T06:07:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Bundeswarntag am 11. September - in Gießen 31 Sirenen auf Probe</title>
     <updated>2025-09-04T04:05:00+02:00</updated>
@@ -803,15 +781,37 @@
     <published>2025-09-04T04:05:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Justus-im-Hessichen-Hof-erneut-mit-Hessen-%C3%A0-la-Carte-ausgezeichnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74124.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Justus im Hessichen Hof erneut mit Hessen à la Carte ausgezeichnet</title>
-    <updated>2025-09-04T06:07:00+02:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Oktoberfest für Seniorinnen und Senioren</title>
+    <updated>2025-08-21T12:07:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Justus-im-Hessichen-Hof-erneut-mit-Hessen-%C3%A0-la-Carte-ausgezeichnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74124.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-09-04T06:07:00+02:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-08-21T12:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-nun-auch-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73760.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Präventionsangebote des Ordnungsamtes nun auch in den Stadtteilen</title>
+    <updated>2025-08-25T14:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-nun-auch-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73760.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-08-25T14:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wer-m%C3%B6chte-Pflegekinder-bei-sich-aufnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wer möchte Pflegekinder bei sich aufnehmen?</title>
+    <updated>2025-09-05T13:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wer-m%C3%B6chte-Pflegekinder-bei-sich-aufnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-05T13:11:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
