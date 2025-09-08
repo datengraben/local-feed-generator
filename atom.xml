@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-06T04:05:22.586730+00:00</updated>
+  <updated>2025-09-08T05:05:26.092153+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,17 +539,6 @@
     <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Trinkwasserleitung-in-Allendorf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74062.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neue Trinkwasserleitung in Allendorf</title>
-    <updated>2025-08-15T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Trinkwasserleitung-in-Allendorf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74062.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-neun-Buslinien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74063.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Umleitung für neun Buslinien erforderlich</title>
     <updated>2025-08-15T07:05:00+02:00</updated>
@@ -812,6 +801,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wer-m%C3%B6chte-Pflegekinder-bei-sich-aufnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-05T13:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Seniorenmesse-geht-im-Oktober-in-5-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57532.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießener Seniorenmesse 2025: Gemeinsam älter werden – informiert, engagiert, aktiv</title>
+    <updated>2025-09-08T05:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Seniorenmesse-geht-im-Oktober-in-5-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57532.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-08T05:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
