@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-08T05:05:26.092153+00:00</updated>
+  <updated>2025-09-08T13:12:43.595466+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -506,15 +506,15 @@
     <published>2025-09-02T15:04:27+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/sommerbuhne-vor-dem-stadttheater/</id>
-    <title>Sommerbühne 2025/2026 - Das kleine Sommer-Festival zum Auftakt in die neue Saison. V...</title>
-    <updated>2025-07-30T05:10:46+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/</id>
+    <title>Auf der Suche nach Verzauberung - Ein Portrait über die Regisseurin Anaїs Durand-Mauptit und B...</title>
+    <updated>2025-09-08T13:12:23.922505+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/sommerbuhne-vor-dem-stadttheater/"/>
-    <published>2025-07-30T05:10:46+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/"/>
+    <published>2025-09-08T13:12:23.922505+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/</id>
@@ -537,17 +537,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vielseitig-vielstimmig-und-vielgestaltig/"/>
     <published>2025-07-30T05:10:46+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-neun-Buslinien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74063.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Umleitung für neun Buslinien erforderlich</title>
-    <updated>2025-08-15T07:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-neun-Buslinien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74063.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-15T07:05:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herbst-Winter-Programm-des-Jugendbildungswerkes-ist-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74071.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -812,6 +801,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Seniorenmesse-geht-im-Oktober-in-5-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57532.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-08T05:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Geschwindigkeitsbeschr%C3%A4nkungen-auf-Tempo-30.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74178.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue Geschwindigkeitsbeschränkungen auf Tempo 30</title>
+    <updated>2025-09-08T13:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Geschwindigkeitsbeschr%C3%A4nkungen-auf-Tempo-30.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74178.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-08T13:12:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
