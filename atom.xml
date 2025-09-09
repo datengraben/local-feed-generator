@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-09T10:05:58.294397+00:00</updated>
+  <updated>2025-09-09T11:04:24.625339+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -530,24 +530,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-geht-es-hinein-in-die-spielzeit/</id>
     <title>Jetzt geht es hinein in die Spielzeit - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2025-09-09T10:05:46.385455+02:00</updated>
+    <updated>2025-09-09T10:05:46+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-geht-es-hinein-in-die-spielzeit/"/>
-    <published>2025-09-09T10:05:46.385455+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herbst-Winter-Programm-des-Jugendbildungswerkes-ist-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74071.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Herbst-Winter-Programm des Jugendbildungswerkes ist online</title>
-    <updated>2025-08-15T13:13:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herbst-Winter-Programm-des-Jugendbildungswerkes-ist-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74071.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-15T13:13:00+02:00</published>
+    <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rollstuhlgerechter-Umbau-im-Freibad-Ringallee.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74078.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -812,6 +801,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Geschwindigkeitsbeschr%C3%A4nkungen-auf-Tempo-30.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74178.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-08T13:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWK-laden-zum-ersten-Karriere-Tag-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74181.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>SWK laden zum ersten Karriere-Tag ein</title>
+    <updated>2025-09-09T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWK-laden-zum-ersten-Karriere-Tag-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74181.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-09T11:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
