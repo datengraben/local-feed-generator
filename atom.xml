@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-09T11:04:24.625339+00:00</updated>
+  <updated>2025-09-09T20:12:31.557432+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,6 +539,17 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herbst-Winter-Programm-des-Jugendbildungswerkes-ist-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74071.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Herbst-Winter-Programm des Jugendbildungswerkes ist online</title>
+    <updated>2025-08-15T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herbst-Winter-Programm-des-Jugendbildungswerkes-ist-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74071.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-08-15T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rollstuhlgerechter-Umbau-im-Freibad-Ringallee.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74078.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Rollstuhlgerechter Umbau im Freibad Ringallee</title>
     <updated>2025-08-19T12:07:00+02:00</updated>
@@ -768,17 +779,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-nun-auch-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73760.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-08-25T14:05:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wer-m%C3%B6chte-Pflegekinder-bei-sich-aufnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wer möchte Pflegekinder bei sich aufnehmen?</title>
-    <updated>2025-09-05T13:11:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wer-m%C3%B6chte-Pflegekinder-bei-sich-aufnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-09-05T13:11:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Seniorenmesse-geht-im-Oktober-in-5-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57532.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
