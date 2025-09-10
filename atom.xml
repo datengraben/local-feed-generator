@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-10T10:05:42.435983+00:00</updated>
+  <updated>2025-09-10T12:07:59.024866+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,28 +539,6 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rollstuhlgerechter-Umbau-im-Freibad-Ringallee.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74078.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Rollstuhlgerechter Umbau im Freibad Ringallee</title>
-    <updated>2025-08-19T12:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rollstuhlgerechter-Umbau-im-Freibad-Ringallee.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74078.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-19T12:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nur-f%C3%BCr-Anlieger-%C3%84nderung-in-Lony-und-L%C3%B6berstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74080.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Nur für Anlieger: Änderung in Lony- und Löberstraße</title>
-    <updated>2025-08-21T06:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nur-f%C3%BCr-Anlieger-%C3%84nderung-in-Lony-und-L%C3%B6berstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74080.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-21T06:07:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-sucht-neue-Ampelfiguren-f%C3%BCr-den-Anlagenring.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74081.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Jetzt mitmachen: Suche nach neuen Ampelfiguren für den Anlagenring</title>
     <updated>2025-08-21T07:07:00+02:00</updated>
@@ -793,7 +771,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWK-laden-zum-ersten-Karriere-Tag-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74181.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>SWK laden zum ersten Karriere-Tag ein</title>
+    <title>SWG laden zum ersten Karriere-Tag ein</title>
     <updated>2025-09-09T11:04:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
@@ -812,6 +790,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oberb%C3%BCrgermeister-Becher-w%C3%BCrdigt-800-Jahre-Hradec-Kr%C3%A1lov%C3%A9-Gie%C3%9Fener-Delegationsbesuch-in-der-tschechischen-Partnerstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74177.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-10T10:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ladengesch%C3%A4ft-der-Tourist-Information-am-11-09-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74182.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ladengeschäft der Tourist-Information am 11.09. geschlossen</title>
+    <updated>2025-09-10T12:07:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ladengesch%C3%A4ft-der-Tourist-Information-am-11-09-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74182.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-10T12:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Steinreich-unterwegs-die-Geo-Radtour.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74183.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Steinreich unterwegs - die Geo-Radtour</title>
+    <updated>2025-09-10T12:07:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Steinreich-unterwegs-die-Geo-Radtour.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74183.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-10T12:07:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
