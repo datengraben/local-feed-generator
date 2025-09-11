@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-11T15:06:15.419983+00:00</updated>
+  <updated>2025-09-11T16:06:57.921592+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,6 +539,17 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sicher-im-Stra%C3%9Fenverkehr-Noch-drei-Termine-der-Jugendverkehrsschule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sicher im Straßenverkehr: Noch drei Termine der Jugendverkehrsschule</title>
+    <updated>2025-08-25T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sicher-im-Stra%C3%9Fenverkehr-Noch-drei-Termine-der-Jugendverkehrsschule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-08-25T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zur%C3%BCck-aus-der-Sommerpause-Stadttheater-startet-in-neue-Spielzeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74093.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Zurück aus der Sommerpause: Stadttheater startet in neue Spielzeit</title>
     <updated>2025-08-27T11:06:00+02:00</updated>
@@ -779,17 +790,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einrichtungen-des-Studierendenwerks-z%C3%A4hlen-zu-den-vergan-freundlichsten-in-Deutschland.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74205.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-11T09:08:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Update: Heute ist Warntag - um 11:00 Uhr heulen die Sirenen!</title>
-    <updated>2025-09-04T04:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-09-04T04:05:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Saisonende-im-Freibad-Ringallee.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74207.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
