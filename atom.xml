@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-10T14:05:42.511874+00:00</updated>
+  <updated>2025-09-11T09:08:22.932820+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,17 +539,6 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umgestaltung-Brandplatz-wurde-vorgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74084.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Geplante Umgestaltung des Brandplatz wurde vorgestellt</title>
-    <updated>2025-08-21T13:13:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umgestaltung-Brandplatz-wurde-vorgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74084.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-21T13:13:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neustadt-wird-aufgewertet-Stadtentwicklungspolitik-im-Jahr-1325.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74076.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Neustadt wird aufgewertet - Stadtentwicklungspolitik im Jahr 1325</title>
     <updated>2025-08-22T03:22:00+02:00</updated>
@@ -704,17 +693,6 @@
     <published>2025-09-04T06:07:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Bundeswarntag am 11. September - in Gießen 31 Sirenen auf Probe</title>
-    <updated>2025-09-04T04:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-09-04T04:05:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Oktoberfest für Seniorinnen und Senioren</title>
     <updated>2025-08-21T12:07:00+02:00</updated>
@@ -812,6 +790,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Anlaufstelle-Wohnkonflikt-Hilfe-unterst%C3%BCtzt-Mieter-innen-bei-Schwierigkeiten-im-Mietverh%C3%A4ltnis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74185.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-10T14:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einrichtungen-des-Studierendenwerks-z%C3%A4hlen-zu-den-vergan-freundlichsten-in-Deutschland.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74205.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Einrichtungen des Studierendenwerks zählen zu den vergan-freundlichsten in Deutschland</title>
+    <updated>2025-09-11T09:08:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einrichtungen-des-Studierendenwerks-z%C3%A4hlen-zu-den-vergan-freundlichsten-in-Deutschland.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74205.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-11T09:08:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Update: Heute ist Warntag - um 11:00 Uhr heulen die Sirenen!</title>
+    <updated>2025-09-04T04:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-12-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-04T04:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
