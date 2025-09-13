@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-12T15:05:30.604321+00:00</updated>
+  <updated>2025-09-13T00:15:52.529599+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -427,6 +427,28 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_13051_1.PDF?1755856028"/>
     <published>2025-08-23T00:18:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_13193_1.PDF?1757664026</id>
+    <title>Neues Mitglied im Ausländerbeirat</title>
+    <updated>2025-09-13T00:15:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13193_1.PDF?1757664026"/>
+    <published>2025-09-13T00:15:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_13170_1.PDF?1757406681</id>
+    <title>Vorwegnahme einer Entscheidung nach § 76 BauGB</title>
+    <updated>2025-09-13T00:15:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13170_1.PDF?1757406681"/>
+    <published>2025-09-13T00:15:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
