@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-13T20:05:38.098915+00:00</updated>
+  <updated>2025-09-16T11:04:02.901767+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -451,17 +451,6 @@
     <published>2025-09-13T00:15:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
-    <title>Weil es in alle Herzen passt - "Die Brücke von Mostar": Regisseurin Simone Sterr ...</title>
-    <updated>2025-07-30T05:10:46+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/"/>
-    <published>2025-07-30T05:10:46+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/nachhaltigkeit-am-stadttheater/</id>
     <title>Nachhaltigkeit am Stadttheater - Anschlussförderung im Fonds Zero ermöglicht Projekt zur Verk...</title>
     <updated>2025-07-30T05:10:46+02:00</updated>
@@ -517,6 +506,28 @@
     <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/</id>
+    <title>Spielzeit 2025/2026 - Neugierig? Durchstöbert jetzt unsere Website für Infos zu de...</title>
+    <updated>2025-07-30T05:10:46+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/"/>
+    <published>2025-07-30T05:10:46+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 27. September - Uraufführung im Kleinen Haus. Am nächsten Theatertag zeigen ...</title>
+    <updated>2025-09-16T11:03:51.080265+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2025-09-16T11:03:51.080265+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
     <title>8. Sinfoniekonzert: Sie haben die Wahl! - Wählen Sie aus drei Programmen aus, was wir beim 8. Sinfonie...</title>
     <updated>2025-09-02T15:04:27+02:00</updated>
@@ -537,17 +548,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/"/>
     <published>2025-09-08T13:12:23+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/</id>
-    <title>Spielzeit 2025/2026 - Neugierig? Durchstöbert jetzt unsere Website für Infos zu de...</title>
-    <updated>2025-07-30T05:10:46+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/"/>
-    <published>2025-07-30T05:10:46+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-geht-es-hinein-in-die-spielzeit/</id>
