@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-16T14:06:04.892830+00:00</updated>
+  <updated>2025-09-16T15:05:59.709734+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -572,17 +572,6 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neustadt-wird-aufgewertet-Stadtentwicklungspolitik-im-Jahr-1325.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74076.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neustadt wird aufgewertet - Stadtentwicklungspolitik im Jahr 1325</title>
-    <updated>2025-08-22T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neustadt-wird-aufgewertet-Stadtentwicklungspolitik-im-Jahr-1325.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74076.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-22T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sicher-im-Stra%C3%9Fenverkehr-Noch-drei-Termine-der-Jugendverkehrsschule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Sicher im Straßenverkehr: Noch drei Termine der Jugendverkehrsschule</title>
     <updated>2025-08-25T00:00:00+02:00</updated>
@@ -845,6 +834,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jagdbezirk-Gie%C3%9Fen-II-Wieseck-Neuer-Jagdbogen-wird-verpachtet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74222.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-16T14:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wartungsarbeiten-am-Geoportal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74223.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wartungsarbeiten am Geoportal</title>
+    <updated>2025-09-16T15:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wartungsarbeiten-am-Geoportal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74223.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-16T15:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
