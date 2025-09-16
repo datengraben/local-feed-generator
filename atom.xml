@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-16T12:08:07.875752+00:00</updated>
+  <updated>2025-09-16T13:12:45.183928+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -451,6 +451,17 @@
     <published>2025-09-13T00:15:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_13199_1.PDF?1758026440</id>
+    <title>Neuverpachtung Jagdbogen des Jagdbezirkes Gießen II-Wieseck</title>
+    <updated>2025-09-16T13:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13199_1.PDF?1758026440"/>
+    <published>2025-09-16T13:12:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/</id>
     <title>Ich bin eine Teamplayerin - Lesen Sie hier das Portrait über die Drehbuchautorin, Darste...</title>
     <updated>2025-07-30T05:10:46+02:00</updated>
@@ -508,13 +519,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/</id>
     <title>Räume für Vertrauen schaffen - Denitsa Stoyanova und Beatrice Panero über die Mitmachangebo...</title>
-    <updated>2025-09-16T12:07:52.941272+02:00</updated>
+    <updated>2025-09-16T12:07:52+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/"/>
-    <published>2025-09-16T12:07:52.941272+02:00</published>
+    <published>2025-09-16T12:07:52+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
@@ -559,17 +570,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-geht-es-hinein-in-die-spielzeit/"/>
     <published>2025-09-09T10:05:46+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umgestaltung-Brandplatz-wurde-vorgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74084.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Geplante Umgestaltung des Brandplatz wurde vorgestellt</title>
-    <updated>2025-08-21T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umgestaltung-Brandplatz-wurde-vorgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74084.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-21T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neustadt-wird-aufgewertet-Stadtentwicklungspolitik-im-Jahr-1325.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74076.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -834,6 +834,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-bewerben-Denkmalpreis-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74208.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-11T15:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de#nr_2</id>
+    <title>Jagdbezirk Gießen II-Wieseck: Neuer Jagdbogen wird verpachtet</title>
+    <updated>2025-09-16T13:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de#nr_2"/>
+    <published>2025-09-16T13:12:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
