@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-16T15:05:59.709734+00:00</updated>
+  <updated>2025-09-17T11:05:16.652988+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -572,50 +572,6 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sicher-im-Stra%C3%9Fenverkehr-Noch-drei-Termine-der-Jugendverkehrsschule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Sicher im Straßenverkehr: Noch drei Termine der Jugendverkehrsschule</title>
-    <updated>2025-08-25T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sicher-im-Stra%C3%9Fenverkehr-Noch-drei-Termine-der-Jugendverkehrsschule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74090.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-25T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zur%C3%BCck-aus-der-Sommerpause-Stadttheater-startet-in-neue-Spielzeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74093.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Zurück aus der Sommerpause: Stadttheater startet in neue Spielzeit</title>
-    <updated>2025-08-27T11:06:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zur%C3%BCck-aus-der-Sommerpause-Stadttheater-startet-in-neue-Spielzeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74093.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-27T11:06:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Saisonende-in-den-Stadtteilb%C3%A4dern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74094.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Saisonende in den Stadtteilbädern</title>
-    <updated>2025-08-27T13:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Saisonende-in-den-Stadtteilb%C3%A4dern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74094.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-27T13:12:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Energieberatung-f%C3%BCr-Hauseigent%C3%BCmer-in-Professorenviertel-und-der-Evangelischer-Siedlung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74095.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kostenlose Energieberatung für Hauseigentümer in Professorenviertel und Evangelischer Siedlung</title>
-    <updated>2025-08-27T16:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Energieberatung-f%C3%BCr-Hauseigent%C3%BCmer-in-Professorenviertel-und-der-Evangelischer-Siedlung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74095.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-27T16:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gesamtsanierung-der-Grundschule-Gie%C3%9Fen-West-abgeschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74096.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gesamtsanierung der Grundschule Gießen-West abgeschlossen</title>
     <updated>2025-08-28T11:04:00+02:00</updated>
@@ -845,6 +801,50 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wartungsarbeiten-am-Geoportal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74223.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-16T15:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einf%C3%BChrung-der-Bewohnerparkzone-im-Nahrungsberg-wird-verschoben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74226.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Einführung der Bewohnerparkzone im Nahrungsberg wird verschoben</title>
+    <updated>2025-09-17T11:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einf%C3%BChrung-der-Bewohnerparkzone-im-Nahrungsberg-wird-verschoben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74226.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-17T11:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4chtliche-Vollsperrung-von-Marktstra%C3%9Fe-und-Marktplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74228.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Nächtliche Vollsperrung von Marktstraße und Marktplatz</title>
+    <updated>2025-09-17T11:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4chtliche-Vollsperrung-von-Marktstra%C3%9Fe-und-Marktplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74228.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-17T11:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalrohrbruch-in-der-Sudetenlandstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74229.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kanalrohrbruch in der Sudetenlandstraße</title>
+    <updated>2025-09-17T11:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalrohrbruch-in-der-Sudetenlandstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74229.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-17T11:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Abpflastern-am-D%C3%B6nerdreieck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74230.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>»Abpflastern« am Dönerdreieck</title>
+    <updated>2025-09-17T11:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Abpflastern-am-D%C3%B6nerdreieck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74230.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-17T11:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
