@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-17T11:05:16.652988+00:00</updated>
+  <updated>2025-09-17T12:08:54.439968+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -572,17 +572,6 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gesamtsanierung-der-Grundschule-Gie%C3%9Fen-West-abgeschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74096.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gesamtsanierung der Grundschule Gießen-West abgeschlossen</title>
-    <updated>2025-08-28T11:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gesamtsanierung-der-Grundschule-Gie%C3%9Fen-West-abgeschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74096.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-28T11:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Online-Formular-Unterhaltsvorschuss-f%C3%BCr-Kinder-von-Alleinerziehenden-beantragen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74097.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Neues Online-Formular: Unterhaltsvorschuss für Kinder von Alleinerziehenden beantragen</title>
     <updated>2025-08-28T13:11:00+02:00</updated>
@@ -845,6 +834,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Abpflastern-am-D%C3%B6nerdreieck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74230.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-17T11:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Gie%C3%9Fener-Herbstmesse-startet-am-27-September.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74231.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Die Gießener Herbstmesse startet am 27. September</title>
+    <updated>2025-09-17T12:08:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Gie%C3%9Fener-Herbstmesse-startet-am-27-September.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74231.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-17T12:08:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
