@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-19T08:06:53.309788+00:00</updated>
+  <updated>2025-09-19T09:07:01.697667+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -552,13 +552,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-gemeinsames-ein-und-ausatmen/</id>
     <title>„Ein gemeinsames Ein- und Ausatmen“ - Die Autorin der Uraufführung „Gloria“, Hannah Zufall, sprich...</title>
-    <updated>2025-09-19T08:06:31.956007+02:00</updated>
+    <updated>2025-09-19T08:06:31+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-gemeinsames-ein-und-ausatmen/"/>
-    <published>2025-09-19T08:06:31.956007+02:00</published>
+    <published>2025-09-19T08:06:31+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-geht-es-hinein-in-die-spielzeit/</id>
@@ -570,17 +570,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-geht-es-hinein-in-die-spielzeit/"/>
     <published>2025-09-09T10:05:46+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-ver%C3%B6ffentlicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74118.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neues Veranstaltungsprogramm der Stadtbibliothek veröffentlicht</title>
-    <updated>2025-09-02T08:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-ver%C3%B6ffentlicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74118.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-09-02T08:07:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Energiewende-gemeinsam-gestalten-Windparkprojekt-geht-voran.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74119.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -845,6 +834,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-R%C3%A4der-werden-wieder-eingesammelt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-18T14:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-der-Buslinien-2-5-und-15-am-Montag-und-Dienstag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74242.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Umleitung der Buslinien 2, 5 und 15 am Montag und Dienstag</title>
+    <updated>2025-09-19T09:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-der-Buslinien-2-5-und-15-am-Montag-und-Dienstag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74242.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-19T09:06:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
