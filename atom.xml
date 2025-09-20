@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-20T00:16:19.174229+00:00</updated>
+  <updated>2025-09-20T14:05:06.257986+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -583,6 +583,17 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Energiewende-gemeinsam-gestalten-Windparkprojekt-geht-voran.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74119.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Energiewende gemeinsam gestalten - Windparkprojekt geht voran</title>
+    <updated>2025-09-02T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Energiewende-gemeinsam-gestalten-Windparkprojekt-geht-voran.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74119.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-02T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Feierstunde-f%C3%BCr-st%C3%A4dtische-Bedienstete.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74121.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Feierstunde für städtische Bedienstete</title>
     <updated>2025-09-03T08:05:00+02:00</updated>
@@ -625,17 +636,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Justus-im-Hessichen-Hof-erneut-mit-Hessen-%C3%A0-la-Carte-ausgezeichnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74124.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-04T06:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Oktoberfest für Seniorinnen und Senioren</title>
-    <updated>2025-08-21T12:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-08-21T12:07:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-nun-auch-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73760.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
