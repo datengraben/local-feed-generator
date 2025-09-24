@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-24T13:11:33.182412+00:00</updated>
+  <updated>2025-09-24T14:04:29.762775+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -583,6 +583,17 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-nun-auch-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73760.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Präventionsangebote des Ordnungsamtes nun auch in den Stadtteilen</title>
+    <updated>2025-09-04T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-nun-auch-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73760.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-04T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Seniorenmesse-geht-im-Oktober-in-5-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57532.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gießener Seniorenmesse 2025: Gemeinsam älter werden – informiert, engagiert, aktiv</title>
     <updated>2025-09-08T05:05:00+02:00</updated>
@@ -690,17 +701,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einf%C3%BChrung-der-Bewohnerparkzone-im-Nahrungsberg-wird-verschoben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74226.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-09-17T11:05:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4chtliche-Vollsperrung-von-Marktstra%C3%9Fe-und-Marktplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74228.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Nächtliche Vollsperrung von Marktstraße und Marktplatz</title>
-    <updated>2025-09-17T11:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/N%C3%A4chtliche-Vollsperrung-von-Marktstra%C3%9Fe-und-Marktplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74228.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-17T11:05:00+02:00</published>
   </entry>
   <entry>
