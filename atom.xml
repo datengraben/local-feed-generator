@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-25T17:05:09.089164+00:00</updated>
+  <updated>2025-09-26T10:06:07.573924+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -583,17 +583,6 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Steinreich-unterwegs-die-Geo-Radtour.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74183.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Steinreich unterwegs - die Geo-Radtour</title>
-    <updated>2025-09-10T12:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Steinreich-unterwegs-die-Geo-Radtour.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74183.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-09-10T12:07:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Anlaufstelle-Wohnkonflikt-Hilfe-unterst%C3%BCtzt-Mieter-innen-bei-Schwierigkeiten-im-Mietverh%C3%A4ltnis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74185.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Neue Anlaufstelle »Wohnkonflikt Hilfe« unterstützt Mieter*innen bei Schwierigkeiten im Mietverhältnis</title>
     <updated>2025-09-10T14:05:00+02:00</updated>
@@ -856,6 +845,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erneuerung-der-Signalgeber-an-zwei-Ampelkreuzungen-zwischen-Gie%C3%9Fen-und-Heuchelheim.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74297.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-09-25T17:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-des-Apfels-das-Gie%C3%9Fener-Highlight-im-Obstgartenjahr-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74307.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Tag des Apfels - das Gießener Highlight im Obstgartenjahr</title>
+    <updated>2025-09-26T10:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-des-Apfels-das-Gie%C3%9Fener-Highlight-im-Obstgartenjahr-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74307.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-26T10:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
