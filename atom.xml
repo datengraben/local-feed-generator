@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-09-26T21:04:14.516270+00:00</updated>
+  <updated>2025-09-27T00:16:23.413049+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -471,6 +471,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_13218_1.PDF?1758554015"/>
     <published>2025-09-23T00:18:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_13248_1.PDF?1758880084</id>
+    <title>Bauleitplanung: Offenlage des Bebauungsplanentwurfes GI 05/23 "Katzenfeld" und der 20. Änderung des Flächennutzungsplanes</title>
+    <updated>2025-09-27T00:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13248_1.PDF?1758880084"/>
+    <published>2025-09-27T00:16:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/</id>
