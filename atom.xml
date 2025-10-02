@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-10-01T21:05:41.674435+00:00</updated>
+  <updated>2025-10-02T10:06:51.159862+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -594,17 +594,6 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Anlaufstelle-Wohnkonflikt-Hilfe-unterst%C3%BCtzt-Mieter-innen-bei-Schwierigkeiten-im-Mietverh%C3%A4ltnis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74185.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neue Anlaufstelle »Wohnkonflikt Hilfe« unterstützt Mieter*innen bei Schwierigkeiten im Mietverhältnis</title>
-    <updated>2025-09-10T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Anlaufstelle-Wohnkonflikt-Hilfe-unterst%C3%BCtzt-Mieter-innen-bei-Schwierigkeiten-im-Mietverh%C3%A4ltnis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74185.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-09-10T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einrichtungen-des-Studierendenwerks-z%C3%A4hlen-zu-den-vergan-freundlichsten-in-Deutschland.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74205.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Einrichtungen des Studierendenwerks zählen zu den vergan-freundlichsten in Deutschland</title>
     <updated>2025-09-11T00:00:00+02:00</updated>
@@ -867,6 +856,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Regenerative-Wirtschaft-besser-arbeiten-besser-wirtschaften-besser-leben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74360.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-10-01T16:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herbstferien-im-Mathematikum-Sonderausstellung-und-Mitmachaktion.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74361.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Herbstferien im Mathematikum: Sonderausstellung und Mitmachaktion</title>
+    <updated>2025-10-02T10:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herbstferien-im-Mathematikum-Sonderausstellung-und-Mitmachaktion.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74361.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-10-02T10:06:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
