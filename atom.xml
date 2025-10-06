@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-10-06T14:04:43.607767+00:00</updated>
+  <updated>2025-10-06T15:05:59.098417+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -594,17 +594,6 @@
     <published>2025-10-03T10:05:26+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einf%C3%BChrung-der-Bewohnerparkzone-im-Nahrungsberg-wird-verschoben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74226.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Einführung der Bewohnerparkzone im Nahrungsberg wird verschoben</title>
-    <updated>2025-09-17T11:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Einf%C3%BChrung-der-Bewohnerparkzone-im-Nahrungsberg-wird-verschoben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74226.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-09-17T11:05:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Abpflastern-am-D%C3%B6nerdreieck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74230.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>»Abpflastern« am Dönerdreieck</title>
     <updated>2025-09-17T11:05:00+02:00</updated>
@@ -867,6 +856,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Antragsfrist-f%C3%BCr-Kulturfonds-Gie%C3%9Fen-Wetzlar-ab-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74368.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-10-06T14:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Informationen-zu-Kampfmitteluntersuchungen-und-Baugrunderkundungen-auf-der-Strecke-zwischen-Gie%C3%9Fen-und-Nidda.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74369.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Informationen zu Kampfmitteluntersuchungen und Baugrunderkundungen auf der Strecke zwischen Gießen und Nidda</title>
+    <updated>2025-10-06T15:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Informationen-zu-Kampfmitteluntersuchungen-und-Baugrunderkundungen-auf-der-Strecke-zwischen-Gie%C3%9Fen-und-Nidda.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74369.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-10-06T15:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
