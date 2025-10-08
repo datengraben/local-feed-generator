@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-10-08T06:08:09.014910+00:00</updated>
+  <updated>2025-10-08T07:06:33.280362+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -605,6 +605,17 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-die-Liebigstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74232.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fernwärme für die Liebigstraße - Umleitung der Buslinien 3 und 13</title>
+    <updated>2025-09-17T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-die-Liebigstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74232.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-17T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-R%C3%A4der-werden-wieder-eingesammelt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Achtung Fahrradfahrer: Alte Räder werden wieder eingesammelt</title>
     <updated>2025-09-18T14:05:00+02:00</updated>
@@ -757,17 +768,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auftritt-bei-Musikalischem-Sommer-sichern-Jetzt-bewerben-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74357.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-10-01T13:12:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Regenerative-Wirtschaft-besser-arbeiten-besser-wirtschaften-besser-leben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74360.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Regenerative Wirtschaft - besser arbeiten, besser wirtschaften, besser leben</title>
-    <updated>2025-10-01T16:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Regenerative-Wirtschaft-besser-arbeiten-besser-wirtschaften-besser-leben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74360.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-10-01T16:07:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Herbstferien-im-Mathematikum-Sonderausstellung-und-Mitmachaktion.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74361.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
