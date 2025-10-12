@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-10-12T15:03:57.676507+00:00</updated>
+  <updated>2025-10-12T21:04:44.869721+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -407,17 +407,6 @@
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Das-Museum-f%C3%BCr-Gie%C3%9Fen-bleibt-am-Sonntag-12-10-2025-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74377.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Das Museum für Gießen bleibt am Sonntag, 12. Oktober, geschlossen</title>
-    <updated>2025-10-07T12:09:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Das-Museum-f%C3%BCr-Gie%C3%9Fen-bleibt-am-Sonntag-12-10-2025-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74377.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2025-10-07T12:09:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_13193_1.PDF?1757664026</id>
     <title>Neues Mitglied im Ausländerbeirat</title>
     <updated>2025-09-13T00:15:00+02:00</updated>
@@ -592,6 +581,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-geht-es-hinein-in-die-spielzeit/"/>
     <published>2025-09-09T10:05:46+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-die-Liebigstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74232.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fernwärme für die Liebigstraße - Umleitung der Buslinien 3 und 13</title>
+    <updated>2025-09-17T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-die-Liebigstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74232.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-17T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-R%C3%A4der-werden-wieder-eingesammelt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -834,17 +834,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Informationen-zu-Kampfmitteluntersuchungen-und-Baugrunderkundungen-auf-der-Strecke-zwischen-Gie%C3%9Fen-und-Nidda.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74369.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-10-06T15:05:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Museum-f%C3%BCr-Gie%C3%9Fen-bleibt-am-Sonntag-12-10-2025-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74377.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Das Museum für Gießen bleibt am Sonntag, 12. Oktober, geschlossen</title>
-    <updated>2025-10-07T12:09:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Museum-f%C3%BCr-Gie%C3%9Fen-bleibt-am-Sonntag-12-10-2025-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74377.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-10-07T12:09:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Leihradsystem-Deutlich-mehr-Fahrten-mehr-Stationen-g%C3%BCnstigere-Lastenr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74378.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
