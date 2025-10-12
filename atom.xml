@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-10-10T11:06:06.176335+00:00</updated>
+  <updated>2025-10-12T15:03:57.676507+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -407,17 +407,6 @@
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Vermittlungsraum des MfG erstrahlt in neuem Glanz</title>
-    <updated>2025-03-24T00:00:00+01:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Vermittlungsraum-des-MfG-erstrahlt-in-neuem-Glanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73136.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2025-03-24T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Das-Museum-f%C3%BCr-Gie%C3%9Fen-bleibt-am-Sonntag-12-10-2025-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74377.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Das Museum für Gießen bleibt am Sonntag, 12. Oktober, geschlossen</title>
     <updated>2025-10-07T12:09:00+02:00</updated>
@@ -585,13 +574,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/faszination-liebestrank/</id>
     <title>Faszination Liebestrank - In der Oper „L’elisir d’amore“ dreht sich alles um ein bekan...</title>
-    <updated>2025-10-10T11:05:48.269886+02:00</updated>
+    <updated>2025-10-10T11:05:48+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/faszination-liebestrank/"/>
-    <published>2025-10-10T11:05:48.269886+02:00</published>
+    <published>2025-10-10T11:05:48+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-geht-es-hinein-in-die-spielzeit/</id>
