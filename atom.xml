@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-10-15T09:06:49.479206+00:00</updated>
+  <updated>2025-10-15T11:04:21.180979+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -449,6 +449,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_13248_1.PDF?1758880084"/>
     <published>2025-09-27T00:16:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_13376_1.PDF?1760432470</id>
+    <title>Bauleitplanung: Erneute Offenlage des geänderten 3. Bebauungsplanentwurfes Nr. GI 05/18 »Rodheimer Straße-West«</title>
+    <updated>2025-10-15T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13376_1.PDF?1760432470"/>
+    <published>2025-10-15T11:04:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/spielzeit-2025-2026/</id>
