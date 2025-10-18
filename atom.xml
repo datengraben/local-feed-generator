@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-10-17T15:04:43.077901+00:00</updated>
+  <updated>2025-10-18T00:16:59.894636+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -473,6 +473,28 @@
     <published>2025-10-17T00:17:00+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_13375_1.PDF?1760427165</id>
+    <title>Aufforderung zur Einreichung von Wahlvorschlägen für die Kommunalwahlen 2026</title>
+    <updated>2025-10-18T00:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13375_1.PDF?1760427165"/>
+    <published>2025-10-18T00:16:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_13374_1.PDF?1760427097</id>
+    <title>Neue Schiedsperson für den Schiedsamtsbezirk Gießen</title>
+    <updated>2025-10-18T00:16:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13374_1.PDF?1760427097"/>
+    <published>2025-10-18T00:16:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/</id>
     <title>Räume für Vertrauen schaffen - Denitsa Stoyanova und Beatrice Panero über die Mitmachangebo...</title>
     <updated>2025-09-16T12:07:52+02:00</updated>
@@ -563,13 +585,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-tod-unseres-geschatzten-kollegen-karel-alexander-muhl/</id>
     <title>Nachruf - In Gedenken an unseren Kollegen und Freund...</title>
-    <updated>2025-10-17T15:04:29.434013+02:00</updated>
+    <updated>2025-10-17T15:04:29+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-tod-unseres-geschatzten-kollegen-karel-alexander-muhl/"/>
-    <published>2025-10-17T15:04:29.434013+02:00</published>
+    <published>2025-10-17T15:04:29+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-geht-es-hinein-in-die-spielzeit/</id>
