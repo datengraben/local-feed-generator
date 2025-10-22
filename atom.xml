@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-10-22T13:14:36.834582+00:00</updated>
+  <updated>2025-10-22T14:05:26.787381+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -605,26 +605,15 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Start-des-After-Work-Abos-mit-Generation-Arbeit-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74247.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Start des »After Work Abos« mit »Generation Arbeit«</title>
-    <updated>2025-09-22T16:06:00+02:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-R%C3%A4der-werden-wieder-eingesammelt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Achtung Fahrradfahrer: Alte Räder werden wieder eingesammelt</title>
+    <updated>2025-09-18T00:00:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Start-des-After-Work-Abos-mit-Generation-Arbeit-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74247.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-09-22T16:06:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%84nderung-der-Parkst%C3%A4nde-im-Bereich-Marburger-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74248.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Mehr Sicherheit für Radfahrer durch Anpassung der Parkmöglichkeiten in der Marburger Straße</title>
-    <updated>2025-09-22T16:06:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%84nderung-der-Parkst%C3%A4nde-im-Bereich-Marburger-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74248.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-09-22T16:06:00+02:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Achtung-Fahrradfahrer-Alte-R%C3%A4der-werden-wieder-eingesammelt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-09-18T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Telekom-startet-mit-dem-Spatenstich-den-Glasfaserausbau-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74249.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -878,6 +867,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Waffenverbotszonen-werden-eingerichtet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74522.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-10-22T13:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mobile-Weidez%C3%A4une-k%C3%B6nnen-zur-t%C3%B6dlichen-Falle-f%C3%BCr-Wildtiere-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64211.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Mobile Weidezäune können zur tödlichen Falle für Wildtiere werden</title>
+    <updated>2025-10-22T14:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mobile-Weidez%C3%A4une-k%C3%B6nnen-zur-t%C3%B6dlichen-Falle-f%C3%BCr-Wildtiere-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64211.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-10-22T14:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
