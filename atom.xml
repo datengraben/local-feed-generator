@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-10-21T22:05:57.305865+00:00</updated>
+  <updated>2025-10-22T13:14:36.834582+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -605,17 +605,6 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%9Cberarbeitete-Radwanderkarte-stellt-%C3%BCber-1000-Kilometer-langes-Radroutennetz-im-Gie%C3%9Fener-Land-dar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74246.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Überarbeitete Radwanderkarte stellt über 1000 Kilometer langes Radroutennetz im Gießener Land dar</title>
-    <updated>2025-09-22T16:06:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%9Cberarbeitete-Radwanderkarte-stellt-%C3%BCber-1000-Kilometer-langes-Radroutennetz-im-Gie%C3%9Fener-Land-dar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74246.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-09-22T16:06:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Start-des-After-Work-Abos-mit-Generation-Arbeit-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74247.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Start des »After Work Abos« mit »Generation Arbeit«</title>
     <updated>2025-09-22T16:06:00+02:00</updated>
@@ -878,6 +867,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BCr-mehr-Vereinbarkeit-von-Familie-und-Beruf-Vielseitige-Ferienbetreuung-f%C3%BCr-Grundschulkinder-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74517.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-10-21T08:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Waffenverbotszonen-werden-eingerichtet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74522.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Waffenverbotszonen werden eingerichtet</title>
+    <updated>2025-10-22T13:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Waffenverbotszonen-werden-eingerichtet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74522.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-10-22T13:14:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
