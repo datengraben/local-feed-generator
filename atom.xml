@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-10-24T22:06:08.151475+00:00</updated>
+  <updated>2025-10-25T00:17:23.864582+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -427,72 +427,6 @@
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Under-Construction-Wie-das-Museum-f%C3%BCr-Gie%C3%9Fen-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74524.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <published>2025-10-23T08:08:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_13199_1.PDF?1758026440</id>
-    <title>Neuverpachtung Jagdbogen des Jagdbezirkes Gießen II-Wieseck</title>
-    <updated>2025-09-16T13:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13199_1.PDF?1758026440"/>
-    <published>2025-09-16T13:12:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_13248_1.PDF?1758880084</id>
-    <title>Bauleitplanung: Offenlage des Bebauungsplanentwurfes GI 05/23 "Katzenfeld" und der 20. Änderung des Flächennutzungsplanes</title>
-    <updated>2025-09-27T00:16:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13248_1.PDF?1758880084"/>
-    <published>2025-09-27T00:16:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_13376_1.PDF?1760432470</id>
-    <title>Bauleitplanung: Erneute Offenlage des geänderten 3. Bebauungsplanentwurfes Nr. GI 05/18 »Rodheimer Straße-West«</title>
-    <updated>2025-10-15T11:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13376_1.PDF?1760432470"/>
-    <published>2025-10-15T11:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_13249_1.PDF?1758880614</id>
-    <title>Ankündigung von Baugrunduntersuchungen für die Trassenplanung des Rhein-Main-Links - im Auftrag der Amprion GmbH -Gemarkung Rödgen-</title>
-    <updated>2025-10-17T00:17:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13249_1.PDF?1758880614"/>
-    <published>2025-10-17T00:17:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_13375_1.PDF?1760427165</id>
-    <title>Aufforderung zur Einreichung von Wahlvorschlägen für die Kommunalwahlen 2026</title>
-    <updated>2025-10-18T00:16:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13375_1.PDF?1760427165"/>
-    <published>2025-10-18T00:16:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_13374_1.PDF?1760427097</id>
-    <title>Neue Schiedsperson für den Schiedsamtsbezirk Gießen</title>
-    <updated>2025-10-18T00:16:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13374_1.PDF?1760427097"/>
-    <published>2025-10-18T00:16:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/</id>
