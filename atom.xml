@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-10-27T08:08:19.923119+00:00</updated>
+  <updated>2025-10-27T17:04:26.463791+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -440,28 +440,6 @@
     <published>2025-09-16T12:07:52+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 26. Oktober - Am nächsten Theatertag zeigen wir "Prinz Friedrich von ...</title>
-    <updated>2025-09-16T11:03:51+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2025-09-16T11:03:51+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
-    <title>8. Sinfoniekonzert: Sie haben die Wahl! - Wählen Sie aus drei Programmen aus, was wir beim 8. Sinfonie...</title>
-    <updated>2025-09-02T15:04:27+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/"/>
-    <published>2025-09-02T15:04:27+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/</id>
     <title>Auf der Suche nach Verzauberung - Ein Portrait über die Regisseurin Anaїs Durand-Mauptit und B...</title>
     <updated>2025-09-08T13:12:23+02:00</updated>
@@ -471,6 +449,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/"/>
     <published>2025-09-08T13:12:23+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 30. November - Am nächsten Theatertag zeigen wir "Am Anfang" im K...</title>
+    <updated>2025-09-16T11:03:51+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2025-09-16T11:03:51+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-gemeinsames-ein-und-ausatmen/</id>
@@ -484,17 +473,6 @@
     <published>2025-09-19T08:06:31+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
-    <title>Haarige Angelegenheiten - Die Dramaturgin Mathilde Lehmann gibt Einblicke in das Stück...</title>
-    <updated>2025-10-08T12:09:05+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/"/>
-    <published>2025-10-08T12:09:05+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/</id>
     <title>Ein Abend. Drei Stücke. Viele Anfänge. - Im Rahmen der Choreografischen Werkstatt „Am Anfang“ choreog...</title>
     <updated>2025-10-14T14:06:14+02:00</updated>
@@ -506,6 +484,17 @@
     <published>2025-10-14T14:06:14+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
+    <title>8. Sinfoniekonzert: Sie haben die Wahl! - Wählen Sie aus drei Programmen aus, was wir beim 8. Sinfonie...</title>
+    <updated>2025-09-02T15:04:27+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/"/>
+    <published>2025-09-02T15:04:27+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/faszination-liebestrank/</id>
     <title>Faszination Liebestrank - In der Oper „L’elisir d’amore“ dreht sich alles um ein bekan...</title>
     <updated>2025-10-10T11:05:48+02:00</updated>
@@ -515,6 +504,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/faszination-liebestrank/"/>
     <published>2025-10-10T11:05:48+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
+    <title>Haarige Angelegenheiten - Die Dramaturgin Mathilde Lehmann gibt Einblicke in das Stück...</title>
+    <updated>2025-10-08T12:09:05+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/"/>
+    <published>2025-10-08T12:09:05+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-tod-unseres-geschatzten-kollegen-karel-alexander-muhl/</id>
@@ -537,17 +537,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-geht-es-hinein-in-die-spielzeit/"/>
     <published>2025-09-09T10:05:46+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B429-Arbeiten-zur-Verst%C3%A4rkung-der-Br%C3%BCcke-Eselswiese-stehen-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68345.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Update B429: Lkw-Sperrung der Brücke „Eselswiese“ über die Lahn</title>
-    <updated>2025-09-26T14:10:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B429-Arbeiten-zur-Verst%C3%A4rkung-der-Br%C3%BCcke-Eselswiese-stehen-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68345.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-09-26T14:10:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationale-Partnerschaftskonferenz-in-Gie%C3%9Fen-Kommunen-im-Dialog-f%C3%BCr-eine-nachhaltige-Zukunft.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74329.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -812,6 +801,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-bewerben-Preis-f%C3%BCr-kriminalpr%C3%A4ventive-Projekte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74541.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-10-27T08:08:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gedenk- und Veranstaltungsreihe zum 9. November – Erinnern, Mahnen, Wachsam sein</title>
+    <updated>2025-10-27T17:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-10-27T17:04:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
