@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-10-28T09:05:35.908335+00:00</updated>
+  <updated>2025-10-29T09:07:45.138190+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,17 +539,6 @@
     <published>2025-09-09T10:05:46+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auftritt-bei-Musikalischem-Sommer-sichern-Jetzt-bewerben-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74357.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Auftritt bei Musikalischem Sommer sichern. Jetzt bewerben!</title>
-    <updated>2025-10-01T13:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auftritt-bei-Musikalischem-Sommer-sichern-Jetzt-bewerben-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74357.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-10-01T13:12:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folge-und-Erstanmeldungen-zur-Vergabe-der-Ehrenamts-Card-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74000.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Update: Anmeldungen für die Ehrenamts-Card noch bis Ende Oktober möglich</title>
     <updated>2025-10-02T12:08:00+02:00</updated>
@@ -770,17 +759,6 @@
     <published>2025-10-24T13:14:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-Gefl%C3%BCgelpest-Tote-Kraniche-und-andere-Wasserv%C3%B6gel-nicht-ber%C3%BChren-und-melden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74539.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Schutz vor Geflügelpest: Tote Kraniche und andere Wasservögel nicht berühren und melden</title>
-    <updated>2025-10-24T13:14:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-Gefl%C3%BCgelpest-Tote-Kraniche-und-andere-Wasserv%C3%B6gel-nicht-ber%C3%BChren-und-melden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74539.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-10-24T13:14:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-bewerben-Preis-f%C3%BCr-kriminalpr%C3%A4ventive-Projekte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74541.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Jetzt bewerben: Preis für kriminalpräventive Projekte</title>
     <updated>2025-10-27T08:08:00+01:00</updated>
@@ -812,6 +790,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infoabend-zur-Zukunft-der-W%C3%A4rmeversorgung-in-Allendorf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74549.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-10-28T09:05:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-Gefl%C3%BCgelpest-Tote-Kraniche-und-andere-Wasserv%C3%B6gel-nicht-ber%C3%BChren-und-melden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74539.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Schutz vor Geflügelpest: Tote Kraniche und andere Wasservögel nicht berühren und melden</title>
+    <updated>2025-10-24T13:14:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-Gefl%C3%BCgelpest-Tote-Kraniche-und-andere-Wasserv%C3%B6gel-nicht-ber%C3%BChren-und-melden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74539.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-10-24T13:14:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Orientierung-leichtgemacht-das-neue-Fu%C3%9Fg%C3%A4ngerleitsystem-f%C3%BCr-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74552.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Orientierung leichtgemacht - das neue Fußgängerleitsystem für Gießen</title>
+    <updated>2025-10-29T09:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Orientierung-leichtgemacht-das-neue-Fu%C3%9Fg%C3%A4ngerleitsystem-f%C3%BCr-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74552.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-10-29T09:07:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
