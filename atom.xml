@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-10-31T15:04:32.797614+00:00</updated>
+  <updated>2025-11-01T06:07:29.632613+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -429,6 +429,17 @@
     <published>2025-10-23T08:08:00+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/</id>
+    <title>Räume für Vertrauen schaffen - Denitsa Stoyanova und Beatrice Panero über die Mitmachangebo...</title>
+    <updated>2025-11-01T06:07:15.448745+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/"/>
+    <published>2025-11-01T06:07:15.448745+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/</id>
     <title>Auf der Suche nach Verzauberung - Ein Portrait über die Regisseurin Anaїs Durand-Mauptit und B...</title>
     <updated>2025-09-08T13:12:23+02:00</updated>
@@ -464,13 +475,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/von-verwandlung-und-identitat/</id>
     <title>Von Verwandlung und Identität - Das ausführliche Interview mit Kostümbildnerin Kristin Budde...</title>
-    <updated>2025-10-31T15:04:15.846266+01:00</updated>
+    <updated>2025-10-31T15:04:15+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/von-verwandlung-und-identitat/"/>
-    <published>2025-10-31T15:04:15.846266+01:00</published>
+    <published>2025-10-31T15:04:15+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/</id>
@@ -517,26 +528,15 @@
     <published>2025-10-08T12:09:05+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-tod-unseres-geschatzten-kollegen-karel-alexander-muhl/</id>
-    <title>Nachruf - In Gedenken an unseren Kollegen und Freund...</title>
-    <updated>2025-10-17T15:04:29+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/gemeinsam-erzahlen/</id>
+    <title>Gemeinsam erzählen - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
+    <updated>2025-11-01T06:07:15.448745+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-tod-unseres-geschatzten-kollegen-karel-alexander-muhl/"/>
-    <published>2025-10-17T15:04:29+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-geht-es-hinein-in-die-spielzeit/</id>
-    <title>Jetzt geht es hinein in die Spielzeit - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2025-09-09T10:05:46+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jetzt-geht-es-hinein-in-die-spielzeit/"/>
-    <published>2025-09-09T10:05:46+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/gemeinsam-erzahlen/"/>
+    <published>2025-11-01T06:07:15.448745+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Antragsfrist-f%C3%BCr-Kulturfonds-Gie%C3%9Fen-Wetzlar-ab-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74368.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
