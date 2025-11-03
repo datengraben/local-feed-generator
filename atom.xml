@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-11-01T06:07:29.632613+00:00</updated>
+  <updated>2025-11-03T11:06:21.654318+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -431,13 +431,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/</id>
     <title>Räume für Vertrauen schaffen - Denitsa Stoyanova und Beatrice Panero über die Mitmachangebo...</title>
-    <updated>2025-11-01T06:07:15.448745+01:00</updated>
+    <updated>2025-11-01T06:07:15+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/"/>
-    <published>2025-11-01T06:07:15.448745+01:00</published>
+    <published>2025-11-01T06:07:15+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/</id>
@@ -530,35 +530,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/gemeinsam-erzahlen/</id>
     <title>Gemeinsam erzählen - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2025-11-01T06:07:15.448745+01:00</updated>
+    <updated>2025-11-01T06:07:15+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/gemeinsam-erzahlen/"/>
-    <published>2025-11-01T06:07:15.448745+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Antragsfrist-f%C3%BCr-Kulturfonds-Gie%C3%9Fen-Wetzlar-ab-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74368.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neue Antragsfrist für Kulturfonds Gießen-Wetzlar ab 2026</title>
-    <updated>2025-10-06T14:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Antragsfrist-f%C3%BCr-Kulturfonds-Gie%C3%9Fen-Wetzlar-ab-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74368.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-10-06T14:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Leihradsystem-Deutlich-mehr-Fahrten-mehr-Stationen-g%C3%BCnstigere-Lastenr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74378.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gießener Leihradsystem: Deutlich mehr Fahrten, mehr Stationen, günstigere Lastenräder</title>
-    <updated>2025-10-08T06:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Leihradsystem-Deutlich-mehr-Fahrten-mehr-Stationen-g%C3%BCnstigere-Lastenr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74378.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-10-08T06:07:00+02:00</published>
+    <published>2025-11-01T06:07:15+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dr-Moritz-Fischer-erh%C3%A4lt-den-Wilhelm-Liebknecht-Preis-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74387.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -812,6 +790,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-ist-die-beste-Zeit-f%C3%BCr-die-Grippeschutzimpfung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74560.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-10-31T09:06:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Limitiert-charmant-typisch-Gie%C3%9Fen-Die-Weihnachtskugel-2025-mit-dem-Elefantenklo.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74569.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Limitiert, charmant, typisch Gießen: Die Weihnachtskugel 2025 mit dem Elefantenklo</title>
+    <updated>2025-11-03T11:06:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Limitiert-charmant-typisch-Gie%C3%9Fen-Die-Weihnachtskugel-2025-mit-dem-Elefantenklo.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74569.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-03T11:06:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Leisere-Stra%C3%9Fen-und-mehr-Verkehrssicherheit-Neue-Tempo-30-Regelungen-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74570.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Leisere Straßen und mehr Verkehrssicherheit: Neue Tempo-30-Regelungen in Gießen</title>
+    <updated>2025-11-03T11:06:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Leisere-Stra%C3%9Fen-und-mehr-Verkehrssicherheit-Neue-Tempo-30-Regelungen-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74570.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-03T11:06:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
