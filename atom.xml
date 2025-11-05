@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-11-05T09:05:34.867288+00:00</updated>
+  <updated>2025-11-05T12:07:47.237878+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,28 +539,6 @@
     <published>2025-11-01T06:07:15+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-erneuern-Wasserrohre.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74470.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>SWG erneuern Wasserrohre</title>
-    <updated>2025-10-17T15:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-erneuern-Wasserrohre.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74470.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-10-17T15:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Menschliche-Geschichte-bewahren-Innovative-Methode-zur-Konservierung-von-Human-Remains-im-Museum-f%C3%BCr-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74509.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Menschliche Geschichte bewahren - Innovative Methode zur Konservierung von Human Remains im Museum für Gießen</title>
-    <updated>2025-10-20T09:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Menschliche-Geschichte-bewahren-Innovative-Methode-zur-Konservierung-von-Human-Remains-im-Museum-f%C3%BCr-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74509.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-10-20T09:05:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BCr-mehr-Vereinbarkeit-von-Familie-und-Beruf-Vielseitige-Ferienbetreuung-f%C3%BCr-Grundschulkinder-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74517.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Für mehr Vereinbarkeit von Familie und Beruf: Vielseitige Ferienbetreuung für Grundschulkinder in Gießen</title>
     <updated>2025-10-21T08:07:00+02:00</updated>
@@ -812,6 +790,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Menschlichkeit-ist-die-beste-Politik-Gie%C3%9Fen-feiert-200-Jahre-Wilhelm-Liebknecht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74579.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-11-05T09:05:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gleisarbeiten-im-Bereich-des-Bahnhofs-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74582.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gleisarbeiten im Bereich des Bahnhofs Gießen</title>
+    <updated>2025-11-05T12:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gleisarbeiten-im-Bereich-des-Bahnhofs-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74582.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-05T12:07:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-f%C3%BCr-die-K%C3%BCche-Schneidebrett-Solinger-Messer-und-regionale-Spezialit%C3%A4ten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74583.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen für die Küche - Schneidebrett, Solinger Messer und regionale Spezialitäten</title>
+    <updated>2025-11-05T12:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-f%C3%BCr-die-K%C3%BCche-Schneidebrett-Solinger-Messer-und-regionale-Spezialit%C3%A4ten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74583.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-05T12:07:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
