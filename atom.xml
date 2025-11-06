@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-11-05T15:06:56.519435+00:00</updated>
+  <updated>2025-11-06T11:05:41.712205+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,28 +539,6 @@
     <published>2025-11-01T06:07:15+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Waffenverbotszonen-werden-eingerichtet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74522.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Waffenverbotszonen werden eingerichtet</title>
-    <updated>2025-10-22T13:14:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Waffenverbotszonen-werden-eingerichtet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74522.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-10-22T13:14:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mobile-Weidez%C3%A4une-k%C3%B6nnen-zur-t%C3%B6dlichen-Falle-f%C3%BCr-Wildtiere-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64211.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Mobile Weidezäune können zur tödlichen Falle für Wildtiere werden</title>
-    <updated>2025-10-22T14:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mobile-Weidez%C3%A4une-k%C3%B6nnen-zur-t%C3%B6dlichen-Falle-f%C3%BCr-Wildtiere-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64211.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-10-22T14:05:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Under-Construction-Wie-das-Museum-f%C3%BCr-Gie%C3%9Fen-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74524.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Under Construction. Wie das Museum für Gießen entsteht</title>
     <updated>2025-10-23T08:08:00+02:00</updated>
@@ -812,6 +790,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-die-Gnauthstra%C3%9Fe-Die-SWG-erweitern-das-Fernw%C3%A4rmenetz-im-Gie%C3%9Fener-S%C3%BCden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73376.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-11-05T15:06:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Theaterf%C3%BChrung-f%C3%BCr-alle-im-Stadttheater.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74598.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Theaterführung für alle im Stadttheater</title>
+    <updated>2025-11-06T11:05:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Theaterf%C3%BChrung-f%C3%BCr-alle-im-Stadttheater.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74598.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-06T11:05:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mitmachaktion-Sichtbarmachen-soziale-Orte-in-Gie%C3%9Fen-und-Wetzlar-Ausstellung-im-Rathaus-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74599.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Mitmachaktion: Sichtbarmachen - soziale Orte in Gießen und Wetzlar Ausstellung im Rathaus Gießen</title>
+    <updated>2025-11-06T11:05:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mitmachaktion-Sichtbarmachen-soziale-Orte-in-Gie%C3%9Fen-und-Wetzlar-Ausstellung-im-Rathaus-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74599.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-06T11:05:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
