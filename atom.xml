@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-11-07T08:06:21.510064+00:00</updated>
+  <updated>2025-11-07T10:05:37.335319+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -429,17 +429,6 @@
     <published>2025-10-23T08:08:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/</id>
-    <title>Räume für Vertrauen schaffen - Denitsa Stoyanova und Beatrice Panero über die Mitmachangebo...</title>
-    <updated>2025-11-01T06:07:15+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/"/>
-    <published>2025-11-01T06:07:15+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/</id>
     <title>Auf der Suche nach Verzauberung - Ein Portrait über die Regisseurin Anaїs Durand-Mauptit und B...</title>
     <updated>2025-09-08T13:12:23+02:00</updated>
@@ -539,15 +528,15 @@
     <published>2025-11-01T06:07:15+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Digital-im-Theaterfundus-st%C3%B6bern-Stadttheater-Gie%C3%9Fen-und-Artes-Mobiles-machen-Theaterfundus-f%C3%BCr-alle-erlebbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74537.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Digital im Theaterfundus stöbern: Stadttheater Gießen und Artes Mobiles machen Theaterfundus für alle erlebbar</title>
-    <updated>2025-10-24T13:14:00+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/prinz-friedrich-von-homburg-am-3.10-entfallt/</id>
+    <title>"Gloria" am 7.11. entfällt! - Die Vorstellung von "Gloria" am 7. November muss w...</title>
+    <updated>2025-11-07T10:05:25.258920+01:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Digital-im-Theaterfundus-st%C3%B6bern-Stadttheater-Gie%C3%9Fen-und-Artes-Mobiles-machen-Theaterfundus-f%C3%BCr-alle-erlebbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74537.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-10-24T13:14:00+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/prinz-friedrich-von-homburg-am-3.10-entfallt/"/>
+    <published>2025-11-07T10:05:25.258920+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weitere-kreative-Formate-statt-verkaufsoffener-Sonntag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74538.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -781,15 +770,15 @@
     <published>2025-11-06T11:05:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalerneuerung-in-der-Zieselwiese.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74600.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kanalerneuerung in der Zieselwiese</title>
-    <updated>2025-11-06T13:13:00+01:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalerneuerung-in-der-Zeiselwiese.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74600.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kanalerneuerung in der Zeiselwiese</title>
+    <updated>2025-11-06T10:05:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalerneuerung-in-der-Zieselwiese.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74600.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-11-06T13:13:00+01:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalerneuerung-in-der-Zeiselwiese.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74600.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-06T10:05:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -812,6 +801,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-machen-wie-bei-Tageslicht-Stadt-Gie%C3%9Fen-nimmt-neue-LED-Flutlichtanlage-im-West-Stadion-in-Betrieb.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74602.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-11-07T08:06:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kl%C3%A4rwerksf%C3%BChrungen-f%C3%BCr-Grundsch%C3%BCler-Bildung-rund-ums-Wasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74603.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Klärwerksführungen für Grundschüler - Bildung rund ums Wasser</title>
+    <updated>2025-11-07T10:05:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kl%C3%A4rwerksf%C3%BChrungen-f%C3%BCr-Grundsch%C3%BCler-Bildung-rund-ums-Wasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74603.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-07T10:05:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
