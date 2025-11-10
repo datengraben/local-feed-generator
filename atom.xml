@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-11-07T19:04:19.199500+00:00</updated>
+  <updated>2025-11-10T10:06:12.720890+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -431,13 +431,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/</id>
     <title>Räume für Vertrauen schaffen - Denitsa Stoyanova und Beatrice Panero über die Mitmachangebo...</title>
-    <updated>2025-11-07T19:04:03.237917+01:00</updated>
+    <updated>2025-11-07T19:04:03+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/"/>
-    <published>2025-11-07T19:04:03.237917+01:00</published>
+    <published>2025-11-07T19:04:03+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/</id>
@@ -539,17 +539,6 @@
     <published>2025-11-01T06:07:15+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weitere-kreative-Formate-statt-verkaufsoffener-Sonntag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74538.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Weitere kreative Formate statt verkaufsoffener Sonntag</title>
-    <updated>2025-10-24T13:14:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weitere-kreative-Formate-statt-verkaufsoffener-Sonntag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74538.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-10-24T13:14:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-bewerben-Preis-f%C3%BCr-kriminalpr%C3%A4ventive-Projekte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74541.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Jetzt bewerben: Preis für kriminalpräventive Projekte</title>
     <updated>2025-10-27T08:08:00+01:00</updated>
@@ -559,17 +548,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-bewerben-Preis-f%C3%BCr-kriminalpr%C3%A4ventive-Projekte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74541.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-10-27T08:08:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gedenk- und Veranstaltungsreihe zum 9. November – Erinnern, Mahnen, Wachsam sein</title>
-    <updated>2025-10-27T17:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-10-27T17:04:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infoabend-zur-Zukunft-der-W%C3%A4rmeversorgung-in-Allendorf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74549.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -812,6 +790,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kl%C3%A4rwerksf%C3%BChrungen-f%C3%BCr-Grundsch%C3%BCler-Bildung-rund-ums-Wasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74603.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-11-07T10:05:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gedenk- und Veranstaltungsreihe zum 9. November – Erinnern, Mahnen, Wachsam sein</title>
+    <updated>2025-10-27T17:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-10-27T17:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorstand-Stadtelternbeirat-der-st%C3%A4dtischen-Kitas-in-Gie%C3%9Fen-startet-in-zweite-Amtszeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74629.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vorstand Stadtelternbeirat der städtischen Kitas in Gießen startet in zweite Amtszeit</title>
+    <updated>2025-11-10T10:05:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorstand-Stadtelternbeirat-der-st%C3%A4dtischen-Kitas-in-Gie%C3%9Fen-startet-in-zweite-Amtszeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74629.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-10T10:05:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
