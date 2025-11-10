@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-11-10T10:06:12.720890+00:00</updated>
+  <updated>2025-11-10T17:04:57.983890+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -429,17 +429,6 @@
     <published>2025-10-23T08:08:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/</id>
-    <title>Räume für Vertrauen schaffen - Denitsa Stoyanova und Beatrice Panero über die Mitmachangebo...</title>
-    <updated>2025-11-07T19:04:03+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/raume-fur-vertrauen-schaffen/"/>
-    <published>2025-11-07T19:04:03+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/</id>
     <title>Auf der Suche nach Verzauberung - Ein Portrait über die Regisseurin Anaїs Durand-Mauptit und B...</title>
     <updated>2025-09-08T13:12:23+02:00</updated>
@@ -526,6 +515,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/von-verwandlung-und-identitat/"/>
     <published>2025-10-31T15:04:15+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/</id>
+    <title>Unsere Weihnachtsangebote - Weihnachtssocken, Weihnachtsabos und vieles mehr für ein die...</title>
+    <updated>2025-11-10T17:04:40.081371+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/"/>
+    <published>2025-11-10T17:04:40.081371+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/gemeinsam-erzahlen/</id>
