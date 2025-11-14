@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-11-11T13:13:48.317602+00:00</updated>
+  <updated>2025-11-14T13:12:56.333301+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -429,17 +429,6 @@
     <published>2025-10-23T08:08:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/</id>
-    <title>Auf der Suche nach Verzauberung - Ein Portrait über die Regisseurin Anaїs Durand-Mauptit und B...</title>
-    <updated>2025-09-08T13:12:23+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/"/>
-    <published>2025-09-08T13:12:23+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/faszination-liebestrank/</id>
     <title>Faszination Liebestrank - In der Oper „L’elisir d’amore“ dreht sich alles um ein bekan...</title>
     <updated>2025-10-10T11:05:48+02:00</updated>
@@ -518,7 +507,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/</id>
-    <title>Unsere Weihnachtsangebote - Weihnachtssocken, Weihnachtsabos und vieles mehr für ein die...</title>
+    <title>Unsere Weihnachtsangebote - Weihnachtssocken, Weihnachtsabos und vieles mehr für die Fei...</title>
     <updated>2025-11-10T17:04:40+01:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -537,6 +526,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/gemeinsam-erzahlen/"/>
     <published>2025-11-01T06:07:15+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zusatzvorstellung-von-grundlos-vergnugt-am-samstag-22-november/</id>
+    <title>Zusatzvorstellung von "Grundlos vergnügt" am Samstag, 22. November - Aus dispositionellen Gründen muss das geplante Gastspiel „NS...</title>
+    <updated>2025-11-14T13:12:40.981397+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zusatzvorstellung-von-grundlos-vergnugt-am-samstag-22-november/"/>
+    <published>2025-11-14T13:12:40.981397+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
