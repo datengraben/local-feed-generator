@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-11-14T18:05:56.331781+00:00</updated>
+  <updated>2025-11-19T18:06:46.024711+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -183,17 +183,6 @@
     <published>2024-09-25T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://universum-giessen.com/2024/02/23/anderen-helfen-aber-wie-gespraech-zu-ehrenamtlicher-arbeit-mit-der-studentin-selin-demirci/</id>
-    <title>Anderen helfen – Aber wie? Gespräch zu ehrenamtlicher Arbeit mit der Studentin Selin Demirci</title>
-    <updated>2024-02-23T10:13:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2024/02/23/anderen-helfen-aber-wie-gespraech-zu-ehrenamtlicher-arbeit-mit-der-studentin-selin-demirci/"/>
-    <published>2024-02-23T10:13:00+01:00</published>
-  </entry>
-  <entry>
     <id>https://universum-giessen.com/2024/04/25/leben-retten-an-europas-aussengrenzen-dozentin-sandra-hammamy-auf-seenotrettung-im-mittelmeer/</id>
     <title>Leben retten an Europas Außengrenzen – Dozentin Sandra Hammamy auf Seenotrettung im Mittelmeer</title>
     <updated>2024-04-25T14:09:00+02:00</updated>
@@ -291,6 +280,17 @@
     </author>
     <link href="https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/"/>
     <published>2025-02-15T14:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/</id>
+    <title>Audiobeitrag: Die Demokratische Republik Georgien und das Deutsche Kaiserreich</title>
+    <updated>2025-11-19T18:06:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/"/>
+    <published>2025-11-19T18:06:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=2874.584&amp;La=1</id>
@@ -508,13 +508,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zwischen-zweifel-und-hoffnung/</id>
     <title>Zwischen Zweifel und Hoffnung - Hauschoreograf Constantin Hochkeppel und Komponist Marco Mly...</title>
-    <updated>2025-11-14T18:05:42.904437+01:00</updated>
+    <updated>2025-11-14T18:05:42+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zwischen-zweifel-und-hoffnung/"/>
-    <published>2025-11-14T18:05:42.904437+01:00</published>
+    <published>2025-11-14T18:05:42+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/gemeinsam-erzahlen/</id>
