@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-11-19T18:06:46.024711+00:00</updated>
+  <updated>2025-11-27T12:07:51.886113+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -293,164 +293,6 @@
     <published>2025-11-19T18:06:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Die Verbraucherzentrale rät: Richtig trinken im Sommer</title>
-    <updated>2024-08-13T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2024-08-13T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Innenr%C3%A4ume-an-hei%C3%9Fen-Tagen-k%C3%BChl-halten.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67978.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Innenräume an heißen Tagen kühl halten</title>
-    <updated>2024-08-21T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Innenr%C3%A4ume-an-hei%C3%9Fen-Tagen-k%C3%BChl-halten.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67978.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2024-08-21T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzegefahren-ernst-nehmen-Hitzeaktionstag-am-4-Juni.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.73593.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Update: Heute ist Hitzeaktionstag</title>
-    <updated>2025-05-28T08:06:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzegefahren-ernst-nehmen-Hitzeaktionstag-am-4-Juni.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.73593.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2025-05-28T08:06:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Anhaltende-Trockenheit-Keine-Wasserentnahme-aus-Seen-Fl%C3%BCssen-und-B%C3%A4chen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.73787.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Anhaltende Trockenheit: Keine Wasserentnahme aus Seen, Flüssen und Bächen</title>
-    <updated>2025-07-02T14:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Anhaltende-Trockenheit-Keine-Wasserentnahme-aus-Seen-Fl%C3%BCssen-und-B%C3%A4chen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.73787.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2025-07-02T14:04:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Blaualgen-im-Neuen-Teich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67894.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Blaualgen im Neuen Teich</title>
-    <updated>2024-08-02T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Blaualgen-im-Neuen-Teich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67894.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2024-08-02T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzewelle-worauf-man-achten-sollte-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74054.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Hitzewelle - worauf man achten sollte!</title>
-    <updated>2025-08-13T12:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzewelle-worauf-man-achten-sollte-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74054.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2025-08-13T12:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Erh%C3%B6hte-Temperaturen-Biofilm-auf-dem-Schwanenteich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74072.1&amp;NavID=2874.584&amp;La=1</id>
-    <title>Erhöhte Temperaturen - Biofilm auf dem Schwanenteich</title>
-    <updated>2025-08-15T15:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Erh%C3%B6hte-Temperaturen-Biofilm-auf-dem-Schwanenteich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74072.1&amp;NavID=2874.584&amp;La=1"/>
-    <published>2025-08-15T15:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Stadtgeschichte virtuell und lebendig: digitaler Audiowalk</title>
-    <updated>2023-04-14T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2023-04-14T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/museum4punkt0-vor-erfolgreichem-Abschluss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58346.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>museum4punkt0 vor erfolgreichem Abschluss</title>
-    <updated>2023-05-04T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/museum4punkt0-vor-erfolgreichem-Abschluss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58346.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2023-05-04T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/1975-Revisited-Gie%C3%9Fen-und-das-Jahr-der-Frau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58347.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>1975 Revisited. Gießen und das Jahr der Frau</title>
-    <updated>2023-05-04T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/1975-Revisited-Gie%C3%9Fen-und-das-Jahr-der-Frau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58347.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2023-05-04T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Die VideoBox - erzähle von deinem Gießen</title>
-    <updated>2023-06-06T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2023-06-06T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Menschliche-Geschichte-bewahren-Innovative-Methode-zur-Konservierung-von-Human-Remains-im-Museum-f%C3%BCr-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74509.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Menschliche Geschichte bewahren - Innovative Methode zur Konservierung von Human Remains im Museum für Gießen</title>
-    <updated>2025-10-20T09:05:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Menschliche-Geschichte-bewahren-Innovative-Methode-zur-Konservierung-von-Human-Remains-im-Museum-f%C3%BCr-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74509.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2025-10-20T09:05:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Under-Construction-Wie-das-Museum-f%C3%BCr-Gie%C3%9Fen-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74524.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Under Construction. Wie das Museum für Gießen entsteht</title>
-    <updated>2025-10-23T08:08:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Under-Construction-Wie-das-Museum-f%C3%BCr-Gie%C3%9Fen-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74524.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <published>2025-10-23T08:08:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-gemeinsames-ein-und-ausatmen/</id>
-    <title>„Ein gemeinsames Ein- und Ausatmen“ - Die Autorin der Uraufführung „Gloria“, Hannah Zufall, sprich...</title>
-    <updated>2025-09-19T08:06:31+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-gemeinsames-ein-und-ausatmen/"/>
-    <published>2025-09-19T08:06:31+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/</id>
-    <title>Ein Abend. Drei Stücke. Viele Anfänge. - Im Rahmen der Choreografischen Werkstatt „Am Anfang“ choreog...</title>
-    <updated>2025-10-14T14:06:14+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/"/>
-    <published>2025-10-14T14:06:14+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
     <title>8. Sinfoniekonzert: Sie haben die Wahl! - Wählen Sie aus drei Programmen aus, was wir beim 8. Sinfonie...</title>
     <updated>2025-09-02T15:04:27+02:00</updated>
@@ -484,6 +326,17 @@
     <published>2025-10-31T15:04:15+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zwischen-zweifel-und-hoffnung/</id>
+    <title>Zwischen Zweifel und Hoffnung - Hauschoreograf Constantin Hochkeppel und Komponist Marco Mly...</title>
+    <updated>2025-11-14T18:05:42+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zwischen-zweifel-und-hoffnung/"/>
+    <published>2025-11-14T18:05:42+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wir-suchen-eure-giesskanne/</id>
     <title>Wir suchen eure Gießkanne! - Für das Familienstück „T-Rex, bist du traurig?“ (Premiere: 1...</title>
     <updated>2025-11-14T15:04:59+01:00</updated>
@@ -493,6 +346,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wir-suchen-eure-giesskanne/"/>
     <published>2025-11-14T15:04:59+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 30. November - Am nächsten Theatertag zeigen wir "Am Anfang" im K...</title>
+    <updated>2025-11-27T12:07:19.142313+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2025-11-27T12:07:19.142313+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/</id>
@@ -506,17 +370,6 @@
     <published>2025-11-10T17:04:40+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zwischen-zweifel-und-hoffnung/</id>
-    <title>Zwischen Zweifel und Hoffnung - Hauschoreograf Constantin Hochkeppel und Komponist Marco Mly...</title>
-    <updated>2025-11-14T18:05:42+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zwischen-zweifel-und-hoffnung/"/>
-    <published>2025-11-14T18:05:42+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/gemeinsam-erzahlen/</id>
     <title>Gemeinsam erzählen - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
     <updated>2025-11-01T06:07:15+01:00</updated>
@@ -528,15 +381,26 @@
     <published>2025-11-01T06:07:15+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zusatzvorstellung-von-grundlos-vergnugt-am-samstag-22-november/</id>
-    <title>Zusatzvorstellung von "Grundlos vergnügt" am Samstag, 22. November - Aus dispositionellen Gründen muss das geplante Gastspiel „NS...</title>
-    <updated>2025-11-14T13:12:40+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-29-november/</id>
+    <title>Statement der Intendantin Simone Sterr zum 29. November - ...</title>
+    <updated>2025-11-27T12:07:19.142313+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zusatzvorstellung-von-grundlos-vergnugt-am-samstag-22-november/"/>
-    <published>2025-11-14T13:12:40+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-29-november/"/>
+    <published>2025-11-27T12:07:19.142313+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorstellungsabsage-am-29-november/</id>
+    <title>Vorstellungsabsage am 29. November - Das Stadttheater muss die am 29. November 2025 geplanten Vor...</title>
+    <updated>2025-11-27T12:07:19.142313+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorstellungsabsage-am-29-november/"/>
+    <published>2025-11-27T12:07:19.142313+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
