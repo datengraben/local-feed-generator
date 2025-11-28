@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-11-28T09:05:24.032989+00:00</updated>
+  <updated>2025-11-28T12:07:30.427269+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -484,17 +484,6 @@
     <published>2025-11-18T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
-    <title>8. Sinfoniekonzert: Sie haben die Wahl! - Wählen Sie aus drei Programmen aus, was wir beim 8. Sinfonie...</title>
-    <updated>2025-09-02T15:04:27+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/"/>
-    <published>2025-09-02T15:04:27+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
     <title>Haarige Angelegenheiten - Die Dramaturgin Mathilde Lehmann gibt Einblicke in das Stück...</title>
     <updated>2025-10-08T12:09:05+02:00</updated>
@@ -530,13 +519,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/</id>
     <title>„Jede Variation erzählt eine eigene Geschichte“ - Der Choreograf Max Levy im Gespräch mit der Dramaturgin Caro...</title>
-    <updated>2025-11-28T09:05:10.038247+01:00</updated>
+    <updated>2025-11-28T09:05:10+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/"/>
-    <published>2025-11-28T09:05:10.038247+01:00</published>
+    <published>2025-11-28T09:05:10+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/</id>
@@ -570,6 +559,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/gemeinsam-erzahlen/"/>
     <published>2025-11-01T06:07:15+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/haus-der-karten-am-29.11-geschlossen/</id>
+    <title>Haus der Karten am 29.11. geschlossen - Am 29. November bleibt unsere Theaterkasse leider geschlosse...</title>
+    <updated>2025-11-28T12:07:20.292520+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haus-der-karten-am-29.11-geschlossen/"/>
+    <published>2025-11-28T12:07:20.292520+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-29-november/</id>
