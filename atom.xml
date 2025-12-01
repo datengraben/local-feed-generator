@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-01T13:16:22.788906+00:00</updated>
+  <updated>2025-12-01T15:05:45.881203+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -484,17 +484,6 @@
     <published>2025-11-18T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/</id>
-    <title>Ein Abend. Drei Stücke. Viele Anfänge. - Im Rahmen der Choreografischen Werkstatt „Am Anfang“ choreog...</title>
-    <updated>2025-12-01T10:05:24+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/"/>
-    <published>2025-12-01T10:05:24+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
     <title>8. Sinfoniekonzert: Sie haben die Wahl! - Wählen Sie aus drei Programmen aus, was wir beim 8. Sinfonie...</title>
     <updated>2025-12-01T10:05:24+01:00</updated>
@@ -552,13 +541,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 17. Dezember - Am nächsten Theatertag zeigen wir die Preview zum 1. Chorkon...</title>
-    <updated>2025-12-01T13:15:47.188810+01:00</updated>
+    <updated>2025-12-01T13:15:47+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2025-12-01T13:15:47.188810+01:00</published>
+    <published>2025-12-01T13:15:47+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/</id>
@@ -592,6 +581,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-29-november/"/>
     <published>2025-11-27T12:07:19+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/haltung-zeigen/</id>
+    <title>Haltung zeigen - Auch das Stadttheater Gießen setzte am Samstag, im Verbund m...</title>
+    <updated>2025-12-01T15:05:22.534399+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haltung-zeigen/"/>
+    <published>2025-12-01T15:05:22.534399+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mitmachaktion-Sichtbarmachen-soziale-Orte-in-Gie%C3%9Fen-und-Wetzlar-Ausstellung-im-Rathaus-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74599.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
