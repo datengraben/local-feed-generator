@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-11-28T20:05:05.155664+00:00</updated>
+  <updated>2025-12-01T09:07:52.402403+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -592,6 +592,281 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorstellungsabsage-am-29-november/"/>
     <published>2025-11-27T12:07:19+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-die-Gnauthstra%C3%9Fe-Die-SWG-erweitern-das-Fernw%C3%A4rmenetz-im-Gie%C3%9Fener-S%C3%BCden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73376.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fernwärme für die Gnauthstraße: Die SWG erweitern das Fernwärmenetz im Gießener Süden</title>
+    <updated>2025-11-05T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-die-Gnauthstra%C3%9Fe-Die-SWG-erweitern-das-Fernw%C3%A4rmenetz-im-Gie%C3%9Fener-S%C3%BCden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73376.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-05T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mitmachaktion-Sichtbarmachen-soziale-Orte-in-Gie%C3%9Fen-und-Wetzlar-Ausstellung-im-Rathaus-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74599.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Mitmachaktion: Sichtbarmachen - soziale Orte in Gießen und Wetzlar Ausstellung im Rathaus Gießen</title>
+    <updated>2025-11-06T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mitmachaktion-Sichtbarmachen-soziale-Orte-in-Gie%C3%9Fen-und-Wetzlar-Ausstellung-im-Rathaus-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74599.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-06T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalerneuerung-in-der-Zeiselwiese.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74600.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kanalerneuerung in der Zeiselwiese</title>
+    <updated>2025-11-06T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalerneuerung-in-der-Zeiselwiese.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74600.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-06T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>+++Update+++ Einschränkungen auf der A485/A45 - Gießener Südkreuz</title>
+    <updated>2025-11-06T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-06T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-machen-wie-bei-Tageslicht-Stadt-Gie%C3%9Fen-nimmt-neue-LED-Flutlichtanlage-im-West-Stadion-in-Betrieb.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74602.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sport machen wie bei Tageslicht: Stadt Gießen nimmt neue LED-Flutlichtanlage im West-Stadion in Betrieb</title>
+    <updated>2025-11-07T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-machen-wie-bei-Tageslicht-Stadt-Gie%C3%9Fen-nimmt-neue-LED-Flutlichtanlage-im-West-Stadion-in-Betrieb.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74602.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-07T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kl%C3%A4rwerksf%C3%BChrungen-f%C3%BCr-Grundsch%C3%BCler-Bildung-rund-ums-Wasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74603.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Klärwerksführungen für Grundschüler - Bildung rund ums Wasser</title>
+    <updated>2025-11-07T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kl%C3%A4rwerksf%C3%BChrungen-f%C3%BCr-Grundsch%C3%BCler-Bildung-rund-ums-Wasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74603.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-07T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorstand-Stadtelternbeirat-der-st%C3%A4dtischen-Kitas-in-Gie%C3%9Fen-startet-in-zweite-Amtszeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74629.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vorstand Stadtelternbeirat der städtischen Kitas in Gießen startet in zweite Amtszeit</title>
+    <updated>2025-11-10T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorstand-Stadtelternbeirat-der-st%C3%A4dtischen-Kitas-in-Gie%C3%9Fen-startet-in-zweite-Amtszeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74629.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-10T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-auf-zwei-Ebenen-Neue-Sporthalle-der-Liebigschule-er%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74664.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sport auf zwei Ebenen - Neue Sporthalle der Liebigschule eröffnet</title>
+    <updated>2025-11-12T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-auf-zwei-Ebenen-Neue-Sporthalle-der-Liebigschule-er%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74664.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-12T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Adventsnachmittag-am-13-Dezember.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74665.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Adventsnachmittag am 13. Dezember</title>
+    <updated>2025-11-12T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Adventsnachmittag-am-13-Dezember.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74665.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-12T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/CfP-Demokratie-made-in-Gie%C3%9Fen-Konferenz-zum-200-Geburtstag-Wilhelm-Liebknechts.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74666.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>CfP: Demokratie made in Gießen - Konferenz zum 200. Geburtstag Wilhelm Liebknechts</title>
+    <updated>2025-11-12T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/CfP-Demokratie-made-in-Gie%C3%9Fen-Konferenz-zum-200-Geburtstag-Wilhelm-Liebknechts.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74666.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-12T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Sicherheit-durch-Sichtbarkeit-Gilt-nicht-nur-f%C3%BCr-Radfahren-im-Winter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74667.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Mehr Sicherheit durch Sichtbarkeit - Gilt nicht nur für Radfahren im Winter</title>
+    <updated>2025-11-13T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Sicherheit-durch-Sichtbarkeit-Gilt-nicht-nur-f%C3%BCr-Radfahren-im-Winter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74667.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-13T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-warnen-vor-Betr%C3%BCgern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>SWG warnen vor Betrügern</title>
+    <updated>2025-11-13T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-warnen-vor-Betr%C3%BCgern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-13T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Drei-M%C3%A4rkte-ein-Weihnachtszauber-Gie%C3%9Fen-erstrahlt-im-Lichterglanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68504.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Drei Märkte, ein Weihnachtszauber – Gießen erstrahlt im Lichterglanz</title>
+    <updated>2025-11-18T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Drei-M%C3%A4rkte-ein-Weihnachtszauber-Gie%C3%9Fen-erstrahlt-im-Lichterglanz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68504.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-18T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausstellungser%C3%B6ffnung-Rom%C3%A9o-Mivekannin-verschoben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74707.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ausstellungseröffnung Roméo Mivekannin verschoben</title>
+    <updated>2025-11-19T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausstellungser%C3%B6ffnung-Rom%C3%A9o-Mivekannin-verschoben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74707.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-19T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Begegnung-und-Teilhabe-sichtbar-machen-Ausstellung-zeigt-soziale-Orte-in-Gie%C3%9Fen-und-Wetzlar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74708.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Begegnung und Teilhabe sichtbar machen - Ausstellung zeigt soziale Orte in Gießen und Wetzlar</title>
+    <updated>2025-11-19T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Begegnung-und-Teilhabe-sichtbar-machen-Ausstellung-zeigt-soziale-Orte-in-Gie%C3%9Fen-und-Wetzlar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74708.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-19T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-bittet-Grundst%C3%BCcksbesitzende-Hecken-zur%C3%BCckzuschneiden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74709.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadt bittet Grundstücksbesitzende, Hecken zurückzuschneiden</title>
+    <updated>2025-11-19T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-bittet-Grundst%C3%BCcksbesitzende-Hecken-zur%C3%BCckzuschneiden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74709.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-19T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalsanierungen-in-der-Innenstadt-und-in-Kleinlinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74713.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kanalsanierungen in der Innenstadt und in Kleinlinden</title>
+    <updated>2025-11-21T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalsanierungen-in-der-Innenstadt-und-in-Kleinlinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74713.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-21T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kostenfreie-Einsammlung-von-geb%C3%BCndeltem-Astwerk-und-Heckenschnitt-sowie-Beginn-der-14-t%C3%A4glichen-Bioabfuhr-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74714.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kostenfreie Einsammlung von gebündeltem Astwerk und Heckenschnitt sowie Beginn der 14-täglichen Bioabfuhr in Gießen</title>
+    <updated>2025-11-21T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kostenfreie-Einsammlung-von-geb%C3%BCndeltem-Astwerk-und-Heckenschnitt-sowie-Beginn-der-14-t%C3%A4glichen-Bioabfuhr-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74714.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-21T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtf%C3%BChrungen-in-Gie%C3%9Fen-Historie-Genuss-und-Gl%C3%BCcksmomente-im-neuen-Jahresprogramm-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74715.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadtführungen in Gießen: Historie, Genuss und Glücksmomente im neuen Jahresprogramm 2026</title>
+    <updated>2025-11-21T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtf%C3%BChrungen-in-Gie%C3%9Fen-Historie-Genuss-und-Gl%C3%BCcksmomente-im-neuen-Jahresprogramm-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74715.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-21T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationaler-Tag-gegen-Gewalt-%C3%96ffentliche-Gedenkstunde-an-Opfer-von-Femiziden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74736.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Internationaler Tag gegen Gewalt: Öffentliche Gedenkstunde an Opfer von Femiziden</title>
+    <updated>2025-11-25T09:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationaler-Tag-gegen-Gewalt-%C3%96ffentliche-Gedenkstunde-an-Opfer-von-Femiziden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74736.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-25T09:07:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sonderausstellung-im-Museum-Under-Construction-Wie-das-Museum-f%C3%BCr-Gie%C3%9Fen-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74737.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sonderausstellung im Museum: Under Construction. Wie das Museum für Gießen entsteht</title>
+    <updated>2025-11-25T09:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sonderausstellung-im-Museum-Under-Construction-Wie-das-Museum-f%C3%BCr-Gie%C3%9Fen-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74737.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-25T09:07:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-3-Gie%C3%9Fener-Adventskalender-2025-kleine-%C3%9Cberraschungen-f%C3%BCr-jeden-Tag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74738.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Der 3. Gießener Adventskalender 2025 - kleine Überraschungen für jeden Tag</title>
+    <updated>2025-11-25T09:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-3-Gie%C3%9Fener-Adventskalender-2025-kleine-%C3%9Cberraschungen-f%C3%BCr-jeden-Tag.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74738.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-25T09:07:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infoveranstaltung-zur-kommunalen-W%C3%A4rmeplanung-mit-kostenlosem-Beratungsangebot-am-8-Dezember-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74743.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Infoveranstaltung zur kommunalen Wärmeplanung mit kostenlosem Beratungsangebot am 8. Dezember 2025</title>
+    <updated>2025-11-26T09:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infoveranstaltung-zur-kommunalen-W%C3%A4rmeplanung-mit-kostenlosem-Beratungsangebot-am-8-Dezember-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74743.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-26T09:07:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundesweiter-Vorlesetag-2025-auch-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74765.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bundesweiter Vorlesetag 2025 auch für Seniorinnen und Senioren</title>
+    <updated>2025-11-28T09:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundesweiter-Vorlesetag-2025-auch-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74765.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-28T09:07:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-blickt-auf-29-November-zur%C3%BCck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74767.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadt Gießen blickt auf 29. November zurück</title>
+    <updated>2025-11-30T09:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-blickt-auf-29-November-zur%C3%BCck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74767.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-11-30T09:07:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
