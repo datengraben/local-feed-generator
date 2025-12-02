@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-01T15:05:45.881203+00:00</updated>
+  <updated>2025-12-02T11:04:47.336969+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -585,24 +585,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haltung-zeigen/</id>
     <title>Haltung zeigen - Auch das Stadttheater Gießen setzte am Samstag, im Verbund m...</title>
-    <updated>2025-12-01T15:05:22.534399+01:00</updated>
+    <updated>2025-12-01T15:05:22+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haltung-zeigen/"/>
-    <published>2025-12-01T15:05:22.534399+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mitmachaktion-Sichtbarmachen-soziale-Orte-in-Gie%C3%9Fen-und-Wetzlar-Ausstellung-im-Rathaus-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74599.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Mitmachaktion: Sichtbarmachen - soziale Orte in Gießen und Wetzlar Ausstellung im Rathaus Gießen</title>
-    <updated>2025-11-06T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mitmachaktion-Sichtbarmachen-soziale-Orte-in-Gie%C3%9Fen-und-Wetzlar-Ausstellung-im-Rathaus-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74599.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-11-06T00:00:00+01:00</published>
+    <published>2025-12-01T15:05:22+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalerneuerung-in-der-Zeiselwiese.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74600.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -867,6 +856,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Deutsch-sprechen-%C3%BCben-mit-Themen-aus-der-Stadt-Das-Zeitungscaf%C3%A9-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74768.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-12-01T10:05:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Biber-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74776.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Biber in Gießen</title>
+    <updated>2025-12-02T11:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Biber-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74776.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-12-02T11:04:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
