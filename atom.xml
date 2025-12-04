@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-02T12:07:46.436541+00:00</updated>
+  <updated>2025-12-04T12:07:53.960745+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -484,6 +484,17 @@
     <published>2025-11-18T00:00:00+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/</id>
+    <title>Ein Abend. Drei Stücke. Viele Anfänge. - Im Rahmen der Choreografischen Werkstatt „Am Anfang“ choreog...</title>
+    <updated>2025-12-04T12:07:35.747067+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/"/>
+    <published>2025-12-04T12:07:35.747067+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
     <title>8. Sinfoniekonzert: Sie haben die Wahl! - Wählen Sie aus drei Programmen aus, was wir beim 8. Sinfonie...</title>
     <updated>2025-12-01T10:05:24+01:00</updated>
@@ -537,17 +548,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/"/>
     <published>2025-11-28T09:05:10+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 17. Dezember - Am nächsten Theatertag zeigen wir die Preview zum 1. Chorkon...</title>
-    <updated>2025-12-01T13:15:47+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2025-12-01T13:15:47+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/</id>
