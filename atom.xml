@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-05T19:04:11.096006+00:00</updated>
+  <updated>2025-12-08T23:04:40.215830+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -440,17 +440,6 @@
     <published>2025-11-25T13:13:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_13506_1.PDF?1762330378</id>
-    <title>Einladung Bürgerversammlung: Kommunale Wärmeplanung der Universitätsstadt Gießen</title>
-    <updated>2020-11-30T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13506_1.PDF?1762330378"/>
-    <published>2020-11-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_13199_1.PDF?1758026440</id>
     <title>Neuverpachtung Jagdbogen des Jagdbezirkes Gießen II-Wieseck</title>
     <updated>2025-09-16T00:00:00+02:00</updated>
@@ -541,13 +530,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 25. Dezember - Am nächsten Theatertag zeigen wir "Dumme Jahre" im...</title>
-    <updated>2025-12-05T19:03:54.367617+01:00</updated>
+    <updated>2025-12-05T19:03:54+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2025-12-05T19:03:54.367617+01:00</published>
+    <published>2025-12-05T19:03:54+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/</id>
