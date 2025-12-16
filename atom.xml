@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-16T12:07:56.778862+00:00</updated>
+  <updated>2025-12-16T23:05:16.776628+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -451,17 +451,6 @@
     <published>2025-09-16T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_13560_1.PDF?1763116294</id>
-    <title>Nachruf Dr. Micha Brumlik, Träger der Hedwig-Burgheim-Medaille</title>
-    <updated>2025-11-15T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13560_1.PDF?1763116294"/>
-    <published>2025-11-15T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_13567_1.PDF?1763454502</id>
     <title>Einleitung und Unterrichtung der Öffentlichkeit zur Aufstellung des Bebauungsplanes Nr. GI 02/10 Schottstraße/Schwarzlachweg</title>
     <updated>2025-11-18T00:00:00+01:00</updated>
@@ -519,13 +508,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/</id>
     <title>Ein Abend. Drei Stücke. Viele Anfänge. - Im Rahmen der Choreografischen Werkstatt „Am Anfang“ choreog...</title>
-    <updated>2025-12-16T12:07:42.959953+01:00</updated>
+    <updated>2025-12-16T12:07:42+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/"/>
-    <published>2025-12-16T12:07:42.959953+01:00</published>
+    <published>2025-12-16T12:07:42+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/gemeinsam-erzahlen/</id>
@@ -541,13 +530,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
     <title>8. Sinfoniekonzert: Sie haben die Wahl! - Wählen Sie aus drei Programmen aus, was wir beim 8. Sinfonie...</title>
-    <updated>2025-12-16T12:07:42.959953+01:00</updated>
+    <updated>2025-12-16T12:07:42+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/"/>
-    <published>2025-12-16T12:07:42.959953+01:00</published>
+    <published>2025-12-16T12:07:42+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
@@ -574,13 +563,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/faszination-liebestrank/</id>
     <title>Faszination Liebestrank - In der Oper „L’elisir d’amore“ dreht sich alles um ein bekan...</title>
-    <updated>2025-12-16T12:07:42.959953+01:00</updated>
+    <updated>2025-12-16T12:07:42+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/faszination-liebestrank/"/>
-    <published>2025-12-16T12:07:42.959953+01:00</published>
+    <published>2025-12-16T12:07:42+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haltung-zeigen/</id>
