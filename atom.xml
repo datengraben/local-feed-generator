@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-17T13:16:16.422177+00:00</updated>
+  <updated>2025-12-17T15:05:29.549464+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -594,17 +594,6 @@
     <published>2025-12-12T12:07:18+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-blickt-auf-29-November-zur%C3%BCck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74767.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadt Gießen blickt auf 29. November zurück</title>
-    <updated>2025-11-30T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-blickt-auf-29-November-zur%C3%BCck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74767.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-11-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Deutsch-sprechen-%C3%BCben-mit-Themen-aus-der-Stadt-Das-Zeitungscaf%C3%A9-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74768.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Deutsch sprechen üben mit Themen aus der Stadt: Das Zeitungscafé Gießen</title>
     <updated>2025-12-01T00:00:00+01:00</updated>
@@ -867,6 +856,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MWB-Unbekannte-entfernen-erneut-Sinkk%C3%A4sten-Deckel-im-Stadtgebiet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74888.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-12-17T11:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Startschuss-f%C3%BCr-die-St%C3%A4dtebauf%C3%B6rderung-in-der-N%C3%B6rdlichen-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74890.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Startschuss für die Städtebauförderung in der Nördlichen Innenstadt</title>
+    <updated>2025-12-17T15:05:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Startschuss-f%C3%BCr-die-St%C3%A4dtebauf%C3%B6rderung-in-der-N%C3%B6rdlichen-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74890.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-12-17T15:05:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
