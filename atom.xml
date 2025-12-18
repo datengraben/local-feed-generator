@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-18T13:15:33.782224+00:00</updated>
+  <updated>2025-12-18T16:06:12.078421+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -594,28 +594,6 @@
     <published>2025-12-12T12:07:18+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Biber-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74776.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Biber in Gießen</title>
-    <updated>2025-12-02T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Biber-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74776.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-12-02T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verl%C3%A4ngerte-%C3%96ffnungszeiten-im-Haus-der-Karten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74779.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Verlängerte Öffnungszeiten im Haus der Karten</title>
-    <updated>2025-12-02T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verl%C3%A4ngerte-%C3%96ffnungszeiten-im-Haus-der-Karten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74779.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-12-02T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MWB-Erreichbarkeit-zwischen-den-Feiertagen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74781.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>MWB: Erreichbarkeit zwischen den Feiertagen</title>
     <updated>2025-12-03T00:00:00+01:00</updated>
@@ -867,6 +845,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zukunft-f%C3%BCr-die-Innenstadt-Wirtschaftsf%C3%B6rderung-Gie%C3%9Fen-erh%C3%A4lt-200-000-Euro-Landesf%C3%B6rderung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74891.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-12-18T13:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Nextbike-Station-an-der-Ecke-Gnauthstra%C3%9Fe-Goethestra%C3%9Fe-Vorl%C3%A4ufer-f%C3%BCr-k%C3%BCnftige-Mobilit%C3%A4tsstation.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74892.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue Nextbike-Station an der Ecke Gnauthstraße/Goethestraße: Vorläufer für künftige Mobilitätsstation</title>
+    <updated>2025-12-18T16:05:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Nextbike-Station-an-der-Ecke-Gnauthstra%C3%9Fe-Goethestra%C3%9Fe-Vorl%C3%A4ufer-f%C3%BCr-k%C3%BCnftige-Mobilit%C3%A4tsstation.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74892.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-12-18T16:05:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lesefreude-im-Mittelpunkt-Hessischer-Lesef%C3%B6rderpreis-f%C3%BCr-das-Literarische-Zentrum-Gie%C3%9Fen-und-die-Stadtbibliothek-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74893.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Lesefreude im Mittelpunkt: Hessischer Leseförderpreis für das Literarische Zentrum Gießen und die Stadtbibliothek Gießen</title>
+    <updated>2025-12-18T16:05:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lesefreude-im-Mittelpunkt-Hessischer-Lesef%C3%B6rderpreis-f%C3%BCr-das-Literarische-Zentrum-Gie%C3%9Fen-und-die-Stadtbibliothek-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74893.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-12-18T16:05:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
