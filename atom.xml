@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-18T16:06:12.078421+00:00</updated>
+  <updated>2025-12-19T12:07:37.644232+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -594,17 +594,6 @@
     <published>2025-12-12T12:07:18+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MWB-Erreichbarkeit-zwischen-den-Feiertagen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74781.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>MWB: Erreichbarkeit zwischen den Feiertagen</title>
-    <updated>2025-12-03T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MWB-Erreichbarkeit-zwischen-den-Feiertagen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74781.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-12-03T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Park-Ride-Shuttle-an-den-Advents-Samstagen-im-Dezember.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74783.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Park+Ride-Shuttle an den Advents-Samstagen im Dezember</title>
     <updated>2025-12-04T00:00:00+01:00</updated>
@@ -867,6 +856,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lesefreude-im-Mittelpunkt-Hessischer-Lesef%C3%B6rderpreis-f%C3%BCr-das-Literarische-Zentrum-Gie%C3%9Fen-und-die-Stadtbibliothek-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74893.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-12-18T16:05:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Abfuhrkalender-f%C3%BCr-das-Jahr-2026-ab-sofort-zum-Download-verf%C3%BCgbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74898.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Abfuhrkalender für das Jahr 2026 ab sofort zum Download verfügbar</title>
+    <updated>2025-12-19T12:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Abfuhrkalender-f%C3%BCr-das-Jahr-2026-ab-sofort-zum-Download-verf%C3%BCgbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74898.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-12-19T12:07:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
