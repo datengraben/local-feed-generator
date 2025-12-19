@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-19T12:07:37.644232+00:00</updated>
+  <updated>2025-12-19T13:14:39.239768+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -594,28 +594,6 @@
     <published>2025-12-12T12:07:18+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Park-Ride-Shuttle-an-den-Advents-Samstagen-im-Dezember.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74783.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Park+Ride-Shuttle an den Advents-Samstagen im Dezember</title>
-    <updated>2025-12-04T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Park-Ride-Shuttle-an-den-Advents-Samstagen-im-Dezember.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74783.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-12-04T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/125-Jahre-VfB-1900-Gie%C3%9Fen-Festschrift-zum-Jubil%C3%A4um-an-Oberb%C3%BCrgermeister-Becher-%C3%BCberreicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74784.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>125 Jahre VfB 1900 Gießen: Festschrift zum Jubiläum an Oberbürgermeister Becher überreicht</title>
-    <updated>2025-12-04T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/125-Jahre-VfB-1900-Gie%C3%9Fen-Festschrift-zum-Jubil%C3%A4um-an-Oberb%C3%BCrgermeister-Becher-%C3%BCberreicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74784.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-12-04T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Feierstunde-f%C3%BCr-st%C3%A4dtische-Bedienstete.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74791.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Feierstunde für städtische Bedienstete</title>
     <updated>2025-12-05T00:00:00+01:00</updated>
@@ -867,6 +845,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Abfuhrkalender-f%C3%BCr-das-Jahr-2026-ab-sofort-zum-Download-verf%C3%BCgbar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74898.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-12-19T12:07:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bauarbeiten-im-Uferweg-starten-Mitte-Januar-MWB-und-Stadt-erneuern-Leitungen-und-Fahrbahn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74899.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bauarbeiten im Uferweg starten Mitte Januar: MWB und Stadt erneuern Leitungen und Fahrbahn</title>
+    <updated>2025-12-19T13:14:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bauarbeiten-im-Uferweg-starten-Mitte-Januar-MWB-und-Stadt-erneuern-Leitungen-und-Fahrbahn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74899.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-12-19T13:14:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Kapitel-im-Gie%C3%9Fener-Nahverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74900.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neues Kapitel im Gießener Nahverkehr</title>
+    <updated>2025-12-19T13:14:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Kapitel-im-Gie%C3%9Fener-Nahverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74900.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-12-19T13:14:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
