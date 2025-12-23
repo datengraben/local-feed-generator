@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-23T10:05:33.005759+00:00</updated>
+  <updated>2025-12-23T11:04:38.185536+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -506,15 +506,26 @@
     <published>2025-12-23T01:33:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_13813_1.PDF?1766419616</id>
+    <id>http://giessen.de/media/custom/2874_13813_1.PDF?1766486602</id>
     <title>Änderung der Wochenmarktverkaufszeiten</title>
-    <updated>2025-12-23T01:33:00+01:00</updated>
+    <updated>2025-12-23T11:04:00+01:00</updated>
     <author>
       <name>Stadt - Amtliche Bekanntmachungen</name>
       <email>presse@giessen.de</email>
     </author>
-    <link href="http://giessen.de/media/custom/2874_13813_1.PDF?1766419616"/>
-    <published>2025-12-23T01:33:00+01:00</published>
+    <link href="http://giessen.de/media/custom/2874_13813_1.PDF?1766486602"/>
+    <published>2025-12-23T11:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/von-verwandlung-und-identitat/</id>
+    <title>Von Verwandlung und Identität - Die Crossover Produktion „The Addams Family“ ist ein Abend v...</title>
+    <updated>2025-12-23T11:04:21.638809+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/von-verwandlung-und-identitat/"/>
+    <published>2025-12-23T11:04:21.638809+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zwischen-zweifel-und-hoffnung/</id>
@@ -537,17 +548,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/"/>
     <published>2025-12-09T19:03:55+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/</id>
-    <title>Ein Abend. Drei Stücke. Viele Anfänge. - Im Rahmen der Choreografischen Werkstatt „Am Anfang“ choreog...</title>
-    <updated>2025-12-16T12:07:42+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ein-abend-drei-stucke-viele-anfange/"/>
-    <published>2025-12-16T12:07:42+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/gemeinsam-erzahlen/</id>
@@ -625,28 +625,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/"/>
     <published>2025-12-12T12:07:18+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Igel-in-Not-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74793.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Igel in Not (?)</title>
-    <updated>2025-12-05T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Igel-in-Not-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74793.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-12-05T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Abend-der-Erinnerung-und-der-Klarheit-Gedenkveranstaltung-zum-6-Dezember-1944.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74804.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ein Abend der Erinnerung und der Klarheit - Gedenkveranstaltung zum 6. Dezember 1944</title>
-    <updated>2025-12-08T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Abend-der-Erinnerung-und-der-Klarheit-Gedenkveranstaltung-zum-6-Dezember-1944.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74804.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-12-08T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Baumlieferung-in-Gie%C3%9Fen-eingetroffen-Stadt-best%C3%A4tigt-positiven-Gr%C3%BCn-Trend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74839.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -900,6 +878,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Preise-und-%C3%BCbersichtlicheres-Fahrkartensortiment-f%C3%BCr-Gie%C3%9Fener-Busse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74923.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-12-22T17:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/van-Weihnachten-und-Silvetser-nur-bis-12.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74925.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wochenmarkt an Weihnachten und Silvetser nur bis 12 Uhr</title>
+    <updated>2025-12-23T11:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/van-Weihnachten-und-Silvetser-nur-bis-12.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74925.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-12-23T11:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-k%C3%BCndigen-Bauarbeiten-in-der-Marburger-Stra%C3%9Fe-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74926.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>SWG kündigen Bauarbeiten in der Marburger Straße an</title>
+    <updated>2025-12-23T11:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-k%C3%BCndigen-Bauarbeiten-in-der-Marburger-Stra%C3%9Fe-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74926.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-12-23T11:04:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
