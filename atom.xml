@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-22T17:05:00.392098+00:00</updated>
+  <updated>2025-12-23T01:33:33.038105+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -493,6 +493,28 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_13806_1.PDF?1766249382"/>
     <published>2025-12-20T17:03:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_13814_1.PDF?1766420715</id>
+    <title>Einleitungsbeschluss L 3128 - Rad-/Gehweg zwischen Wieseck und Alten-Buseck</title>
+    <updated>2025-12-23T01:33:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13814_1.PDF?1766420715"/>
+    <published>2025-12-23T01:33:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_13813_1.PDF?1766419616</id>
+    <title>Änderung der Wochenmarktverkaufszeiten</title>
+    <updated>2025-12-23T01:33:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13813_1.PDF?1766419616"/>
+    <published>2025-12-23T01:33:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zwischen-zweifel-und-hoffnung/</id>
