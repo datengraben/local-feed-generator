@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-23T17:06:36.470927+00:00</updated>
+  <updated>2025-12-25T11:04:30.214530+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -572,17 +572,6 @@
     <published>2025-12-16T12:07:42+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 25. Dezember - Am nächsten Theatertag zeigen wir "Dumme Jahre" im...</title>
-    <updated>2025-12-09T19:03:55+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2025-12-09T19:03:55+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/unsere-weihnachtsangebote/</id>
     <title>Unsere Weihnachtsangebote - Weihnachtssocken, Weihnachtsabos und vieles mehr für die Fei...</title>
     <updated>2025-12-09T19:03:55+01:00</updated>
@@ -625,6 +614,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/"/>
     <published>2025-12-12T12:07:18+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/prinz-friedrich-von-homburg-am-3.10-entfallt/</id>
+    <title>"Dumme Jahre" am 25.12. entfällt! - Die Vorstellung von "Dumme Jahre" am 25. Dezember ...</title>
+    <updated>2025-12-25T11:04:16.532917+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/prinz-friedrich-von-homburg-am-3.10-entfallt/"/>
+    <published>2025-12-25T11:04:16.532917+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/3-Gie%C3%9Fener-Bl%C3%A4serflashmob-sorgt-f%C3%BCr-weihnachtliche-Stimmung-auf-dem-Kirchenplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74842.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
