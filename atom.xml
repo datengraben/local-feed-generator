@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-27T11:04:09.012029+00:00</updated>
+  <updated>2025-12-29T08:07:36.599974+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -530,13 +530,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
     <title>Haarige Angelegenheiten - Die Dramaturgin Mathilde Lehmann gibt Einblicke in das Stück...</title>
-    <updated>2025-12-27T11:03:53.591490+01:00</updated>
+    <updated>2025-12-27T11:03:53+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/"/>
-    <published>2025-12-27T11:03:53.591490+01:00</published>
+    <published>2025-12-27T11:03:53+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haltung-zeigen/</id>
@@ -574,13 +574,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/</id>
     <title>Ich bin eine Teamplayerin - Lesen Sie hier das Portrait über die Drehbuchautorin, Darste...</title>
-    <updated>2025-12-27T11:03:53.591490+01:00</updated>
+    <updated>2025-12-27T11:03:53+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/"/>
-    <published>2025-12-27T11:03:53.591490+01:00</published>
+    <published>2025-12-27T11:03:53+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/jede-variation-erzahlt-eine-eigene-geschichte/</id>
@@ -607,13 +607,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 29. Januar - Am nächsten Theatertag zeigen wir "Fabian oder Der Gang...</title>
-    <updated>2025-12-27T11:03:53.591490+01:00</updated>
+    <updated>2025-12-27T11:03:53+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2025-12-27T11:03:53.591490+01:00</published>
+    <published>2025-12-27T11:03:53+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/</id>
@@ -625,17 +625,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/"/>
     <published>2025-12-12T12:07:18+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/3-Gie%C3%9Fener-Bl%C3%A4serflashmob-sorgt-f%C3%BCr-weihnachtliche-Stimmung-auf-dem-Kirchenplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74842.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>3. Gießener Bläserflashmob sorgt für weihnachtliche Stimmung auf dem Kirchenplatz</title>
-    <updated>2025-12-09T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/3-Gie%C3%9Fener-Bl%C3%A4serflashmob-sorgt-f%C3%BCr-weihnachtliche-Stimmung-auf-dem-Kirchenplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74842.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-12-09T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Weihnachtsm%C3%A4rkte-Lesung-Musik-und-Mitmachaktionen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74843.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -859,7 +848,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/van-Weihnachten-und-Silvetser-nur-bis-12.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74925.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wochenmarkt an Weihnachten und Silvetser nur bis 12 Uhr</title>
+    <title>Wochenmarkt an Weihnachten und Silvester nur bis 12 Uhr</title>
     <updated>2025-12-23T11:04:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
@@ -900,6 +889,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/37-Millionen-Euro-aus-Bundes-Sonderverm%C3%B6gen-f%C3%BCr-die-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74929.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-12-23T17:06:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-Gie%C3%9Fen-ver%C3%B6ffentlicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74931.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neues Veranstaltungsprogramm der Stadtbibliothek Gießen veröffentlicht</title>
+    <updated>2025-12-29T08:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-Gie%C3%9Fen-ver%C3%B6ffentlicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74931.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-12-29T08:07:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
