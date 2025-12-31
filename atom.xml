@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2025-12-29T11:04:43.579766+00:00</updated>
+  <updated>2025-12-31T15:05:27.319403+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -618,13 +618,24 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/</id>
     <title>Musizierende Dinos gegen den Kummer - Wir stellen euch die besonderen Wesen und Instrumente von „T...</title>
-    <updated>2025-12-29T11:04:28.775675+01:00</updated>
+    <updated>2025-12-29T11:04:28+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/"/>
-    <published>2025-12-29T11:04:28.775675+01:00</published>
+    <published>2025-12-29T11:04:28+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Weihnachtsm%C3%A4rkte-Lesung-Musik-und-Mitmachaktionen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74843.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießener Weihnachtsmärkte: Lesung, Musik und Mitmachaktionen</title>
+    <updated>2025-12-09T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Weihnachtsm%C3%A4rkte-Lesung-Musik-und-Mitmachaktionen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74843.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2025-12-09T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Investition-in-die-mittelhessische-Musikszene.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74850.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -834,17 +845,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Preise-und-%C3%BCbersichtlicheres-Fahrkartensortiment-f%C3%BCr-Gie%C3%9Fener-Busse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74923.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2025-12-22T17:04:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/van-Weihnachten-und-Silvetser-nur-bis-12.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74925.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Wochenmarkt an Weihnachten und Silvester nur bis 12 Uhr</title>
-    <updated>2025-12-23T11:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/van-Weihnachten-und-Silvetser-nur-bis-12.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74925.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2025-12-23T11:04:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-k%C3%BCndigen-Bauarbeiten-in-der-Marburger-Stra%C3%9Fe-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74926.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
