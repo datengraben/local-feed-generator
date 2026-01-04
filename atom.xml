@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-01T00:22:08.640181+00:00</updated>
+  <updated>2026-01-04T23:05:07.071284+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -614,6 +614,28 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/"/>
     <published>2025-12-29T11:04:28+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-erinnert-Bis-14-Januar-aktuelle-Tierbest%C3%A4nde-mitteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74946.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Veterinäramt erinnert:Bis 14. Januar aktuelle Tierbestände mitteilen</title>
+    <updated>2026-01-02T23:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-erinnert-Bis-14-Januar-aktuelle-Tierbest%C3%A4nde-mitteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74946.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-01-02T23:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinder-und-Jugendtelefon-Gie%C3%9Fen-sucht-Ehrenamtliche-Mitarbeiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74948.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kinder- und Jugendtelefon Gießen sucht Ehrenamtliche Mitarbeiter</title>
+    <updated>2026-01-02T23:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinder-und-Jugendtelefon-Gie%C3%9Fen-sucht-Ehrenamtliche-Mitarbeiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74948.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-01-02T23:04:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
