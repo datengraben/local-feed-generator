@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-07T12:08:35.098737+00:00</updated>
+  <updated>2026-01-08T01:33:20.051271+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -506,6 +506,17 @@
     <published>2025-12-23T01:33:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_13844_1.PDF?1767787091</id>
+    <title>Nachrücker für die Stadtverordnetenversammlung</title>
+    <updated>2026-01-08T01:33:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13844_1.PDF?1767787091"/>
+    <published>2026-01-08T01:33:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
     <title>Haarige Angelegenheiten - Die Dramaturgin Mathilde Lehmann gibt Einblicke in das Stück...</title>
     <updated>2025-12-27T11:03:53+01:00</updated>
@@ -519,13 +530,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
     <title>Der Gang vor die Hunde - Ökonomische Unsicherheit, moralischer Verfall, wachsender Ex...</title>
-    <updated>2026-01-07T12:08:20.004435+01:00</updated>
+    <updated>2026-01-07T12:08:20+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/"/>
-    <published>2026-01-07T12:08:20.004435+01:00</published>
+    <published>2026-01-07T12:08:20+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haltung-zeigen/</id>
@@ -607,13 +618,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorstellungsabsage-am-29-november/</id>
     <title>Vorstellung am 9. Januar entfällt - Die Vorstellung von "In the end, I was somehow expected...</title>
-    <updated>2026-01-07T12:08:20.004435+01:00</updated>
+    <updated>2026-01-07T12:08:20+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorstellungsabsage-am-29-november/"/>
-    <published>2026-01-07T12:08:20.004435+01:00</published>
+    <published>2026-01-07T12:08:20+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-erinnert-Bis-14-Januar-aktuelle-Tierbest%C3%A4nde-mitteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74946.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
