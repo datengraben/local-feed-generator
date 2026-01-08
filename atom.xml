@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-08T01:33:20.051271+00:00</updated>
+  <updated>2026-01-08T08:06:59.679369+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -702,6 +702,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weihnachtsb%C3%A4ume-werden-n%C3%A4chste-Woche-abgeholt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74958.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-01-07T12:08:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-vergibt-Studie-zur-technischen-Machbarkeit-eines-schienengebundenen-%C3%96PNV-Systems.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74967.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadt Gießen vergibt Studie zur technischen Machbarkeit eines schienengebundenen ÖPNV-Systems</title>
+    <updated>2026-01-08T08:06:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-vergibt-Studie-zur-technischen-Machbarkeit-eines-schienengebundenen-%C3%96PNV-Systems.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74967.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-01-08T08:06:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
