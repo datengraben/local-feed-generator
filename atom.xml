@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-09T12:08:34.788814+00:00</updated>
+  <updated>2026-01-10T01:33:07.004435+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -517,6 +517,17 @@
     <published>2026-01-08T01:33:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_13839_1.PDF?1767696604</id>
+    <title>Freigabe der Öffnung von Verkaufsstellen aus Anlass von Märkten, örtlichen Festen oder ähnlichen Veranstaltungen gemäß § 6 des Hessischen Ladenöffnungsgesetzes (HLöG) - hier: Sport in der City 2026</title>
+    <updated>2026-01-10T01:32:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13839_1.PDF?1767696604"/>
+    <published>2026-01-10T01:32:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
     <title>Der Gang vor die Hunde - Ökonomische Unsicherheit, moralischer Verfall, wachsender Ex...</title>
     <updated>2026-01-07T12:08:20+01:00</updated>
@@ -618,13 +629,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/25-jahre-roman-kurtz/</id>
     <title>25 Jahre Roman Kurtz - Wir feiern unser langjähriges Ensemblemitglied Roman Kurtz u...</title>
-    <updated>2026-01-09T12:08:20.501263+01:00</updated>
+    <updated>2026-01-09T12:08:20+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/25-jahre-roman-kurtz/"/>
-    <published>2026-01-09T12:08:20.501263+01:00</published>
+    <published>2026-01-09T12:08:20+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-erinnert-Bis-14-Januar-aktuelle-Tierbest%C3%A4nde-mitteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74946.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
