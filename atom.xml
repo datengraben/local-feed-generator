@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-12T07:09:49.205278+00:00</updated>
+  <updated>2026-01-12T10:06:41.707005+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -746,6 +746,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/M%C3%BCllabfuhr-f%C3%BCr-heute-witterungsbedingt-abgesagt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74984.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-01-12T07:09:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/RKI-findet-Polio-Wildviren-im-Abwasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74985.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>RKI findet Polio-Wildviren im Abwasser</title>
+    <updated>2026-01-12T10:06:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/RKI-findet-Polio-Wildviren-im-Abwasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74985.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-01-12T10:06:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
