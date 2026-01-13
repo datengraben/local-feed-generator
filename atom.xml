@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-12T14:07:15.455169+00:00</updated>
+  <updated>2026-01-13T01:33:12.881603+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -448,6 +448,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_13770_1.PDF?1765806546"/>
+    <published>2020-11-30T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_13861_1.PDF?1768209931</id>
+    <title>Bauleitplanung: Durchführung der Offenlage des Entwurfs des Bebauungsplanes Nr. WI 06/10 "Stiegel"</title>
+    <updated>2020-11-30T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13861_1.PDF?1768209931"/>
     <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
