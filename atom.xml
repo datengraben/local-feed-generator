@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-13T16:07:45.547316+00:00</updated>
+  <updated>2026-01-14T01:33:42.835515+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -526,6 +526,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_13839_1.PDF?1767696604"/>
     <published>2026-01-10T01:32:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_13877_1.PDF?1768314927</id>
+    <title>Vorwegnahme der Entscheidung (§ 76 BauGB) - Umlegung «Lindenstraße«</title>
+    <updated>2026-01-26T01:33:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13877_1.PDF?1768314927"/>
+    <published>2026-01-26T01:33:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
