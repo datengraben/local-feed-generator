@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-16T11:04:54.987870+00:00</updated>
+  <updated>2026-01-16T23:05:12.268202+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -462,17 +462,6 @@
     <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_13757_1.PDF?1765538313</id>
-    <title>Bekanntmachung über den Erlass des vorhabenbezogenen Bebauungsplanes GI 04/33 »Schiffenberger Weg 21 + 23« </title>
-    <updated>2025-12-16T01:32:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13757_1.PDF?1765538313"/>
-    <published>2025-12-16T01:32:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_13806_1.PDF?1766249382</id>
     <title>4. Satzung zur Änderung der Satzung über den Gießen-Pass</title>
     <updated>2025-12-20T17:03:00+01:00</updated>
@@ -552,13 +541,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
     <title>Haarige Angelegenheiten - Die Dramaturgin Mathilde Lehmann gibt Einblicke in das Stück...</title>
-    <updated>2026-01-16T11:04:39.533711+01:00</updated>
+    <updated>2026-01-16T11:04:39+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/"/>
-    <published>2026-01-16T11:04:39.533711+01:00</published>
+    <published>2026-01-16T11:04:39+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
