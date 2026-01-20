@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-20T15:09:26.167552+00:00</updated>
+  <updated>2026-01-20T23:05:13.567583+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -448,17 +448,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_13861_1.PDF?1768209931"/>
-    <published>2020-11-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_13770_1.PDF?1765806546</id>
-    <title>Bekanntmachung Flurbereinigungsbehörde Ladung zur Teilnehmerversammlung</title>
-    <updated>2020-11-30T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13770_1.PDF?1765806546"/>
     <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
