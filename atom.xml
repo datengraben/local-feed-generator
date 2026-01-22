@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-21T23:06:56.114806+00:00</updated>
+  <updated>2026-01-22T10:07:19.906677+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -649,17 +649,6 @@
     <published>2026-01-09T12:08:20+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinder-und-Jugendtelefon-Gie%C3%9Fen-sucht-Ehrenamtliche-Mitarbeiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74948.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kinder- und Jugendtelefon Gießen sucht Ehrenamtliche Mitarbeiter</title>
-    <updated>2026-01-02T23:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinder-und-Jugendtelefon-Gie%C3%9Fen-sucht-Ehrenamtliche-Mitarbeiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74948.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-02T23:04:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schadstoffmobil-tourt-ab-26-Januar-wieder-durch-Stadt-und-Landkreis-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16074.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Schadstoffmobil tourt ab 26. Januar wieder durch Stadt und Landkreis Gießen</title>
     <updated>2026-01-06T12:08:00+01:00</updated>
@@ -922,6 +911,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-sucht-%C3%9Cbungsleiterinnen-und-%C3%9Cbungsleiter-f%C3%BCr-Schwimmkurse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75045.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-01-21T13:19:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-KiTa-Landeselternvertretung-Hessen-gew%C3%A4hlt-starke-Stimme-der-Eltern-auf-Landesebene.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75047.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Neue KiTa-Landeselternvertretung Hessen gewählt - starke Stimme der Eltern auf Landesebene</title>
+    <updated>2026-01-22T10:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-KiTa-Landeselternvertretung-Hessen-gew%C3%A4hlt-starke-Stimme-der-Eltern-auf-Landesebene.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75047.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-01-22T10:07:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
