@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-23T16:07:27.499018+00:00</updated>
+  <updated>2026-01-23T17:08:29.893209+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -484,17 +484,6 @@
     <published>2026-01-10T01:32:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_13884_1.PDF?1768485486</id>
-    <title>Benennung von Straßen</title>
-    <updated>2026-01-16T01:33:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13884_1.PDF?1768485486"/>
-    <published>2026-01-16T01:33:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_13832_1.PDF?1767367949</id>
     <title>Ankündigung von Vorarbeiten für die Trassenplanung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
     <updated>2026-01-16T01:33:00+01:00</updated>
@@ -503,6 +492,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_13832_1.PDF?1767367949"/>
+    <published>2026-01-16T01:33:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_13884_1.PDF?1768485486</id>
+    <title>Benennung von Straßen</title>
+    <updated>2026-01-16T01:33:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13884_1.PDF?1768485486"/>
     <published>2026-01-16T01:33:00+01:00</published>
   </entry>
   <entry>
@@ -537,28 +537,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_13907_1.PDF?1768904513"/>
     <published>2026-01-21T01:34:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/haltung-zeigen/</id>
-    <title>Haltung zeigen - Auch das Stadttheater Gießen setzte am Samstag, 29. November...</title>
-    <updated>2025-12-09T19:03:55+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haltung-zeigen/"/>
-    <published>2025-12-09T19:03:55+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zwischen-zweifel-und-hoffnung/</id>
-    <title>Zwischen Zweifel und Hoffnung - Hauschoreograf Constantin Hochkeppel und Komponist Marco Mly...</title>
-    <updated>2025-12-09T19:03:55+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zwischen-zweifel-und-hoffnung/"/>
-    <published>2025-12-09T19:03:55+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/</id>
@@ -629,24 +607,46 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-zu-opiate/</id>
     <title>Why the silence? - Warum dieses Schweigen? - Das Tanzstück „Opiate“ von Luana Rossetti ist eine physisch ...</title>
-    <updated>2026-01-23T16:07:11.876516+01:00</updated>
+    <updated>2026-01-23T16:07:11+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-zu-opiate/"/>
-    <published>2026-01-23T16:07:11.876516+01:00</published>
+    <published>2026-01-23T16:07:11+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-la-traviata/</id>
     <title>Von Abgründen und (Hass)Liebe - Dramaturgin Julia van der Horst im Gespräch mit Annika Gerha...</title>
-    <updated>2026-01-23T16:07:11.876516+01:00</updated>
+    <updated>2026-01-23T16:07:11+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-la-traviata/"/>
-    <published>2026-01-23T16:07:11.876516+01:00</published>
+    <published>2026-01-23T16:07:11+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
+    <title>Schiffenberg Classics: Philharmonisches Orchester Gießen beim Kultursommer 2026 - Geballter Orchestersound im einzigartigen Ambiente: Das Phil...</title>
+    <updated>2026-01-23T17:08:14.646086+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/"/>
+    <published>2026-01-23T17:08:14.646086+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/</id>
+    <title>Umfrage zu englischen Übertiteln | Survey regarding English surtitles - Hier können Sie an der Umfrage teilnehmen. | You can partici...</title>
+    <updated>2026-01-23T17:08:14.646086+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/"/>
+    <published>2026-01-23T17:08:14.646086+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/RKI-findet-Polio-Wildviren-im-Abwasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74985.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
