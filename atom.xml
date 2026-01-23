@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-23T12:08:37.733896+00:00</updated>
+  <updated>2026-01-23T16:07:27.499018+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,28 +539,6 @@
     <published>2026-01-21T01:34:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
-    <title>Haarige Angelegenheiten - Die Dramaturgin Mathilde Lehmann gibt Einblicke in das Stück...</title>
-    <updated>2026-01-16T11:04:39+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/"/>
-    <published>2026-01-16T11:04:39+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
-    <title>Der Gang vor die Hunde - Ökonomische Unsicherheit, moralischer Verfall, wachsender Ex...</title>
-    <updated>2026-01-07T12:08:20+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/"/>
-    <published>2026-01-07T12:08:20+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haltung-zeigen/</id>
     <title>Haltung zeigen - Auch das Stadttheater Gießen setzte am Samstag, 29. November...</title>
     <updated>2025-12-09T19:03:55+01:00</updated>
@@ -647,6 +625,28 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/25-jahre-roman-kurtz/"/>
     <published>2026-01-09T12:08:20+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-zu-opiate/</id>
+    <title>Why the silence? - Warum dieses Schweigen? - Das Tanzstück „Opiate“ von Luana Rossetti ist eine physisch ...</title>
+    <updated>2026-01-23T16:07:11.876516+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-zu-opiate/"/>
+    <published>2026-01-23T16:07:11.876516+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-la-traviata/</id>
+    <title>Von Abgründen und (Hass)Liebe - Dramaturgin Julia van der Horst im Gespräch mit Annika Gerha...</title>
+    <updated>2026-01-23T16:07:11.876516+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-la-traviata/"/>
+    <published>2026-01-23T16:07:11.876516+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/RKI-findet-Polio-Wildviren-im-Abwasser.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74985.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
