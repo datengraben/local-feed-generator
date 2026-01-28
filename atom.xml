@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-27T15:09:40.063166+00:00</updated>
+  <updated>2026-01-28T09:11:07.821767+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -649,17 +649,6 @@
     <published>2026-01-23T17:08:14+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-sucht-Zugteilnehmer-f%C3%BCr-den-Hessentag-in-Fulda-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74987.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadt sucht Zugteilnehmer für den Hessentag in Fulda 2026</title>
-    <updated>2026-01-12T14:07:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-sucht-Zugteilnehmer-f%C3%BCr-den-Hessentag-in-Fulda-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74987.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-12T14:07:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Gewinn-f%C3%BCr-Natur-und-Klima-Der-Biber-an-der-Wieseck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74949.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Ein Gewinn für Natur und Klima: Der Biber an der Wieseck</title>
     <updated>2026-01-05T12:08:00+01:00</updated>
@@ -858,17 +847,6 @@
     <published>2026-01-22T11:06:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Demonstrationsz%C3%BCge-am-28-Januar-2026-Verkehrsbehinderungen-in-der-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75065.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Zwei Demonstrationszüge am 28. Januar 2026 - Verkehrsbehinderungen in der Innenstadt möglich</title>
-    <updated>2026-01-22T15:08:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Demonstrationsz%C3%BCge-am-28-Januar-2026-Verkehrsbehinderungen-in-der-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75065.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-22T15:08:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bauarbeiten-in-der-Liebigstra%C3%9Fe-gehen-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Bauarbeiten in der Liebigstraße gehen weiter</title>
     <updated>2026-01-23T07:08:00+01:00</updated>
@@ -922,6 +900,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kommunalwahl-2026-W%C3%A4hlerverzeichnisse-werden-aufgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75080.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-01-27T15:09:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Demonstrationsz%C3%BCge-am-28-Januar-2026-Verkehrsbehinderungen-in-der-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75065.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Zwei Demonstrationszüge am 28. Januar 2026 - Verkehrsbehinderungen in der Innenstadt möglich</title>
+    <updated>2026-01-22T15:08:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Demonstrationsz%C3%BCge-am-28-Januar-2026-Verkehrsbehinderungen-in-der-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75065.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-01-22T15:08:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de#nr_2</id>
+    <title>Spatenstich für den Erweiterungsbau der Gesamtschule Gießen-Ost</title>
+    <updated>2026-01-28T09:10:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de#nr_2"/>
+    <published>2026-01-28T09:10:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
