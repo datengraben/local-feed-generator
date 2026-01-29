@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-29T17:13:57.253868+00:00</updated>
+  <updated>2026-01-29T19:13:53.181048+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -649,6 +649,28 @@
     <published>2026-01-23T17:08:14+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-sucht-Zugteilnehmer-f%C3%BCr-den-Hessentag-in-Fulda-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74987.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadt sucht Zugteilnehmer für den Hessentag in Fulda 2026</title>
+    <updated>2026-01-12T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-sucht-Zugteilnehmer-f%C3%BCr-den-Hessentag-in-Fulda-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74987.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-01-12T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Gewinn-f%C3%BCr-Natur-und-Klima-Der-Biber-an-der-Wieseck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74949.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ein Gewinn für Natur und Klima: Der Biber an der Wieseck</title>
+    <updated>2026-01-13T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Gewinn-f%C3%BCr-Natur-und-Klima-Der-Biber-an-der-Wieseck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74949.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-01-13T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Fr%C3%BChjahr-Sommer-Programm-2026-des-Jugendbildungswerkes-ist-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74988.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Das Frühjahr-Sommer-Programm 2026 des Jugendbildungswerkes ist online</title>
     <updated>2026-01-13T12:08:00+01:00</updated>
@@ -726,17 +748,6 @@
     <published>2026-01-19T09:10:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fortbildung-Traumasensible-P%C3%A4dagogik-in-der-Kinder-und-Jugendarbeit-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75014.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Fortbildung »Traumasensible Pädagogik in der Kinder- und Jugendarbeit«</title>
-    <updated>2026-01-19T10:07:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fortbildung-Traumasensible-P%C3%A4dagogik-in-der-Kinder-und-Jugendarbeit-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75014.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-19T10:07:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Im-D%C3%B6nerdreieck-werden-Menschen-f%C3%BCr-einen-Tag-zu-B%C3%BCchern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75018.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Im »Dönerdreieck« werden Menschen für einen Tag zu Büchern</title>
     <updated>2026-01-19T13:19:00+01:00</updated>
@@ -746,17 +757,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Im-D%C3%B6nerdreieck-werden-Menschen-f%C3%BCr-einen-Tag-zu-B%C3%BCchern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75018.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-01-19T13:19:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Unternehmersprechtag-bietet-Expertenrat-f%C3%BCr-Betriebe-und-Existenzgr%C3%BCndungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75019.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Unternehmersprechtag bietet Expertenrat für Betriebe und Existenzgründungen</title>
-    <updated>2026-01-20T10:06:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Unternehmersprechtag-bietet-Expertenrat-f%C3%BCr-Betriebe-und-Existenzgr%C3%BCndungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75019.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-20T10:06:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbildung-bei-der-Stadt-Gie%C3%9Fen-Jetzt-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75025.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
