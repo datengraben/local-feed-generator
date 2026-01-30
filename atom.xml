@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-30T15:11:25.942863+00:00</updated>
+  <updated>2026-01-30T17:13:54.888403+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -649,17 +649,6 @@
     <published>2026-01-23T17:08:14+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Fr%C3%BChjahr-Sommer-Programm-2026-des-Jugendbildungswerkes-ist-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74988.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Das Frühjahr-Sommer-Programm 2026 des Jugendbildungswerkes ist online</title>
-    <updated>2026-01-13T12:08:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Das-Fr%C3%BChjahr-Sommer-Programm-2026-des-Jugendbildungswerkes-ist-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74988.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-13T12:08:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Queer-feministisches-Zentrum-erfolgreich-angelaufen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74989.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Queer-feministisches Zentrum erfolgreich gestartet</title>
     <updated>2026-01-13T16:07:00+01:00</updated>
@@ -900,6 +889,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wo-geht-s-lang-in-Gie%C3%9Fen-Aktualisierter-amtlicher-Stadtplan-erschienen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75099.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-01-30T07:17:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreicher-Abschluss-des-Projekts-B-plus-auf-dem-Weg-zur-p%C3%A4dagogischen-Fachkraft-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75103.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Erfolgreicher Abschluss des Projekts »B³ plus - auf dem Weg zur pädagogischen Fachkraft«</title>
+    <updated>2026-01-30T17:13:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreicher-Abschluss-des-Projekts-B-plus-auf-dem-Weg-zur-p%C3%A4dagogischen-Fachkraft-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75103.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-01-30T17:13:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Abholung-der-Weihnachtsb%C3%A4ume-verz%C3%B6gert-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75011.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
