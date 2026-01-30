@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-30T07:17:45.499180+00:00</updated>
+  <updated>2026-01-30T09:14:12.258796+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -495,17 +495,6 @@
     <published>2026-01-16T01:33:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_13909_1.PDF?1768831191</id>
-    <title>Zugelassene Wahlvorschläge Wahlvorschläge für die Ausländerbeiratswahl der Universitätsstadt Gießen am 15.03.2026</title>
-    <updated>2026-01-21T01:34:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13909_1.PDF?1768831191"/>
-    <published>2026-01-21T01:34:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_13906_1.PDF?1768830859</id>
     <title>Zugelassene Wahlvorschläge für die Ortsbeiratswahlen der Universitätsstadt Gießen am 15.03.2026</title>
     <updated>2026-01-21T01:34:00+01:00</updated>
@@ -528,6 +517,17 @@
     <published>2026-01-21T01:34:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_13909_1.PDF?1768831191</id>
+    <title>Zugelassene Wahlvorschläge Wahlvorschläge für die Ausländerbeiratswahl der Universitätsstadt Gießen am 15.03.2026</title>
+    <updated>2026-01-21T01:34:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13909_1.PDF?1768831191"/>
+    <published>2026-01-21T01:34:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_13877_1.PDF?1768314927</id>
     <title>Vorwegnahme der Entscheidung (§ 76 BauGB) - Umlegung «Lindenstraße«</title>
     <updated>2026-01-26T01:34:00+01:00</updated>
@@ -537,6 +537,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_13877_1.PDF?1768314927"/>
     <published>2026-01-26T01:34:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/</id>
+    <title>„Was bleibt, wenn nichts mehr kommt, von dem, was war?“ - Ein Gespräch mit Stina Jähngen, Anne-Elise Minetti und Carol...</title>
+    <updated>2026-01-30T09:13:55.683256+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/"/>
+    <published>2026-01-30T09:13:55.683256+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/</id>
@@ -614,17 +625,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-la-traviata/"/>
     <published>2026-01-23T16:07:11+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 29. Januar - Am nächsten Theatertag zeigen wir "Fabian oder Der Gang...</title>
-    <updated>2025-12-27T11:03:53+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2025-12-27T11:03:53+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
