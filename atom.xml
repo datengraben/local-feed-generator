@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-01-30T20:07:27.405302+00:00</updated>
+  <updated>2026-01-31T19:06:26.788900+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -649,6 +649,17 @@
     <published>2026-01-23T17:08:14+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Queer-feministisches-Zentrum-erfolgreich-angelaufen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74989.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Queer-feministisches Zentrum erfolgreich gestartet</title>
+    <updated>2026-01-13T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Queer-feministisches-Zentrum-erfolgreich-angelaufen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74989.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-01-13T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kongresshalle-Gie%C3%9Fen-Veranstaltungsort-mit-Zukunft-und-Ort-der-Erinnerung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75007.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Kongresshalle Gießen: Veranstaltungsort mit Zukunft und Ort der Erinnerung</title>
     <updated>2026-01-15T08:06:00+01:00</updated>
@@ -889,17 +900,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreicher-Abschluss-des-Projekts-B-plus-auf-dem-Weg-zur-p%C3%A4dagogischen-Fachkraft-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75103.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-01-30T17:13:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Abholung-der-Weihnachtsb%C3%A4ume-verz%C3%B6gert-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75011.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>UPDATE: Restliche Weihnachtsbäume werden in kommender Woche abgeholt</title>
-    <updated>2026-01-15T15:06:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Abholung-der-Weihnachtsb%C3%A4ume-verz%C3%B6gert-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75011.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-15T15:06:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Streikaufruf-von-ver-di-Voraussichtlich-keine-Auswirkungen-auf-Gie%C3%9Fener-Stadtbusverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75102.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
