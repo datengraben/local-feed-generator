@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-03T13:28:14.453054+00:00</updated>
+  <updated>2026-02-03T14:18:39.983205+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,17 +539,6 @@
     <published>2026-01-26T01:34:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/</id>
-    <title>Musizierende Dinos gegen den Kummer - Wir stellen euch die besonderen Wesen und Instrumente von „T...</title>
-    <updated>2025-12-29T11:04:28+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/"/>
-    <published>2025-12-29T11:04:28+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/</id>
     <title>Ich bin eine Teamplayerin - Lesen Sie hier das Portrait über die Drehbuchautorin, Darste...</title>
     <updated>2025-12-27T11:03:53+01:00</updated>
@@ -647,6 +636,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/"/>
     <published>2026-02-03T12:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/</id>
+    <title>EINFACH SINGEN entfällt - Aufgrund der Wetterlage müssen wir Einfach Singen für heute ...</title>
+    <updated>2026-02-03T14:18:27.246144+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/"/>
+    <published>2026-02-03T14:18:27.246144+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Polizeif%C3%BChrung-und-Oberb%C3%BCrgermeister-stehen-j%C3%BCdischer-Gemeinde-bei-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74998.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
