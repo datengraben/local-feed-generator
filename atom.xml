@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-03T09:13:59.833804+00:00</updated>
+  <updated>2026-02-03T12:12:15.957515+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,17 +539,6 @@
     <published>2026-01-26T01:34:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/</id>
-    <title>„Was bleibt, wenn nichts mehr kommt, von dem, was war?“ - Ein Gespräch mit Stina Jähngen, Anne-Elise Minetti und Carol...</title>
-    <updated>2026-01-30T09:13:55+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/"/>
-    <published>2026-01-30T09:13:55+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/</id>
     <title>Musizierende Dinos gegen den Kummer - Wir stellen euch die besonderen Wesen und Instrumente von „T...</title>
     <updated>2025-12-29T11:04:28+01:00</updated>
@@ -581,6 +570,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/"/>
     <published>2026-01-29T11:11:50+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/</id>
+    <title>Umfrage zu englischen Übertiteln | Survey regarding English surtitles - Hier können Sie an der Umfrage teilnehmen. | You can partici...</title>
+    <updated>2026-01-23T17:08:14+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/"/>
+    <published>2026-01-23T17:08:14+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/25-jahre-roman-kurtz/</id>
@@ -638,15 +638,15 @@
     <published>2026-01-23T17:08:14+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/</id>
-    <title>Umfrage zu englischen Übertiteln | Survey regarding English surtitles - Hier können Sie an der Umfrage teilnehmen. | You can partici...</title>
-    <updated>2026-01-23T17:08:14+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/</id>
+    <title>Einmischung und Emotionen - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
+    <updated>2026-02-03T12:12:00.271444+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/"/>
-    <published>2026-01-23T17:08:14+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/"/>
+    <published>2026-02-03T12:12:00.271444+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mila-ist-zur%C3%BCck-Noah-bleibt-vorn-Standesamt-Gie%C3%9Fen-ver%C3%B6ffentlicht-Vornamenstatistik-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75008.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
