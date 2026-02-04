@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-04T10:15:18.398626+00:00</updated>
+  <updated>2026-02-04T23:07:11.773862+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -541,13 +541,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/</id>
     <title>Musizierende Dinos gegen den Kummer - Wir stellen euch die besonderen Wesen und Instrumente von „T...</title>
-    <updated>2026-02-04T10:15:00.581421+01:00</updated>
+    <updated>2026-02-04T10:15:00+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/"/>
-    <published>2026-02-04T10:15:00.581421+01:00</published>
+    <published>2026-02-04T10:15:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/</id>
@@ -647,6 +647,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/"/>
     <published>2026-02-03T12:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Ferien-Freizeiten-f%C3%BCr-Gie%C3%9Fener-Kinder-und-Jugendliche-auf-einen-Blick.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75013.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>(Ferien-) Freizeiten für Gießener Kinder und Jugendliche auf einen Blick</title>
+    <updated>2026-01-19T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Ferien-Freizeiten-f%C3%BCr-Gie%C3%9Fener-Kinder-und-Jugendliche-auf-einen-Blick.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75013.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-01-19T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbildung-bei-der-Stadt-Gie%C3%9Fen-Jetzt-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75025.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -900,17 +911,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bis-13-Februar-f%C3%BCr-den-DUOday-anmelden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75115.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-03T17:20:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versp%C3%A4tungen-im-Stadtbusverkehr-aufgrund-der-aktuellen-Wetterlage.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75114.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>UPDATE: Busverkehr ist wieder aufgenommen - Winterumleitung in Rödgen</title>
-    <updated>2026-02-03T13:27:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versp%C3%A4tungen-im-Stadtbusverkehr-aufgrund-der-aktuellen-Wetterlage.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75114.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-03T13:27:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%96kologie-der-Geister-Auftaktveranstaltung-am-6-Februar-026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
