@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-04T09:16:00.222376+00:00</updated>
+  <updated>2026-02-04T10:15:18.398626+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,6 +539,17 @@
     <published>2026-01-26T01:34:00+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/</id>
+    <title>Musizierende Dinos gegen den Kummer - Wir stellen euch die besonderen Wesen und Instrumente von „T...</title>
+    <updated>2026-02-04T10:15:00.581421+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/"/>
+    <published>2026-02-04T10:15:00.581421+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/</id>
     <title>Ich bin eine Teamplayerin - Lesen Sie hier das Portrait über die Drehbuchautorin, Darste...</title>
     <updated>2025-12-27T11:03:53+01:00</updated>
@@ -636,17 +647,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/"/>
     <published>2026-02-03T12:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/</id>
-    <title>EINFACH SINGEN entfällt - Aufgrund der Wetterlage müssen wir Einfach Singen für heute ...</title>
-    <updated>2026-02-03T14:18:27+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/"/>
-    <published>2026-02-03T14:18:27+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbildung-bei-der-Stadt-Gie%C3%9Fen-Jetzt-bewerben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75025.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -903,7 +903,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versp%C3%A4tungen-im-Stadtbusverkehr-aufgrund-der-aktuellen-Wetterlage.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75114.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>UPDATE: Linienverkehr wird nach und nach wieder aufgenommen</title>
+    <title>UPDATE: Busverkehr ist wieder aufgenommen - Winterumleitung in Rödgen</title>
     <updated>2026-02-03T13:27:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
