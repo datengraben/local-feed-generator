@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-06T08:13:49.747570+00:00</updated>
+  <updated>2026-02-07T01:34:41.383057+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -537,6 +537,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_13877_1.PDF?1768314927"/>
     <published>2026-01-26T01:34:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14032_1.PDF?1770375049</id>
+    <title>Bauleitplanung: Erlass des Bebauungsplans GI 05/18 "Rodheimer Straße - West"</title>
+    <updated>2026-02-07T01:34:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14032_1.PDF?1770375049"/>
+    <published>2026-02-07T01:34:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/</id>
