@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-07T01:34:41.383057+00:00</updated>
+  <updated>2026-02-08T00:30:55.270749+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -71,17 +71,6 @@
     </author>
     <link href="https://hdn-giessen.de/zukunftsfaehigleben/"/>
     <published>2025-03-29T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/8979-2/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2024-04-15T00:00:00+02:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/8979-2/"/>
-    <published>2024-04-15T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>https://www.asta-giessen.de/hochschulwahlen-2024/</id>
@@ -181,6 +170,17 @@
     </author>
     <link href="https://www.asta-giessen.de/pressemitteilung-sparmassnahmen-an-der-jlu-durch-den-hochschulpakt-und-aufruf-zum-protest-am-28-01-2026/"/>
     <published>2025-12-17T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/infovortrag-rund-um-die-erste-wohnung/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2026-01-17T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/infovortrag-rund-um-die-erste-wohnung/"/>
+    <published>2026-01-17T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>https://universum-giessen.com/2024/05/02/die-model-un-holt-weltpolitik-nach-giessen/</id>
