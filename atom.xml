@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-10T15:27:18.795898+00:00</updated>
+  <updated>2026-02-10T23:15:20.466204+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -449,17 +449,6 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_13861_1.PDF?1768209931"/>
     <published>2020-11-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_13839_1.PDF?1767696604</id>
-    <title>Freigabe der Öffnung von Verkaufsstellen aus Anlass von Märkten, örtlichen Festen oder ähnlichen Veranstaltungen gemäß § 6 des Hessischen Ladenöffnungsgesetzes (HLöG) - hier: Sport in der City 2026</title>
-    <updated>2026-01-10T01:32:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13839_1.PDF?1767696604"/>
-    <published>2026-01-10T01:32:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_13884_1.PDF?1768485486</id>
