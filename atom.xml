@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-11T14:25:19.087685+00:00</updated>
+  <updated>2026-02-11T17:23:28.501003+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -474,7 +474,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_13909_1.PDF?1768831191</id>
-    <title>Zugelassene Wahlvorschläge Wahlvorschläge für die Ausländerbeiratswahl der Universitätsstadt Gießen am 15.03.2026</title>
+    <title>Zugelassene Wahlvorschläge für die Ausländerbeiratswahl der Universitätsstadt Gießen am 15.03.2026</title>
     <updated>2026-01-21T01:34:00+01:00</updated>
     <author>
       <name>Stadt - Amtliche Bekanntmachungen</name>
@@ -636,28 +636,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/"/>
     <published>2026-02-03T12:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-sucht-%C3%9Cbungsleiterinnen-und-%C3%9Cbungsleiter-f%C3%BCr-Schwimmkurse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75045.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Landkreis sucht Übungsleiterinnen und Übungsleiter für Schwimmkurse</title>
-    <updated>2026-01-21T13:19:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-sucht-%C3%9Cbungsleiterinnen-und-%C3%9Cbungsleiter-f%C3%BCr-Schwimmkurse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75045.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-21T13:19:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-KiTa-Landeselternvertretung-Hessen-gew%C3%A4hlt-starke-Stimme-der-Eltern-auf-Landesebene.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75047.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neue KiTa-Landeselternvertretung Hessen gewählt - starke Stimme der Eltern auf Landesebene</title>
-    <updated>2026-01-22T10:07:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-KiTa-Landeselternvertretung-Hessen-gew%C3%A4hlt-starke-Stimme-der-Eltern-auf-Landesebene.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75047.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-22T10:07:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wer-m%C3%B6chte-Pflegekinder-bei-sich-aufnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -911,6 +889,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Streckenlauf-des-Fassenachtsumzugs-und-Stra%C3%9Fensperrungen-am-15-Februar-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75041.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-01-21T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rechtliche-Neuerungen-die-pflegebed%C3%BCrftige-Menschen-kennen-sollten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75182.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Rechtliche Neuerungen, die pflegebedürftige Menschen kennen sollten</title>
+    <updated>2026-02-11T17:23:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rechtliche-Neuerungen-die-pflegebed%C3%BCrftige-Menschen-kennen-sollten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75182.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-11T17:23:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-wieder-top.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75183.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>SWG wieder top</title>
+    <updated>2026-02-11T17:23:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-wieder-top.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75183.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-11T17:23:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
