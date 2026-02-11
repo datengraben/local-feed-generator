@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-11T11:18:28.384991+00:00</updated>
+  <updated>2026-02-11T14:25:19.087685+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -638,17 +638,6 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Senioren-Fassenachtsnachmittag-mit-der-Gie%C3%9Fener-Fassenachts-Vereinigung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75044.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Senioren-Fassenachtsnachmittag mit der Gießener Fassenachts-Vereinigung</title>
-    <updated>2026-01-21T12:08:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Senioren-Fassenachtsnachmittag-mit-der-Gie%C3%9Fener-Fassenachts-Vereinigung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75044.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-21T12:08:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-sucht-%C3%9Cbungsleiterinnen-und-%C3%9Cbungsleiter-f%C3%BCr-Schwimmkurse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75045.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Landkreis sucht Übungsleiterinnen und Übungsleiter für Schwimmkurse</title>
     <updated>2026-01-21T13:19:00+01:00</updated>
@@ -891,17 +880,6 @@
     <published>2026-02-10T11:20:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Streckenlauf-des-Fassenachtsumzugs-und-Stra%C3%9Fensperrungen-am-15-Februar-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75041.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Streckenlauf des Fassenachtsumzugs und Straßensperrungen am 15. Februar 2026</title>
-    <updated>2026-01-21T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Streckenlauf-des-Fassenachtsumzugs-und-Stra%C3%9Fensperrungen-am-15-Februar-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75041.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-21T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>+++Update+++ Einschränkungen auf der A485/A45 - Gießener Südkreuz</title>
     <updated>2026-02-11T11:18:00+01:00</updated>
@@ -911,6 +889,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-11T11:18:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-Zukunft-gestalten-Symposium-zur-Weiterentwicklung-der-Gie%C3%9Fener-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75179.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gemeinsam Zukunft gestalten: Symposium zur Weiterentwicklung der Gießener Innenstadt</title>
+    <updated>2026-02-11T14:25:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-Zukunft-gestalten-Symposium-zur-Weiterentwicklung-der-Gie%C3%9Fener-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75179.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-11T14:25:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Streckenlauf-des-Fassenachtsumzugs-und-Stra%C3%9Fensperrungen-am-15-Februar-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75041.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fassenachtsumzug, Straßensperrungen und Busverkehr am Faschingssonntag, 15. Februar 2026</title>
+    <updated>2026-01-21T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Streckenlauf-des-Fassenachtsumzugs-und-Stra%C3%9Fensperrungen-am-15-Februar-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75041.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-01-21T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
