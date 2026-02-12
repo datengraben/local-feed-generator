@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-12T12:15:11.778794+00:00</updated>
+  <updated>2026-02-12T13:31:41.079079+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -528,28 +528,6 @@
     <published>2026-02-07T01:34:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/</id>
-    <title>Musizierende Dinos gegen den Kummer - Wir stellen euch die besonderen Wesen und Instrumente von „T...</title>
-    <updated>2026-02-04T10:15:00+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/musizierende-dinos-gegen-den-kummer/"/>
-    <published>2026-02-04T10:15:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/</id>
-    <title>Ich bin eine Teamplayerin - Lesen Sie hier das Portrait über die Drehbuchautorin, Darste...</title>
-    <updated>2025-12-27T11:03:53+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ich-bin-eine-teamplayerin/"/>
-    <published>2025-12-27T11:03:53+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
     <title>Der Gang vor die Hunde - Ökonomische Unsicherheit, moralischer Verfall, wachsender Ex...</title>
     <updated>2026-01-29T11:11:50+01:00</updated>
@@ -583,6 +561,17 @@
     <published>2026-01-09T12:08:20+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 25. Februar - Am nächsten Theatertag zeigen wir "Opiate" im Klei...</title>
+    <updated>2026-02-12T13:31:28.777395+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2026-02-12T13:31:28.777395+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
     <title>Das ist Ihr Wunschkonzert! - Sie haben entschieden, welches Programm wir beim 8. Sinfonie...</title>
     <updated>2026-01-29T11:11:50+01:00</updated>
@@ -614,6 +603,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-la-traviata/"/>
     <published>2026-01-23T16:07:11+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/hat-gott-eigentlich-die-arbeitswoche-erfunden/</id>
+    <title>Hat Gott eigentlich die Arbeitswoche erfunden? - Amina Eisner geht in ihrem Theaterstück „Generation Arbeit –...</title>
+    <updated>2026-02-12T13:31:28.777395+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/hat-gott-eigentlich-die-arbeitswoche-erfunden/"/>
+    <published>2026-02-12T13:31:28.777395+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
