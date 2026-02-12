@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-11T19:24:07.125069+00:00</updated>
+  <updated>2026-02-12T11:17:58.198490+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -638,17 +638,6 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-KiTa-Landeselternvertretung-Hessen-gew%C3%A4hlt-starke-Stimme-der-Eltern-auf-Landesebene.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75047.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neue KiTa-Landeselternvertretung Hessen gewählt - starke Stimme der Eltern auf Landesebene</title>
-    <updated>2026-01-22T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-KiTa-Landeselternvertretung-Hessen-gew%C3%A4hlt-starke-Stimme-der-Eltern-auf-Landesebene.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75047.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-22T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalsanierung-ab-26-Januar-2026-Vollsperrung-Alter-Wetzlarer-Weg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75049.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Kanalsanierung ab 26. Januar 2026: Vollsperrung Alter Wetzlarer Weg</title>
     <updated>2026-01-22T11:06:00+01:00</updated>
@@ -911,6 +900,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-wieder-top.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75183.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-11T17:23:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinie-1-Haltestelle-Brunnenweg-entf%C3%A4llt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75185.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Buslinie 1: Haltestelle "Brunnenweg" entfällt</title>
+    <updated>2026-02-12T11:17:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinie-1-Haltestelle-Brunnenweg-entf%C3%A4llt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75185.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-12T11:17:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
