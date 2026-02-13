@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-13T13:28:21.160438+00:00</updated>
+  <updated>2026-02-13T15:16:20.922680+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -539,17 +539,6 @@
     <published>2026-02-13T01:35:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
-    <title>Der Gang vor die Hunde - Ökonomische Unsicherheit, moralischer Verfall, wachsender Ex...</title>
-    <updated>2026-01-29T11:11:50+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/"/>
-    <published>2026-01-29T11:11:50+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/</id>
     <title>Umfrage zu englischen Übertiteln | Survey regarding English surtitles - Hier können Sie an der Umfrage teilnehmen. | You can partici...</title>
     <updated>2026-01-23T17:08:14+01:00</updated>
@@ -625,6 +614,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/hat-gott-eigentlich-die-arbeitswoche-erfunden/"/>
     <published>2026-02-12T13:31:28+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/audiowalk-von-giessen-nach-theresienstadt/</id>
+    <title>Audiowalk: Von Gießen nach Theresienstadt - Die letzte Deportation Gießener Jüdinnen und Juden im Februa...</title>
+    <updated>2026-02-13T15:16:07.159995+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/audiowalk-von-giessen-nach-theresienstadt/"/>
+    <published>2026-02-13T15:16:07.159995+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
