@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-12T14:22:07.940950+00:00</updated>
+  <updated>2026-02-13T01:35:33.642382+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -526,6 +526,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_14032_1.PDF?1770375049"/>
     <published>2026-02-07T01:34:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_13934_1.PDF?1769423160</id>
+    <title>Ankündigung von Vorarbeiten für die Trassenplanung des Rhein-Main-Links - im Auftrag der Amprion GmbH</title>
+    <updated>2026-02-13T01:35:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_13934_1.PDF?1769423160"/>
+    <published>2026-02-13T01:35:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/der-gang-vor-die-hunde/</id>
