@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-13T15:16:20.922680+00:00</updated>
+  <updated>2026-02-13T23:10:23.469058+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -440,17 +440,6 @@
     <published>2025-11-25T13:13:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_13861_1.PDF?1768209931</id>
-    <title>Bauleitplanung: Durchführung der Offenlage des Entwurfs des Bebauungsplanes Nr. WI 06/10 "Stiegel"</title>
-    <updated>2020-11-30T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_13861_1.PDF?1768209931"/>
-    <published>2020-11-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_13884_1.PDF?1768485486</id>
     <title>Benennung von Straßen</title>
     <updated>2026-01-16T01:33:00+01:00</updated>
@@ -618,13 +607,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/audiowalk-von-giessen-nach-theresienstadt/</id>
     <title>Audiowalk: Von Gießen nach Theresienstadt - Die letzte Deportation Gießener Jüdinnen und Juden im Februa...</title>
-    <updated>2026-02-13T15:16:07.159995+01:00</updated>
+    <updated>2026-02-13T15:16:07+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/audiowalk-von-giessen-nach-theresienstadt/"/>
-    <published>2026-02-13T15:16:07.159995+01:00</published>
+    <published>2026-02-13T15:16:07+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
@@ -647,6 +636,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/"/>
     <published>2026-02-03T12:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-Gefl%C3%BCgelpest-Stallpflicht-und-weitere-Regelungen-f%C3%BCr-weitere-Teile-des-Landkreises-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75075.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Schutz vor Geflügelpest: Stallpflicht und weitere Regelungen für weitere Teile des Landkreises Gießen</title>
+    <updated>2026-01-23T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-Gefl%C3%BCgelpest-Stallpflicht-und-weitere-Regelungen-f%C3%BCr-weitere-Teile-des-Landkreises-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75075.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-01-23T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kommunalwahl-2026-W%C3%A4hlerverzeichnisse-werden-aufgestellt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75080.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -768,17 +768,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/300-Menschen-bekunden-Solidarit%C3%A4t-mit-j%C3%BCdischer-Gemeinschaft.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75111.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-03T09:13:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bis-13-Februar-f%C3%BCr-den-DUOday-anmelden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75115.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Bis 13. Februar für den DUOday anmelden</title>
-    <updated>2026-02-03T17:20:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bis-13-Februar-f%C3%BCr-den-DUOday-anmelden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75115.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-03T17:20:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%96kologie-der-Geister-Auftaktveranstaltung-am-6-Februar-026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
