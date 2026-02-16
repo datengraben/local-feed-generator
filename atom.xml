@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-16T14:19:05.610028+00:00</updated>
+  <updated>2026-02-16T15:15:49.223032+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -572,17 +572,6 @@
     <published>2026-02-14T01:34:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/</id>
-    <title>Umfrage zu englischen Übertiteln | Survey regarding English surtitles - Hier können Sie an der Umfrage teilnehmen. | You can partici...</title>
-    <updated>2026-01-23T17:08:14+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/"/>
-    <published>2026-01-23T17:08:14+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/</id>
     <title>„Was bleibt, wenn nichts mehr kommt, von dem, was war?“ - Ein Gespräch mit Stina Jähngen, Anne-Elise Minetti und Carol...</title>
     <updated>2026-02-16T11:16:22+01:00</updated>
@@ -647,6 +636,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-la-traviata/"/>
     <published>2026-01-23T16:07:11+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/</id>
+    <title>Künstliche Intelligenz, Empathie und eine nachhaltige Kultur der Zukunft - Patrick Schimanski beleuchtet das Vordringen Künstlicher Int...</title>
+    <updated>2026-02-16T15:15:34.163271+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/"/>
+    <published>2026-02-16T15:15:34.163271+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/audiowalk-von-giessen-nach-theresienstadt/</id>
