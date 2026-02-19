@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-19T10:17:24.581254+00:00</updated>
+  <updated>2026-02-19T11:17:16.434779+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -495,28 +495,6 @@
     <published>2026-02-13T01:35:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_14236_1.PDF?1770827207</id>
-    <title>Wahlbekanntmachung für die Kommunalwahlen am 15.03.2026</title>
-    <updated>2026-02-14T01:34:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14236_1.PDF?1770827207"/>
-    <published>2026-02-14T01:34:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14220_1.PDF?1770743110</id>
-    <title>Vierte Satzung zur Änderung der Satzung über die Erhebung des Erschließungsbeitrages (Erschließungsbeitragssatzung)</title>
-    <updated>2026-02-14T01:34:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14220_1.PDF?1770743110"/>
-    <published>2026-02-14T01:34:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_14249_1.PDF?1770908359</id>
     <title>Satzung zur Aufhebung der Satzung zur Sicherung und Durchführung von Stadtumbaumaß-nahmen im Stadtumbaugebiet "Bahnhofsumfeld"</title>
     <updated>2026-02-14T01:34:00+01:00</updated>
@@ -547,6 +525,28 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14237_1.PDF?1770885762"/>
+    <published>2026-02-14T01:34:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14236_1.PDF?1770827207</id>
+    <title>Wahlbekanntmachung für die Kommunalwahlen am 15.03.2026</title>
+    <updated>2026-02-14T01:34:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14236_1.PDF?1770827207"/>
+    <published>2026-02-14T01:34:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14220_1.PDF?1770743110</id>
+    <title>Vierte Satzung zur Änderung der Satzung über die Erhebung des Erschließungsbeitrages (Erschließungsbeitragssatzung)</title>
+    <updated>2026-02-14T01:34:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14220_1.PDF?1770743110"/>
     <published>2026-02-14T01:34:00+01:00</published>
   </entry>
   <entry>
@@ -658,17 +658,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/"/>
     <published>2026-02-03T12:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kommunalwahl-Mit-Musterstimmzettel-Stimmverteilung-testen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75091.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kommunalwahl: Mit Musterstimmzettel Stimmverteilung testen</title>
-    <updated>2026-01-29T17:13:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kommunalwahl-Mit-Musterstimmzettel-Stimmverteilung-testen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75091.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-29T17:13:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wo-geht-s-lang-in-Gie%C3%9Fen-Aktualisierter-amtlicher-Stadtplan-erschienen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75099.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -933,6 +922,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Vortr%C3%A4ge-der-Energieberatung-im-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75263.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-19T10:17:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kranaufstellung-f%C3%BChrt-zu-Busumleitungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75265.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kranaufstellung führt zu Busumleitungen</title>
+    <updated>2026-02-19T11:17:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kranaufstellung-f%C3%BChrt-zu-Busumleitungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75265.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-19T11:17:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
