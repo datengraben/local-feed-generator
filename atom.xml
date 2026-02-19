@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-19T14:21:54.180662+00:00</updated>
+  <updated>2026-02-19T15:17:31.028397+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -181,6 +181,116 @@
     </author>
     <link href="https://www.asta-giessen.de/infovortrag-rund-um-die-erste-wohnung/"/>
     <published>2026-01-17T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2024/05/09/der-traum-von-der-rakete-studis-der-jlu-thm-auf-investorensuche-beim-capital-contest-2024/</id>
+    <title>Der Traum von der Rakete – Studis der JLU &amp; THM auf Investorensuche beim Capital Contest 2024</title>
+    <updated>2024-05-09T00:00:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2024/05/09/der-traum-von-der-rakete-studis-der-jlu-thm-auf-investorensuche-beim-capital-contest-2024/"/>
+    <published>2024-05-09T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2024/05/23/entschuldigung-in-tansania-ueber-die-aufarbeitung-von-deutscher-kolonialgeschichte/</id>
+    <title>Entschuldigung in Tansania – Über die Aufarbeitung von deutscher Kolonialgeschichte</title>
+    <updated>2024-05-23T00:00:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2024/05/23/entschuldigung-in-tansania-ueber-die-aufarbeitung-von-deutscher-kolonialgeschichte/"/>
+    <published>2024-05-23T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2024/06/05/hochschulwahlen-an-der-jlu-wen-waehlen-wir-da-eigentlich/</id>
+    <title>Hochschulwahlen an der JLU – Wen wählen wir da eigentlich?</title>
+    <updated>2024-06-05T00:00:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2024/06/05/hochschulwahlen-an-der-jlu-wen-waehlen-wir-da-eigentlich/"/>
+    <published>2024-06-05T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2024/06/12/aberglaube-an-der-justus-liebig-universitaet-die-sache-mit-dem-ewigen-studenten/</id>
+    <title>Aberglaube an der Justus-Liebig-Universität? Die Sache mit dem ewigen Studenten</title>
+    <updated>2024-06-12T00:00:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2024/06/12/aberglaube-an-der-justus-liebig-universitaet-die-sache-mit-dem-ewigen-studenten/"/>
+    <published>2024-06-12T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2024/07/07/erinnerungskultur-in-mittelhessen/</id>
+    <title>Erinnerungskultur in Mittelhessen</title>
+    <updated>2024-07-07T00:00:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2024/07/07/erinnerungskultur-in-mittelhessen/"/>
+    <published>2024-07-07T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2024/11/24/zuhause-aus-einer-anderen-perspektive-der-alltag-einer-milchkuh/</id>
+    <title>Zuhause aus einer anderen Perspektive: Der Alltag einer Milchkuh</title>
+    <updated>2024-11-24T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2024/11/24/zuhause-aus-einer-anderen-perspektive-der-alltag-einer-milchkuh/"/>
+    <published>2024-11-24T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/</id>
+    <title>UNIversum testet: Veganfreundliche und vegane Cafés in Gießen</title>
+    <updated>2025-02-15T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/"/>
+    <published>2025-02-15T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/</id>
+    <title>Audiobeitrag: Die Demokratische Republik Georgien und das Deutsche Kaiserreich</title>
+    <updated>2025-11-19T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/"/>
+    <published>2025-11-19T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/02/02/demo-gegen-afd-jugend-in-giessen-friedlich-kreativ-und-bunt/</id>
+    <title>Demo gegen AfD-Jugend in Gießen: Friedlich, kreativ und bunt</title>
+    <updated>2026-02-02T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/02/02/demo-gegen-afd-jugend-in-giessen-friedlich-kreativ-und-bunt/"/>
+    <published>2026-02-02T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/02/19/kuerzungen-am-fachbereich-04-fussnote/</id>
+    <title>Kürzungen am Fachbereich 04 – Fußnote</title>
+    <updated>2026-02-19T15:17:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/02/19/kuerzungen-am-fachbereich-04-fussnote/"/>
+    <published>2026-02-19T15:17:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=2874.584&amp;La=1</id>
