@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-20T16:12:58.624059+00:00</updated>
+  <updated>2026-02-20T17:15:01.731908+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -495,28 +495,6 @@
     <published>2026-02-13T01:35:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_14236_1.PDF?1770827207</id>
-    <title>Wahlbekanntmachung für die Kommunalwahlen am 15.03.2026</title>
-    <updated>2026-02-14T01:34:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14236_1.PDF?1770827207"/>
-    <published>2026-02-14T01:34:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14220_1.PDF?1770743110</id>
-    <title>Vierte Satzung zur Änderung der Satzung über die Erhebung des Erschließungsbeitrages (Erschließungsbeitragssatzung)</title>
-    <updated>2026-02-14T01:34:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14220_1.PDF?1770743110"/>
-    <published>2026-02-14T01:34:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_14249_1.PDF?1770908359</id>
     <title>Satzung zur Aufhebung der Satzung zur Sicherung und Durchführung von Stadtumbaumaß-nahmen im Stadtumbaugebiet "Bahnhofsumfeld"</title>
     <updated>2026-02-14T01:34:00+01:00</updated>
@@ -547,6 +525,28 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14237_1.PDF?1770885762"/>
+    <published>2026-02-14T01:34:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14236_1.PDF?1770827207</id>
+    <title>Wahlbekanntmachung für die Kommunalwahlen am 15.03.2026</title>
+    <updated>2026-02-14T01:34:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14236_1.PDF?1770827207"/>
+    <published>2026-02-14T01:34:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14220_1.PDF?1770743110</id>
+    <title>Vierte Satzung zur Änderung der Satzung über die Erhebung des Erschließungsbeitrages (Erschließungsbeitragssatzung)</title>
+    <updated>2026-02-14T01:34:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14220_1.PDF?1770743110"/>
     <published>2026-02-14T01:34:00+01:00</published>
   </entry>
   <entry>
@@ -669,17 +669,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/"/>
     <published>2026-02-03T12:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sommerferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-Programmangebote-von-Vereinen-Organisationen-Institutionen-und-anderen-Einrichtungen-k%C3%B6nnen-eingereicht-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75105.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Sommerferienprogramm der Universitätsstadt Gießen – Jetzt Angebote einreichen</title>
-    <updated>2026-02-02T14:16:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sommerferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-Programmangebote-von-Vereinen-Organisationen-Institutionen-und-anderen-Einrichtungen-k%C3%B6nnen-eingereicht-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75105.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-02T14:16:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Betreuer-innen-f%C3%BCr-das-Sommerferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-gesucht-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75106.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -944,6 +933,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Unsere-Heimat-ist-die-Welt-Das-Wilhelm-Liebknecht-Jahr-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75292.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-20T16:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dauerz%C3%A4hlstellen-f%C3%BCr-den-Radverkehr-Erste-Daten-f%C3%BCr-Gie%C3%9Fen-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75293.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Dauerzählstellen für den Radverkehr: Erste Daten für Gießen online</title>
+    <updated>2026-02-20T17:14:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dauerz%C3%A4hlstellen-f%C3%BCr-den-Radverkehr-Erste-Daten-f%C3%BCr-Gie%C3%9Fen-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75293.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-20T17:14:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
