@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-20T10:13:18.541668+00:00</updated>
+  <updated>2026-02-20T13:27:03.501709+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -671,17 +671,6 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreicher-Abschluss-des-Projekts-B-plus-auf-dem-Weg-zur-p%C3%A4dagogischen-Fachkraft-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75103.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Erfolgreicher Abschluss des Projekts »B³ plus - auf dem Weg zur pädagogischen Fachkraft«</title>
-    <updated>2026-01-30T17:13:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreicher-Abschluss-des-Projekts-B-plus-auf-dem-Weg-zur-p%C3%A4dagogischen-Fachkraft-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75103.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-01-30T17:13:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B429-Arbeiten-zur-Verst%C3%A4rkung-der-Br%C3%BCcke-Eselswiese-stehen-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68345.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Update B429: Lkw-Sperrung der Brücke „Eselswiese“ über die Lahn wird in Kürze aufgehoben</title>
     <updated>2026-01-30T19:13:00+01:00</updated>
@@ -944,6 +933,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Programm-zum-Internationalen-Frauentag-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75286.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-20T09:14:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/M%C3%BCllabfuhr-witterungsbedingt-ausgefallen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75290.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Müllabfuhr witterungsbedingt ausgefallen</title>
+    <updated>2026-02-20T13:26:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/M%C3%BCllabfuhr-witterungsbedingt-ausgefallen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75290.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-20T13:26:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
