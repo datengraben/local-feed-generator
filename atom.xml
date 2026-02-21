@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-20T17:15:01.731908+00:00</updated>
+  <updated>2026-02-21T01:35:02.619742+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -559,6 +559,17 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_14279_1.PDF?1771334148"/>
     <published>2026-02-20T01:35:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14280_1.PDF?1771334865</id>
+    <title>Planfeststellung Änderung Verkehrsanlage</title>
+    <updated>2026-02-21T01:34:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14280_1.PDF?1771334865"/>
+    <published>2026-02-21T01:34:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/</id>
