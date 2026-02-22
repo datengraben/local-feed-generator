@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-22T16:07:03.194504+00:00</updated>
+  <updated>2026-02-22T23:07:05.642286+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -649,6 +649,17 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sommerferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-Programmangebote-von-Vereinen-Organisationen-Institutionen-und-anderen-Einrichtungen-k%C3%B6nnen-eingereicht-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75105.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Sommerferienprogramm der Universitätsstadt Gießen – Jetzt Angebote einreichen</title>
+    <updated>2026-02-02T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sommerferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-Programmangebote-von-Vereinen-Organisationen-Institutionen-und-anderen-Einrichtungen-k%C3%B6nnen-eingereicht-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75105.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-02T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Betreuer-innen-f%C3%BCr-das-Sommerferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-gesucht-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75106.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Betreuer*innen für das Sommerferienprogramm der Universitätsstadt Gießen gesucht!</title>
     <updated>2026-02-02T14:16:00+01:00</updated>
@@ -834,17 +845,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Vortr%C3%A4ge-der-Energieberatung-im-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75263.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-19T10:17:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kranaufstellung-f%C3%BChrt-zu-Busumleitungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75265.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kranaufstellung führt zu Busumleitungen</title>
-    <updated>2026-02-19T11:17:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kranaufstellung-f%C3%BChrt-zu-Busumleitungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75265.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-19T11:17:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/ART-BUZZ-in-der-KUNSTHALLE-GIESSEN-auf-5-M%C3%A4rz-verschoben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75277.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
