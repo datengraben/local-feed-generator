@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-22T23:07:05.642286+00:00</updated>
+  <updated>2026-02-23T11:17:07.281537+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -649,28 +649,6 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sommerferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-Programmangebote-von-Vereinen-Organisationen-Institutionen-und-anderen-Einrichtungen-k%C3%B6nnen-eingereicht-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75105.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Sommerferienprogramm der Universitätsstadt Gießen – Jetzt Angebote einreichen</title>
-    <updated>2026-02-02T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sommerferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-Programmangebote-von-Vereinen-Organisationen-Institutionen-und-anderen-Einrichtungen-k%C3%B6nnen-eingereicht-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75105.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-02T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Betreuer-innen-f%C3%BCr-das-Sommerferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-gesucht-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75106.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Betreuer*innen für das Sommerferienprogramm der Universitätsstadt Gießen gesucht!</title>
-    <updated>2026-02-02T14:16:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Betreuer-innen-f%C3%BCr-das-Sommerferienprogramm-der-Universit%C3%A4tsstadt-Gie%C3%9Fen-gesucht-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75106.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-02T14:16:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/300-Menschen-bekunden-Solidarit%C3%A4t-mit-j%C3%BCdischer-Gemeinschaft.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75111.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>300 Menschen bekunden Solidarität mit jüdischer Gemeinschaft</title>
     <updated>2026-02-03T09:13:00+01:00</updated>
@@ -922,6 +900,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dauerz%C3%A4hlstellen-f%C3%BCr-den-Radverkehr-Erste-Daten-f%C3%BCr-Gie%C3%9Fen-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75293.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-20T17:14:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Streikaufruf-ver-di-am-19-02-2026-voraussichtlich-keine-Auswirkungen-auf-Stadtbusverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75227.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Streikaufruf von ver.di für 24.02. voraussichtlich ohne Auswirkungen auf Stadtbusverkehr</title>
+    <updated>2026-02-23T11:16:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Streikaufruf-ver-di-am-19-02-2026-voraussichtlich-keine-Auswirkungen-auf-Stadtbusverkehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75227.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-23T11:16:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fluss-mit-Flair-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fluss mit Flair 2026: ein Tag, an dem Kunst, Stadt und Menschen im besten Sinne in Bewegung kommen</title>
+    <updated>2026-02-23T11:16:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fluss-mit-Flair-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-23T11:16:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
