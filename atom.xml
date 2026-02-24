@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-23T14:20:47.252974+00:00</updated>
+  <updated>2026-02-24T14:22:46.368143+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -649,17 +649,6 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%96kologie-der-Geister-Auftaktveranstaltung-am-6-Februar-026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ökologie der Geister - Auftaktveranstaltung am 6. Februar 026</title>
-    <updated>2026-02-04T09:15:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/%C3%96kologie-der-Geister-Auftaktveranstaltung-am-6-Februar-026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75122.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-04T09:15:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Menschen-werden-zu-B%C3%BCchern-in-der-Lebenden-Bibliothek.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75126.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Menschen werden zu Büchern in der Lebenden Bibliothek</title>
     <updated>2026-02-05T11:14:00+01:00</updated>
@@ -914,7 +903,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Werden-Sie-ehrenamtliche-Familienbegleiter-in-bei-Hallo-Welt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75297.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Werden Sie ehrenamtliche Familienbegleiter*in bei Hallo Welt</title>
+    <title>Werden Sie Familienbegleiter*in bei Hallo Welt</title>
     <updated>2026-02-23T14:20:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
@@ -922,6 +911,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Werden-Sie-ehrenamtliche-Familienbegleiter-in-bei-Hallo-Welt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75297.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-23T14:20:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auszeichnung-Imagetr%C3%A4ger-Sport-2025-Gie%C3%9Fens-Vereine-stehen-f%C3%BCr-Vielfalt-Leistung-und-Zusammenhalt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75304.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Auszeichnung Imageträger »Sport 2025«: Gießens Vereine stehen für Vielfalt, Leistung und Zusammenhalt</title>
+    <updated>2026-02-24T14:22:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auszeichnung-Imagetr%C3%A4ger-Sport-2025-Gie%C3%9Fens-Vereine-stehen-f%C3%BCr-Vielfalt-Leistung-und-Zusammenhalt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75304.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-24T14:22:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
