@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-25T11:17:33.557963+00:00</updated>
+  <updated>2026-02-25T13:31:21.487791+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -649,17 +649,6 @@
     <published>2026-02-25T09:19:19+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rechtsextremistische-Narrative-und-Verschw%C3%B6rungserz%C3%A4hlungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75176.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Rechtsextremistische Narrative und Verschwörungserzählungen</title>
-    <updated>2026-02-10T11:20:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rechtsextremistische-Narrative-und-Verschw%C3%B6rungserz%C3%A4hlungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75176.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-10T11:20:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-Zukunft-gestalten-Symposium-zur-Weiterentwicklung-der-Gie%C3%9Fener-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75179.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gemeinsam Zukunft gestalten: Symposium zur Weiterentwicklung der Gießener Innenstadt</title>
     <updated>2026-02-11T14:25:00+01:00</updated>
@@ -922,6 +911,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/GIMO-Pr%C3%A4vko-kl%C3%A4rt-in-Halle-3-%C3%BCber-Kindersicherheit-im-Auto-auf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75307.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-25T11:17:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rmeausbau-geht-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75308.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fernwärmeausbau geht weiter</title>
+    <updated>2026-02-25T13:31:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rmeausbau-geht-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75308.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-25T13:31:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
