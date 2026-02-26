@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-26T12:15:35.332240+00:00</updated>
+  <updated>2026-02-26T14:21:16.158187+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -550,17 +550,6 @@
     <published>2026-02-26T06:22:22+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 22. März - Am nächsten Theatertag zeigen wir "Frau Yamamoto ist no...</title>
-    <updated>2026-02-12T13:31:28+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2026-02-12T13:31:28+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
     <title>Das ist Ihr Wunschkonzert! - Sie haben entschieden, welches Programm wir beim 8. Sinfonie...</title>
     <updated>2026-01-29T11:11:50+01:00</updated>
@@ -616,6 +605,17 @@
     <published>2026-02-13T15:16:07+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 22. März - Am nächsten Theatertag zeigen wir "Frau Yamamoto ist no...</title>
+    <updated>2026-02-12T13:31:28+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2026-02-12T13:31:28+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/martha-bringt-farbe-ins-haus/</id>
     <title>„Martha“ bringt Farbe ins Haus - Musiktheaterleiterin Ute M. Engelhardt teilt ihre Gedanken z...</title>
     <updated>2026-02-25T15:21:21+01:00</updated>
@@ -647,17 +647,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/"/>
     <published>2026-02-03T12:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rechtliche-Neuerungen-die-pflegebed%C3%BCrftige-Menschen-kennen-sollten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75182.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Rechtliche Neuerungen, die pflegebedürftige Menschen kennen sollten</title>
-    <updated>2026-02-11T17:23:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rechtliche-Neuerungen-die-pflegebed%C3%BCrftige-Menschen-kennen-sollten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75182.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-11T17:23:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-wieder-top.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75183.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -922,6 +911,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weltwassertag-Besuch-im-Wasserwerk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.57872.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-26T12:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infoveranstaltung-Israelbezogener-Antisemitismus-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75312.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Infoveranstaltung »Israelbezogener Antisemitismus«</title>
+    <updated>2026-02-26T14:20:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infoveranstaltung-Israelbezogener-Antisemitismus-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75312.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-26T14:20:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
