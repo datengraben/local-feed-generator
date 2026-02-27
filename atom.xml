@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-02-26T17:24:16.056381+00:00</updated>
+  <updated>2026-02-27T10:13:46.775823+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -649,17 +649,6 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-ver%C3%B6ffentlicht-Klimaschutz-und-Energiebericht-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75186.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadt Gießen veröffentlicht Klimaschutz- und Energiebericht 2025</title>
-    <updated>2026-02-12T12:14:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-ver%C3%B6ffentlicht-Klimaschutz-und-Energiebericht-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75186.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-12T12:14:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Blauzungenkrankheit-Handelsrestriktionszone-muss-ausgeweitet-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75188.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Blauzungenkrankheit: Handelsrestriktionszone muss ausgeweitet werden</title>
     <updated>2026-02-12T14:21:00+01:00</updated>
@@ -836,17 +825,6 @@
     <published>2026-02-25T09:19:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-in-der-Weststadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75306.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Vollsperrung in der Weststadt</title>
-    <updated>2026-02-25T10:19:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-in-der-Weststadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75306.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-25T10:19:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/GIMO-Pr%C3%A4vko-kl%C3%A4rt-in-Halle-3-%C3%BCber-Kindersicherheit-im-Auto-auf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75307.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>GIMO: Prävko klärt in Halle 3 über Kindersicherheit im Auto auf</title>
     <updated>2026-02-25T11:17:00+01:00</updated>
@@ -922,6 +900,28 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/D%C3%BCrerstra%C3%9Fe-ab-2-M%C3%A4rz-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75315.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-26T17:24:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-in-der-Weststadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75306.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vollsperrung in der Weststadt</title>
+    <updated>2026-02-25T10:19:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-in-der-Weststadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75306.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-25T10:19:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hessenweiter-Warntag-am-12-M-rz-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72844.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Hessenweiter Warntag am 12. März 2026</title>
+    <updated>2026-02-27T10:13:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hessenweiter-Warntag-am-12-M-rz-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72844.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-27T10:13:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
