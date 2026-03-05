@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-05T08:12:23.368861+00:00</updated>
+  <updated>2026-03-05T11:14:00.921253+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -561,17 +561,6 @@
     <published>2026-02-28T01:33:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/25-jahre-roman-kurtz/</id>
-    <title>25 Jahre Roman Kurtz - Wir feiern unser langjähriges Ensemblemitglied Roman Kurtz u...</title>
-    <updated>2026-02-26T06:22:22+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/25-jahre-roman-kurtz/"/>
-    <published>2026-02-26T06:22:22+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
     <title>Das ist Ihr Wunschkonzert! - Sie haben entschieden, welches Programm wir beim 8. Sinfonie...</title>
     <updated>2026-01-29T11:11:50+01:00</updated>
@@ -658,6 +647,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/"/>
     <published>2026-01-23T17:08:14+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/</id>
+    <title>"Prinz Friedrich von Homburg" entfällt - Die Vorstellung von "Prinz Friedrich von Homburg" ...</title>
+    <updated>2026-03-05T11:13:46.868940+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/"/>
+    <published>2026-03-05T11:13:46.868940+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/</id>
