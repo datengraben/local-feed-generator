@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-06T11:09:56.046828+00:00</updated>
+  <updated>2026-03-06T12:11:07.496892+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -671,17 +671,6 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68677.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Bürgermeister Wright lädt zur Bürgersprechstunde ein</title>
-    <updated>2026-02-20T14:16:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68677.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-20T14:16:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Unsere-Heimat-ist-die-Welt-Das-Wilhelm-Liebknecht-Jahr-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75292.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>"Unsere Heimat ist die Welt" - Das Wilhelm-Liebknecht-Jahr in Gießen</title>
     <updated>2026-02-20T16:12:00+01:00</updated>
@@ -944,6 +933,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gedenken-an-die-Deportation-Gie%C3%9Fener-Sinti-und-Jenischen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16509.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-06T11:09:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Speed-Dating-im-Riesenrad-Ausbildungs-und-Jobchancen-hoch-hinaus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75426.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Speed-Dating im Riesenrad: Ausbildungs- und Jobchancen hoch hinaus</title>
+    <updated>2026-03-06T12:10:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Speed-Dating-im-Riesenrad-Ausbildungs-und-Jobchancen-hoch-hinaus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75426.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-06T12:10:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
