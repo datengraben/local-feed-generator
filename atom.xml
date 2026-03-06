@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-06T14:13:32.274902+00:00</updated>
+  <updated>2026-03-06T15:12:48.064457+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -561,17 +561,6 @@
     <published>2026-02-28T01:33:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
-    <title>Das ist Ihr Wunschkonzert! - Sie haben entschieden, welches Programm wir beim 8. Sinfonie...</title>
-    <updated>2026-01-29T11:11:50+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/"/>
-    <published>2026-01-29T11:11:50+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-zu-opiate/</id>
     <title>Why the silence? - Warum dieses Schweigen? - Das Tanzstück „Opiate“ von Luana Rossetti ist eine physisch ...</title>
     <updated>2026-01-23T16:07:11+01:00</updated>
@@ -649,6 +638,17 @@
     <published>2026-01-23T17:08:14+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-komposition-steckt-auch-ein-teil-von-mir/</id>
+    <title>„In jeder Komposition steckt auch ein Teil von mir.“ - Die Komponistin Hannah Eisendle ist Jahrgang 1993. Ihre Komp...</title>
+    <updated>2026-03-06T15:12:32.670171+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-komposition-steckt-auch-ein-teil-von-mir/"/>
+    <published>2026-03-06T15:12:32.670171+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/</id>
     <title>"Prinz Friedrich von Homburg" entfällt - Die Vorstellung von "Prinz Friedrich von Homburg" ...</title>
     <updated>2026-03-05T11:13:46+01:00</updated>
@@ -669,6 +669,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/"/>
     <published>2026-02-03T12:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Unsere-Heimat-ist-die-Welt-Das-Wilhelm-Liebknecht-Jahr-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75292.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>"Unsere Heimat ist die Welt" - Das Wilhelm-Liebknecht-Jahr in Gießen</title>
+    <updated>2026-02-20T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Unsere-Heimat-ist-die-Welt-Das-Wilhelm-Liebknecht-Jahr-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75292.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-02-20T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dauerz%C3%A4hlstellen-f%C3%BCr-den-Radverkehr-Erste-Daten-f%C3%BCr-Gie%C3%9Fen-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75293.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -812,17 +823,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hessenweiter-Warntag-am-12-M-rz-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72844.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-02-27T10:13:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vier-Demonstrationsz%C3%BCge-am-Donnerstag-Verkehrsbehinderungen-in-der-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75320.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Vier Demonstrationszüge am Donnerstag - Verkehrsbehinderungen in der Innenstadt möglich</title>
-    <updated>2026-03-03T09:15:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vier-Demonstrationsz%C3%BCge-am-Donnerstag-Verkehrsbehinderungen-in-der-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75320.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-03T09:15:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorschl%C3%A4ge-f%C3%BCr-die-Verleihung-der-Hedwig-Burgheim-Medaille-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75322.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
