@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-09T15:21:34.161677+00:00</updated>
+  <updated>2026-03-09T17:19:19.983758+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -671,17 +671,6 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fluss-mit-Flair-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Fluss mit Flair 2026: ein Tag, an dem Kunst, Stadt und Menschen im besten Sinne in Bewegung kommen</title>
-    <updated>2026-02-23T11:16:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fluss-mit-Flair-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-23T11:16:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Werden-Sie-ehrenamtliche-Familienbegleiter-in-bei-Hallo-Welt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75297.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Werden Sie Familienbegleiter*in bei Hallo Welt</title>
     <updated>2026-02-23T14:20:00+01:00</updated>
@@ -944,6 +933,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wer-hat-die-sch%C3%B6nste-Wiese-im-Landkreis-Gie%C3%9Fen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75459.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-09T15:21:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-Countdown-l%C3%A4uft-Am-Wochenende-sind-Wahlen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75460.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Der Countdown läuft: Am Wochenende sind Wahlen</title>
+    <updated>2026-03-09T17:19:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Der-Countdown-l%C3%A4uft-Am-Wochenende-sind-Wahlen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75460.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-09T17:19:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
