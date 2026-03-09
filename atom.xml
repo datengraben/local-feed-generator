@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-09T11:15:55.223617+00:00</updated>
+  <updated>2026-03-09T15:21:34.161677+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -671,17 +671,6 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dauerz%C3%A4hlstellen-f%C3%BCr-den-Radverkehr-Erste-Daten-f%C3%BCr-Gie%C3%9Fen-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75293.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Dauerzählstellen für den Radverkehr: Erste Daten für Gießen online</title>
-    <updated>2026-02-20T17:14:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dauerz%C3%A4hlstellen-f%C3%BCr-den-Radverkehr-Erste-Daten-f%C3%BCr-Gie%C3%9Fen-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75293.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-02-20T17:14:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fluss-mit-Flair-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.63669.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Fluss mit Flair 2026: ein Tag, an dem Kunst, Stadt und Menschen im besten Sinne in Bewegung kommen</title>
     <updated>2026-02-23T11:16:00+01:00</updated>
@@ -944,6 +933,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schlagl%C3%B6cher-nach-dem-Winter-Stadt-Gie%C3%9Fen-repariert-Stra%C3%9Fen-laufend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75455.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-09T11:15:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wer-hat-die-sch%C3%B6nste-Wiese-im-Landkreis-Gie%C3%9Fen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75459.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wer hat die schönste Wiese im Landkreis Gießen?</title>
+    <updated>2026-03-09T15:21:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wer-hat-die-sch%C3%B6nste-Wiese-im-Landkreis-Gie%C3%9Fen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75459.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-09T15:21:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
