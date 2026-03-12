@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-12T09:16:36.243631+00:00</updated>
+  <updated>2026-03-12T10:15:37.694313+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -671,6 +671,17 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorschl%C3%A4ge-f%C3%BCr-die-Verleihung-der-Hedwig-Burgheim-Medaille-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75322.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vorschläge für die Verleihung der Hedwig-Burgheim-Medaille gesucht</title>
+    <updated>2026-03-03T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorschl%C3%A4ge-f%C3%BCr-die-Verleihung-der-Hedwig-Burgheim-Medaille-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75322.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-03T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-der-Idee-zum-Erfolg-Existenzgr%C3%BCndungsseminar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75323.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Von der Idee zum Erfolg – Existenzgründungsseminar</title>
     <updated>2026-03-03T11:12:00+01:00</updated>
@@ -933,17 +944,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-unterst%C3%BCtzen-neun-Studierende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75479.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-12T09:16:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hessenweiter-Warntag-am-12-M%C3%A4rz-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72844.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Update: Heute um 10 Uhr ist Hessenweiter Warntag - Entwarnung um 10:30 Uhr</title>
-    <updated>2026-03-12T08:13:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hessenweiter-Warntag-am-12-M%C3%A4rz-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.72844.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-12T08:13:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
