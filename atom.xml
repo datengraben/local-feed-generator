@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-12T10:15:37.694313+00:00</updated>
+  <updated>2026-03-12T14:19:42.392491+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -561,17 +561,6 @@
     <published>2026-03-12T01:35:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
-    <title>Das ist Ihr Wunschkonzert! - Sie haben entschieden, welches Programm wir beim 8. Sinfonie...</title>
-    <updated>2026-03-06T16:11:44+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/"/>
-    <published>2026-03-06T16:11:44+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-zu-opiate/</id>
     <title>Why the silence? - Warum dieses Schweigen? - Das Tanzstück „Opiate“ von Luana Rossetti ist eine physisch ...</title>
     <updated>2026-01-23T16:07:11+01:00</updated>
@@ -636,6 +625,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/martha-bringt-farbe-ins-haus/"/>
     <published>2026-02-25T15:21:21+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ostern-im-theater/</id>
+    <title>Ostern im Theater - Unser Programm von Gründonnerstag bis Ostermontag....</title>
+    <updated>2026-03-12T14:19:26.335689+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ostern-im-theater/"/>
+    <published>2026-03-12T14:19:26.335689+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
