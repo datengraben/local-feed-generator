@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-12T15:20:15.161898+00:00</updated>
+  <updated>2026-03-13T11:12:03.920073+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -561,37 +561,37 @@
     <published>2026-03-12T01:35:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-zu-opiate/</id>
-    <title>Why the silence? - Warum dieses Schweigen? - Das Tanzstück „Opiate“ von Luana Rossetti ist eine physisch ...</title>
-    <updated>2026-01-23T16:07:11+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/</id>
+    <title>Umfrage zu englischen Übertiteln | Survey regarding English surtitles - Hier können Sie an der Umfrage teilnehmen. | You can partici...</title>
+    <updated>2026-03-13T11:11:46.438734+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-zu-opiate/"/>
-    <published>2026-01-23T16:07:11+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/"/>
+    <published>2026-03-13T11:11:46.438734+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-la-traviata/</id>
-    <title>Von Abgründen und (Hass)Liebe - Dramaturgin Julia van der Horst im Gespräch mit Annika Gerha...</title>
-    <updated>2026-01-23T16:07:11+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/</id>
+    <title>„Was bleibt, wenn nichts mehr kommt, von dem, was war?“ - Ein Gespräch mit Stina Jähngen, Anne-Elise Minetti und Carol...</title>
+    <updated>2026-03-13T11:11:46.438734+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/magazinbeitrag-la-traviata/"/>
-    <published>2026-01-23T16:07:11+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/"/>
+    <published>2026-03-13T11:11:46.438734+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/</id>
-    <title>Künstliche Intelligenz, Empathie und eine nachhaltige Kultur der Zukunft - Patrick Schimanski beleuchtet das Vordringen Künstlicher Int...</title>
-    <updated>2026-02-16T15:15:34+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
+    <title>Das ist Ihr Wunschkonzert! - Sie haben entschieden, welches Programm wir beim 8. Sinfonie...</title>
+    <updated>2026-03-13T11:11:46.438734+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/"/>
-    <published>2026-02-16T15:15:34+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/"/>
+    <published>2026-03-13T11:11:46.438734+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/audiowalk-von-giessen-nach-theresienstadt/</id>
@@ -649,15 +649,15 @@
     <published>2026-01-23T17:08:14+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-komposition-steckt-auch-ein-teil-von-mir/</id>
-    <title>„In jeder Komposition steckt auch ein Teil von mir.“ - Die Komponistin Hannah Eisendle ist Jahrgang 1993. Ihre Komp...</title>
-    <updated>2026-03-06T15:12:32+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/</id>
+    <title>2. Gießener Kulturnacht - Am Samstag, 16. Mai, findet die 2. Gießener Kulturnacht stat...</title>
+    <updated>2026-03-13T11:11:46.438734+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/in-jeder-komposition-steckt-auch-ein-teil-von-mir/"/>
-    <published>2026-03-06T15:12:32+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/"/>
+    <published>2026-03-13T11:11:46.438734+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/</id>
@@ -814,17 +814,6 @@
     <published>2026-03-09T17:19:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Demo-Versammlung-am-Samstagnachmittag-Verkehrseinschr%C3%A4nkungen-in-der-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69742.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Demo-Versammlung am Samstagnachmittag: Verkehrseinschränkungen in der Innenstadt möglich</title>
-    <updated>2026-03-10T08:12:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Demo-Versammlung-am-Samstagnachmittag-Verkehrseinschr%C3%A4nkungen-in-der-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69742.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-10T08:12:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lernort-im-Park-Gie%C3%9Fen-und-Swakopmund-schaffen-neue-Orte-der-Begegnung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75467.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Lernort im Park: Gießen und Swakopmund schaffen neue Orte der Begegnung</title>
     <updated>2026-03-10T10:14:00+01:00</updated>
@@ -944,6 +933,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bahn%C3%BCbergang-Aulweg-wird-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75484.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-12T15:19:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Demo-Versammlung-am-Samstagnachmittag-Verkehrseinschr%C3%A4nkungen-in-der-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69742.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Demo-Versammlung am Samstagnachmittag: Verkehrseinschränkungen in der Innenstadt möglich</title>
+    <updated>2026-03-10T08:12:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Demo-Versammlung-am-Samstagnachmittag-Verkehrseinschr%C3%A4nkungen-in-der-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69742.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-10T08:12:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
