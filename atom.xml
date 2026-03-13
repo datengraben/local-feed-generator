@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-13T11:12:03.920073+00:00</updated>
+  <updated>2026-03-13T12:12:34.095957+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -563,35 +563,35 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/</id>
     <title>Umfrage zu englischen Übertiteln | Survey regarding English surtitles - Hier können Sie an der Umfrage teilnehmen. | You can partici...</title>
-    <updated>2026-03-13T11:11:46.438734+01:00</updated>
+    <updated>2026-03-13T11:11:46+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/"/>
-    <published>2026-03-13T11:11:46.438734+01:00</published>
+    <published>2026-03-13T11:11:46+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/</id>
     <title>„Was bleibt, wenn nichts mehr kommt, von dem, was war?“ - Ein Gespräch mit Stina Jähngen, Anne-Elise Minetti und Carol...</title>
-    <updated>2026-03-13T11:11:46.438734+01:00</updated>
+    <updated>2026-03-13T11:11:46+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/"/>
-    <published>2026-03-13T11:11:46.438734+01:00</published>
+    <published>2026-03-13T11:11:46+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
     <title>Das ist Ihr Wunschkonzert! - Sie haben entschieden, welches Programm wir beim 8. Sinfonie...</title>
-    <updated>2026-03-13T11:11:46.438734+01:00</updated>
+    <updated>2026-03-13T11:11:46+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/"/>
-    <published>2026-03-13T11:11:46.438734+01:00</published>
+    <published>2026-03-13T11:11:46+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/audiowalk-von-giessen-nach-theresienstadt/</id>
@@ -651,13 +651,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/</id>
     <title>2. Gießener Kulturnacht - Am Samstag, 16. Mai, findet die 2. Gießener Kulturnacht stat...</title>
-    <updated>2026-03-13T11:11:46.438734+01:00</updated>
+    <updated>2026-03-13T11:11:46+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/"/>
-    <published>2026-03-13T11:11:46.438734+01:00</published>
+    <published>2026-03-13T11:11:46+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/</id>
@@ -669,17 +669,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/"/>
     <published>2026-02-03T12:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-der-Idee-zum-Erfolg-Existenzgr%C3%BCndungsseminar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75323.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Von der Idee zum Erfolg – Existenzgründungsseminar</title>
-    <updated>2026-03-03T11:12:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-der-Idee-zum-Erfolg-Existenzgr%C3%BCndungsseminar.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75323.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-03T11:12:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wie-funktioniert-eine-Wahl-Vorschulkinder-der-Waldkita-Schiffenberg-zu-Besuch-im-Stadtverordnetensitzungssaal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75325.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -944,6 +933,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Demo-Versammlung-am-Samstagnachmittag-Verkehrseinschr%C3%A4nkungen-in-der-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69742.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-10T08:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-Festivalticket-sichern-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75485.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Zweite Gießener Kulturnacht am 16. Mai 2026 - Jetzt Festivalticket sichern!</title>
+    <updated>2026-03-13T12:12:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-Festivalticket-sichern-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75485.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-13T12:12:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
