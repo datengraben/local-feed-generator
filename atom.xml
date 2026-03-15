@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-15T13:21:24.611171+00:00</updated>
+  <updated>2026-03-15T23:09:05.464360+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -481,28 +481,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14237_1.PDF?1770885762"/>
-    <published>2026-02-14T01:34:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14236_1.PDF?1770827207</id>
-    <title>Wahlbekanntmachung für die Kommunalwahlen am 15.03.2026</title>
-    <updated>2026-02-14T01:34:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14236_1.PDF?1770827207"/>
-    <published>2026-02-14T01:34:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14220_1.PDF?1770743110</id>
-    <title>Vierte Satzung zur Änderung der Satzung über die Erhebung des Erschließungsbeitrages (Erschließungsbeitragssatzung)</title>
-    <updated>2026-02-14T01:34:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14220_1.PDF?1770743110"/>
     <published>2026-02-14T01:34:00+01:00</published>
   </entry>
   <entry>
