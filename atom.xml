@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-16T04:54:25.882806+00:00</updated>
+  <updated>2026-03-16T09:25:32.481825+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -693,17 +693,6 @@
     <published>2026-03-05T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weichenerneuerungen-im-Bereich-des-Bahnhofs-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75375.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Weichenerneuerungen im Bereich des Bahnhofs Gießen</title>
-    <updated>2026-03-05T12:12:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weichenerneuerungen-im-Bereich-des-Bahnhofs-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75375.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-05T12:12:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gedenken-an-die-Deportation-Gie%C3%9Fener-Sinti-und-Jenischen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16509.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gedenken an die Deportation Gießener Sinti und Jenischen</title>
     <updated>2026-03-06T11:09:00+01:00</updated>
@@ -825,17 +814,6 @@
     <published>2026-03-11T10:14:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kommunalwahlen-Ausz%C3%A4hlung-f%C3%BChrt-zu-eingeschr%C3%A4nkter-Erreichbarkeit-des-Rathauses.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75475.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kommunalwahlen - Auszählung führt zu eingeschränkter Erreichbarkeit des Rathauses</title>
-    <updated>2026-03-11T10:14:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kommunalwahlen-Ausz%C3%A4hlung-f%C3%BChrt-zu-eingeschr%C3%A4nkter-Erreichbarkeit-des-Rathauses.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75475.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-11T10:14:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalarbeiten-in-der-Brandgasse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75476.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Kanalarbeiten in der Brandgasse</title>
     <updated>2026-03-11T10:14:00+01:00</updated>
@@ -902,15 +880,37 @@
     <published>2026-03-13T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-w%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75495.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gießen wählt</title>
-    <updated>2026-03-15T13:21:00+01:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75495.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen hat gewählt</title>
+    <updated>2026-03-15T09:25:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-w%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75495.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-15T13:21:00+01:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75495.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-15T09:25:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kommunalwahlen-Ausz%C3%A4hlung-f%C3%BChrt-zu-eingeschr%C3%A4nkter-Erreichbarkeit-des-Rathauses.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75475.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kommunalwahlen - Auszählung führt zu eingeschränkter Erreichbarkeit des Rathauses</title>
+    <updated>2026-03-11T10:14:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kommunalwahlen-Ausz%C3%A4hlung-f%C3%BChrt-zu-eingeschr%C3%A4nkter-Erreichbarkeit-des-Rathauses.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75475.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-11T10:14:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weichenerneuerungen-im-Bereich-des-Bahnhofs-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75375.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Weichenerneuerungen im Bereich des Bahnhofs Gießen</title>
+    <updated>2026-03-05T12:12:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weichenerneuerungen-im-Bereich-des-Bahnhofs-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75375.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-05T12:12:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
