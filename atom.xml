@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-16T15:25:48.603028+00:00</updated>
+  <updated>2026-03-16T19:24:12.104148+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -638,6 +638,17 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rmeausbau-im-Gie%C3%9Fener-Osten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75328.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fernwärmeausbau im Gießener Osten</title>
+    <updated>2026-03-04T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rmeausbau-im-Gie%C3%9Fener-Osten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75328.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-04T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Vorgehen-bei-illegalen-M%C3%BCllablagerungen-Stadt-Gie%C3%9Fen-sorgt-f%C3%BCr-mehr-Transparenz-und-effizientere-Abl%C3%A4ufe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75351.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Neues Vorgehen bei illegalen Müllablagerungen: Stadt Gießen sorgt für mehr Transparenz und effizientere Abläufe</title>
     <updated>2026-03-05T08:12:00+01:00</updated>
@@ -823,17 +834,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bahn%C3%BCbergang-Aulweg-wird-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75484.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-12T15:19:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Demo-Versammlung-am-Samstagnachmittag-Verkehrseinschr%C3%A4nkungen-in-der-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69742.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Demo-Versammlung am Samstagnachmittag: Verkehrseinschränkungen in der Innenstadt möglich</title>
-    <updated>2026-03-10T08:12:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Demo-Versammlung-am-Samstagnachmittag-Verkehrseinschr%C3%A4nkungen-in-der-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.69742.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-10T08:12:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-Festivalticket-sichern-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75485.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
