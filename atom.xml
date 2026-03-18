@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-18T15:28:39.547699+00:00</updated>
+  <updated>2026-03-18T16:29:03.810042+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -506,17 +506,6 @@
     <published>2026-03-12T01:35:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/</id>
-    <title>Umfrage zu englischen Übertiteln | Survey regarding English surtitles - Hier können Sie an der Umfrage teilnehmen. | You can partici...</title>
-    <updated>2026-03-13T11:11:46+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/umfrage-zu-englischen-ubertiteln-survey-regarding-english-surtitles/"/>
-    <published>2026-03-13T11:11:46+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/</id>
     <title>„Was bleibt, wenn nichts mehr kommt, von dem, was war?“ - Ein Gespräch mit Stina Jähngen, Anne-Elise Minetti und Carol...</title>
     <updated>2026-03-13T11:11:46+01:00</updated>
@@ -594,6 +583,17 @@
     <published>2026-01-23T17:08:14+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/</id>
+    <title>Wie spricht Widerstand? - Im Zentrum des Stückes "DRUCK!" von Arad Dabiri st...</title>
+    <updated>2026-03-18T16:28:46.850813+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/"/>
+    <published>2026-03-18T16:28:46.850813+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/</id>
     <title>2. Gießener Kulturnacht - Am Samstag, 16. Mai, findet die 2. Gießener Kulturnacht stat...</title>
     <updated>2026-03-13T11:11:46+01:00</updated>
@@ -614,17 +614,6 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/"/>
     <published>2026-02-03T12:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundhafte-Erneuerung-der-R%C3%B6dgener-Stra%C3%9Fe-beginnt-am-23-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75434.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Grundhafte Erneuerung der Rödgener Straße beginnt am 23. März</title>
-    <updated>2026-03-06T14:13:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundhafte-Erneuerung-der-R%C3%B6dgener-Stra%C3%9Fe-beginnt-am-23-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75434.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-06T14:13:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schlagl%C3%B6cher-nach-dem-Winter-Stadt-Gie%C3%9Fen-repariert-Stra%C3%9Fen-laufend.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75455.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -889,6 +878,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eine-Woche-Auszeit-f%C3%BCr-M%C3%BCtter-und-ihre-Kinder.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75576.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-18T15:28:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-beteiligt-sich-vom-3-Mai-bis-23-Mai-2026-wieder-am-STADTRADELN.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75577.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen beteiligt sich vom 3. Mai bis 23. Mai 2026 wieder am STADTRADELN</title>
+    <updated>2026-03-18T16:28:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-beteiligt-sich-vom-3-Mai-bis-23-Mai-2026-wieder-am-STADTRADELN.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75577.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-18T16:28:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
