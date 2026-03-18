@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-18T16:29:03.810042+00:00</updated>
+  <updated>2026-03-18T23:09:22.272337+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -451,17 +451,6 @@
     <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_14237_1.PDF?1770885762</id>
-    <title>Bauleitplanung: Einleitungsbeschluss und frühzeitige Beteiligung der Öffentlichkeit zur 1. Änderung des Bebauungsplanes G3/01 »Altenfeldsweg - Ostschule«</title>
-    <updated>2026-02-14T01:34:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14237_1.PDF?1770885762"/>
-    <published>2026-02-14T01:34:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_14279_1.PDF?1771334148</id>
     <title>Einladung zur Versammlung der Jagdgenossenschaft Gießen V - Kleinlinden</title>
     <updated>2026-02-20T01:35:00+01:00</updated>
@@ -585,13 +574,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/</id>
     <title>Wie spricht Widerstand? - Im Zentrum des Stückes "DRUCK!" von Arad Dabiri st...</title>
-    <updated>2026-03-18T16:28:46.850813+01:00</updated>
+    <updated>2026-03-18T16:28:46+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/"/>
-    <published>2026-03-18T16:28:46.850813+01:00</published>
+    <published>2026-03-18T16:28:46+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/</id>
