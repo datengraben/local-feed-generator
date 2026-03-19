@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-19T11:14:50.898384+00:00</updated>
+  <updated>2026-03-19T22:06:20.937331+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -71,17 +71,6 @@
     </author>
     <link href="https://hdn-giessen.de/zukunftsfaehigleben/"/>
     <published>2025-03-29T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/hochschulwahlen-2024/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2024-06-12T00:00:00+02:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/hochschulwahlen-2024/"/>
-    <published>2024-06-12T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>https://www.asta-giessen.de/9105-2/</id>
@@ -180,6 +169,17 @@
       <email>info@asta-giessen.de</email>
     </author>
     <link href="https://www.asta-giessen.de/infovortrag-rund-um-die-erste-wohnung/"/>
+    <published>2026-01-17T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/zweites-planungstreffen-fuer-eine-gerechte-und-ausfinanzierte-hochschule-nocutsgiessen/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2026-01-17T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/zweites-planungstreffen-fuer-eine-gerechte-und-ausfinanzierte-hochschule-nocutsgiessen/"/>
     <published>2026-01-17T00:00:00+01:00</published>
   </entry>
   <entry>
