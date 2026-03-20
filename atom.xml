@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-20T15:16:54.691332+00:00</updated>
+  <updated>2026-03-20T16:15:14.038894+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -574,13 +574,13 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
     <title>Haarige Angelegenheiten - „herzkopfüber“ von Simone Saftig ist für den Mülheimer Kinde...</title>
-    <updated>2026-03-20T15:16:40.308930+01:00</updated>
+    <updated>2026-03-20T15:16:40+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/"/>
-    <published>2026-03-20T15:16:40.308930+01:00</published>
+    <published>2026-03-20T15:16:40+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/</id>
@@ -614,6 +614,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/"/>
     <published>2026-02-03T12:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lernort-im-Park-Gie%C3%9Fen-und-Swakopmund-schaffen-neue-Orte-der-Begegnung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75467.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Lernort im Park: Gießen und Swakopmund schaffen neue Orte der Begegnung</title>
+    <updated>2026-03-10T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lernort-im-Park-Gie%C3%9Fen-und-Swakopmund-schaffen-neue-Orte-der-Begegnung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75467.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-10T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Geb%C3%A4udemodernisierungsgesetz-W%C3%A4rmeplanung-bietet-weiterhin-Planungs-und-Investitionssicherheit-beim-Heizungswechsel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75468.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -724,17 +735,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-Festivalticket-sichern-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75485.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-13T12:12:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kommunalwahlen-Ausz%C3%A4hlung-f%C3%BChrt-zu-eingeschr%C3%A4nkter-Erreichbarkeit-des-Rathauses.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75475.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kommunalwahlen - Auszählung führt zu eingeschränkter Erreichbarkeit des Rathauses</title>
-    <updated>2026-03-11T10:14:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kommunalwahlen-Ausz%C3%A4hlung-f%C3%BChrt-zu-eingeschr%C3%A4nkter-Erreichbarkeit-des-Rathauses.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75475.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-11T10:14:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weichenerneuerungen-im-Bereich-des-Bahnhofs-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75375.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
