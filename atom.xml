@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-20T07:21:04.739774+00:00</updated>
+  <updated>2026-03-20T15:16:54.691332+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -506,17 +506,6 @@
     <published>2026-03-19T01:35:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/</id>
-    <title>„Was bleibt, wenn nichts mehr kommt, von dem, was war?“ - Ein Gespräch mit Stina Jähngen, Anne-Elise Minetti und Carol...</title>
-    <updated>2026-03-13T11:11:46+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/was-bleibt-wenn-nichts-mehr-kommt-von-dem-was-war/"/>
-    <published>2026-03-13T11:11:46+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
     <title>Das ist Ihr Wunschkonzert! - Sie haben entschieden, welches Programm wir beim 8. Sinfonie...</title>
     <updated>2026-03-13T11:11:46+01:00</updated>
@@ -581,6 +570,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/"/>
     <published>2026-01-23T17:08:14+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
+    <title>Haarige Angelegenheiten - „herzkopfüber“ von Simone Saftig ist für den Mülheimer Kinde...</title>
+    <updated>2026-03-20T15:16:40.308930+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/"/>
+    <published>2026-03-20T15:16:40.308930+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/</id>
