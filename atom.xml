@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-20T17:15:29.776913+00:00</updated>
+  <updated>2026-03-21T18:08:10.014377+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -506,17 +506,6 @@
     <published>2026-03-19T01:35:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/</id>
-    <title>Das ist Ihr Wunschkonzert! - Sie haben entschieden, welches Programm wir beim 8. Sinfonie...</title>
-    <updated>2026-03-13T11:11:46+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/8-sinfoniekonzert-sie-haben-die-wahl/"/>
-    <published>2026-03-13T11:11:46+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/audiowalk-von-giessen-nach-theresienstadt/</id>
     <title>Audiowalk: Von Gießen nach Theresienstadt - Die letzte Deportation Gießener Jüdinnen und Juden im Februa...</title>
     <updated>2026-02-13T15:16:07+01:00</updated>
@@ -583,6 +572,17 @@
     <published>2026-03-20T15:16:40+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/</id>
+    <title>2. Gießener Kulturnacht - Am Samstag, 16. Mai, findet die 2. Gießener Kulturnacht stat...</title>
+    <updated>2026-03-13T11:11:46+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/"/>
+    <published>2026-03-13T11:11:46+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/</id>
     <title>Wie spricht Widerstand? - Im Zentrum des Stückes "DRUCK!" von Arad Dabiri st...</title>
     <updated>2026-03-18T16:28:46+01:00</updated>
@@ -594,15 +594,15 @@
     <published>2026-03-18T16:28:46+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/</id>
-    <title>2. Gießener Kulturnacht - Am Samstag, 16. Mai, findet die 2. Gießener Kulturnacht stat...</title>
-    <updated>2026-03-13T11:11:46+01:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-wahrheit-ist-weder-gut-noch-bose/</id>
+    <title>Die Wahrheit ist weder gut noch böse - Der Choreograf Johannes Wieland im Gespräch mit der Dramatur...</title>
+    <updated>2026-03-21T18:07:53.166573+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/"/>
-    <published>2026-03-13T11:11:46+01:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-wahrheit-ist-weder-gut-noch-bose/"/>
+    <published>2026-03-21T18:07:53.166573+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einmischung-und-emotionen/</id>
