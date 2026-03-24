@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-24T13:32:31.645060+00:00</updated>
+  <updated>2026-03-24T14:28:02.561793+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -605,50 +605,6 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbruch-der-Newcastle-Krankheit-in-Deutschland.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75470.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ausbruch der Newcastle-Krankheit in Deutschland</title>
-    <updated>2026-03-10T13:28:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbruch-der-Newcastle-Krankheit-in-Deutschland.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75470.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-10T13:28:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Stars-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75478.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>STADTRADELN-Stars gesucht</title>
-    <updated>2026-03-11T13:29:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Stars-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75478.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-11T13:29:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-unterst%C3%BCtzen-neun-Studierende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75479.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>SWG unterstützen neun Studierende</title>
-    <updated>2026-03-12T09:16:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-unterst%C3%BCtzen-neun-Studierende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75479.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-12T09:16:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bahn%C3%BCbergang-Aulweg-wird-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75484.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Bahnübergang Aulweg wird gesperrt</title>
-    <updated>2026-03-12T15:19:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bahn%C3%BCbergang-Aulweg-wird-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75484.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-12T15:19:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-Festivalticket-sichern-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75485.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Zweite Gießener Kulturnacht am 16. Mai 2026 - Jetzt Festivalticket sichern!</title>
     <updated>2026-03-13T12:12:00+01:00</updated>
@@ -878,6 +834,50 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rmeausbau-geht-voran.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75733.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-24T13:32:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-abpflastern-2026-Machen-Sie-mit-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75734.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>»abpflastern« 2026 - Machen Sie mit!</title>
+    <updated>2026-03-24T14:27:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-abpflastern-2026-Machen-Sie-mit-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75734.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-24T14:27:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Damit-nichts-schiefl%C3%A4uft-kostenfreie-Datenschutz-und-DSGVO-Workshopreihe-f%C3%BCr-Gr%C3%BCnder-innen-und-Unternehmer-innen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75735.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Damit nichts schiefläuft: kostenfreie Datenschutz- und DSGVO-Workshopreihe für Gründer:innen und Unternehmer:innen</title>
+    <updated>2026-03-24T14:27:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Damit-nichts-schiefl%C3%A4uft-kostenfreie-Datenschutz-und-DSGVO-Workshopreihe-f%C3%BCr-Gr%C3%BCnder-innen-und-Unternehmer-innen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75735.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-24T14:27:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Energiewissen-am-Dienstag-startet-wieder-mit-Fernw%C3%A4rme.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75738.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Energiewissen am Dienstag startet wieder - mit Fernwärme</title>
+    <updated>2026-03-24T14:27:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Energiewissen-am-Dienstag-startet-wieder-mit-Fernw%C3%A4rme.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75738.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-24T14:27:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Vortr%C3%A4ge-der-Energieberatung-im-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75263.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Online-Vorträge der Energieberatung im April</title>
+    <updated>2026-03-24T14:27:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Vortr%C3%A4ge-der-Energieberatung-im-M%C3%A4rz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75263.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-24T14:27:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
