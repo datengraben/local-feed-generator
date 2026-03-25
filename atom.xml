@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-24T16:24:56.690953+00:00</updated>
+  <updated>2026-03-25T18:20:53.325713+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -605,6 +605,17 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-Festivalticket-sichern-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75485.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Zweite Gießener Kulturnacht am 16. Mai 2026 - Jetzt Festivalticket sichern!</title>
+    <updated>2026-03-13T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-Festivalticket-sichern-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75485.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-13T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weichenerneuerungen-im-Bereich-des-Bahnhofs-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75375.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Weichenerneuerungen im Bereich des Bahnhofs Gießen</title>
     <updated>2026-03-05T12:12:00+01:00</updated>
@@ -658,17 +669,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hol-und-Bringzonen-an-der-Pestalozzischule-f%C3%BCr-mehr-Sicherheit-und-Selbstst%C3%A4ndigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-17T10:18:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Berufliche-Weiterbildung-Am-25-M%C3%A4rz-kostenfreier-Beratungstag-f%C3%BCr-Unternehmen-und-Besch%C3%A4ftigte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75387.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Berufliche Weiterbildung – Am 25. März kostenfreier Beratungstag für Unternehmen und Beschäftigte</title>
-    <updated>2026-03-17T13:32:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Berufliche-Weiterbildung-Am-25-M%C3%A4rz-kostenfreier-Beratungstag-f%C3%BCr-Unternehmen-und-Besch%C3%A4ftigte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75387.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-17T13:32:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75495.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
