@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-26T01:35:55.834606+00:00</updated>
+  <updated>2026-03-26T09:22:47.728098+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -616,28 +616,6 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-Festivalticket-sichern-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75485.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Zweite Gießener Kulturnacht am 16. Mai 2026 - Jetzt Festivalticket sichern!</title>
-    <updated>2026-03-13T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Gie%C3%9Fener-Kulturnacht-am-16-Mai-2026-Jetzt-Festivalticket-sichern-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75485.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-13T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weichenerneuerungen-im-Bereich-des-Bahnhofs-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75375.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Weichenerneuerungen im Bereich des Bahnhofs Gießen</title>
-    <updated>2026-03-05T12:12:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Weichenerneuerungen-im-Bereich-des-Bahnhofs-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75375.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-05T12:12:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4vko-bietet-Fahrsicherheitstraining-f%C3%BCr-Pedelec-und-E-Bike-Fahrende-%C3%BCber-60-Jahre-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75496.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Prävko bietet Fahrsicherheitstraining für Pedelec- und E-Bike-Fahrende über 60 Jahre an</title>
     <updated>2026-03-16T13:32:00+01:00</updated>
@@ -680,17 +658,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hol-und-Bringzonen-an-der-Pestalozzischule-f%C3%BCr-mehr-Sicherheit-und-Selbstst%C3%A4ndigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-17T10:18:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75495.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gießen hat gewählt - vorläufiges Endergebnis steht fest</title>
-    <updated>2026-03-15T09:25:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75495.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-15T09:25:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Platz-und-Sicherheit-Stadt-Gie%C3%9Fen-entfernt-herrenlose-und-kaputte-Fahrr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -889,6 +856,39 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Osterferien-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73782.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-24T16:24:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75495.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Gießen hat gewählt - amtliches Endergebnis steht fest</title>
+    <updated>2026-03-15T09:25:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75495.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-15T09:25:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalarbeiten-in-Kleinlinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75797.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kanalarbeiten in Kleinlinden</title>
+    <updated>2026-03-26T09:22:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalarbeiten-in-Kleinlinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75797.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-26T09:22:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Naturschutzwanderungen-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73446.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Die Naturschutzwanderungen für 2026 sind da</title>
+    <updated>2026-03-26T09:22:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Naturschutzwanderungen-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73446.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-26T09:22:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
