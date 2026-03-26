@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-25T23:11:41.446511+00:00</updated>
+  <updated>2026-03-26T01:35:55.834606+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -482,6 +482,28 @@
     </author>
     <link href="http://giessen.de/media/custom/2874_14475_1.PDF?1773827913"/>
     <published>2026-03-19T01:35:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14500_1.PDF?1774450781</id>
+    <title>Bauleitplanung: Erlass des vorhabenbezogenen Bebauungsplans Nr. SCH 08/04 "Erweiterung Firma BIEBER + MARBURG II"</title>
+    <updated>2026-03-26T01:35:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14500_1.PDF?1774450781"/>
+    <published>2026-03-26T01:35:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14499_1.PDF?1774450781</id>
+    <title>Bauleitplanung: Wirksamkeit der 23. Änderung des Flächennutzungsplanes "Erweiterung Fa. BIEBER &amp; MARBURG II"</title>
+    <updated>2026-03-26T01:35:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14499_1.PDF?1774450781"/>
+    <published>2026-03-26T01:35:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/audiowalk-von-giessen-nach-theresienstadt/</id>
