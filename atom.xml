@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-26T09:22:47.728098+00:00</updated>
+  <updated>2026-03-26T10:21:15.018701+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -616,17 +616,6 @@
     <published>2026-02-03T12:12:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4vko-bietet-Fahrsicherheitstraining-f%C3%BCr-Pedelec-und-E-Bike-Fahrende-%C3%BCber-60-Jahre-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75496.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Prävko bietet Fahrsicherheitstraining für Pedelec- und E-Bike-Fahrende über 60 Jahre an</title>
-    <updated>2026-03-16T13:32:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4vko-bietet-Fahrsicherheitstraining-f%C3%BCr-Pedelec-und-E-Bike-Fahrende-%C3%BCber-60-Jahre-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75496.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-03-16T13:32:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75498.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Präventionsangebote des Ordnungsamtes in den Stadtteilen</title>
     <updated>2026-03-16T14:28:00+01:00</updated>
@@ -889,6 +878,17 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Naturschutzwanderungen-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73446.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-26T09:22:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Fernw%C3%A4rme-f%C3%BCr-Wieseck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75798.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Mehr Fernwärme für Wieseck</title>
+    <updated>2026-03-26T10:21:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Fernw%C3%A4rme-f%C3%BCr-Wieseck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75798.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-26T10:21:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
