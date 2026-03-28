@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-03-27T13:31:07.833556+00:00</updated>
+  <updated>2026-03-28T01:35:36.158364+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -506,15 +506,37 @@
     <published>2026-03-26T01:35:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 22. März - Am nächsten Theatertag zeigen wir "Frau Yamamoto ist no...</title>
-    <updated>2026-02-12T13:31:28+01:00</updated>
+    <id>http://giessen.de/media/custom/2874_14506_1.PDF?1774599227</id>
+    <title>Bekanntmachung des Ergebnisses der Stadtverordnetenwahl der Universitätsstadt Gießen am 15.03.2026</title>
+    <updated>2026-03-28T01:35:00+01:00</updated>
     <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2026-02-12T13:31:28+01:00</published>
+    <link href="http://giessen.de/media/custom/2874_14506_1.PDF?1774599227"/>
+    <published>2026-03-28T01:35:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14505_1.PDF?1774599204</id>
+    <title>Bekanntmachung des Ergebnisses der Ortsbeiratswahl der Universitätsstadt Gießen am 15.03.2026</title>
+    <updated>2026-03-28T01:35:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14505_1.PDF?1774599204"/>
+    <published>2026-03-28T01:35:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14504_1.PDF?1774599250</id>
+    <title>Bekanntmachung des Ergebnisses der Ausländerbeiratswahl der Universitätsstadt Gießen am 15.03.2026</title>
+    <updated>2026-03-28T01:35:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14504_1.PDF?1774599250"/>
+    <published>2026-03-28T01:35:00+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/martha-bringt-farbe-ins-haus/</id>
@@ -570,6 +592,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/"/>
     <published>2026-03-13T11:11:46+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 4. April - Am nächsten Theatertag zeigen wir "piece #0" im Gr...</title>
+    <updated>2026-02-12T13:31:28+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <published>2026-02-12T13:31:28+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/</id>
