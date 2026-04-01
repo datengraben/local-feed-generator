@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-01T00:31:12.683689+00:00</updated>
+  <updated>2026-04-01T07:33:47.733769+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -550,17 +550,6 @@
     <published>2026-03-30T00:29:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/martha-bringt-farbe-ins-haus/</id>
-    <title>„Martha“ bringt Farbe ins Haus - Musiktheaterleiterin Ute M. Engelhardt teilt ihre Gedanken z...</title>
-    <updated>2026-02-25T15:21:21+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/martha-bringt-farbe-ins-haus/"/>
-    <published>2026-02-25T15:21:21+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ostern-im-theater/</id>
     <title>Ostern im Theater - Unser Programm von Gründonnerstag bis Ostermontag....</title>
     <updated>2026-03-12T14:19:26+01:00</updated>
@@ -616,17 +605,6 @@
     <published>2026-02-12T13:31:28+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/</id>
-    <title>Wie spricht Widerstand? - Im Zentrum des Stückes "DRUCK!" von Arad Dabiri st...</title>
-    <updated>2026-03-18T16:28:46+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/"/>
-    <published>2026-03-18T16:28:46+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-wahrheit-ist-weder-gut-noch-bose/</id>
     <title>Die Wahrheit ist weder gut noch böse - Der Choreograf Johannes Wieland im Gespräch mit der Dramatur...</title>
     <updated>2026-03-21T18:07:53+01:00</updated>
@@ -636,6 +614,28 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-wahrheit-ist-weder-gut-noch-bose/"/>
     <published>2026-03-21T18:07:53+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/</id>
+    <title>Auf der Suche nach Verzauberung - Ein Portrait über die Regisseurin Anaїs Durand-Mauptit und B...</title>
+    <updated>2026-04-01T07:33:34.061365+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/"/>
+    <published>2026-04-01T07:33:34.061365+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/</id>
+    <title>Wie spricht Widerstand? - Im Zentrum des Stückes "DRUCK!" von Arad Dabiri st...</title>
+    <updated>2026-03-18T16:28:46+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/"/>
+    <published>2026-03-18T16:28:46+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/welttheatertag-am-27-marz/</id>
@@ -650,7 +650,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/</id>
-    <title>Liebes Publikum! - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
+    <title>Für Erol - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
     <updated>2026-03-27T10:17:34+01:00</updated>
     <author>
       <name>Stadttheater</name>
