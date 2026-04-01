@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-01T13:33:11.930416+00:00</updated>
+  <updated>2026-04-01T22:12:38.434992+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -451,17 +451,6 @@
     <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_14279_1.PDF?1771334148</id>
-    <title>Einladung zur Versammlung der Jagdgenossenschaft Gießen V - Kleinlinden</title>
-    <updated>2026-02-20T01:35:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14279_1.PDF?1771334148"/>
-    <published>2026-02-20T01:35:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_14410_1.PDF?1773232977</id>
     <title>Einladung zur Versammlung der Jagdgenossenschaft Gießen II - Wieseck </title>
     <updated>2026-03-12T01:35:00+01:00</updated>
@@ -506,17 +495,6 @@
     <published>2026-03-26T01:35:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_14506_1.PDF?1774599227</id>
-    <title>Bekanntmachung des Ergebnisses der Stadtverordnetenwahl der Universitätsstadt Gießen am 15.03.2026</title>
-    <updated>2026-03-28T01:35:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14506_1.PDF?1774599227"/>
-    <published>2026-03-28T01:35:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_14505_1.PDF?1774599204</id>
     <title>Bekanntmachung des Ergebnisses der Ortsbeiratswahl der Universitätsstadt Gießen am 15.03.2026</title>
     <updated>2026-03-28T01:35:00+01:00</updated>
@@ -536,6 +514,17 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14504_1.PDF?1774599250"/>
+    <published>2026-03-28T01:35:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14506_1.PDF?1774599227</id>
+    <title>Bekanntmachung des Ergebnisses der Stadtverordnetenwahl der Universitätsstadt Gießen am 15.03.2026</title>
+    <updated>2026-03-28T01:35:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14506_1.PDF?1774599227"/>
     <published>2026-03-28T01:35:00+01:00</published>
   </entry>
   <entry>
@@ -658,6 +647,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/"/>
     <published>2026-03-27T10:17:34+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eine-fr%C3%BChlingshafte-Verwandlung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75709.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Eine frühlingshafte Verwandlung</title>
+    <updated>2026-03-23T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eine-fr%C3%BChlingshafte-Verwandlung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75709.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <published>2026-03-23T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kreatives-Handwerk-Accessoires-und-Schmuck-aus-alten-Skateboards-bauen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75710.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -878,17 +878,6 @@
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wilhelm-Liebknecht-zum-200-Ein-Geburtstag-viele-Stimmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75829.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <published>2026-03-31T17:22:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Ja-im-Netz-Stadt-Gie%C3%9Fen-startet-digitalen-Heiratsservice.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75875.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>"Ja im Netz": Stadt Gießen startet digitalen Heiratsservice</title>
-    <updated>2026-04-01T08:29:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Ja-im-Netz-Stadt-Gie%C3%9Fen-startet-digitalen-Heiratsservice.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75875.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <published>2026-04-01T08:29:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eingeschr%C3%A4nkte-%C3%96ffnungszeiten-%C3%BCber-Ostern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75879.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
