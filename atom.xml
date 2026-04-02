@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-01T22:12:38.434992+00:00</updated>
+  <updated>2026-04-02T00:26:20.537985+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -451,6 +451,17 @@
     <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_14544_1.PDF?1774962362</id>
+    <title>Widmung einer Verkehrsfläche als öffentlicher Fuß- und Radweg</title>
+    <updated>2020-11-30T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14544_1.PDF?1774962362"/>
+    <published>2020-11-30T00:00:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_14410_1.PDF?1773232977</id>
     <title>Einladung zur Versammlung der Jagdgenossenschaft Gießen II - Wieseck </title>
     <updated>2026-03-12T01:35:00+01:00</updated>
@@ -495,6 +506,17 @@
     <published>2026-03-26T01:35:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/media/custom/2874_14506_1.PDF?1774599227</id>
+    <title>Bekanntmachung des Ergebnisses der Stadtverordnetenwahl der Universitätsstadt Gießen am 15.03.2026</title>
+    <updated>2026-03-28T01:35:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14506_1.PDF?1774599227"/>
+    <published>2026-03-28T01:35:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/media/custom/2874_14505_1.PDF?1774599204</id>
     <title>Bekanntmachung des Ergebnisses der Ortsbeiratswahl der Universitätsstadt Gießen am 15.03.2026</title>
     <updated>2026-03-28T01:35:00+01:00</updated>
@@ -514,17 +536,6 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14504_1.PDF?1774599250"/>
-    <published>2026-03-28T01:35:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14506_1.PDF?1774599227</id>
-    <title>Bekanntmachung des Ergebnisses der Stadtverordnetenwahl der Universitätsstadt Gießen am 15.03.2026</title>
-    <updated>2026-03-28T01:35:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14506_1.PDF?1774599227"/>
     <published>2026-03-28T01:35:00+01:00</published>
   </entry>
   <entry>
