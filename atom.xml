@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-02T11:18:30.359912+00:00</updated>
+  <updated>2026-04-03T20:10:24.314060+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -550,17 +550,6 @@
     <published>2026-03-30T00:29:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ostern-im-theater/</id>
-    <title>Ostern im Theater - Unser Programm von Gründonnerstag bis Ostermontag....</title>
-    <updated>2026-03-12T14:19:26+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ostern-im-theater/"/>
-    <published>2026-03-12T14:19:26+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
     <title>Schiffenberg Classics: Philharmonisches Orchester Gießen beim Kultursommer 2026 - Geballter Orchestersound im einzigartigen Ambiente: Das Phil...</title>
     <updated>2026-01-23T17:08:14+01:00</updated>
@@ -636,6 +625,17 @@
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/"/>
     <published>2026-03-18T16:28:46+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wenn-gedanken-funken-schlagen/</id>
+    <title>Wenn Gedanken Funken schlagen - „Junge Tanzwerkstatt“ lädt junge Menschen zum Mitgestalten d...</title>
+    <updated>2026-04-03T20:10:10.277572+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wenn-gedanken-funken-schlagen/"/>
+    <published>2026-04-03T20:10:10.277572+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/welttheatertag-am-27-marz/</id>
