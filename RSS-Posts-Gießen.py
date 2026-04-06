@@ -488,3 +488,27 @@ if arguments["--force-regenerate"] or (update_count > 0 or delete_count > 0):
     atomfeed = fg.atom_str(pretty=True)
     fg.atom_file(arguments["-f"])
     print("Outfile generated at", arguments["-f"])
+
+# Generate per-hostname Atom feeds
+from collections import defaultdict
+from urllib.parse import urlparse
+
+hostname_entries = defaultdict(list)
+for entry in fg.entry():
+    hostname = urlparse(entry.id()).hostname or "unknown"
+    hostname_entries[hostname].append(entry)
+
+for hostname, entries in hostname_entries.items():
+    fg_host = FeedGenerator()
+    fg_host.id("http://datengraben.com/lokal/{}".format(hostname))
+    fg_host.title("Gießen lokal - {}".format(hostname))
+    fg_host.link(href="http://datengraben.com", rel="alternate")
+    fg_host.link(
+        href="http://datengraben.com/{}.atom.xml".format(hostname), rel="self"
+    )
+    fg_host.language("de")
+    for entry in entries:
+        fg_host.add_entry(entry)
+    outfile = "{}.atom.xml".format(hostname)
+    fg_host.atom_file(outfile)
+    print("Per-hostname feed written to", outfile)
