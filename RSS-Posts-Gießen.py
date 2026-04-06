@@ -44,14 +44,14 @@ DTNOW = datetime.datetime.now()
 # Category tags per source hostname.
 # A source can belong to multiple categories; subscribers can pick one feed.
 HOSTNAME_CATEGORIES = {
-    "werkstattkirche.de":       ["gemeinschaft", "kirche"],
+    "werkstattkirche.de":       ["nachhaltigkeit", "gemeinschaft"],
     "giessen.de":               ["stadt"],
     "www.giessen.de":           ["stadt"],
     "www.swg-konzern.de":       ["stadt", "versorgung"],
     "stadttheater-giessen.de":  ["kultur"],
     "universum-giessen.com":    ["uni"],
     "www.asta-giessen.de":      ["uni"],
-    "hdn-giessen.de":           ["nachhaltigkeit", "umwelt"],
+    "hdn-giessen.de":           ["nachhaltigkeit", "gemeinschaft"],
     "www.muk-giessen.de":       ["kultur"],
 }
 
