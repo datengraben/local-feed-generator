@@ -414,8 +414,12 @@ def import_into_feed(all_posts):
             fe = fg.add_entry()
             fe.id(post["link"])
             fe.title(post["title"])
-            fe.source(post["link"])
-            fe.link(href=post["link"])
+
+            # extract page url with utm params
+            page_url = post['link']
+            page_url += "?utm_source=datengraben.com"
+            fe.source(page_url)
+            fe.link(href=page_url)
 
             fe.author({"name": post["author-name"], "email": post["author-email"]})
 
