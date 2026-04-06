@@ -526,7 +526,7 @@ for hostname, entries in hostname_entries.items():
     fg_host.language("de")
     for entry in entries:
         fg_host.add_entry(entry)
-    outfile = "{}.atom.xml".format(hostname)
+    outfile = "feeds/by-hostname/{}.atom.xml".format(hostname)
     fg_host.atom_file(outfile)
     print("Per-hostname feed written to", outfile)
 
@@ -547,6 +547,6 @@ for category, entries in category_entries.items():
     fg_cat.language("de")
     for entry in entries:
         fg_cat.add_entry(entry)
-    outfile = "kategorie-{}.atom.xml".format(category)
+    outfile = "feeds/by-category/{}.atom.xml".format(category)
     fg_cat.atom_file(outfile)
     print("Per-category feed written to", outfile)
