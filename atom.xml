@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-03T20:10:24.314060+00:00</updated>
+  <updated>2026-04-06T17:18:40.420542+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -15,6 +15,8 @@
       <email>info@hdn-giessen.de</email>
     </author>
     <link href="https://hdn-giessen.de/oeft/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2024-01-25T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -26,6 +28,8 @@
       <email>info@hdn-giessen.de</email>
     </author>
     <link href="https://hdn-giessen.de/fermentier-workshops/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2024-01-25T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -37,6 +41,8 @@
       <email>info@hdn-giessen.de</email>
     </author>
     <link href="https://hdn-giessen.de/gwoeakt/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2024-02-22T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -48,6 +54,8 @@
       <email>info@hdn-giessen.de</email>
     </author>
     <link href="https://hdn-giessen.de/kochworkshop/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2024-03-04T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -59,6 +67,8 @@
       <email>info@hdn-giessen.de</email>
     </author>
     <link href="https://hdn-giessen.de/worldcafe/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2024-09-16T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -70,6 +80,8 @@
       <email>info@hdn-giessen.de</email>
     </author>
     <link href="https://hdn-giessen.de/zukunftsfaehigleben/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2025-03-29T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -81,6 +93,7 @@
       <email>info@asta-giessen.de</email>
     </author>
     <link href="https://www.asta-giessen.de/9105-2/"/>
+    <category term="uni"/>
     <published>2024-06-15T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -92,6 +105,7 @@
       <email>info@asta-giessen.de</email>
     </author>
     <link href="https://www.asta-giessen.de/9131-2/"/>
+    <category term="uni"/>
     <published>2024-06-30T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -103,6 +117,7 @@
       <email>info@asta-giessen.de</email>
     </author>
     <link href="https://www.asta-giessen.de/9370-2/"/>
+    <category term="uni"/>
     <published>2024-09-25T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -114,6 +129,7 @@
       <email>info@asta-giessen.de</email>
     </author>
     <link href="https://www.asta-giessen.de/mensa-takeover-2/"/>
+    <category term="uni"/>
     <published>2024-12-12T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -125,6 +141,7 @@
       <email>info@asta-giessen.de</email>
     </author>
     <link href="https://www.asta-giessen.de/mensa-takeover/"/>
+    <category term="uni"/>
     <published>2025-01-26T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -136,6 +153,7 @@
       <email>info@asta-giessen.de</email>
     </author>
     <link href="https://www.asta-giessen.de/9867-2/"/>
+    <category term="uni"/>
     <published>2025-02-21T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -147,6 +165,7 @@
       <email>info@asta-giessen.de</email>
     </author>
     <link href="https://www.asta-giessen.de/9880-2/"/>
+    <category term="uni"/>
     <published>2025-03-05T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -158,6 +177,7 @@
       <email>info@asta-giessen.de</email>
     </author>
     <link href="https://www.asta-giessen.de/pressemitteilung-sparmassnahmen-an-der-jlu-durch-den-hochschulpakt-und-aufruf-zum-protest-am-28-01-2026/"/>
+    <category term="uni"/>
     <published>2025-12-17T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -169,6 +189,7 @@
       <email>info@asta-giessen.de</email>
     </author>
     <link href="https://www.asta-giessen.de/infovortrag-rund-um-die-erste-wohnung/"/>
+    <category term="uni"/>
     <published>2026-01-17T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -180,6 +201,7 @@
       <email>info@asta-giessen.de</email>
     </author>
     <link href="https://www.asta-giessen.de/zweites-planungstreffen-fuer-eine-gerechte-und-ausfinanzierte-hochschule-nocutsgiessen/"/>
+    <category term="uni"/>
     <published>2026-01-17T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -191,6 +213,7 @@
       <email>universum.giessen@gmail.com</email>
     </author>
     <link href="https://universum-giessen.com/2024/06/05/hochschulwahlen-an-der-jlu-wen-waehlen-wir-da-eigentlich/"/>
+    <category term="uni"/>
     <published>2024-06-05T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -202,6 +225,7 @@
       <email>universum.giessen@gmail.com</email>
     </author>
     <link href="https://universum-giessen.com/2024/06/12/aberglaube-an-der-justus-liebig-universitaet-die-sache-mit-dem-ewigen-studenten/"/>
+    <category term="uni"/>
     <published>2024-06-12T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -213,6 +237,7 @@
       <email>universum.giessen@gmail.com</email>
     </author>
     <link href="https://universum-giessen.com/2024/07/07/erinnerungskultur-in-mittelhessen/"/>
+    <category term="uni"/>
     <published>2024-07-07T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -224,6 +249,7 @@
       <email>universum.giessen@gmail.com</email>
     </author>
     <link href="https://universum-giessen.com/2024/11/24/zuhause-aus-einer-anderen-perspektive-der-alltag-einer-milchkuh/"/>
+    <category term="uni"/>
     <published>2024-11-24T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -235,6 +261,7 @@
       <email>universum.giessen@gmail.com</email>
     </author>
     <link href="https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/"/>
+    <category term="uni"/>
     <published>2025-02-15T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -246,6 +273,7 @@
       <email>universum.giessen@gmail.com</email>
     </author>
     <link href="https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/"/>
+    <category term="uni"/>
     <published>2025-11-19T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -257,6 +285,7 @@
       <email>universum.giessen@gmail.com</email>
     </author>
     <link href="https://universum-giessen.com/2026/02/02/demo-gegen-afd-jugend-in-giessen-friedlich-kreativ-und-bunt/"/>
+    <category term="uni"/>
     <published>2026-02-02T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -268,6 +297,7 @@
       <email>universum.giessen@gmail.com</email>
     </author>
     <link href="https://universum-giessen.com/2026/02/19/kuerzungen-am-fachbereich-04-fussnote/"/>
+    <category term="uni"/>
     <published>2026-02-19T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -279,6 +309,7 @@
       <email>universum.giessen@gmail.com</email>
     </author>
     <link href="https://universum-giessen.com/2026/02/21/universum-unterwegs-dokumentar-und-animationsfilmfestival-leipzig/"/>
+    <category term="uni"/>
     <published>2026-02-21T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -290,6 +321,7 @@
       <email>universum.giessen@gmail.com</email>
     </author>
     <link href="https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/"/>
+    <category term="uni"/>
     <published>2026-02-28T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -300,6 +332,7 @@
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
     <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=2874.584&amp;La=1"/>
+    <category term="stadt"/>
     <published>2024-08-13T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -310,6 +343,7 @@
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
     <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Innenr%C3%A4ume-an-hei%C3%9Fen-Tagen-k%C3%BChl-halten.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67978.1&amp;NavID=2874.584&amp;La=1"/>
+    <category term="stadt"/>
     <published>2024-08-21T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -320,6 +354,7 @@
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
     <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzegefahren-ernst-nehmen-Hitzeaktionstag-am-4-Juni.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.73593.1&amp;NavID=2874.584&amp;La=1"/>
+    <category term="stadt"/>
     <published>2025-06-04T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -330,6 +365,7 @@
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
     <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Anhaltende-Trockenheit-Keine-Wasserentnahme-aus-Seen-Fl%C3%BCssen-und-B%C3%A4chen.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.73787.1&amp;NavID=2874.584&amp;La=1"/>
+    <category term="stadt"/>
     <published>2025-07-02T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -340,6 +376,7 @@
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
     <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Blaualgen-im-Neuen-Teich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67894.1&amp;NavID=2874.584&amp;La=1"/>
+    <category term="stadt"/>
     <published>2025-07-31T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -350,6 +387,7 @@
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
     <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzewelle-worauf-man-achten-sollte-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74054.1&amp;NavID=2874.584&amp;La=1"/>
+    <category term="stadt"/>
     <published>2025-08-13T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -360,6 +398,7 @@
       <name>Stadt - Hitze und Trockenheit</name>
     </author>
     <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Erh%C3%B6hte-Temperaturen-Biofilm-auf-dem-Schwanenteich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74072.1&amp;NavID=2874.584&amp;La=1"/>
+    <category term="stadt"/>
     <published>2025-08-15T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -371,6 +410,7 @@
       <email>museum@giessen.de</email>
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Stadtgeschichte-virtuell-und-lebendig-digitaler-Audiowalk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58246.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <category term="stadt"/>
     <published>2023-04-14T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -382,6 +422,7 @@
       <email>museum@giessen.de</email>
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/museum4punkt0-vor-erfolgreichem-Abschluss.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58346.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <category term="stadt"/>
     <published>2023-05-04T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -393,6 +434,7 @@
       <email>museum@giessen.de</email>
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/1975-Revisited-Gie%C3%9Fen-und-das-Jahr-der-Frau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58347.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <category term="stadt"/>
     <published>2023-05-04T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -404,6 +446,7 @@
       <email>museum@giessen.de</email>
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Die-VideoBox-erz%C3%A4hle-von-deinem-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60323.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <category term="stadt"/>
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -415,6 +458,7 @@
       <email>museum@giessen.de</email>
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Menschliche-Geschichte-bewahren-Innovative-Methode-zur-Konservierung-von-Human-Remains-im-Museum-f%C3%BCr-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74509.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <category term="stadt"/>
     <published>2025-10-20T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -426,6 +470,7 @@
       <email>museum@giessen.de</email>
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Under-Construction-Wie-das-Museum-f%C3%BCr-Gie%C3%9Fen-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74524.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <category term="stadt"/>
     <published>2025-10-23T00:00:00+02:00</published>
   </entry>
   <entry>
@@ -437,6 +482,7 @@
       <email>museum@giessen.de</email>
     </author>
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Sonderausstellung-im-Museum-Under-Construction-Wie-das-Museum-f%C3%BCr-Gie%C3%9Fen-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74737.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
+    <category term="stadt"/>
     <published>2025-11-25T13:13:00+01:00</published>
   </entry>
   <entry>
@@ -448,6 +494,7 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14545_1.PDF?1774964074"/>
+    <category term="stadt"/>
     <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -459,6 +506,7 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14544_1.PDF?1774962362"/>
+    <category term="stadt"/>
     <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
@@ -470,6 +518,7 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14410_1.PDF?1773232977"/>
+    <category term="stadt"/>
     <published>2026-03-12T01:35:00+01:00</published>
   </entry>
   <entry>
@@ -481,6 +530,7 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14475_1.PDF?1773827913"/>
+    <category term="stadt"/>
     <published>2026-03-19T01:35:00+01:00</published>
   </entry>
   <entry>
@@ -492,6 +542,7 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14500_1.PDF?1774450781"/>
+    <category term="stadt"/>
     <published>2026-03-26T01:35:00+01:00</published>
   </entry>
   <entry>
@@ -503,6 +554,7 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14499_1.PDF?1774450781"/>
+    <category term="stadt"/>
     <published>2026-03-26T01:35:00+01:00</published>
   </entry>
   <entry>
@@ -514,6 +566,7 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14506_1.PDF?1774599227"/>
+    <category term="stadt"/>
     <published>2026-03-28T01:35:00+01:00</published>
   </entry>
   <entry>
@@ -525,6 +578,7 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14505_1.PDF?1774599204"/>
+    <category term="stadt"/>
     <published>2026-03-28T01:35:00+01:00</published>
   </entry>
   <entry>
@@ -536,6 +590,7 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14504_1.PDF?1774599250"/>
+    <category term="stadt"/>
     <published>2026-03-28T01:35:00+01:00</published>
   </entry>
   <entry>
@@ -547,7 +602,20 @@
       <email>presse@giessen.de</email>
     </author>
     <link href="http://giessen.de/media/custom/2874_14515_1.PDF?1774607396"/>
+    <category term="stadt"/>
     <published>2026-03-30T00:29:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ostern-im-theater/</id>
+    <title>Ostern im Theater - Unser Programm von Gründonnerstag bis Ostermontag....</title>
+    <updated>2026-04-06T17:18:24.143444+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ostern-im-theater/"/>
+    <category term="kultur"/>
+    <published>2026-04-06T17:18:24.143444+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
@@ -558,6 +626,7 @@
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/"/>
+    <category term="kultur"/>
     <published>2026-01-23T17:08:14+01:00</published>
   </entry>
   <entry>
@@ -569,6 +638,7 @@
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/"/>
+    <category term="kultur"/>
     <published>2026-03-20T15:16:40+01:00</published>
   </entry>
   <entry>
@@ -580,18 +650,8 @@
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/"/>
+    <category term="kultur"/>
     <published>2026-03-13T11:11:46+01:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 4. April - Am nächsten Theatertag zeigen wir "piece #0" im Gr...</title>
-    <updated>2026-02-12T13:31:28+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <published>2026-02-12T13:31:28+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-wahrheit-ist-weder-gut-noch-bose/</id>
@@ -602,6 +662,7 @@
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-wahrheit-ist-weder-gut-noch-bose/"/>
+    <category term="kultur"/>
     <published>2026-03-21T18:07:53+01:00</published>
   </entry>
   <entry>
@@ -613,6 +674,7 @@
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/"/>
+    <category term="kultur"/>
     <published>2026-04-01T07:33:34+02:00</published>
   </entry>
   <entry>
@@ -624,18 +686,20 @@
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wie-spricht-widerstand/"/>
+    <category term="kultur"/>
     <published>2026-03-18T16:28:46+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wenn-gedanken-funken-schlagen/</id>
     <title>Wenn Gedanken Funken schlagen - „Junge Tanzwerkstatt“ lädt junge Menschen zum Mitgestalten d...</title>
-    <updated>2026-04-03T20:10:10.277572+02:00</updated>
+    <updated>2026-04-03T20:10:10+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wenn-gedanken-funken-schlagen/"/>
-    <published>2026-04-03T20:10:10.277572+02:00</published>
+    <category term="kultur"/>
+    <published>2026-04-03T20:10:10+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/welttheatertag-am-27-marz/</id>
@@ -646,6 +710,7 @@
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/welttheatertag-am-27-marz/"/>
+    <category term="kultur"/>
     <published>2026-03-27T10:17:34+01:00</published>
   </entry>
   <entry>
@@ -657,6 +722,7 @@
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/"/>
+    <category term="kultur"/>
     <published>2026-03-27T10:17:34+01:00</published>
   </entry>
   <entry>
@@ -668,6 +734,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kreatives-Handwerk-Accessoires-und-Schmuck-aus-alten-Skateboards-bauen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75710.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-23T10:22:00+01:00</published>
   </entry>
   <entry>
@@ -679,6 +746,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-R%C3%B6dgen-ab-14-11-wieder-ge%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-24T08:16:00+01:00</published>
   </entry>
   <entry>
@@ -690,6 +758,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kurs-Perspektive-P%C3%A4dagogik-bereitet-Migrantinnen-auf-das-Berufsfeld-P%C3%A4dagogik-vor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75731.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-24T09:19:00+01:00</published>
   </entry>
   <entry>
@@ -701,6 +770,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Mensa-f%C3%BCr-die-Ludwig-Uhland-Schule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75732.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-24T12:17:00+01:00</published>
   </entry>
   <entry>
@@ -712,6 +782,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rmeausbau-geht-voran.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75733.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-24T13:32:00+01:00</published>
   </entry>
   <entry>
@@ -723,6 +794,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-abpflastern-2026-Machen-Sie-mit-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75734.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-24T14:27:00+01:00</published>
   </entry>
   <entry>
@@ -734,6 +806,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Damit-nichts-schiefl%C3%A4uft-kostenfreie-Datenschutz-und-DSGVO-Workshopreihe-f%C3%BCr-Gr%C3%BCnder-innen-und-Unternehmer-innen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75735.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-24T14:27:00+01:00</published>
   </entry>
   <entry>
@@ -745,6 +818,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Osterferien-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73782.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-24T16:24:00+01:00</published>
   </entry>
   <entry>
@@ -756,6 +830,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-gew%C3%A4hlt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75495.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-15T09:25:00+01:00</published>
   </entry>
   <entry>
@@ -767,6 +842,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalarbeiten-in-Kleinlinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75797.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-26T09:22:00+01:00</published>
   </entry>
   <entry>
@@ -778,6 +854,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Naturschutzwanderungen-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73446.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-26T09:22:00+01:00</published>
   </entry>
   <entry>
@@ -789,6 +866,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Fernw%C3%A4rme-f%C3%BCr-Wieseck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75798.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-26T10:21:00+01:00</published>
   </entry>
   <entry>
@@ -800,6 +878,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Osterspiel-in-der-Innenstadt-Mitmachen-entdecken-und-gewinnen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75812.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-27T09:19:00+01:00</published>
   </entry>
   <entry>
@@ -811,6 +890,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gastfamilien-f%C3%BCr-Austauschsch%C3%BCler-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75814.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-30T04:58:00+02:00</published>
   </entry>
   <entry>
@@ -822,6 +902,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenmerkblatt-Was-ist-erlaubt-Was-ist-verboten-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73345.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-30T10:30:00+02:00</published>
   </entry>
   <entry>
@@ -833,6 +914,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tanzwerkstatt-Feuerwerksk%C3%B6rper-f%C3%BCr-alle-ab-11-Jahren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75818.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-30T12:20:00+02:00</published>
   </entry>
   <entry>
@@ -844,6 +926,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-31T13:33:00+02:00</published>
   </entry>
   <entry>
@@ -855,6 +938,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Premiere-beim-Gie%C3%9Fener-Kultursommer-Schiffenberg-Classics-mit-erweitertem-Sitzplatzkontingent.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75826.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-31T14:32:00+02:00</published>
   </entry>
   <entry>
@@ -866,6 +950,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kostenlose-Energieberatung-im-Stadtteil-Allendorf-Lahn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75827.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-31T14:32:00+02:00</published>
   </entry>
   <entry>
@@ -877,6 +962,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wilhelm-Liebknecht-zum-200-Ein-Geburtstag-viele-Stimmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75829.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-03-31T17:22:00+02:00</published>
   </entry>
   <entry>
@@ -888,6 +974,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eingeschr%C3%A4nkte-%C3%96ffnungszeiten-%C3%BCber-Ostern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75879.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-04-01T09:27:00+02:00</published>
   </entry>
   <entry>
@@ -899,6 +986,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Basilika-Besichtigungen-auf-dem-Schiffenberg-starten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73427.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-04-01T10:23:00+02:00</published>
   </entry>
   <entry>
@@ -910,6 +998,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-f%C3%BCr-mehr-Integration.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75880.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-04-01T12:20:00+02:00</published>
   </entry>
   <entry>
@@ -921,6 +1010,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-St%C3%BCck-Gie%C3%9Fen-f%C3%BCr-jeden-Tag-neue-Brotdose-mit-Stadtkirchenturm.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75881.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-04-01T13:32:00+02:00</published>
   </entry>
   <entry>
@@ -932,6 +1022,7 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-zieht-Bilanz-der-Verkehrs%C3%BCberwachung-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75885.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
     <published>2026-04-02T11:18:00+02:00</published>
   </entry>
   <entry>
@@ -943,6 +1034,8 @@
       <email>info@werkstattkirche.de</email>
     </author>
     <link href="https://werkstattkirche.de/adventssingen-2023/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2023-12-04T20:16:56+01:00</published>
   </entry>
   <entry>
@@ -954,6 +1047,8 @@
       <email>info@werkstattkirche.de</email>
     </author>
     <link href="https://werkstattkirche.de/weihnachtsgruss-2023/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2023-12-12T18:34:00+01:00</published>
   </entry>
   <entry>
@@ -965,6 +1060,8 @@
       <email>info@werkstattkirche.de</email>
     </author>
     <link href="https://werkstattkirche.de/supp-und-schwaetze-fruehjahr-2024/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2024-03-12T12:00:00+01:00</published>
   </entry>
   <entry>
@@ -976,6 +1073,8 @@
       <email>info@werkstattkirche.de</email>
     </author>
     <link href="https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2024-05-08T20:03:32+02:00</published>
   </entry>
   <entry>
@@ -987,6 +1086,8 @@
       <email>info@werkstattkirche.de</email>
     </author>
     <link href="https://werkstattkirche.de/kleidertauschparty-im-jokus/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2024-05-24T20:10:57+02:00</published>
   </entry>
   <entry>
@@ -998,6 +1099,8 @@
       <email>info@werkstattkirche.de</email>
     </author>
     <link href="https://werkstattkirche.de/sommerkirche-im-hof-der-werkstattkirche/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2024-06-26T19:58:00+02:00</published>
   </entry>
   <entry>
@@ -1009,6 +1112,8 @@
       <email>info@werkstattkirche.de</email>
     </author>
     <link href="https://werkstattkirche.de/koenig-pimp-und-die-mompeln-und-weiter-termine-sommer-2024/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2024-07-12T12:00:00+02:00</published>
   </entry>
   <entry>
@@ -1020,6 +1125,8 @@
       <email>info@werkstattkirche.de</email>
     </author>
     <link href="https://werkstattkirche.de/basteln-bei-st-thomas-morus/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2024-10-01T15:17:02+02:00</published>
   </entry>
   <entry>
@@ -1031,6 +1138,8 @@
       <email>info@werkstattkirche.de</email>
     </author>
     <link href="https://werkstattkirche.de/letztes-mal-supp-und-schwaetze-fuer-2024-im-hof-der-werkstattkirche/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2024-10-04T15:27:05+02:00</published>
   </entry>
   <entry>
@@ -1042,6 +1151,8 @@
       <email>info@werkstattkirche.de</email>
     </author>
     <link href="https://werkstattkirche.de/werkstattkirche-ist-kooperationspartner-des-giessener-bilderbuch-festivals/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2025-03-25T12:00:18+01:00</published>
   </entry>
   <entry>
@@ -1053,6 +1164,8 @@
       <email>info@werkstattkirche.de</email>
     </author>
     <link href="https://werkstattkirche.de/supp-un-schwaetze-geht-in-die-naechste-runde/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2025-04-28T12:21:24+02:00</published>
   </entry>
   <entry>
@@ -1064,6 +1177,8 @@
       <email>info@werkstattkirche.de</email>
     </author>
     <link href="https://werkstattkirche.de/supp-un-schwaetze-in-der-zeitung/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2025-04-29T12:31:09+02:00</published>
   </entry>
   <entry>
@@ -1075,6 +1190,8 @@
       <email>info@werkstattkirche.de</email>
     </author>
     <link href="https://werkstattkirche.de/supp-un-schwaetze-in-der-zeitung/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
     <published>2025-04-29T12:31:09+02:00</published>
   </entry>
 </feed>
