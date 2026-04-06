@@ -59,19 +59,21 @@ Shorthand for `BeautifulSoup(s, features="lxml")`.
 
 ### Scraped Sources
 
-| Author Name | URL | Method |
-|---|---|---|
-| Werkstatt-Kirche | `werkstattkirche.de/neuigkeiten/` | HTML — `article h4 > a`, `time[datetime]` |
-| Stadt - Aktuelle Meldungen | `giessen.de/…/Aktuelle-Meldungen/…` | HTML — `article h4`, `small.date` |
-| SWG | `swg-konzern.de/presse/archiv/jahr/{year}` | HTML — `.news-list > a`, `time[datetime]` |
-| Stadttheater | `stadttheater-giessen.de/…/load_magazine` | JSON API — `data[].title`, `data[].url` |
-| Stadt - Amtliche Bekanntmachungen | `giessen.de/…/Amtliche-Bekanntmachungen/` | HTML — `.main-content-area ul > li` |
-| Oberhessisches Museum | `giessen.de/…/Oberhessisches-Museum/…` | HTML — `article h4.liste-titel`, `small.date` |
-| Stadt - Hitze und Trockenheit | `giessen.de/…/NavID=2874.584.1` | HTML — `section.mitteilungen > article` |
-| Universum - Onlinemagazin der JLU | `universum-giessen.com/` | HTML — `article h2`, `div[itemprop=datePublished]` |
-| Asta - Uni Gießen | `asta-giessen.de/` | HTML — `article.post`, `time[itemprop=datePublished]` |
-| Haus der Nachhaltigkeit | `hdn-giessen.de/aktuelles-2` | HTML — `article.elementor-post` |
-| MuK Gießen | `muk-giessen.de/feed/` | Native RSS feed via `feedparser` (`scraper/muk.py`) |
+| Author Name | URL | Categories | Method |
+|---|---|---|---|
+| Werkstatt-Kirche | `werkstattkirche.de/neuigkeiten/` | gemeinschaft, kirche | HTML — `article h4 > a`, `time[datetime]` |
+| Stadt - Aktuelle Meldungen | `giessen.de/…/Aktuelle-Meldungen/…` | stadt | HTML — `article h4`, `small.date` |
+| SWG | `swg-konzern.de/presse/archiv/jahr/{year}` | stadt, versorgung | HTML — `.news-list > a`, `time[datetime]` |
+| Stadttheater | `stadttheater-giessen.de/…/load_magazine` | kultur | JSON API — `data[].title`, `data[].url` |
+| Stadt - Amtliche Bekanntmachungen | `giessen.de/…/Amtliche-Bekanntmachungen/` | stadt | HTML — `.main-content-area ul > li` |
+| Oberhessisches Museum | `giessen.de/…/Oberhessisches-Museum/…` | stadt | HTML — `article h4.liste-titel`, `small.date` |
+| Stadt - Hitze und Trockenheit | `giessen.de/…/NavID=2874.584.1` | stadt | HTML — `section.mitteilungen > article` |
+| Universum - Onlinemagazin der JLU | `universum-giessen.com/` | uni | HTML — `article h2`, `div[itemprop=datePublished]` |
+| Asta - Uni Gießen | `asta-giessen.de/` | uni | HTML — `article.post`, `time[itemprop=datePublished]` |
+| Haus der Nachhaltigkeit | `hdn-giessen.de/aktuelles-2` | nachhaltigkeit, umwelt | HTML — `article.elementor-post` |
+| MuK Gießen | `muk-giessen.de/feed/` | kultur | Native RSS feed via `feedparser` (`scraper/muk.py`) |
+
+Categories are defined in `HOSTNAME_CATEGORIES` (top of script) as a `hostname → [category, ...]` mapping. A source can belong to multiple categories. Sources with no entry in the map produce no `<category>` tags and won't appear in any per-category feed.
 
 ### Feed Generation Pipeline
 
@@ -125,4 +127,8 @@ On each run the script reads the existing `atom.xml` with `feedparser` and resto
 
 ## Per-Hostname RSS Files
 
-In addition to the combined `atom.xml`, the script generates one Atom file per source hostname (e.g. `werkstattkirche.de.atom.xml`). These are written unconditionally at the end of each run and can be used to subscribe to a single source.
+In addition to the combined `atom.xml`, the script generates one Atom file per source hostname (e.g. `werkstattkirche.de.atom.xml`). These are written unconditionally at the end of each run.
+
+## Per-Category RSS Files
+
+After the hostname feeds, the script also generates one Atom file per category (e.g. `kategorie-kultur.atom.xml`). Categories are read from `<category>` tags on each `FeedEntry`, which were set during `import_into_feed` via `HOSTNAME_CATEGORIES`. A single entry can appear in multiple category feeds if its source hostname maps to multiple categories (e.g. SWG → `kategorie-stadt.atom.xml` and `kategorie-versorgung.atom.xml`).

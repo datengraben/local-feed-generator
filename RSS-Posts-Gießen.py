@@ -17,7 +17,9 @@ import html
 import json
 import locale
 import random
+from collections import defaultdict
 from json.decoder import JSONDecodeError
+from urllib.parse import urlparse
 
 import bs4
 import feedparser
@@ -38,6 +40,20 @@ locale.setlocale(
 )
 
 DTNOW = datetime.datetime.now()
+
+# Category tags per source hostname.
+# A source can belong to multiple categories; subscribers can pick one feed.
+HOSTNAME_CATEGORIES = {
+    "werkstattkirche.de":       ["gemeinschaft", "kirche"],
+    "giessen.de":               ["stadt"],
+    "www.giessen.de":           ["stadt"],
+    "www.swg-konzern.de":       ["stadt", "versorgung"],
+    "stadttheater-giessen.de":  ["kultur"],
+    "universum-giessen.com":    ["uni"],
+    "www.asta-giessen.de":      ["uni"],
+    "hdn-giessen.de":           ["nachhaltigkeit", "umwelt"],
+    "www.muk-giessen.de":       ["kultur"],
+}
 
 # mock browser headers
 headers = {
@@ -403,6 +419,10 @@ def import_into_feed(all_posts):
 
             fe.author({"name": post["author-name"], "email": post["author-email"]})
 
+            hostname = urlparse(post["link"]).hostname or ""
+            for cat in HOSTNAME_CATEGORIES.get(hostname, []):
+                fe.category({"term": cat})
+
             date_posted = post["date-posted"]
 
             # Fix datetime objects when struct_time
@@ -490,9 +510,6 @@ if arguments["--force-regenerate"] or (update_count > 0 or delete_count > 0):
     print("Outfile generated at", arguments["-f"])
 
 # Generate per-hostname Atom feeds
-from collections import defaultdict
-from urllib.parse import urlparse
-
 hostname_entries = defaultdict(list)
 for entry in fg.entry():
     hostname = urlparse(entry.id()).hostname or "unknown"
@@ -512,3 +529,24 @@ for hostname, entries in hostname_entries.items():
     outfile = "{}.atom.xml".format(hostname)
     fg_host.atom_file(outfile)
     print("Per-hostname feed written to", outfile)
+
+# Generate per-category Atom feeds
+category_entries = defaultdict(list)
+for entry in fg.entry():
+    for cat in entry.category():
+        category_entries[cat["term"]].append(entry)
+
+for category, entries in category_entries.items():
+    fg_cat = FeedGenerator()
+    fg_cat.id("http://datengraben.com/lokal/kategorie/{}".format(category))
+    fg_cat.title("Gießen lokal - {}".format(category))
+    fg_cat.link(href="http://datengraben.com", rel="alternate")
+    fg_cat.link(
+        href="http://datengraben.com/kategorie-{}.atom.xml".format(category), rel="self"
+    )
+    fg_cat.language("de")
+    for entry in entries:
+        fg_cat.add_entry(entry)
+    outfile = "kategorie-{}.atom.xml".format(category)
+    fg_cat.atom_file(outfile)
+    print("Per-category feed written to", outfile)
