@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-06T17:18:40.420542+00:00</updated>
+  <updated>2026-04-07T05:35:56.509126+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -608,14 +608,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/ostern-im-theater/</id>
     <title>Ostern im Theater - Unser Programm von Gründonnerstag bis Ostermontag....</title>
-    <updated>2026-04-06T17:18:24.143444+02:00</updated>
+    <updated>2026-04-06T17:18:24+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ostern-im-theater/"/>
     <category term="kultur"/>
-    <published>2026-04-06T17:18:24.143444+02:00</published>
+    <published>2026-04-06T17:18:24+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
@@ -724,6 +724,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/"/>
     <category term="kultur"/>
     <published>2026-03-27T10:17:34+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eine-fr%C3%BChlingshafte-Verwandlung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75709.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Eine frühlingshafte Verwandlung</title>
+    <updated>2026-03-23T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eine-fr%C3%BChlingshafte-Verwandlung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75709.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-03-23T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kreatives-Handwerk-Accessoires-und-Schmuck-aus-alten-Skateboards-bauen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75710.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -916,18 +928,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tanzwerkstatt-Feuerwerksk%C3%B6rper-f%C3%BCr-alle-ab-11-Jahren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75818.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-03-30T12:20:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>+++Update+++ Einschränkungen auf der A485/A45 - Gießener Südkreuz</title>
-    <updated>2026-03-31T13:33:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-03-31T13:33:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Premiere-beim-Gie%C3%9Fener-Kultursommer-Schiffenberg-Classics-mit-erweitertem-Sitzplatzkontingent.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75826.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
