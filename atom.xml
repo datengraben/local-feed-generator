@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-10T09:29:32.777522+00:00</updated>
+  <updated>2026-04-10T10:23:45.816402+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -606,18 +606,6 @@
     <published>2026-03-30T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/ostern-im-theater/</id>
-    <title>Ostern im Theater - Unser Programm von Gründonnerstag bis Ostermontag....</title>
-    <updated>2026-04-06T17:18:24+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/ostern-im-theater/"/>
-    <category term="kultur"/>
-    <published>2026-04-06T17:18:24+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
     <title>Schiffenberg Classics: Philharmonisches Orchester Gießen beim Kultursommer 2026 - Geballter Orchestersound im einzigartigen Ambiente: Das Phil...</title>
     <updated>2026-01-23T17:08:14+01:00</updated>
@@ -712,6 +700,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/welttheatertag-am-27-marz/"/>
     <category term="kultur"/>
     <published>2026-03-27T10:17:34+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/das-penismuseum-der-letzte-himmel-meine-suche-nach-palastina/</id>
+    <title>Das Pen!smuseum &amp; Der letzte Himmel - Zwei Lesungen im April, die im Gedächnis bleiben – weil sie ...</title>
+    <updated>2026-04-10T10:23:31.046789+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/das-penismuseum-der-letzte-himmel-meine-suche-nach-palastina/"/>
+    <category term="kultur"/>
+    <published>2026-04-10T10:23:31.046789+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/</id>
