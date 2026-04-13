@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-13T09:37:41.973992+00:00</updated>
+  <updated>2026-04-13T14:35:54.570020+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -714,18 +714,6 @@
     <published>2026-03-27T10:17:34+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gastfamilien-f%C3%BCr-Austauschsch%C3%BCler-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75814.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gastfamilien für Austauschschüler gesucht</title>
-    <updated>2026-03-30T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gastfamilien-f%C3%BCr-Austauschsch%C3%BCler-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75814.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-03-30T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gartenmerkblatt-Was-ist-erlaubt-Was-ist-verboten-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73345.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Gartenmerkblatt: Was ist erlaubt? Was ist verboten?</title>
     <updated>2026-03-30T00:00:00+02:00</updated>
@@ -1012,6 +1000,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wir-st%C3%A4rken-die-Integrationsstrukturen-vor-Ort.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75957.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-04-13T09:37:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Gie%C3%9Fener-Weihnachtskugel-2026-Jetzt-abstimmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75958.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Die Gießener Weihnachtskugel 2026: Jetzt abstimmen!</title>
+    <updated>2026-04-13T14:35:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Gie%C3%9Fener-Weihnachtskugel-2026-Jetzt-abstimmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75958.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-04-13T14:35:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
