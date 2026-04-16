@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-16T13:35:12.540471+00:00</updated>
+  <updated>2026-04-16T14:37:23.167252+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -203,6 +203,126 @@
     <link href="https://www.asta-giessen.de/zweites-planungstreffen-fuer-eine-gerechte-und-ausfinanzierte-hochschule-nocutsgiessen/"/>
     <category term="uni"/>
     <published>2026-01-17T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2024/06/12/aberglaube-an-der-justus-liebig-universitaet-die-sache-mit-dem-ewigen-studenten/</id>
+    <title>Aberglaube an der Justus-Liebig-Universität? Die Sache mit dem ewigen Studenten</title>
+    <updated>2024-06-12T00:00:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2024/06/12/aberglaube-an-der-justus-liebig-universitaet-die-sache-mit-dem-ewigen-studenten/"/>
+    <category term="uni"/>
+    <published>2024-06-12T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2024/07/07/erinnerungskultur-in-mittelhessen/</id>
+    <title>Erinnerungskultur in Mittelhessen</title>
+    <updated>2024-07-07T00:00:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2024/07/07/erinnerungskultur-in-mittelhessen/"/>
+    <category term="uni"/>
+    <published>2024-07-07T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2024/11/24/zuhause-aus-einer-anderen-perspektive-der-alltag-einer-milchkuh/</id>
+    <title>Zuhause aus einer anderen Perspektive: Der Alltag einer Milchkuh</title>
+    <updated>2024-11-24T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2024/11/24/zuhause-aus-einer-anderen-perspektive-der-alltag-einer-milchkuh/"/>
+    <category term="uni"/>
+    <published>2024-11-24T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/</id>
+    <title>UNIversum testet: Veganfreundliche und vegane Cafés in Gießen</title>
+    <updated>2025-02-15T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/"/>
+    <category term="uni"/>
+    <published>2025-02-15T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/</id>
+    <title>Audiobeitrag: Die Demokratische Republik Georgien und das Deutsche Kaiserreich</title>
+    <updated>2025-11-19T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/"/>
+    <category term="uni"/>
+    <published>2025-11-19T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/02/02/demo-gegen-afd-jugend-in-giessen-friedlich-kreativ-und-bunt/</id>
+    <title>Demo gegen AfD-Jugend in Gießen: Friedlich, kreativ und bunt</title>
+    <updated>2026-02-02T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/02/02/demo-gegen-afd-jugend-in-giessen-friedlich-kreativ-und-bunt/"/>
+    <category term="uni"/>
+    <published>2026-02-02T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/02/19/kuerzungen-am-fachbereich-04-fussnote/</id>
+    <title>Kürzungen am Fachbereich 04 – Fußnote</title>
+    <updated>2026-02-19T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/02/19/kuerzungen-am-fachbereich-04-fussnote/"/>
+    <category term="uni"/>
+    <published>2026-02-19T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/02/21/universum-unterwegs-dokumentar-und-animationsfilmfestival-leipzig/</id>
+    <title>UNIversum unterwegs: Dokumentar- und Animationsfilmfestival Leipzig</title>
+    <updated>2026-02-21T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/02/21/universum-unterwegs-dokumentar-und-animationsfilmfestival-leipzig/"/>
+    <category term="uni"/>
+    <published>2026-02-21T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/</id>
+    <title>„Trains“ – Ein Statement ohne Worte auf der DOK Leipzig</title>
+    <updated>2026-02-28T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/"/>
+    <category term="uni"/>
+    <published>2026-02-28T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/</id>
+    <title>DOK Leipzig: Wenn wir nicht lachen würden</title>
+    <updated>2026-04-15T14:37:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/"/>
+    <category term="uni"/>
+    <published>2026-04-15T14:37:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=2874.584&amp;La=1</id>
@@ -594,6 +714,18 @@
     <published>2026-03-27T10:17:34+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wilhelm-Liebknecht-zum-200-Ein-Geburtstag-viele-Stimmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75829.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Wilhelm Liebknecht zum 200. - Ein Geburtstag, viele Stimmen</title>
+    <updated>2026-03-31T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wilhelm-Liebknecht-zum-200-Ein-Geburtstag-viele-Stimmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75829.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-03-31T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Basilika-Besichtigungen-auf-dem-Schiffenberg-starten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73427.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Basilika-Besichtigungen auf dem Schiffenberg starten</title>
     <updated>2026-04-01T00:00:00+02:00</updated>
@@ -748,18 +880,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-warnen-vor-Betr%C3%BCgern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75935.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-04-09T19:28:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/10-Fragen-an-Nadia-Ismail-Martin-Schepers-und-J%C3%B6rg-Wagner-aus-dem-Projektteam-%C3%96kologie-der-Geister-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75950.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>10 Fragen an Nadia Ismail, Martin Schepers und Jörg Wagner aus dem Projektteam »Ökologie der Geister«</title>
-    <updated>2026-04-10T07:34:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/10-Fragen-an-Nadia-Ismail-Martin-Schepers-und-J%C3%B6rg-Wagner-aus-dem-Projektteam-%C3%96kologie-der-Geister-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75950.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-10T07:34:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Klimaschutz-und-Energiebericht-2025-Einladung-zur-%C3%B6ffentlichen-Vorstellung-mit-Feedbackdialog.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75951.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
