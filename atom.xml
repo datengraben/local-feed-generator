@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-19T14:15:57.609763+00:00</updated>
+  <updated>2026-04-19T22:10:28.727764+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -484,18 +484,6 @@
     <link href="http://giessen.de/media/custom/2874_14544_1.PDF?1774962362"/>
     <category term="stadt"/>
     <published>2020-11-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14475_1.PDF?1773827913</id>
-    <title>Haushaltssatzung und Bekanntmachung der Haushaltssatzung der Universitätsstadt Gießen</title>
-    <updated>2026-03-19T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14475_1.PDF?1773827913"/>
-    <category term="stadt"/>
-    <published>2026-03-19T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_14500_1.PDF?1774450781</id>
