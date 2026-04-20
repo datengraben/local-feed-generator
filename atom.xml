@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-20T12:26:41.881173+00:00</updated>
+  <updated>2026-04-20T14:36:53.997717+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -690,18 +690,6 @@
     <published>2026-03-27T10:17:34+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-f%C3%BCr-mehr-Integration.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75880.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gemeinsam für mehr Integration</title>
-    <updated>2026-04-01T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-f%C3%BCr-mehr-Integration.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75880.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-01T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-St%C3%BCck-Gie%C3%9Fen-f%C3%BCr-jeden-Tag-neue-Brotdose-mit-Stadtkirchenturm.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75881.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Ein Stück Gießen für jeden Tag - neue Brotdose mit Stadtkirchenturm</title>
     <updated>2026-04-01T00:00:00+02:00</updated>
@@ -988,6 +976,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-in-der-City-2026-Bewegen-mitmachen-Spa%C3%9F-haben-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76037.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-04-20T12:26:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Vortr%C3%A4ge-rund-um-Digitalisierung-und-KI.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76038.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Online-Vorträge rund um Digitalisierung und KI</title>
+    <updated>2026-04-20T14:36:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Vortr%C3%A4ge-rund-um-Digitalisierung-und-KI.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76038.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-04-20T14:36:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
