@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-20T14:36:53.997717+00:00</updated>
+  <updated>2026-04-21T10:32:04.632940+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -690,30 +690,6 @@
     <published>2026-03-27T10:17:34+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-St%C3%BCck-Gie%C3%9Fen-f%C3%BCr-jeden-Tag-neue-Brotdose-mit-Stadtkirchenturm.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75881.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Ein Stück Gießen für jeden Tag - neue Brotdose mit Stadtkirchenturm</title>
-    <updated>2026-04-01T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-St%C3%BCck-Gie%C3%9Fen-f%C3%BCr-jeden-Tag-neue-Brotdose-mit-Stadtkirchenturm.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75881.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-01T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-zieht-Bilanz-der-Verkehrs%C3%BCberwachung-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75885.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Stadt zieht Bilanz der Verkehrsüberwachung 2025</title>
-    <updated>2026-04-02T19:28:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-zieht-Bilanz-der-Verkehrs%C3%BCberwachung-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75885.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-02T19:28:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Naturgarten-entdecken-Natur-erleben-Vielfalt-begreifen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75917.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>»Naturgarten entdecken« - Natur erleben, Vielfalt begreifen</title>
     <updated>2026-04-07T19:28:00+02:00</updated>
@@ -988,6 +964,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Vortr%C3%A4ge-rund-um-Digitalisierung-und-KI.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76038.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-04-20T14:36:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Umwelt-und-Klimaschutzpreis-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73560.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Bewerbungszeitraum für den Umwelt- und Klimaschutzpreis 2026 startet</title>
+    <updated>2026-04-21T10:31:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Umwelt-und-Klimaschutzpreis-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73560.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-04-21T10:31:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OpenCall-Erinnern-an-US-Amerika.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76059.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>OpenCall - Erinnern an US-Amerika</title>
+    <updated>2026-04-21T10:31:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/OpenCall-Erinnern-an-US-Amerika.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76059.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-04-21T10:31:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
