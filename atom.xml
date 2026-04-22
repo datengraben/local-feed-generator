@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-21T10:32:04.632940+00:00</updated>
+  <updated>2026-04-22T14:35:46.570931+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -438,18 +438,6 @@
     <published>2023-06-06T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Under-Construction-Wie-das-Museum-f%C3%BCr-Gie%C3%9Fen-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74524.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
-    <title>Under Construction. Wie das Museum für Gießen entsteht</title>
-    <updated>2025-10-23T00:00:00+02:00</updated>
-    <author>
-      <name>Oberhessisches Museum</name>
-      <email>museum@giessen.de</email>
-    </author>
-    <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Under-Construction-Wie-das-Museum-f%C3%BCr-Gie%C3%9Fen-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74524.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
-    <category term="stadt"/>
-    <published>2025-10-23T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Sonderausstellung-im-Museum-Under-Construction-Wie-das-Museum-f%C3%BCr-Gie%C3%9Fen-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74737.1&amp;NavID=1894.209&amp;La=1&amp;call=suche</id>
     <title>Sonderausstellung im Museum: Under Construction. Wie das Museum für Gießen entsteht</title>
     <updated>2025-11-25T00:00:00+01:00</updated>
@@ -690,6 +678,18 @@
     <published>2026-03-27T10:17:34+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-zieht-Bilanz-der-Verkehrs%C3%BCberwachung-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75885.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Stadt zieht Bilanz der Verkehrsüberwachung 2025</title>
+    <updated>2026-04-02T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-zieht-Bilanz-der-Verkehrs%C3%BCberwachung-2025.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75885.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-04-02T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Naturgarten-entdecken-Natur-erleben-Vielfalt-begreifen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75917.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>»Naturgarten entdecken« - Natur erleben, Vielfalt begreifen</title>
     <updated>2026-04-07T19:28:00+02:00</updated>
@@ -758,18 +758,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jugendverkehrsschule-%C3%B6ffnet-nach-den-Osterferien-wieder-f%C3%BCr-freies-%C3%9Cben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75927.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-08T19:28:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lesung-Der-Junge-mit-der-Mundharmonika-Aus-dem-Ghetto-Theresienstadt-mit-dem-Zug-in-die-Freiheit-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75928.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Lesung »Der Junge mit der Mundharmonika: Aus dem Ghetto Theresienstadt mit dem Zug in die Freiheit«</title>
-    <updated>2026-04-08T19:28:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lesung-Der-Junge-mit-der-Mundharmonika-Aus-dem-Ghetto-Theresienstadt-mit-dem-Zug-in-die-Freiheit-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75928.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-04-08T19:28:00+02:00</published>
   </entry>
