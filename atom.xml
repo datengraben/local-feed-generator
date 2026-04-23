@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-23T14:47:23.437418+00:00</updated>
+  <updated>2026-04-23T15:36:35.111870+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -556,6 +556,18 @@
     <link href="http://giessen.de/media/custom/2874_14621_1.PDF?1776093808"/>
     <category term="stadt"/>
     <published>2026-04-14T00:33:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14805_1.PDF?1776955730</id>
+    <title>Nachrücker für die Stadtverordnetenversammlung</title>
+    <updated>2026-04-16T15:36:00+02:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14805_1.PDF?1776955730"/>
+    <category term="stadt"/>
+    <published>2026-04-16T15:36:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
