@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-24T10:33:05.757672+00:00</updated>
+  <updated>2026-04-24T11:27:19.293130+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -450,30 +450,6 @@
     <published>2025-11-25T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/media/custom/2874_14545_1.PDF?1774964074</id>
-    <title>Nachrücker für den Ortsbeirat Gießen-Allendorf</title>
-    <updated>2020-11-30T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14545_1.PDF?1774964074"/>
-    <category term="stadt"/>
-    <published>2020-11-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14544_1.PDF?1774962362</id>
-    <title>Widmung einer Verkehrsfläche als öffentlicher Fuß- und Radweg</title>
-    <updated>2020-11-30T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14544_1.PDF?1774962362"/>
-    <category term="stadt"/>
-    <published>2020-11-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/media/custom/2874_14500_1.PDF?1774450781</id>
     <title>Bauleitplanung: Erlass des vorhabenbezogenen Bebauungsplans Nr. SCH 08/04 "Erweiterung Firma BIEBER + MARBURG II"</title>
     <updated>2026-03-26T00:00:00+01:00</updated>
@@ -544,6 +520,30 @@
     <link href="http://giessen.de/media/custom/2874_14515_1.PDF?1774607396"/>
     <category term="stadt"/>
     <published>2026-03-30T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14545_1.PDF?1774964074</id>
+    <title>Nachrücker für den Ortsbeirat Gießen-Allendorf</title>
+    <updated>2020-11-30T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14545_1.PDF?1774964074"/>
+    <category term="stadt"/>
+    <published>2020-11-30T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/media/custom/2874_14544_1.PDF?1774962362</id>
+    <title>Widmung einer Verkehrsfläche als öffentlicher Fuß- und Radweg</title>
+    <updated>2020-11-30T00:00:00+01:00</updated>
+    <author>
+      <name>Stadt - Amtliche Bekanntmachungen</name>
+      <email>presse@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/media/custom/2874_14544_1.PDF?1774962362"/>
+    <category term="stadt"/>
+    <published>2020-11-30T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/media/custom/2874_14621_1.PDF?1776093808</id>
@@ -688,18 +688,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/"/>
     <category term="kultur"/>
     <published>2026-03-27T10:17:34+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Anmelde-Nachmittag-der-Volkshochschule-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75933.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Anmelde-Nachmittag der Volkshochschule Gießen</title>
-    <updated>2026-04-09T19:28:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Anmelde-Nachmittag-der-Volkshochschule-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75933.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-09T19:28:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-warnen-vor-Betr%C3%BCgern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75935.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -988,6 +976,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Aktion-Fr%C3%BChjahrsputz-am-Bahnhof.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76102.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-04-24T10:32:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fortbildung-Suchtpr%C3%A4vention-in-der-Jugendarbeit-II-Vertiefung-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76103.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fortbildung »Suchtprävention in der Jugendarbeit II - Vertiefung«</title>
+    <updated>2026-04-24T11:27:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fortbildung-Suchtpr%C3%A4vention-in-der-Jugendarbeit-II-Vertiefung-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76103.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-04-24T11:27:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
