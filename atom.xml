@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-27T08:53:14.490733+00:00</updated>
+  <updated>2026-04-27T10:41:05.108897+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -644,14 +644,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zungenkusse-statt-schulterklopfen/</id>
     <title>Zungenküsse statt Schulterklopfen - Was passiert, wenn Freundschaft, Liebe und Begehren ineinand...</title>
-    <updated>2026-04-27T08:52:55.275044+02:00</updated>
+    <updated>2026-04-27T08:52:55+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zungenkusse-statt-schulterklopfen/"/>
     <category term="kultur"/>
-    <published>2026-04-27T08:52:55.275044+02:00</published>
+    <published>2026-04-27T08:52:55+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/</id>
@@ -664,18 +664,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/"/>
     <category term="kultur"/>
     <published>2026-03-27T10:17:34+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Forschung-hautnah-THM-%C3%B6ffnet-T%C3%BCren-mit-Science-Seeing-Tour-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75953.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Forschung hautnah: THM öffnet Türen mit »Science-Seeing-Tour«</title>
-    <updated>2026-04-10T11:19:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Forschung-hautnah-THM-%C3%B6ffnet-T%C3%BCren-mit-Science-Seeing-Tour-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75953.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-10T11:19:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gl%C3%BCckszahl-Sieben-am-Kreuzplatz-Innenstadt-hat-neuen-Pop-up-Store-No-7-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75954.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -964,6 +952,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-M%C3%BCllabfuhrtermine-nach-dem-1-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76114.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-04-27T08:52:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jagd-auf-Stempel-wird-zur-Erfolgsgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76115.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Jagd auf Stempel wird zur Erfolgsgeschichte</title>
+    <updated>2026-04-27T10:40:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jagd-auf-Stempel-wird-zur-Erfolgsgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76115.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-04-27T10:40:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
