@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-27T13:35:15.081137+00:00</updated>
+  <updated>2026-04-27T14:42:09.495043+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -666,6 +666,18 @@
     <published>2026-03-27T10:17:34+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Forschung-hautnah-THM-%C3%B6ffnet-T%C3%BCren-mit-Science-Seeing-Tour-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75953.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Forschung hautnah: THM öffnet Türen mit »Science-Seeing-Tour«</title>
+    <updated>2026-04-10T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Forschung-hautnah-THM-%C3%B6ffnet-T%C3%BCren-mit-Science-Seeing-Tour-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75953.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-04-10T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gl%C3%BCckszahl-Sieben-am-Kreuzplatz-Innenstadt-hat-neuen-Pop-up-Store-No-7-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75954.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Glückszahl Sieben am Kreuzplatz: Innenstadt hat neuen Pop-up-Store »No. 7«</title>
     <updated>2026-04-10T00:00:00+02:00</updated>
@@ -700,18 +712,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wir-st%C3%A4rken-die-Integrationsstrukturen-vor-Ort.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75957.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-04-13T09:37:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Gie%C3%9Fener-Weihnachtskugel-2026-Jetzt-abstimmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75958.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Die Gießener Weihnachtskugel 2026: Jetzt abstimmen!</title>
-    <updated>2026-04-13T14:35:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Gie%C3%9Fener-Weihnachtskugel-2026-Jetzt-abstimmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75958.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-13T14:35:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Stars-und-Programm-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75965.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
