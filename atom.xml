@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-27T14:42:09.495043+00:00</updated>
+  <updated>2026-04-27T16:34:20.262416+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -448,102 +448,6 @@
     <link href="https://www.giessen.de/Erleben/Kultur/Museen-Ausstellungen/Museum-f%C3%BCr-Gie%C3%9Fen/Sonderausstellung-im-Museum-Under-Construction-Wie-das-Museum-f%C3%BCr-Gie%C3%9Fen-entsteht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74737.1&amp;NavID=1894.209&amp;La=1&amp;call=suche"/>
     <category term="stadt"/>
     <published>2025-11-25T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14506_1.PDF?1774599227</id>
-    <title>Bekanntmachung des Ergebnisses der Stadtverordnetenwahl der Universitätsstadt Gießen am 15.03.2026</title>
-    <updated>2026-03-28T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14506_1.PDF?1774599227"/>
-    <category term="stadt"/>
-    <published>2026-03-28T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14505_1.PDF?1774599204</id>
-    <title>Bekanntmachung des Ergebnisses der Ortsbeiratswahl der Universitätsstadt Gießen am 15.03.2026</title>
-    <updated>2026-03-28T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14505_1.PDF?1774599204"/>
-    <category term="stadt"/>
-    <published>2026-03-28T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14504_1.PDF?1774599250</id>
-    <title>Bekanntmachung des Ergebnisses der Ausländerbeiratswahl der Universitätsstadt Gießen am 15.03.2026</title>
-    <updated>2026-03-28T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14504_1.PDF?1774599250"/>
-    <category term="stadt"/>
-    <published>2026-03-28T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14515_1.PDF?1774607396</id>
-    <title>Absicht der straßenrechtlichen Einziehung von Verkehrsflächen in der Gemarkung Gießen, Flur  1, Nr. 1238/2 und 1237/4, Steinstraße (Feuerwehr) </title>
-    <updated>2026-03-30T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14515_1.PDF?1774607396"/>
-    <category term="stadt"/>
-    <published>2026-03-30T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14545_1.PDF?1774964074</id>
-    <title>Nachrücker für den Ortsbeirat Gießen-Allendorf</title>
-    <updated>2020-11-30T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14545_1.PDF?1774964074"/>
-    <category term="stadt"/>
-    <published>2020-11-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14544_1.PDF?1774962362</id>
-    <title>Widmung einer Verkehrsfläche als öffentlicher Fuß- und Radweg</title>
-    <updated>2020-11-30T00:00:00+01:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14544_1.PDF?1774962362"/>
-    <category term="stadt"/>
-    <published>2020-11-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14621_1.PDF?1776093808</id>
-    <title>Einladung zur Versammlung der Jagdgenossenschaft Gießen I - Heuchelheim</title>
-    <updated>2026-04-14T00:33:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14621_1.PDF?1776093808"/>
-    <category term="stadt"/>
-    <published>2026-04-14T00:33:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/media/custom/2874_14805_1.PDF?1776955730</id>
-    <title>Nachrücker für die Stadtverordnetenversammlung</title>
-    <updated>2026-04-16T15:36:00+02:00</updated>
-    <author>
-      <name>Stadt - Amtliche Bekanntmachungen</name>
-      <email>presse@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/media/custom/2874_14805_1.PDF?1776955730"/>
-    <category term="stadt"/>
-    <published>2026-04-16T15:36:00+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
