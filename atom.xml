@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-28T11:34:35.247170+00:00</updated>
+  <updated>2026-04-28T12:38:14.734892+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -570,18 +570,6 @@
     <published>2026-03-27T10:17:34+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Stars-und-Programm-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75965.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>STADTRADELN-Stars und Programm in Gießen</title>
-    <updated>2026-04-14T08:36:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/STADTRADELN-Stars-und-Programm-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75965.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-14T08:36:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4vko-bietet-weiteres-Sicherheitstraining-f%C3%BCr-Pedelec-und-E-Bike-Fahrende-%C3%BCber-60-Jahre-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76001.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Prävko bietet weiteres Sicherheitstraining für Pedelec- und E-Bike-Fahrende über 60 Jahre an</title>
     <updated>2026-04-15T12:23:00+02:00</updated>
@@ -868,6 +856,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fortbildungsreihe-Yoga-Achtsamkeit-im-p%C3%A4dagogischen-Alltag-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76120.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-04-28T11:34:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Plakatausstellung-zum-Geschichtswettbewerb-des-Bundespr%C3%A4sidenten-er%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76121.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Plakatausstellung zum Geschichtswettbewerb des Bundespräsidenten eröffnet</title>
+    <updated>2026-04-28T12:37:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Plakatausstellung-zum-Geschichtswettbewerb-des-Bundespr%C3%A4sidenten-er%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76121.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-04-28T12:37:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
