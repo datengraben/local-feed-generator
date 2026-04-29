@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-29T08:48:27.281510+00:00</updated>
+  <updated>2026-04-29T09:43:59.404416+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -450,18 +450,6 @@
     <published>2025-11-25T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
-    <title>Haarige Angelegenheiten - „herzkopfüber“ von Simone Saftig ist für den Mülheimer Kinde...</title>
-    <updated>2026-03-20T15:16:40+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/"/>
-    <category term="kultur"/>
-    <published>2026-03-20T15:16:40+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/</id>
     <title>2. Gießener Kulturnacht - Am Samstag, 16. Mai, findet die 2. Gießener Kulturnacht stat...</title>
     <updated>2026-03-13T11:11:46+01:00</updated>
@@ -558,6 +546,18 @@
     <published>2026-04-27T08:52:55+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/welttanztag-am-29-april/</id>
+    <title>Zum Welttanztag am 29. April - Constantin Hochkeppel schreibt aus persönlicher Erfahrung üb...</title>
+    <updated>2026-04-29T09:43:43.767336+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/welttanztag-am-29-april/"/>
+    <category term="kultur"/>
+    <published>2026-04-29T09:43:43.767336+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/</id>
     <title>Für Erol - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
     <updated>2026-03-27T10:17:34+01:00</updated>
@@ -568,18 +568,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/"/>
     <category term="kultur"/>
     <published>2026-03-27T10:17:34+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-aktiv-f%C3%BCr-den-guten-Zweck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76029.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gemeinsam aktiv für den guten Zweck</title>
-    <updated>2026-04-16T12:25:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-aktiv-f%C3%BCr-den-guten-Zweck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76029.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-16T12:25:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Start-der-Kanusaison-auf-der-Lahn-Natur-erleben-Verantwortung-%C3%BCbernehmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76036.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -868,6 +856,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versammlung-am-30-April-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76137.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-04-29T08:48:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zur-bundesweiten-Aktionswoche-Kindertagespflege-werben-auch-heimische-Tageseltern-f%C3%BCr-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76138.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Zur bundesweiten Aktionswoche ,Kindertagespflege' werben auch heimische Tageseltern für sich</title>
+    <updated>2026-04-29T09:43:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zur-bundesweiten-Aktionswoche-Kindertagespflege-werben-auch-heimische-Tageseltern-f%C3%BCr-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76138.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-04-29T09:43:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
