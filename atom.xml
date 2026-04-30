@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-29T13:35:54.040981+00:00</updated>
+  <updated>2026-04-30T10:36:22.220373+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -450,18 +450,6 @@
     <published>2025-11-25T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/</id>
-    <title>2. Gießener Kulturnacht - Am Samstag, 16. Mai, findet die 2. Gießener Kulturnacht stat...</title>
-    <updated>2026-03-13T11:11:46+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/2-giessener-kulturnacht/"/>
-    <category term="kultur"/>
-    <published>2026-03-13T11:11:46+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-wahrheit-ist-weder-gut-noch-bose/</id>
     <title>Die Wahrheit ist weder gut noch böse - Der Choreograf Johannes Wieland im Gespräch mit der Dramatur...</title>
     <updated>2026-03-21T18:07:53+01:00</updated>
@@ -532,6 +520,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/das-penismuseum-der-letzte-himmel-meine-suche-nach-palastina/"/>
     <category term="kultur"/>
     <published>2026-04-10T10:23:31+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
+    <title>Theatertag am 9. Mai - Der nächste Theatertag ist zugleich die Wiederaufnahme von &amp;...</title>
+    <updated>2026-04-30T10:36:10.485541+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
+    <category term="kultur"/>
+    <published>2026-04-30T10:36:10.485541+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zungenkusse-statt-schulterklopfen/</id>
