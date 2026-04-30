@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-30T10:36:22.220373+00:00</updated>
+  <updated>2026-04-30T11:32:43.703957+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -450,18 +450,6 @@
     <published>2025-11-25T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/die-wahrheit-ist-weder-gut-noch-bose/</id>
-    <title>Die Wahrheit ist weder gut noch böse - Der Choreograf Johannes Wieland im Gespräch mit der Dramatur...</title>
-    <updated>2026-03-21T18:07:53+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/die-wahrheit-ist-weder-gut-noch-bose/"/>
-    <category term="kultur"/>
-    <published>2026-03-21T18:07:53+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/auf-der-suche-nach-verzauberung/</id>
     <title>Auf der Suche nach Verzauberung - Ein Portrait über die Regisseurin Anaїs Durand-Mauptit und B...</title>
     <updated>2026-04-01T07:33:34+02:00</updated>
@@ -524,14 +512,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 9. Mai - Der nächste Theatertag ist zugleich die Wiederaufnahme von &amp;...</title>
-    <updated>2026-04-30T10:36:10.485541+02:00</updated>
+    <updated>2026-04-30T10:36:10+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
     <category term="kultur"/>
-    <published>2026-04-30T10:36:10.485541+02:00</published>
+    <published>2026-04-30T10:36:10+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zungenkusse-statt-schulterklopfen/</id>
@@ -556,6 +544,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/welttanztag-am-29-april/"/>
     <category term="kultur"/>
     <published>2026-04-29T09:43:43+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/verkaufsoffener-sonntag-am-3-mai-haus-der-karten-hat-geoffnet/</id>
+    <title>Verkaufsoffener Sonntag am 3. Mai: Haus der Karten hat geöffnet - Bringen Sie den Frühling mit: Ein Lied, ein Vers, eine Blume...</title>
+    <updated>2026-04-30T11:32:28.189988+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/verkaufsoffener-sonntag-am-3-mai-haus-der-karten-hat-geoffnet/"/>
+    <category term="kultur"/>
+    <published>2026-04-30T11:32:28.189988+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/</id>
