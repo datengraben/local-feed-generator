@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-04-30T11:32:43.703957+00:00</updated>
+  <updated>2026-05-01T14:26:20.775902+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -548,14 +548,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/verkaufsoffener-sonntag-am-3-mai-haus-der-karten-hat-geoffnet/</id>
     <title>Verkaufsoffener Sonntag am 3. Mai: Haus der Karten hat geöffnet - Bringen Sie den Frühling mit: Ein Lied, ein Vers, eine Blume...</title>
-    <updated>2026-04-30T11:32:28.189988+02:00</updated>
+    <updated>2026-04-30T11:32:28+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/verkaufsoffener-sonntag-am-3-mai-haus-der-karten-hat-geoffnet/"/>
     <category term="kultur"/>
-    <published>2026-04-30T11:32:28.189988+02:00</published>
+    <published>2026-04-30T11:32:28+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/</id>
@@ -568,6 +568,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/"/>
     <category term="kultur"/>
     <published>2026-03-27T10:17:34+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Start-der-Kanusaison-auf-der-Lahn-Natur-erleben-Verantwortung-%C3%BCbernehmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76036.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Start der Kanusaison auf der Lahn: Natur erleben, Verantwortung übernehmen</title>
+    <updated>2026-04-20T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Start-der-Kanusaison-auf-der-Lahn-Natur-erleben-Verantwortung-%C3%BCbernehmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76036.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-04-20T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-in-der-City-2026-Bewegen-mitmachen-Spa%C3%9F-haben-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76037.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -832,18 +844,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/EU-Zukunftswerkstatt-Mein-Europa-2030.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76136.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-04-29T07:43:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versammlung-am-30-April-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76137.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Versammlung am 30. April: Verkehrsbehinderungen in der Gießener Innenstadt möglich</title>
-    <updated>2026-04-29T08:48:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versammlung-am-30-April-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76137.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-29T08:48:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zur-bundesweiten-Aktionswoche-Kindertagespflege-werben-auch-heimische-Tageseltern-f%C3%BCr-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76138.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
