@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-02T20:13:33.425592+00:00</updated>
+  <updated>2026-05-04T14:46:12.350930+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -548,14 +548,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wer-bestimmt-was-fremd-ist/</id>
     <title>Wer bestimmt, was fremd ist? - Familiäre Spannungen und kulturelle Konflikte ziehen sich du...</title>
-    <updated>2026-05-02T20:13:16.832614+02:00</updated>
+    <updated>2026-05-02T20:13:16+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wer-bestimmt-was-fremd-ist/"/>
     <category term="kultur"/>
-    <published>2026-05-02T20:13:16.832614+02:00</published>
+    <published>2026-05-02T20:13:16+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/</id>
@@ -568,6 +568,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/"/>
     <category term="kultur"/>
     <published>2026-03-27T10:17:34+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventivma%C3%9Fnahmen-gegen-Eichenprozessionsspinner.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58385.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Präventivmaßnahmen gegen Eichenprozessionsspinner</title>
+    <updated>2026-04-16T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventivma%C3%9Fnahmen-gegen-Eichenprozessionsspinner.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58385.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-04-16T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-aktiv-f%C3%BCr-den-guten-Zweck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76029.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -592,18 +604,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Start-der-Kanusaison-auf-der-Lahn-Natur-erleben-Verantwortung-%C3%BCbernehmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76036.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-04-20T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-in-der-City-2026-Bewegen-mitmachen-Spa%C3%9F-haben-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76037.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Sport in der City 2026: Bewegen, mitmachen, Spaß haben!</title>
-    <updated>2026-04-20T12:26:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sport-in-der-City-2026-Bewegen-mitmachen-Spa%C3%9F-haben-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76037.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-20T12:26:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Vortr%C3%A4ge-rund-um-Digitalisierung-und-KI.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76038.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
