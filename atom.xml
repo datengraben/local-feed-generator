@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-05T13:36:23.414081+00:00</updated>
+  <updated>2026-05-05T15:36:27.381350+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -524,14 +524,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/simone-sterr-bleibt-intendantin-vertrag-verlangert-bis-2032/</id>
     <title>Simone Sterr bleibt Intendantin: Vertrag verlängert bis 2032 - Bei einer Pressekonferenz heute, Dienstag, 5. Mai, haben der...</title>
-    <updated>2026-05-05T13:36:08.933286+02:00</updated>
+    <updated>2026-05-05T13:36:08+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/simone-sterr-bleibt-intendantin-vertrag-verlangert-bis-2032/"/>
     <category term="kultur"/>
-    <published>2026-05-05T13:36:08.933286+02:00</published>
+    <published>2026-05-05T13:36:08+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/</id>
@@ -544,18 +544,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/"/>
     <category term="kultur"/>
     <published>2026-03-27T10:17:34+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-aktiv-f%C3%BCr-den-guten-Zweck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76029.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gemeinsam aktiv für den guten Zweck</title>
-    <updated>2026-04-16T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-aktiv-f%C3%BCr-den-guten-Zweck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76029.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-16T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Start-der-Kanusaison-auf-der-Lahn-Natur-erleben-Verantwortung-%C3%BCbernehmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76036.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gutenbergstra%C3%9Fe-f%C3%BCr-eine-Woche-komplett-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76164.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-05T12:27:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kapelle-auf-dem-Alten-Friedhof-wird-neues-Weihnachtskugel-Motiv.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76166.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Kapelle auf dem Alten Friedhof wird neues Weihnachtskugel-Motiv</title>
+    <updated>2026-05-05T15:36:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kapelle-auf-dem-Alten-Friedhof-wird-neues-Weihnachtskugel-Motiv.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76166.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-05T15:36:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
