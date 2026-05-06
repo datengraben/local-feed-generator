@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-05T15:36:27.381350+00:00</updated>
+  <updated>2026-05-06T09:49:12.361335+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -546,30 +546,6 @@
     <published>2026-03-27T10:17:34+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Start-der-Kanusaison-auf-der-Lahn-Natur-erleben-Verantwortung-%C3%BCbernehmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76036.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Start der Kanusaison auf der Lahn: Natur erleben, Verantwortung übernehmen</title>
-    <updated>2026-04-20T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Start-der-Kanusaison-auf-der-Lahn-Natur-erleben-Verantwortung-%C3%BCbernehmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76036.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-20T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Vortr%C3%A4ge-rund-um-Digitalisierung-und-KI.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76038.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Online-Vorträge rund um Digitalisierung und KI</title>
-    <updated>2026-04-20T14:36:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Vortr%C3%A4ge-rund-um-Digitalisierung-und-KI.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76038.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-20T14:36:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bewerbungen-f%C3%BCr-Umwelt-und-Klimaschutzpreis-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73560.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Bewerbungszeitraum für den Umwelt- und Klimaschutzpreis 2026 startet</title>
     <updated>2026-04-21T10:31:00+02:00</updated>
@@ -844,6 +820,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kapelle-auf-dem-Alten-Friedhof-wird-neues-Weihnachtskugel-Motiv.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76166.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-05T15:36:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Inspiration-f%C3%BCr-die-Gie%C3%9Fener-Kulturnacht-Digitales-Programm-und-Programmgenerator-laden-zur-individuellen-Programmgestaltung-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76167.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Inspiration für die Gießener Kulturnacht: Digitales Programm und Programmgenerator laden zur individuellen Programmgestaltung ein</title>
+    <updated>2026-05-06T09:48:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Inspiration-f%C3%BCr-die-Gie%C3%9Fener-Kulturnacht-Digitales-Programm-und-Programmgenerator-laden-zur-individuellen-Programmgestaltung-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76167.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-06T09:48:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Frau-Piefke-zieht-um-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76168.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Frau Piefke zieht um!</title>
+    <updated>2026-05-06T09:48:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Frau-Piefke-zieht-um-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76168.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-06T09:48:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
