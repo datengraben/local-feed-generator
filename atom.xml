@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-07T09:53:25.183389+00:00</updated>
+  <updated>2026-05-07T14:58:00.342515+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -500,26 +500,26 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/mach-mit-bei-unserem-flashmob/</id>
     <title>Mach mit bei unserem Flashmob! - Haltet bei der Kulturnacht am Samstag, 16. Mai am Berliner P...</title>
-    <updated>2026-05-07T09:53:03.867961+02:00</updated>
+    <updated>2026-05-07T09:53:03+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/mach-mit-bei-unserem-flashmob/"/>
     <category term="kultur"/>
-    <published>2026-05-07T09:53:03.867961+02:00</published>
+    <published>2026-05-07T09:53:03+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-erscheinung-und-dasein/</id>
     <title>Was ist Liebe? - Dramaturg Leonard Lampert schreibt über die historischen Kon...</title>
-    <updated>2026-05-07T09:53:03.867961+02:00</updated>
+    <updated>2026-05-07T09:53:03+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/uber-erscheinung-und-dasein/"/>
     <category term="kultur"/>
-    <published>2026-05-07T09:53:03.867961+02:00</published>
+    <published>2026-05-07T09:53:03+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/simone-sterr-bleibt-intendantin-vertrag-verlangert-bis-2032/</id>
@@ -544,18 +544,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/"/>
     <category term="kultur"/>
     <published>2026-03-27T10:17:34+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubau-Hauptsammler-Sperrung-des-Rad-und-Fu%C3%9Fwegs-an-der-Lahn-wegen-Kanalneubau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76101.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Neubau Hauptsammler: Sperrung des Rad- und Fußwegs an der Lahn wegen Kanalneubau</title>
-    <updated>2026-04-24T10:32:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubau-Hauptsammler-Sperrung-des-Rad-und-Fu%C3%9Fwegs-an-der-Lahn-wegen-Kanalneubau.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76101.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-24T10:32:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Aktion-Fr%C3%BChjahrsputz-am-Bahnhof.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76102.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sicherheit-durch-%C3%9Cberholabstand.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76177.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-07T09:53:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Diverse-Stadt-2026-Vielfalt-leben-und-erleben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73540.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Vielfalt in Gießen: Veranstaltungsreihe „Diverse Stadt“ startet wieder</title>
+    <updated>2026-05-07T14:57:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Diverse-Stadt-2026-Vielfalt-leben-und-erleben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73540.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-07T14:57:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
