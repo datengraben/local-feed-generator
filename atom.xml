@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-08T12:31:01.776738+00:00</updated>
+  <updated>2026-05-08T15:34:44.233649+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -426,18 +426,6 @@
     <published>2025-11-25T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/welttheatertag-am-27-marz/</id>
-    <title>Welttheatertag am 27. März - Mina Salehpour und Faramarz Ramezanian über Kunst in Kriegsz...</title>
-    <updated>2026-03-27T10:17:34+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/welttheatertag-am-27-marz/"/>
-    <category term="kultur"/>
-    <published>2026-03-27T10:17:34+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/das-penismuseum-der-letzte-himmel-meine-suche-nach-palastina/</id>
     <title>Das Pen!smuseum &amp; Der letzte Himmel - Zwei Lesungen am Stadttheater Gießen. Am 15. und am 26. Apri...</title>
     <updated>2026-04-10T10:23:31+02:00</updated>
@@ -544,6 +532,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/"/>
     <category term="kultur"/>
     <published>2026-03-27T10:17:34+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/</id>
+    <title>Blick in die Spielzeit 2026/2027 - Bei einer Pressekonferenz wurde heute, 8. Mai, das Programm ...</title>
+    <updated>2026-05-08T15:34:23.933092+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/"/>
+    <category term="kultur"/>
+    <published>2026-05-08T15:34:23.933092+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Freibadsaison-startet-am-4-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76105.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
