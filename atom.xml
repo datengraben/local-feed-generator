@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-08T15:34:44.233649+00:00</updated>
+  <updated>2026-05-10T14:27:00.445745+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -536,14 +536,26 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/</id>
     <title>Blick in die Spielzeit 2026/2027 - Bei einer Pressekonferenz wurde heute, 8. Mai, das Programm ...</title>
-    <updated>2026-05-08T15:34:23.933092+02:00</updated>
+    <updated>2026-05-08T15:34:23+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/"/>
     <category term="kultur"/>
-    <published>2026-05-08T15:34:23.933092+02:00</published>
+    <published>2026-05-08T15:34:23+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-St%C3%A4dtebauf%C3%B6rderung-am-9-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58301.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Tag der Städtebauförderung am 9. Mai</title>
+    <updated>2026-04-24T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-St%C3%A4dtebauf%C3%B6rderung-am-9-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58301.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-04-24T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Freibadsaison-startet-am-4-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76105.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -746,18 +758,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vertragsverl%C3%A4ngerung-f%C3%BCr-Simone-Sterr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76171.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-06T10:42:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehrere-Demonstrationsz%C3%BCge-am-8-Mai-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76172.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Mehrere Demonstrationszüge am 8. Mai: Verkehrsbehinderungen in der Gießener Innenstadt möglich</title>
-    <updated>2026-05-06T10:42:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehrere-Demonstrationsz%C3%BCge-am-8-Mai-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76172.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-06T10:42:00+02:00</published>
   </entry>
