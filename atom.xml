@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-10T14:27:00.445745+00:00</updated>
+  <updated>2026-05-10T18:21:20.019642+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -546,14 +546,14 @@
     <published>2026-05-08T15:34:23+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-St%C3%A4dtebauf%C3%B6rderung-am-9-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58301.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Tag der Städtebauförderung am 9. Mai</title>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fortbildung-Suchtpr%C3%A4vention-in-der-Jugendarbeit-II-Vertiefung-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76103.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fortbildung »Suchtprävention in der Jugendarbeit II - Vertiefung«</title>
     <updated>2026-04-24T00:00:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-St%C3%A4dtebauf%C3%B6rderung-am-9-Mai.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.58301.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fortbildung-Suchtpr%C3%A4vention-in-der-Jugendarbeit-II-Vertiefung-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76103.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-04-24T00:00:00+02:00</published>
   </entry>
