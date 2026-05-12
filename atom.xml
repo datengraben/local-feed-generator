@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-11T13:01:10.561289+00:00</updated>
+  <updated>2026-05-12T09:55:35.572703+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -426,18 +426,6 @@
     <published>2025-11-25T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/das-penismuseum-der-letzte-himmel-meine-suche-nach-palastina/</id>
-    <title>Das Pen!smuseum &amp; Der letzte Himmel - Zwei Lesungen am Stadttheater Gießen. Am 15. und am 26. Apri...</title>
-    <updated>2026-04-10T10:23:31+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/das-penismuseum-der-letzte-himmel-meine-suche-nach-palastina/"/>
-    <category term="kultur"/>
-    <published>2026-04-10T10:23:31+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 9. Mai - Der nächste Theatertag ist zugleich die Wiederaufnahme von &amp;...</title>
     <updated>2026-04-30T10:36:10+02:00</updated>
@@ -520,6 +508,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/simone-sterr-bleibt-intendantin-vertrag-verlangert-bis-2032/"/>
     <category term="kultur"/>
     <published>2026-05-05T13:36:08+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wenn-das-buhnenbild-lebendig-wird/</id>
+    <title>Wenn das Bühnenbild lebendig wird - Am 4. und 5. Juni 2026 lädt ArtesMobiles mit "Versuch ü...</title>
+    <updated>2026-05-12T09:55:17.069309+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wenn-das-buhnenbild-lebendig-wird/"/>
+    <category term="kultur"/>
+    <published>2026-05-12T09:55:17.069309+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/</id>
