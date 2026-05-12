@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-12T09:55:35.572703+00:00</updated>
+  <updated>2026-05-12T10:49:36.998642+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -512,14 +512,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wenn-das-buhnenbild-lebendig-wird/</id>
     <title>Wenn das Bühnenbild lebendig wird - Am 4. und 5. Juni 2026 lädt ArtesMobiles mit "Versuch ü...</title>
-    <updated>2026-05-12T09:55:17.069309+02:00</updated>
+    <updated>2026-05-12T09:55:17+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wenn-das-buhnenbild-lebendig-wird/"/>
     <category term="kultur"/>
-    <published>2026-05-12T09:55:17.069309+02:00</published>
+    <published>2026-05-12T09:55:17+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/</id>
@@ -544,18 +544,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/"/>
     <category term="kultur"/>
     <published>2026-05-08T15:34:23+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jagd-auf-Stempel-wird-zur-Erfolgsgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76115.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Jagd auf Stempel wird zur Erfolgsgeschichte</title>
-    <updated>2026-04-27T10:40:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jagd-auf-Stempel-wird-zur-Erfolgsgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76115.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-27T10:40:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Schulen-aufs-Rad-geht-in-die-n%C3%A4chste-Runde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76116.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bunter-Aktionstag-in-der-Stadtbibliothek-Gie%C3%9Fen-im-Rahmen-der-Kindertagespflegewoche.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76196.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-11T13:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BCr-mehr-Barrierefreiheit-am-Bahnhof-Steg-zum-Alten-Wetzlarer-Weg-wird-kurzzeitig-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76198.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Für mehr Barrierefreiheit am Bahnhof: Steg zum Alten Wetzlarer Weg wird kurzzeitig gesperrt</title>
+    <updated>2026-05-12T10:49:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BCr-mehr-Barrierefreiheit-am-Bahnhof-Steg-zum-Alten-Wetzlarer-Weg-wird-kurzzeitig-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76198.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-12T10:49:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
