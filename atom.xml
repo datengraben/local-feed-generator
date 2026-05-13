@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-12T19:34:15.094123+00:00</updated>
+  <updated>2026-05-13T07:05:50.014531+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -428,14 +428,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/das-penismuseum-der-letzte-himmel-meine-suche-nach-palastina/</id>
     <title>Das Pen!smuseum &amp; Der letzte Himmel - Zwei Lesungen am Stadttheater Gießen. Am 15. und am 26. Apri...</title>
-    <updated>2026-05-12T19:33:57.956106+02:00</updated>
+    <updated>2026-05-12T19:33:57+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/das-penismuseum-der-letzte-himmel-meine-suche-nach-palastina/"/>
     <category term="kultur"/>
-    <published>2026-05-12T19:33:57.956106+02:00</published>
+    <published>2026-05-12T19:33:57+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zungenkusse-statt-schulterklopfen/</id>
@@ -544,18 +544,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/"/>
     <category term="kultur"/>
     <published>2026-05-08T15:34:23+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalarbeiten-in-der-Steinstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76118.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Kanalarbeiten in der Steinstraße</title>
-    <updated>2026-04-28T11:34:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalarbeiten-in-der-Steinstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76118.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-28T11:34:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fortbildung-SinnSTIFTen-durch-Flipchart-Pr%C3%A4sentationen-II-Vertiefung-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76119.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorstellung-des-Programms-der-Spielzeit-2026-2027-am-Stadttheater-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76199.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-12T13:36:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Glasfaserausbau-in-den-Gie%C3%9Fener-Stadtteilen-erreicht-die-Zielgerade.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76214.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Glasfaserausbau in den Gießener Stadtteilen erreicht die Zielgerade</title>
+    <updated>2026-05-13T07:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Glasfaserausbau-in-den-Gie%C3%9Fener-Stadtteilen-erreicht-die-Zielgerade.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76214.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-13T07:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
