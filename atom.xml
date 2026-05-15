@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-13T13:45:02.816681+00:00</updated>
+  <updated>2026-05-15T11:39:30.097536+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -546,18 +546,6 @@
     <published>2026-05-08T15:34:23+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/EU-Zukunftswerkstatt-Mein-Europa-2030.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76136.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>EU-Zukunftswerkstatt: Mein Europa 2030</title>
-    <updated>2026-04-29T07:43:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/EU-Zukunftswerkstatt-Mein-Europa-2030.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76136.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-04-29T07:43:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zur-bundesweiten-Aktionswoche-Kindertagespflege-werben-auch-heimische-Tageseltern-f%C3%BCr-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76138.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Zur bundesweiten Aktionswoche ,Kindertagespflege' werben auch heimische Tageseltern für sich</title>
     <updated>2026-04-29T09:43:00+02:00</updated>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kostenfreier-Busverkehr-zur-Gie%C3%9Fener-Kulturnacht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76218.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-13T13:44:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Liebknecht-Ein-Auszug-F%C3%BCnft%C3%A4giges-Happening-im-Wilhelm-Liebknecht-Jahr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76228.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>"Liebknecht. Ein Auszug" - Fünftägiges Happening im Wilhelm-Liebknecht-Jahr</title>
+    <updated>2026-05-15T11:39:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Liebknecht-Ein-Auszug-F%C3%BCnft%C3%A4giges-Happening-im-Wilhelm-Liebknecht-Jahr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76228.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-15T11:39:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
