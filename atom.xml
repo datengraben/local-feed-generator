@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-19T11:05:11.837778+00:00</updated>
+  <updated>2026-05-19T13:07:23.367224+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -512,26 +512,26 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
     <title>Zu Gast in Mühlheim: Haarige Angelegenheiten - „herzkopfüber“ von Simone Saftig ist für den Mülheimer Kinde...</title>
-    <updated>2026-05-19T11:04:55.455815+02:00</updated>
+    <updated>2026-05-19T11:04:55+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/"/>
     <category term="kultur"/>
-    <published>2026-05-19T11:04:55.455815+02:00</published>
+    <published>2026-05-19T11:04:55+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 13. Juni - Der nächste Theatertag ist "Das Opferfest" im Groß...</title>
-    <updated>2026-05-19T11:04:55.455815+02:00</updated>
+    <updated>2026-05-19T11:04:55+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
     <category term="kultur"/>
-    <published>2026-05-19T11:04:55.455815+02:00</published>
+    <published>2026-05-19T11:04:55+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/</id>
@@ -544,18 +544,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/"/>
     <category term="kultur"/>
     <published>2026-05-08T15:34:23+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Inspiration-f%C3%BCr-die-Gie%C3%9Fener-Kulturnacht-Digitales-Programm-und-Programmgenerator-laden-zur-individuellen-Programmgestaltung-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76167.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Inspiration für die Gießener Kulturnacht: Digitales Programm und Programmgenerator laden zur individuellen Programmgestaltung ein</title>
-    <updated>2026-05-06T09:48:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Inspiration-f%C3%BCr-die-Gie%C3%9Fener-Kulturnacht-Digitales-Programm-und-Programmgenerator-laden-zur-individuellen-Programmgestaltung-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76167.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-06T09:48:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Frau-Piefke-zieht-um-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76168.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dankesch%C3%B6n-f%C3%BCr-Radelnde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76249.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-19T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-offenen-T%C3%BCr-im-Gefahrenabwehrzentrum-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76250.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Tag der offenen Tür im Gefahrenabwehrzentrum Gießen</title>
+    <updated>2026-05-19T13:07:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-offenen-T%C3%BCr-im-Gefahrenabwehrzentrum-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76250.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-19T13:07:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
