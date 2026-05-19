@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-18T21:28:30.618428+00:00</updated>
+  <updated>2026-05-19T09:11:00.139688+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -546,18 +546,6 @@
     <published>2026-05-15T12:38:59+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gutenbergstra%C3%9Fe-f%C3%BCr-eine-Woche-komplett-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76164.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Gutenbergstraße ab 11. Mai für eine Woche komplett gesperrt</title>
-    <updated>2026-05-05T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gutenbergstra%C3%9Fe-f%C3%BCr-eine-Woche-komplett-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76164.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-05T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kapelle-auf-dem-Alten-Friedhof-wird-neues-Weihnachtskugel-Motiv.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76166.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Kapelle auf dem Alten Friedhof wird neues Weihnachtskugel-Motiv</title>
     <updated>2026-05-05T15:36:00+02:00</updated>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B-429-M%C3%A4ngelbeseitigung-zwischen-der-Anschlussstelle-Wettenberg-und-dem-Lahnfelddreieck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76235.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-18T16:58:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eine-erste-Bilanz-nach-der-Kulturnacht-Jetzt-an-Feedbackumfrage-teilnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76247.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Eine erste Bilanz nach der Kulturnacht – Jetzt an Feedbackumfrage teilnehmen!</title>
+    <updated>2026-05-19T09:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eine-erste-Bilanz-nach-der-Kulturnacht-Jetzt-an-Feedbackumfrage-teilnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76247.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-19T09:10:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
