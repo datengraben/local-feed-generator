@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-19T17:00:17.981496+00:00</updated>
+  <updated>2026-05-20T13:54:18.998489+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -451,7 +451,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wer-bestimmt-was-fremd-ist/</id>
-    <title>Wer bestimmt, was fremd ist? - Familiäre Spannungen und kulturelle Konflikte ziehen sich du...</title>
+    <title>Wer bestimmt, was fremd ist? - &lt;p&gt;Familiäre Spannungen und kulturelle Konflikte ziehen sich...</title>
     <updated>2026-05-02T20:13:16+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -463,7 +463,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zungenkusse-statt-schulterklopfen/</id>
-    <title>Zungenküsse statt Schulterklopfen - Was passiert, wenn Freundschaft, Liebe und Begehren ineinand...</title>
+    <title>Zungenküsse statt Schulterklopfen - &lt;p&gt;Was passiert, wenn Freundschaft, Liebe und Begehren inein...</title>
     <updated>2026-04-27T08:52:55+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -475,7 +475,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-erscheinung-und-dasein/</id>
-    <title>Was ist Liebe? - "Gärtnerin aus Liebe"-Dramaturg Leonard Lampert sc...</title>
+    <title>Was ist Liebe? - &lt;p&gt;&lt;strong&gt;"Gärtnerin aus Liebe"&lt;/strong&gt;-Dramaturg Leonard ...</title>
     <updated>2026-05-07T09:53:03+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -499,7 +499,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wenn-das-buhnenbild-lebendig-wird/</id>
-    <title>Wenn das Bühnenbild lebendig wird - Am 4. und 5. Juni 2026 lädt ArtesMobiles mit "Versuch ü...</title>
+    <title>Wenn das Bühnenbild lebendig wird - &lt;p&gt;Am 4. und 5. Juni 2026 lädt ArtesMobiles mit&lt;strong&gt; "Ver...</title>
     <updated>2026-05-12T09:55:17+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -511,7 +511,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
-    <title>Zu Gast in Mühlheim: Haarige Angelegenheiten - „herzkopfüber“ von Simone Saftig ist für den Mülheimer Kinde...</title>
+    <title>Zu Gast in Mülheim: Haarige Angelegenheiten - &lt;p&gt;&lt;strong&gt;„herzkopfüber“ &lt;/strong&gt;von Simone Saftig ist für...</title>
     <updated>2026-05-19T11:04:55+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -523,7 +523,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 13. Juni - Der nächste Theatertag ist "Das Opferfest" im Groß...</title>
+    <title>Theatertag am 13. Juni - &lt;p&gt;Der nächste Theatertag ist &lt;strong&gt;"Das Opferfest"&lt;/stron...</title>
     <updated>2026-05-19T11:04:55+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -535,7 +535,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/</id>
-    <title>Blick in die Spielzeit 2026/2027 - Bei einer Pressekonferenz wurde heute, 8. Mai, das Programm ...</title>
+    <title>Blick in die Spielzeit 2026/2027 - &lt;p&gt;Bei einer Pressekonferenz wurde heute, 8. Mai, das Progra...</title>
     <updated>2026-05-08T15:34:23+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -638,18 +638,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Marion-Balser-erh%C3%A4lt-die-Hedwig-Burgheim-Medaille.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76192.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-11T07:14:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-M%C3%BCllabfuhrtermine-nach-dem-14-05-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76193.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Geänderte Müllabfuhrtermine nach dem 14.05.2026</title>
-    <updated>2026-05-11T07:14:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-M%C3%BCllabfuhrtermine-nach-dem-14-05-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76193.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-11T07:14:00+02:00</published>
   </entry>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-19T17:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-M%C3%BCllabfuhrtermine-nach-Pfingsten-und-Fronleichnam-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76193.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Geänderte Müllabfuhrtermine nach Pfingsten und Fronleichnam </title>
+    <updated>2026-05-20T13:54:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-M%C3%BCllabfuhrtermine-nach-Pfingsten-und-Fronleichnam-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76193.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-20T13:54:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
