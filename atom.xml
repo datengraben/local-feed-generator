@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-20T18:49:16.315028+00:00</updated>
+  <updated>2026-05-21T07:19:33.638939+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -774,18 +774,6 @@
     <published>2026-05-19T09:10:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dankesch%C3%B6n-f%C3%BCr-Radelnde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76249.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Dankeschön für Radelnde am 21. Mai</title>
-    <updated>2026-05-19T11:04:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dankesch%C3%B6n-f%C3%BCr-Radelnde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76249.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-19T11:04:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-offenen-T%C3%BCr-im-Gefahrenabwehrzentrum-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76250.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Tag der offenen Tür im Gefahrenabwehrzentrum Gießen</title>
     <updated>2026-05-19T13:07:00+02:00</updated>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Planungen-zum-Schutz-vor-Afrikanischer-Schweinepest-laufen-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76293.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-20T18:48:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BCr-Klimaanpassung-und-mehr-Barrierefreiheit-Volkshochschule-in-der-Fr%C3%B6belstra%C3%9Fe-mit-neuem-Au%C3%9Fenbereich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76311.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Für Klimaanpassung und mehr Barrierefreiheit: Volkshochschule in der Fröbelstraße mit neuem Außenbereich</title>
+    <updated>2026-05-21T07:19:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BCr-Klimaanpassung-und-mehr-Barrierefreiheit-Volkshochschule-in-der-Fr%C3%B6belstra%C3%9Fe-mit-neuem-Au%C3%9Fenbereich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76311.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-21T07:19:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
