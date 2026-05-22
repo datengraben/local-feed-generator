@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-22T16:46:12.360987+00:00</updated>
+  <updated>2026-05-22T19:33:21.609016+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -426,18 +426,6 @@
     <published>2025-11-25T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wer-bestimmt-was-fremd-ist/</id>
-    <title>Wer bestimmt, was fremd ist? - &lt;p&gt;Familiäre Spannungen und kulturelle Konflikte ziehen sich...</title>
-    <updated>2026-05-02T20:13:16+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wer-bestimmt-was-fremd-ist/"/>
-    <category term="kultur"/>
-    <published>2026-05-02T20:13:16+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/zungenkusse-statt-schulterklopfen/</id>
     <title>Zungenküsse statt Schulterklopfen - &lt;p&gt;Was passiert, wenn Freundschaft, Liebe und Begehren inein...</title>
     <updated>2026-04-27T08:52:55+02:00</updated>
@@ -532,6 +520,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/"/>
     <category term="kultur"/>
     <published>2026-05-22T12:50:48+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/</id>
+    <title>Feuerwerk im Kopf - &lt;p&gt;Im Tanzstück „&lt;strong&gt;Feuerwerkskörper“ &lt;/strong&gt;von Raim...</title>
+    <updated>2026-05-22T19:33:07.944771+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/"/>
+    <category term="kultur"/>
+    <published>2026-05-22T19:33:07.944771+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/herzkopfuber-von-simone-saftig-erhalt-mulheimer-kinderstuckepreis-2026/</id>
