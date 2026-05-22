@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-22T11:02:53.332817+00:00</updated>
+  <updated>2026-05-22T12:51:04.714247+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -426,18 +426,6 @@
     <published>2025-11-25T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/</id>
-    <title>Für Erol - In losen Abständen wendet sich Intendantin Simone Sterr an d...</title>
-    <updated>2026-03-27T10:17:34+01:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zum-welttheatertag/"/>
-    <category term="kultur"/>
-    <published>2026-03-27T10:17:34+01:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/welttanztag-am-29-april/</id>
     <title>Zum Welttanztag am 29. April - Constantin Hochkeppel schreibt aus persönlicher Erfahrung üb...</title>
     <updated>2026-04-29T09:43:43+02:00</updated>
@@ -544,6 +532,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/"/>
     <category term="kultur"/>
     <published>2026-05-08T15:34:23+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/</id>
+    <title>Kreativer als KI? - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
+    <updated>2026-05-22T12:50:48.673564+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/"/>
+    <category term="kultur"/>
+    <published>2026-05-22T12:50:48.673564+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sicherheit-durch-%C3%9Cberholabstand.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76177.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
