@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-22T12:51:04.714247+00:00</updated>
+  <updated>2026-05-22T15:03:55.825034+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -205,126 +205,6 @@
     <published>2026-01-17T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>https://universum-giessen.com/2024/06/12/aberglaube-an-der-justus-liebig-universitaet-die-sache-mit-dem-ewigen-studenten/</id>
-    <title>Aberglaube an der Justus-Liebig-Universität? Die Sache mit dem ewigen Studenten</title>
-    <updated>2024-06-12T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2024/06/12/aberglaube-an-der-justus-liebig-universitaet-die-sache-mit-dem-ewigen-studenten/"/>
-    <category term="uni"/>
-    <published>2024-06-12T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2024/07/07/erinnerungskultur-in-mittelhessen/</id>
-    <title>Erinnerungskultur in Mittelhessen</title>
-    <updated>2024-07-07T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2024/07/07/erinnerungskultur-in-mittelhessen/"/>
-    <category term="uni"/>
-    <published>2024-07-07T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2024/11/24/zuhause-aus-einer-anderen-perspektive-der-alltag-einer-milchkuh/</id>
-    <title>Zuhause aus einer anderen Perspektive: Der Alltag einer Milchkuh</title>
-    <updated>2024-11-24T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2024/11/24/zuhause-aus-einer-anderen-perspektive-der-alltag-einer-milchkuh/"/>
-    <category term="uni"/>
-    <published>2024-11-24T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/</id>
-    <title>UNIversum testet: Veganfreundliche und vegane Cafés in Gießen</title>
-    <updated>2025-02-15T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/"/>
-    <category term="uni"/>
-    <published>2025-02-15T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/</id>
-    <title>Audiobeitrag: Die Demokratische Republik Georgien und das Deutsche Kaiserreich</title>
-    <updated>2025-11-19T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/"/>
-    <category term="uni"/>
-    <published>2025-11-19T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/02/02/demo-gegen-afd-jugend-in-giessen-friedlich-kreativ-und-bunt/</id>
-    <title>Demo gegen AfD-Jugend in Gießen: Friedlich, kreativ und bunt</title>
-    <updated>2026-02-02T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/02/demo-gegen-afd-jugend-in-giessen-friedlich-kreativ-und-bunt/"/>
-    <category term="uni"/>
-    <published>2026-02-02T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/02/19/kuerzungen-am-fachbereich-04-fussnote/</id>
-    <title>Kürzungen am Fachbereich 04 – Fußnote</title>
-    <updated>2026-02-19T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/19/kuerzungen-am-fachbereich-04-fussnote/"/>
-    <category term="uni"/>
-    <published>2026-02-19T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/02/21/universum-unterwegs-dokumentar-und-animationsfilmfestival-leipzig/</id>
-    <title>UNIversum unterwegs: Dokumentar- und Animationsfilmfestival Leipzig</title>
-    <updated>2026-02-21T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/21/universum-unterwegs-dokumentar-und-animationsfilmfestival-leipzig/"/>
-    <category term="uni"/>
-    <published>2026-02-21T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/</id>
-    <title>„Trains“ – Ein Statement ohne Worte auf der DOK Leipzig</title>
-    <updated>2026-02-28T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/"/>
-    <category term="uni"/>
-    <published>2026-02-28T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/</id>
-    <title>DOK Leipzig: Wenn wir nicht lachen würden</title>
-    <updated>2026-04-15T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/"/>
-    <category term="uni"/>
-    <published>2026-04-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=2874.584&amp;La=1</id>
     <title>Die Verbraucherzentrale rät: Richtig trinken im Sommer</title>
     <updated>2024-08-13T00:00:00+02:00</updated>
@@ -426,18 +306,6 @@
     <published>2025-11-25T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/welttanztag-am-29-april/</id>
-    <title>Zum Welttanztag am 29. April - Constantin Hochkeppel schreibt aus persönlicher Erfahrung üb...</title>
-    <updated>2026-04-29T09:43:43+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/welttanztag-am-29-april/"/>
-    <category term="kultur"/>
-    <published>2026-04-29T09:43:43+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wer-bestimmt-was-fremd-ist/</id>
     <title>Wer bestimmt, was fremd ist? - &lt;p&gt;Familiäre Spannungen und kulturelle Konflikte ziehen sich...</title>
     <updated>2026-05-02T20:13:16+02:00</updated>
@@ -536,14 +404,26 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/</id>
     <title>Kreativer als KI? - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
-    <updated>2026-05-22T12:50:48.673564+02:00</updated>
+    <updated>2026-05-22T12:50:48+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/"/>
     <category term="kultur"/>
-    <published>2026-05-22T12:50:48.673564+02:00</published>
+    <published>2026-05-22T12:50:48+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/herzkopfuber-von-simone-saftig-erhalt-mulheimer-kinderstuckepreis-2026/</id>
+    <title>„herzkopfüber“ von Simone Saftig  erhält Mülheimer KinderStückePreis 2026 - &lt;p&gt;Einstimmig von der Jury entschieden wurde &lt;strong&gt;"herzko...</title>
+    <updated>2026-05-22T15:03:39.161076+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/herzkopfuber-von-simone-saftig-erhalt-mulheimer-kinderstuckepreis-2026/"/>
+    <category term="kultur"/>
+    <published>2026-05-22T15:03:39.161076+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sicherheit-durch-%C3%9Cberholabstand.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76177.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
