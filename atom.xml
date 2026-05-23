@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-22T22:23:36.962497+00:00</updated>
+  <updated>2026-05-23T13:32:50.695034+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -426,18 +426,6 @@
     <published>2025-11-25T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/zungenkusse-statt-schulterklopfen/</id>
-    <title>Zungenküsse statt Schulterklopfen - &lt;p&gt;Was passiert, wenn Freundschaft, Liebe und Begehren inein...</title>
-    <updated>2026-04-27T08:52:55+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/zungenkusse-statt-schulterklopfen/"/>
-    <category term="kultur"/>
-    <published>2026-04-27T08:52:55+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/uber-erscheinung-und-dasein/</id>
     <title>Was ist Liebe? - &lt;p&gt;&lt;strong&gt;"Gärtnerin aus Liebe"&lt;/strong&gt;-Dramaturg Leonard ...</title>
     <updated>2026-05-07T09:53:03+02:00</updated>
@@ -544,6 +532,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/herzkopfuber-von-simone-saftig-erhalt-mulheimer-kinderstuckepreis-2026/"/>
     <category term="kultur"/>
     <published>2026-05-22T15:03:39+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/</id>
+    <title>Premiere "Feuerwerkskörper" entfällt - &lt;p&gt;Die Premiere von &lt;strong&gt;"Feuerwerkskörper"&lt;/strong&gt; am 2...</title>
+    <updated>2026-05-23T13:32:35.529415+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/"/>
+    <category term="kultur"/>
+    <published>2026-05-23T13:32:35.529415+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/die-Seriale-das-internationale-Festival-f%C3%BCr-Independent-Serien-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73488.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
