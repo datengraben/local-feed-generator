@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-26T09:11:43.958532+00:00</updated>
+  <updated>2026-05-26T13:01:27.762660+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -426,18 +426,6 @@
     <published>2025-11-25T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/simone-sterr-bleibt-intendantin-vertrag-verlangert-bis-2032/</id>
-    <title>Simone Sterr bleibt Intendantin: Vertrag verlängert bis 2032 - Bei einer Pressekonferenz heute, Dienstag, 5. Mai, haben der...</title>
-    <updated>2026-05-05T13:36:08+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/simone-sterr-bleibt-intendantin-vertrag-verlangert-bis-2032/"/>
-    <category term="kultur"/>
-    <published>2026-05-05T13:36:08+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
     <title>Zu Gast in Mülheim: Haarige Angelegenheiten - &lt;p&gt;&lt;strong&gt;„herzkopfüber“ &lt;/strong&gt;von Simone Saftig ist für...</title>
     <updated>2026-05-19T11:04:55+02:00</updated>
@@ -476,14 +464,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/</id>
     <title>Künstliche Intelligenz, Empathie und eine nachhaltige Kultur der Zukunft - Patrick Schimanski beleuchtet das Vordringen Künstlicher Int...</title>
-    <updated>2026-05-26T09:11:26.852397+02:00</updated>
+    <updated>2026-05-26T09:11:26+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/"/>
     <category term="kultur"/>
-    <published>2026-05-26T09:11:26.852397+02:00</published>
+    <published>2026-05-26T09:11:26+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wenn-das-buhnenbild-lebendig-wird/</id>
@@ -544,6 +532,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/"/>
     <category term="kultur"/>
     <published>2026-05-23T13:32:35+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/aktion-zum-csd-studi-tickets-ab-sofort-buchen/</id>
+    <title>Aktion zum CSD: Studi-Tickets ab sofort buchen! - &lt;p&gt;Tickets für &lt;a href="https://stadttheater-giessen.de/de/v...</title>
+    <updated>2026-05-26T13:01:12.533234+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/aktion-zum-csd-studi-tickets-ab-sofort-buchen/"/>
+    <category term="kultur"/>
+    <published>2026-05-26T13:01:12.533234+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/die-Seriale-das-internationale-Festival-f%C3%BCr-Independent-Serien-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73488.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
