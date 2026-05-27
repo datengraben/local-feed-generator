@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-26T13:01:27.762660+00:00</updated>
+  <updated>2026-05-27T09:10:25.110704+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -536,26 +536,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/aktion-zum-csd-studi-tickets-ab-sofort-buchen/</id>
     <title>Aktion zum CSD: Studi-Tickets ab sofort buchen! - &lt;p&gt;Tickets für &lt;a href="https://stadttheater-giessen.de/de/v...</title>
-    <updated>2026-05-26T13:01:12.533234+02:00</updated>
+    <updated>2026-05-26T13:01:12+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/aktion-zum-csd-studi-tickets-ab-sofort-buchen/"/>
     <category term="kultur"/>
-    <published>2026-05-26T13:01:12.533234+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/die-Seriale-das-internationale-Festival-f%C3%BCr-Independent-Serien-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73488.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>die Seriale - das internationale Festival für Independent Serien in Gießen</title>
-    <updated>2026-05-07T12:30:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/die-Seriale-das-internationale-Festival-f%C3%BCr-Independent-Serien-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73488.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-07T12:30:00+02:00</published>
+    <published>2026-05-26T13:01:12+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Diverse-Stadt-2026-Vielfalt-leben-und-erleben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73540.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dankesch%C3%B6n-f%C3%BCr-Radelnde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76249.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-22T16:45:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Buch-f%C3%BCr-besondere-Namen-Gie%C3%9Fens-Goldenes-Buch-w%C3%A4chst-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76350.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Ein Buch für besondere Namen: Gießens Goldenes Buch wächst weiter</title>
+    <updated>2026-05-27T09:09:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Buch-f%C3%BCr-besondere-Namen-Gie%C3%9Fens-Goldenes-Buch-w%C3%A4chst-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76350.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-27T09:09:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
