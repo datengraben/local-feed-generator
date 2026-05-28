@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-28T13:16:01.995626+00:00</updated>
+  <updated>2026-05-28T15:08:45.855576+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -428,14 +428,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/simone-sterr-bleibt-intendantin-vertrag-verlangert-bis-2032/</id>
     <title>Simone Sterr bleibt Intendantin: Vertrag verlängert bis 2032 - Bei einer Pressekonferenz heute, Dienstag, 5. Mai, haben der...</title>
-    <updated>2026-05-28T13:15:44.549319+02:00</updated>
+    <updated>2026-05-28T13:15:44+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/simone-sterr-bleibt-intendantin-vertrag-verlangert-bis-2032/"/>
     <category term="kultur"/>
-    <published>2026-05-28T13:15:44.549319+02:00</published>
+    <published>2026-05-28T13:15:44+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
@@ -544,18 +544,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/aktion-zum-csd-studi-tickets-ab-sofort-buchen/"/>
     <category term="kultur"/>
     <published>2026-05-26T13:01:12+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Information-zur-Hessischen-Lebensraum-und-Biotopkartierung-HLBK-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76215.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Information zur Hessischen Lebensraum- und Biotopkartierung (HLBK)</title>
-    <updated>2026-05-13T11:44:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Information-zur-Hessischen-Lebensraum-und-Biotopkartierung-HLBK-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76215.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-13T11:44:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Musikalischer-Sommer-auf-dem-Schiffenberg-und-der-StadtRaumB%C3%BChne.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76217.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ampelm%C3%A4nnchen-an-Fu%C3%9Fg%C3%A4nger-%C3%9Cberwegen-am-Gie%C3%9Fener-Anlagenring.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76378.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-28T13:15:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/In-Kleinlinden-und-L%C3%BCtzellinden-beginnt-die-Freibadsaison.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76379.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>In Kleinlinden und Lützellinden beginnt die Freibadsaison</title>
+    <updated>2026-05-28T15:08:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/In-Kleinlinden-und-L%C3%BCtzellinden-beginnt-die-Freibadsaison.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76379.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-28T15:08:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
