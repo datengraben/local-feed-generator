@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-05-30T14:33:42.376646+00:00</updated>
+  <updated>2026-06-01T09:51:58.235102+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -546,30 +546,6 @@
     <published>2026-05-26T13:01:12+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Information-zur-Hessischen-Lebensraum-und-Biotopkartierung-HLBK-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76215.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Information zur Hessischen Lebensraum- und Biotopkartierung (HLBK)</title>
-    <updated>2026-05-13T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Information-zur-Hessischen-Lebensraum-und-Biotopkartierung-HLBK-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76215.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-13T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Musikalischer-Sommer-auf-dem-Schiffenberg-und-der-StadtRaumB%C3%BChne.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76217.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>Musikalischer Sommer auf dem Schiffenberg und der StadtRaumBühne</title>
-    <updated>2026-05-13T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Musikalischer-Sommer-auf-dem-Schiffenberg-und-der-StadtRaumB%C3%BChne.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76217.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-13T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kostenfreier-Busverkehr-zur-Gie%C3%9Fener-Kulturnacht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76218.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
     <title>Kostenfreier Busverkehr zur Gießener Kulturnacht</title>
     <updated>2026-05-13T13:44:00+02:00</updated>
@@ -688,18 +664,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BCr-Klimaanpassung-und-mehr-Barrierefreiheit-Volkshochschule-in-der-Fr%C3%B6belstra%C3%9Fe-mit-neuem-Au%C3%9Fenbereich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76311.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-21T07:19:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
-    <title>+++Update+++ Einschränkungen auf der A485/A45 - Gießener Südkreuz</title>
-    <updated>2026-05-19T17:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Br%C3%BCckenschaden-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-19T17:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dankesch%C3%B6n-f%C3%BCr-Radelnde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76249.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
@@ -844,6 +808,42 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Museen-st%C3%A4rken-und-ihre-Aufgaben-gestalten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76404.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-29T07:22:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-Allendorf-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Verwaltungsstelle in Allendorf vorübergehend geschlossen</title>
+    <updated>2026-06-01T09:51:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-Allendorf-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-01T09:51:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Bauarbeiten-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>+++Update+++ Bauarbeiten auf der A485/A45 - Gießener Südkreuz</title>
+    <updated>2026-06-01T09:51:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Bauarbeiten-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-01T09:51:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fluss-mit-Flair-kehrt-zur%C3%BCck-und-beginnt-zugleich-ein-neues-Kapitel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76466.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229</id>
+    <title>Fluss mit Flair kehrt zurück - und beginnt zugleich ein neues Kapitel</title>
+    <updated>2026-06-01T09:51:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fluss-mit-Flair-kehrt-zur%C3%BCck-und-beginnt-zugleich-ein-neues-Kapitel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76466.1&amp;NavID=1894.87&amp;La=1&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-01T09:51:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
