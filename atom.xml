@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-02T11:30:49.776074+00:00</updated>
+  <updated>2026-06-02T13:18:17.687287+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -512,14 +512,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/</id>
     <title>Neuer Premierentermin für "Feuerwerkskörper" - &lt;p&gt;Die Premiere von &lt;strong&gt;"Feuerwerkskörper"&lt;/strong&gt; muss...</title>
-    <updated>2026-06-02T11:30:35.502382+02:00</updated>
+    <updated>2026-06-02T11:30:35+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/"/>
     <category term="kultur"/>
-    <published>2026-06-02T11:30:35.502382+02:00</published>
+    <published>2026-06-02T11:30:35+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/</id>
@@ -556,18 +556,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-eroffnet/"/>
     <category term="kultur"/>
     <published>2026-06-02T09:28:26+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Zielgruppen-zwei-Kan%C3%A4le-Gie%C3%9Fen-Marketing-sch%C3%A4rft-digitales-Profil.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76234.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Zwei Zielgruppen - zwei Kanäle: Gießen Marketing schärft digitales Profil</title>
-    <updated>2026-05-18T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-Zielgruppen-zwei-Kan%C3%A4le-Gie%C3%9Fen-Marketing-sch%C3%A4rft-digitales-Profil.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76234.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-18T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eine-erste-Bilanz-nach-der-Kulturnacht-Jetzt-an-Feedbackumfrage-teilnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76247.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -856,6 +844,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Museum-f%C3%BCr-Gie%C3%9Fen-erg%C3%A4nzt-die-Plakatausstellung-Frauen-im-Widerstand-um-Station-zu-Ria-Deeg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76552.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-02T11:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mit-dem-Stadtbus-zum-Konzert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76553.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Mit dem Stadtbus zum Konzert</title>
+    <updated>2026-06-02T13:18:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mit-dem-Stadtbus-zum-Konzert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76553.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-02T13:18:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
