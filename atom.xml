@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-02T13:18:17.687287+00:00</updated>
+  <updated>2026-06-02T15:25:37.557610+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -558,54 +558,6 @@
     <published>2026-06-02T09:28:26+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eine-erste-Bilanz-nach-der-Kulturnacht-Jetzt-an-Feedbackumfrage-teilnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76247.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Eine erste Bilanz nach der Kulturnacht – Jetzt an Feedbackumfrage teilnehmen!</title>
-    <updated>2026-05-19T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eine-erste-Bilanz-nach-der-Kulturnacht-Jetzt-an-Feedbackumfrage-teilnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76247.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-19T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-offenen-T%C3%BCr-im-Gefahrenabwehrzentrum-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76250.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Tag der offenen Tür im Gefahrenabwehrzentrum Gießen</title>
-    <updated>2026-05-19T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-offenen-T%C3%BCr-im-Gefahrenabwehrzentrum-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76250.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-19T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Frau-Kommerzienrat-kauft-weiter-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76252.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Frau Kommerzienrat kauft weiter ein</title>
-    <updated>2026-05-19T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Frau-Kommerzienrat-kauft-weiter-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76252.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-19T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-M%C3%BCllabfuhrtermine-nach-Pfingsten-und-Fronleichnam-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76193.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Geänderte Müllabfuhrtermine nach Pfingsten und Fronleichnam </title>
-    <updated>2026-05-20T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-M%C3%BCllabfuhrtermine-nach-Pfingsten-und-Fronleichnam-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76193.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-20T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Planungen-zum-Schutz-vor-Afrikanischer-Schweinepest-laufen-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76293.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Planungen zum Schutz vor Afrikanischer Schweinepest laufen weiter</title>
     <updated>2026-05-20T00:00:00+02:00</updated>
@@ -856,6 +808,54 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mit-dem-Stadtbus-zum-Konzert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76553.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-02T13:18:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tempo-30-auf-Hauptschulwegen-Mehr-Sicherheit-im-Umfeld-der-Hedwig-Burgheim-Schule-in-R%C3%B6dgen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76557.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Tempo 30 auf Hauptschulwegen: Mehr Sicherheit im Umfeld der Hedwig-Burgheim-Schule in Rödgen</title>
+    <updated>2026-06-02T15:25:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tempo-30-auf-Hauptschulwegen-Mehr-Sicherheit-im-Umfeld-der-Hedwig-Burgheim-Schule-in-R%C3%B6dgen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76557.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-02T15:25:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundhafte-Sanierung-der-Wieseckbr%C3%BCcke-in-der-Frankfurter-Stra%C3%9Fe-startet-am-Montag-8-Juni-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76559.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Grundhafte Sanierung der Wieseckbrücke in der Frankfurter Straße startet am Montag (8. Juni)</title>
+    <updated>2026-06-02T15:25:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundhafte-Sanierung-der-Wieseckbr%C3%BCcke-in-der-Frankfurter-Stra%C3%9Fe-startet-am-Montag-8-Juni-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76559.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-02T15:25:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wegen-Fest-Lahnstra%C3%9Fe-in-Teilen-ab-morgen-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76560.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Wegen Fest: Lahnstraße in Teilen gesperrt</title>
+    <updated>2026-06-02T15:25:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wegen-Fest-Lahnstra%C3%9Fe-in-Teilen-ab-morgen-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76560.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-02T15:25:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A485-N%C3%A4chtliche-Sperrungen-in-der-Anschlussstelle-Schiffenberger-Tal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76561.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>A485: Nächtliche Sperrungen in der Anschlussstelle Schiffenberger Tal</title>
+    <updated>2026-06-02T15:25:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A485-N%C3%A4chtliche-Sperrungen-in-der-Anschlussstelle-Schiffenberger-Tal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76561.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-02T15:25:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
