@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-02T15:25:37.557610+00:00</updated>
+  <updated>2026-06-03T07:44:12.238079+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -558,18 +558,6 @@
     <published>2026-06-02T09:28:26+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Planungen-zum-Schutz-vor-Afrikanischer-Schweinepest-laufen-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76293.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Planungen zum Schutz vor Afrikanischer Schweinepest laufen weiter</title>
-    <updated>2026-05-20T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Planungen-zum-Schutz-vor-Afrikanischer-Schweinepest-laufen-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76293.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-20T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BCr-Klimaanpassung-und-mehr-Barrierefreiheit-Volkshochschule-in-der-Fr%C3%B6belstra%C3%9Fe-mit-neuem-Au%C3%9Fenbereich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76311.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Für Klimaanpassung und mehr Barrierefreiheit: Volkshochschule in der Fröbelstraße mit neuem Außenbereich</title>
     <updated>2026-05-21T00:00:00+02:00</updated>
@@ -856,6 +844,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/A485-N%C3%A4chtliche-Sperrungen-in-der-Anschlussstelle-Schiffenberger-Tal.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76561.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-02T15:25:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Praktikumstage-in-Gie%C3%9Fen-starten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76184.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Praktikumstage in Gießen starten</title>
+    <updated>2026-06-02T07:43:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Praktikumstage-in-Gie%C3%9Fen-starten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76184.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-02T07:43:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
