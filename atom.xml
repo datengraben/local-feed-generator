@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-03T07:44:12.238079+00:00</updated>
+  <updated>2026-06-03T09:38:47.123217+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -558,18 +558,6 @@
     <published>2026-06-02T09:28:26+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BCr-Klimaanpassung-und-mehr-Barrierefreiheit-Volkshochschule-in-der-Fr%C3%B6belstra%C3%9Fe-mit-neuem-Au%C3%9Fenbereich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76311.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Für Klimaanpassung und mehr Barrierefreiheit: Volkshochschule in der Fröbelstraße mit neuem Außenbereich</title>
-    <updated>2026-05-21T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BCr-Klimaanpassung-und-mehr-Barrierefreiheit-Volkshochschule-in-der-Fr%C3%B6belstra%C3%9Fe-mit-neuem-Au%C3%9Fenbereich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76311.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-21T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dankesch%C3%B6n-f%C3%BCr-Radelnde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76249.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Dankeschön für Radelnde</title>
     <updated>2026-05-22T00:00:00+02:00</updated>
@@ -688,18 +676,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Museen-st%C3%A4rken-und-ihre-Aufgaben-gestalten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76404.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-05-29T16:53:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-Allendorf-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Verwaltungsstelle in Allendorf vorübergehend geschlossen</title>
-    <updated>2026-06-01T16:53:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-Allendorf-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-01T16:53:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Bauarbeiten-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -856,6 +832,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Praktikumstage-in-Gie%C3%9Fen-starten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76184.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-02T07:43:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinien-3-und-13-werden-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76570.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Buslinien 3 und 13 werden umgeleitet</title>
+    <updated>2026-06-03T09:38:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinien-3-und-13-werden-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76570.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-03T09:38:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-Allendorf-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Verwaltungsstelle in Allendorf vorübergehend geschlossen</title>
+    <updated>2026-06-01T16:53:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-Allendorf-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-01T16:53:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
