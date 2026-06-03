@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-03T11:38:30.722976+00:00</updated>
+  <updated>2026-06-03T17:42:13.111886+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -558,30 +558,6 @@
     <published>2026-06-02T09:28:26+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Buch-f%C3%BCr-besondere-Namen-Gie%C3%9Fens-Goldenes-Buch-w%C3%A4chst-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76350.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Ein Buch für besondere Namen: Gießens Goldenes Buch wächst weiter</title>
-    <updated>2026-05-27T16:53:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Buch-f%C3%BCr-besondere-Namen-Gie%C3%9Fens-Goldenes-Buch-w%C3%A4chst-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76350.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-27T16:53:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Inklusion-hilft-in-Wirklichkeit-allen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76353.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Inklusion hilft in Wirklichkeit allen.</title>
-    <updated>2026-05-27T16:53:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Inklusion-hilft-in-Wirklichkeit-allen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76353.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-27T16:53:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-feiern-mit-der-Gie%C3%9Fener-Feuerwehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76367.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>SWG feiern mit der Gießener Feuerwehr</title>
     <updated>2026-05-28T16:53:00+02:00</updated>
@@ -856,6 +832,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Digitalwoche-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76573.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-03T11:38:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rmeausbau-geht-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76574.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Fernwärmeausbau geht weiter</title>
+    <updated>2026-06-03T17:41:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rmeausbau-geht-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76574.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-03T17:41:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Blauzungenkrankheit-Nach-Ausbruch-in-Rinderhaltung-wird-zur-Impfung-geraten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76575.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Blauzungenkrankheit: Nach Ausbruch wird zur Impfung von Ziegen, Schafen und Rindern geraten</title>
+    <updated>2026-06-03T17:41:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Blauzungenkrankheit-Nach-Ausbruch-in-Rinderhaltung-wird-zur-Impfung-geraten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76575.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-03T17:41:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
