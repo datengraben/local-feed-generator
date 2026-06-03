@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-03T09:38:47.123217+00:00</updated>
+  <updated>2026-06-03T11:38:30.722976+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -558,18 +558,6 @@
     <published>2026-06-02T09:28:26+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dankesch%C3%B6n-f%C3%BCr-Radelnde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76249.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Dankeschön für Radelnde</title>
-    <updated>2026-05-22T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Dankesch%C3%B6n-f%C3%BCr-Radelnde.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76249.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-22T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Buch-f%C3%BCr-besondere-Namen-Gie%C3%9Fens-Goldenes-Buch-w%C3%A4chst-weiter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76350.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Ein Buch für besondere Namen: Gießens Goldenes Buch wächst weiter</title>
     <updated>2026-05-27T16:53:00+02:00</updated>
@@ -856,6 +844,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-Allendorf-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-01T16:53:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Digitalwoche-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76573.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Gießener Digitalwoche 2026</title>
+    <updated>2026-06-03T11:38:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fener-Digitalwoche-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76573.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-03T11:38:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
