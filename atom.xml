@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-03T17:42:13.111886+00:00</updated>
+  <updated>2026-06-05T11:08:13.094541+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -475,7 +475,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/</id>
-    <title>Künstliche Intelligenz, Empathie und eine nachhaltige Kultur der Zukunft - Patrick Schimanski beleuchtet das Vordringen Künstlicher Int...</title>
+    <title>Künstliche Intelligenz, Empathie und eine nachhaltige Kultur der Zukunft - &lt;p&gt;Patrick Schimanski beleuchtet das Vordringen Künstlicher ...</title>
     <updated>2026-05-26T09:11:26+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -556,42 +556,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-eroffnet/"/>
     <category term="kultur"/>
     <published>2026-06-02T09:28:26+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-feiern-mit-der-Gie%C3%9Fener-Feuerwehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76367.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>SWG feiern mit der Gießener Feuerwehr</title>
-    <updated>2026-05-28T16:53:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-feiern-mit-der-Gie%C3%9Fener-Feuerwehr.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76367.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-28T16:53:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienfreizeit-in-Gie%C3%9Fens-tschechische-Partnerstadt-Hradec-Kr%C3%A1lov%C3%A9.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76370.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Ferienfreizeit in Gießens tschechische Partnerstadt Hradec Králové</title>
-    <updated>2026-05-28T16:53:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienfreizeit-in-Gie%C3%9Fens-tschechische-Partnerstadt-Hradec-Kr%C3%A1lov%C3%A9.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76370.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-28T16:53:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Headliner-zum-Stadtfest-stehen-fest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76371.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Headliner zum Stadtfest stehen fest</title>
-    <updated>2026-05-28T16:53:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Headliner-zum-Stadtfest-stehen-fest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76371.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-28T16:53:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-nun-Partnerschaft-f%C3%BCr-Demokratie.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76376.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -856,6 +820,42 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Blauzungenkrankheit-Nach-Ausbruch-in-Rinderhaltung-wird-zur-Impfung-geraten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76575.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-03T17:41:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-f%C3%BCr-Stadtf%C3%BChrungen-frei.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76595.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Noch Plätze für Stadtführungen frei</title>
+    <updated>2026-06-05T11:07:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-f%C3%BCr-Stadtf%C3%BChrungen-frei.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76595.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-05T11:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-verl%C3%A4ngern-Kooperation-mit-Gie%C3%9Fen-Achter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76596.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>SWG verlängern Kooperation mit Gießen-Achter</title>
+    <updated>2026-06-05T11:07:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-verl%C3%A4ngern-Kooperation-mit-Gie%C3%9Fen-Achter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76596.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-05T11:07:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veranstaltungsreihe-Musikalischer-Sommer-29-05-19-07-2026-Wochenende-29-31-Mai-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76354.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Musikalischer Sommer am Wochenende - 5. bis 7. Juni</title>
+    <updated>2026-06-05T11:07:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veranstaltungsreihe-Musikalischer-Sommer-29-05-19-07-2026-Wochenende-29-31-Mai-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76354.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-05T11:07:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
