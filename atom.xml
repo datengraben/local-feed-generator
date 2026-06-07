@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-06T18:28:51.803735+00:00</updated>
+  <updated>2026-06-07T22:24:36.415743+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -546,6 +546,18 @@
     <published>2026-06-02T09:28:26+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-nun-Partnerschaft-f%C3%BCr-Demokratie.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76376.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Gießen hat nun Partnerschaft für Demokratie</title>
+    <updated>2026-05-28T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-nun-Partnerschaft-f%C3%BCr-Demokratie.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76376.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-05-28T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ampelm%C3%A4nnchen-an-Fu%C3%9Fg%C3%A4nger-%C3%9Cberwegen-am-Gie%C3%9Fener-Anlagenring.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76378.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Ampelmännchen an Fußgänger-Überwegen am Gießener Anlagenring</title>
     <updated>2026-05-28T16:53:00+02:00</updated>
@@ -818,18 +830,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-verl%C3%A4ngern-Kooperation-mit-Gie%C3%9Fen-Achter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76596.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-05T11:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veranstaltungsreihe-Musikalischer-Sommer-29-05-19-07-2026-Wochenende-29-31-Mai-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76354.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Musikalischer Sommer am Wochenende - 5. bis 7. Juni</title>
-    <updated>2026-06-05T11:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veranstaltungsreihe-Musikalischer-Sommer-29-05-19-07-2026-Wochenende-29-31-Mai-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76354.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-05T11:07:00+02:00</published>
   </entry>
