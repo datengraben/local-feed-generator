@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-07T22:24:36.415743+00:00</updated>
+  <updated>2026-06-08T07:45:31.680552+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -426,18 +426,6 @@
     <published>2026-06-02T11:30:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/</id>
-    <title>Zu Gast in Mülheim: Haarige Angelegenheiten - &lt;p&gt;&lt;strong&gt;„herzkopfüber“ &lt;/strong&gt;von Simone Saftig ist für...</title>
-    <updated>2026-05-19T11:04:55+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/haarige-angelegenheiten/"/>
-    <category term="kultur"/>
-    <published>2026-05-19T11:04:55+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
     <title>Theatertag am 13. Juni - &lt;p&gt;Der nächste Theatertag ist &lt;strong&gt;"Das Opferfest"&lt;/stron...</title>
     <updated>2026-05-19T11:04:55+02:00</updated>
@@ -462,30 +450,6 @@
     <published>2026-05-08T15:34:23+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/</id>
-    <title>Künstliche Intelligenz, Empathie und eine nachhaltige Kultur der Zukunft - &lt;p&gt;Patrick Schimanski beleuchtet das Vordringen Künstlicher ...</title>
-    <updated>2026-05-26T09:11:26+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/"/>
-    <category term="kultur"/>
-    <published>2026-05-26T09:11:26+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/</id>
-    <title>Kreativer als KI? - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
-    <updated>2026-05-22T12:50:48+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/"/>
-    <category term="kultur"/>
-    <published>2026-05-22T12:50:48+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/herzkopfuber-von-simone-saftig-erhalt-mulheimer-kinderstuckepreis-2026/</id>
     <title>„herzkopfüber“ von Simone Saftig  erhält Mülheimer KinderStückePreis 2026 - &lt;p&gt;Einstimmig von der Jury entschieden wurde &lt;strong&gt;"herzko...</title>
     <updated>2026-05-22T15:03:39+02:00</updated>
@@ -498,18 +462,6 @@
     <published>2026-05-22T15:03:39+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/</id>
-    <title>Neuer Premierentermin für "Feuerwerkskörper" - &lt;p&gt;Die Premiere von &lt;strong&gt;"Feuerwerkskörper"&lt;/strong&gt; muss...</title>
-    <updated>2026-06-02T11:30:35+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/"/>
-    <category term="kultur"/>
-    <published>2026-06-02T11:30:35+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/</id>
     <title>Feuerwerk im Kopf - &lt;p&gt;Im Tanzstück „&lt;strong&gt;Feuerwerkskörper“ &lt;/strong&gt;von Raim...</title>
     <updated>2026-05-22T19:33:07+02:00</updated>
@@ -520,6 +472,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/"/>
     <category term="kultur"/>
     <published>2026-05-22T19:33:07+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/</id>
+    <title>Künstliche Intelligenz, Empathie und eine nachhaltige Kultur der Zukunft - &lt;p&gt;Patrick Schimanski beleuchtet das Vordringen Künstlicher ...</title>
+    <updated>2026-05-26T09:11:26+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/"/>
+    <category term="kultur"/>
+    <published>2026-05-26T09:11:26+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wenn-das-buhnenbild-lebendig-wird/</id>
@@ -544,6 +508,42 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-eroffnet/"/>
     <category term="kultur"/>
     <published>2026-06-02T09:28:26+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/</id>
+    <title>Kreativer als KI? - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
+    <updated>2026-05-22T12:50:48+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/"/>
+    <category term="kultur"/>
+    <published>2026-05-22T12:50:48+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
+    <title>Schiffenberg Classics: Philharmonisches Orchester Gießen beim Kultursommer 2026 - Geballter Orchestersound im einzigartigen Ambiente: Das Phil...</title>
+    <updated>2026-06-08T07:45:17.895474+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/"/>
+    <category term="kultur"/>
+    <published>2026-06-08T07:45:17.895474+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/</id>
+    <title>Neuer Premierentermin für "Feuerwerkskörper" - &lt;p&gt;Die Premiere von &lt;strong&gt;"Feuerwerkskörper"&lt;/strong&gt; muss...</title>
+    <updated>2026-06-02T11:30:35+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/"/>
+    <category term="kultur"/>
+    <published>2026-06-02T11:30:35+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-nun-Partnerschaft-f%C3%BCr-Demokratie.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76376.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
