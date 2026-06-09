@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-08T11:38:01.986413+00:00</updated>
+  <updated>2026-06-09T11:04:43.920944+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -426,18 +426,6 @@
     <published>2026-06-02T11:30:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/</id>
-    <title>Theatertag am 13. Juni - &lt;p&gt;Der nächste Theatertag ist &lt;strong&gt;"Das Opferfest"&lt;/stron...</title>
-    <updated>2026-05-19T11:04:55+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theater-fur-alle/"/>
-    <category term="kultur"/>
-    <published>2026-05-19T11:04:55+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/</id>
     <title>Blick in die Spielzeit 2026/2027 - &lt;p&gt;Bei einer Pressekonferenz wurde heute, 8. Mai, das Progra...</title>
     <updated>2026-05-08T15:34:23+02:00</updated>
@@ -498,6 +486,18 @@
     <published>2026-05-12T09:55:17+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/interview-rakes-progress/</id>
+    <title>Zwischen Realität, Fiktion und Projektion - &lt;p&gt;Dramaturgin Julia van der Horst im Gespräch mit Ausstatte...</title>
+    <updated>2026-06-09T11:04:31.862745+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/interview-rakes-progress/"/>
+    <category term="kultur"/>
+    <published>2026-06-09T11:04:31.862745+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-eroffnet/</id>
     <title>Spielzeit 2026/2027 - &lt;p&gt;Die Vorfreude auf die neue Spielzeit darf gerne schon beg...</title>
     <updated>2026-06-02T09:28:26+02:00</updated>
@@ -544,18 +544,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/"/>
     <category term="kultur"/>
     <published>2026-06-02T11:30:35+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-nun-Partnerschaft-f%C3%BCr-Demokratie.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76376.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Gießen hat nun Partnerschaft für Demokratie</title>
-    <updated>2026-05-28T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-hat-nun-Partnerschaft-f%C3%BCr-Demokratie.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76376.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-28T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ampelm%C3%A4nnchen-an-Fu%C3%9Fg%C3%A4nger-%C3%9Cberwegen-am-Gie%C3%9Fener-Anlagenring.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76378.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stra%C3%9Fen-und-Gehwege-im-Sandfeld-werden-erneuert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76618.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-08T11:37:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/WM-Public-Viewing-Wo-auch-um-22-Uhr-gemeinsam-drau%C3%9Fen-gefiebert-werden-darf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76620.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>WM-Public-Viewing: Wo auch um 22 Uhr gemeinsam draußen gefiebert werden darf</title>
+    <updated>2026-06-09T11:04:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/WM-Public-Viewing-Wo-auch-um-22-Uhr-gemeinsam-drau%C3%9Fen-gefiebert-werden-darf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76620.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-09T11:04:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
