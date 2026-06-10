@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-10T15:06:40.192670+00:00</updated>
+  <updated>2026-06-10T17:06:47.531525+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -426,18 +426,6 @@
     <published>2026-06-02T11:30:35+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Welt-zu-Gast-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76467.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Die Welt zu Gast in Gießen</title>
-    <updated>2026-06-01T16:53:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Welt-zu-Gast-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76467.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-01T16:53:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Energiewissen-am-Dienstag-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76550.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Energiewissen am Dienstag</title>
     <updated>2026-06-02T09:28:00+02:00</updated>
@@ -724,6 +712,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgerumfrage-zur-Krisenvorsorge-gestartet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76648.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-10T15:06:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-und-Kommunen-w%C3%BCrdigen-Einsatz-ehemaliger-Soldatinnen-und-Soldaten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76650.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Landkreis und Kommunen würdigen Einsatz ehemaliger Soldatinnen und Soldaten</title>
+    <updated>2026-06-10T17:06:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Landkreis-und-Kommunen-w%C3%BCrdigen-Einsatz-ehemaliger-Soldatinnen-und-Soldaten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76650.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-10T17:06:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
