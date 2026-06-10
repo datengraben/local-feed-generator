@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-10T03:09:41.497726+00:00</updated>
+  <updated>2026-06-10T13:11:48.935248+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -203,126 +203,6 @@
     <link href="https://www.asta-giessen.de/zweites-planungstreffen-fuer-eine-gerechte-und-ausfinanzierte-hochschule-nocutsgiessen/"/>
     <category term="uni"/>
     <published>2026-01-17T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2024/06/12/aberglaube-an-der-justus-liebig-universitaet-die-sache-mit-dem-ewigen-studenten/</id>
-    <title>Aberglaube an der Justus-Liebig-Universität? Die Sache mit dem ewigen Studenten</title>
-    <updated>2024-06-12T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2024/06/12/aberglaube-an-der-justus-liebig-universitaet-die-sache-mit-dem-ewigen-studenten/"/>
-    <category term="uni"/>
-    <published>2024-06-12T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2024/07/07/erinnerungskultur-in-mittelhessen/</id>
-    <title>Erinnerungskultur in Mittelhessen</title>
-    <updated>2024-07-07T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2024/07/07/erinnerungskultur-in-mittelhessen/"/>
-    <category term="uni"/>
-    <published>2024-07-07T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2024/11/24/zuhause-aus-einer-anderen-perspektive-der-alltag-einer-milchkuh/</id>
-    <title>Zuhause aus einer anderen Perspektive: Der Alltag einer Milchkuh</title>
-    <updated>2024-11-24T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2024/11/24/zuhause-aus-einer-anderen-perspektive-der-alltag-einer-milchkuh/"/>
-    <category term="uni"/>
-    <published>2024-11-24T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/</id>
-    <title>UNIversum testet: Veganfreundliche und vegane Cafés in Gießen</title>
-    <updated>2025-02-15T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/"/>
-    <category term="uni"/>
-    <published>2025-02-15T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/</id>
-    <title>Audiobeitrag: Die Demokratische Republik Georgien und das Deutsche Kaiserreich</title>
-    <updated>2025-11-19T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/"/>
-    <category term="uni"/>
-    <published>2025-11-19T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/02/02/demo-gegen-afd-jugend-in-giessen-friedlich-kreativ-und-bunt/</id>
-    <title>Demo gegen AfD-Jugend in Gießen: Friedlich, kreativ und bunt</title>
-    <updated>2026-02-02T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/02/demo-gegen-afd-jugend-in-giessen-friedlich-kreativ-und-bunt/"/>
-    <category term="uni"/>
-    <published>2026-02-02T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/02/19/kuerzungen-am-fachbereich-04-fussnote/</id>
-    <title>Kürzungen am Fachbereich 04 – Fußnote</title>
-    <updated>2026-02-19T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/19/kuerzungen-am-fachbereich-04-fussnote/"/>
-    <category term="uni"/>
-    <published>2026-02-19T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/02/21/universum-unterwegs-dokumentar-und-animationsfilmfestival-leipzig/</id>
-    <title>UNIversum unterwegs: Dokumentar- und Animationsfilmfestival Leipzig</title>
-    <updated>2026-02-21T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/21/universum-unterwegs-dokumentar-und-animationsfilmfestival-leipzig/"/>
-    <category term="uni"/>
-    <published>2026-02-21T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/</id>
-    <title>„Trains“ – Ein Statement ohne Worte auf der DOK Leipzig</title>
-    <updated>2026-02-28T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/"/>
-    <category term="uni"/>
-    <published>2026-02-28T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/</id>
-    <title>DOK Leipzig: Wenn wir nicht lachen würden</title>
-    <updated>2026-04-15T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/"/>
-    <category term="uni"/>
-    <published>2026-04-15T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Die-Verbraucherzentrale-r%C3%A4t-Richtig-trinken-im-Sommer.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.67940.1&amp;NavID=2874.584</id>
@@ -544,42 +424,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/"/>
     <category term="kultur"/>
     <published>2026-06-02T11:30:35+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/In-Kleinlinden-und-L%C3%BCtzellinden-beginnt-die-Freibadsaison.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76379.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>In Kleinlinden und Lützellinden beginnt die Freibadsaison</title>
-    <updated>2026-05-28T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/In-Kleinlinden-und-L%C3%BCtzellinden-beginnt-die-Freibadsaison.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76379.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-28T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Museen-st%C3%A4rken-und-ihre-Aufgaben-gestalten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76404.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Museen stärken und ihre Aufgaben gestalten</title>
-    <updated>2026-05-29T16:53:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Museen-st%C3%A4rken-und-ihre-Aufgaben-gestalten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76404.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-05-29T16:53:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Bauarbeiten-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>+++Update+++ Bauarbeiten auf der A485/A45 - Gießener Südkreuz</title>
-    <updated>2026-06-01T16:53:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Update-Bauarbeiten-am-Gie%C3%9Fener-S%C3%BCdkreuz-A485.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60503.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-01T16:53:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fluss-mit-Flair-kehrt-zur%C3%BCck-und-beginnt-zugleich-ein-neues-Kapitel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76466.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -844,6 +688,42 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtbusbetrieb-vor%C3%BCbergehend-eingeschr%C3%A4nkt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76604.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-05T19:34:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versammlungsaufzug-am-13-Juni-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76641.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Versammlungsaufzug am 13. Juni: Verkehrsbehinderungen in der Gießener Innenstadt möglich</title>
+    <updated>2026-06-10T13:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versammlungsaufzug-am-13-Juni-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76641.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-10T13:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bl%C3%BChender-Treffpunkt-mit-Mehrwert-f%C3%BCr-Mensch-und-Natur-in-Allendorf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76642.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Blühender Treffpunkt mit Mehrwert für Mensch und Natur in Allendorf</title>
+    <updated>2026-06-10T13:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bl%C3%BChender-Treffpunkt-mit-Mehrwert-f%C3%BCr-Mensch-und-Natur-in-Allendorf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76642.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-10T13:11:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Leerung-der-Papiertonnen-in-Nordstadt-und-Wieseck-verz%C3%B6gert-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76643.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Leerung der Papiertonnen in Nordstadt und Wieseck verzögert sich</title>
+    <updated>2026-06-10T13:11:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Leerung-der-Papiertonnen-in-Nordstadt-und-Wieseck-verz%C3%B6gert-sich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76643.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-10T13:11:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
