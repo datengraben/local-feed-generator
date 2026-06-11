@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-11T11:33:09.610639+00:00</updated>
+  <updated>2026-06-11T13:20:21.563689+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -546,18 +546,6 @@
     <published>2026-06-02T11:30:35+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Museum-f%C3%BCr-Gie%C3%9Fen-erg%C3%A4nzt-die-Plakatausstellung-Frauen-im-Widerstand-um-Station-zu-Ria-Deeg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76552.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Museum für Gießen ergänzt die Plakatausstellung »Frauen im Widerstand" um Station zu Ria Deeg</title>
-    <updated>2026-06-02T11:30:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Museum-f%C3%BCr-Gie%C3%9Fen-erg%C3%A4nzt-die-Plakatausstellung-Frauen-im-Widerstand-um-Station-zu-Ria-Deeg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76552.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-02T11:30:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mit-dem-Stadtbus-zum-Konzert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76553.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Mit dem Stadtbus zum Konzert</title>
     <updated>2026-06-02T13:18:00+02:00</updated>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Spiel-Dein-Spiel-City-Day-am-21-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76653.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-11T11:32:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-eines-Teilst%C3%BCcks-vom-Asterweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76654.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Vollsperrung eines Teilstücks vom Asterweg</title>
+    <updated>2026-06-11T13:20:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-eines-Teilst%C3%BCcks-vom-Asterweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76654.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-11T13:20:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
