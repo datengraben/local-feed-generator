@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-12T11:18:31.179099+00:00</updated>
+  <updated>2026-06-12T13:10:37.953715+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -546,18 +546,6 @@
     <published>2026-06-02T11:30:35+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tempo-30-auf-Hauptschulwegen-Mehr-Sicherheit-im-Umfeld-der-Hedwig-Burgheim-Schule-in-R%C3%B6dgen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76557.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Tempo 30 auf Hauptschulwegen: Mehr Sicherheit im Umfeld der Hedwig-Burgheim-Schule in Rödgen</title>
-    <updated>2026-06-02T15:25:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tempo-30-auf-Hauptschulwegen-Mehr-Sicherheit-im-Umfeld-der-Hedwig-Burgheim-Schule-in-R%C3%B6dgen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76557.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-02T15:25:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundhafte-Sanierung-der-Wieseckbr%C3%BCcke-in-der-Frankfurter-Stra%C3%9Fe-startet-am-Montag-8-Juni-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76559.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Grundhafte Sanierung der Wieseckbrücke in der Frankfurter Straße startet am Montag (8. Juni)</title>
     <updated>2026-06-02T15:25:00+02:00</updated>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Familienkom%C3%B6die-Das-Opferfest-am-Theatertag-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76660.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-12T11:18:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fu%C3%9Fweg-in-der-R%C3%B6dgener-Stra%C3%9Fe-muss-ab-Montag-gesperrt-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76661.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Fußweg in der Rödgener Straße muss ab Montag gesperrt werden</title>
+    <updated>2026-06-12T13:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fu%C3%9Fweg-in-der-R%C3%B6dgener-Stra%C3%9Fe-muss-ab-Montag-gesperrt-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76661.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-12T13:10:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
