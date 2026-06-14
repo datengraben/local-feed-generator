@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-12T13:10:37.953715+00:00</updated>
+  <updated>2026-06-14T14:47:27.993813+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -546,6 +546,18 @@
     <published>2026-06-02T11:30:35+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tempo-30-auf-Hauptschulwegen-Mehr-Sicherheit-im-Umfeld-der-Hedwig-Burgheim-Schule-in-R%C3%B6dgen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76557.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Tempo 30 auf Hauptschulwegen: Mehr Sicherheit im Umfeld der Hedwig-Burgheim-Schule in Rödgen</title>
+    <updated>2026-06-02T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tempo-30-auf-Hauptschulwegen-Mehr-Sicherheit-im-Umfeld-der-Hedwig-Burgheim-Schule-in-R%C3%B6dgen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76557.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-02T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundhafte-Sanierung-der-Wieseckbr%C3%BCcke-in-der-Frankfurter-Stra%C3%9Fe-startet-am-Montag-8-Juni-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76559.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Grundhafte Sanierung der Wieseckbrücke in der Frankfurter Straße startet am Montag (8. Juni)</title>
     <updated>2026-06-02T15:25:00+02:00</updated>
@@ -688,18 +700,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-zum-Ausmalen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76625.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-09T15:18:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versammlungsaufzug-am-13-Juni-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76641.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Versammlungsaufzug am 13. Juni: Verkehrsbehinderungen in der Gießener Innenstadt möglich</title>
-    <updated>2026-06-10T13:11:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versammlungsaufzug-am-13-Juni-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76641.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-10T13:11:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bl%C3%BChender-Treffpunkt-mit-Mehrwert-f%C3%BCr-Mensch-und-Natur-in-Allendorf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76642.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
