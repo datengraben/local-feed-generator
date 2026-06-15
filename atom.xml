@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-15T11:04:56.049424+00:00</updated>
+  <updated>2026-06-15T16:38:06.003071+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -450,18 +450,6 @@
     <published>2026-05-22T15:03:39+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/</id>
-    <title>Feuerwerk im Kopf - &lt;p&gt;Im Tanzstück „&lt;strong&gt;Feuerwerkskörper“ &lt;/strong&gt;von Raim...</title>
-    <updated>2026-05-22T19:33:07+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/"/>
-    <category term="kultur"/>
-    <published>2026-05-22T19:33:07+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/</id>
     <title>Künstliche Intelligenz, Empathie und eine nachhaltige Kultur der Zukunft - &lt;p&gt;Patrick Schimanski beleuchtet das Vordringen Künstlicher ...</title>
     <updated>2026-05-26T09:11:26+02:00</updated>
@@ -486,18 +474,6 @@
     <published>2026-05-12T09:55:17+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/interview-rakes-progress/</id>
-    <title>Zwischen Realität, Fiktion und Projektion - &lt;p&gt;Dramaturgin Julia van der Horst im Gespräch mit Ausstatte...</title>
-    <updated>2026-06-09T11:04:31+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/interview-rakes-progress/"/>
-    <category term="kultur"/>
-    <published>2026-06-09T11:04:31+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-eroffnet/</id>
     <title>Spielzeit 2026/2027 - &lt;p&gt;Die Vorfreude auf die neue Spielzeit darf gerne schon beg...</title>
     <updated>2026-06-02T09:28:26+02:00</updated>
@@ -510,16 +486,16 @@
     <published>2026-06-02T09:28:26+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/</id>
-    <title>Kreativer als KI? - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
-    <updated>2026-05-22T12:50:48+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/interview-rakes-progress/</id>
+    <title>Zwischen Realität, Fiktion und Projektion - &lt;p&gt;Dramaturgin Julia van der Horst im Gespräch mit Ausstatte...</title>
+    <updated>2026-06-09T11:04:31+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/"/>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/interview-rakes-progress/"/>
     <category term="kultur"/>
-    <published>2026-05-22T12:50:48+02:00</published>
+    <published>2026-06-09T11:04:31+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
@@ -534,6 +510,18 @@
     <published>2026-06-08T07:45:17+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/</id>
+    <title>Feuerwerk im Kopf - &lt;p&gt;Im Tanzstück „&lt;strong&gt;Feuerwerkskörper“ &lt;/strong&gt;von Raim...</title>
+    <updated>2026-05-22T19:33:07+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/"/>
+    <category term="kultur"/>
+    <published>2026-05-22T19:33:07+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/einfach-singen-entfallt/</id>
     <title>Neuer Premierentermin für "Feuerwerkskörper" - &lt;p&gt;Die Premiere von &lt;strong&gt;"Feuerwerkskörper"&lt;/strong&gt; muss...</title>
     <updated>2026-06-02T11:30:35+02:00</updated>
@@ -546,16 +534,16 @@
     <published>2026-06-02T11:30:35+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tempo-30-auf-Hauptschulwegen-Mehr-Sicherheit-im-Umfeld-der-Hedwig-Burgheim-Schule-in-R%C3%B6dgen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76557.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Tempo 30 auf Hauptschulwegen: Mehr Sicherheit im Umfeld der Hedwig-Burgheim-Schule in Rödgen</title>
-    <updated>2026-06-02T00:00:00+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/</id>
+    <title>Kreativer als KI? - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
+    <updated>2026-05-22T12:50:48+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tempo-30-auf-Hauptschulwegen-Mehr-Sicherheit-im-Umfeld-der-Hedwig-Burgheim-Schule-in-R%C3%B6dgen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76557.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-02T00:00:00+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/"/>
+    <category term="kultur"/>
+    <published>2026-05-22T12:50:48+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundhafte-Sanierung-der-Wieseckbr%C3%BCcke-in-der-Frankfurter-Stra%C3%9Fe-startet-am-Montag-8-Juni-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76559.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -844,6 +832,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Anpassung-von-Parkmarkierungen-in-den-Seitenstra%C3%9Fen-der-Karl-Keller-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76682.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-15T11:04:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hessische-Delegation-besucht-lebendige-Gie%C3%9Fener-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76684.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Hessische Delegation besucht lebendige Gießener Innenstadt</title>
+    <updated>2026-06-15T16:37:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hessische-Delegation-besucht-lebendige-Gie%C3%9Fener-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76684.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-15T16:37:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/adventssingen-2023/</id>
