@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-17T09:40:18.215227+00:00</updated>
+  <updated>2026-06-17T20:44:39.694245+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -546,19 +546,6 @@
     <published>2026-05-22T12:50:48+02:00</published>
   </entry>
   <entry>
-    <id>https://werkstattkirche.de/adventssingen-2023/</id>
-    <title>Adventssingen 2023</title>
-    <updated>2023-12-04T20:16:56+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/adventssingen-2023/"/>
-    <category term="nachhaltigkeit"/>
-    <category term="gemeinschaft"/>
-    <published>2023-12-04T20:16:56+01:00</published>
-  </entry>
-  <entry>
     <id>https://werkstattkirche.de/weihnachtsgruss-2023/</id>
     <title>Weihnachtsgruß 2023</title>
     <updated>2023-12-12T18:34:00+01:00</updated>
@@ -702,16 +689,29 @@
     <published>2025-04-29T12:31:09+02:00</published>
   </entry>
   <entry>
-    <id>https://werkstattkirche.de/supp-un-schwaetze-in-der-zeitung/</id>
-    <title>Supp‘ un‘ Schwätze in der Zeitung</title>
-    <updated>2025-04-29T12:31:09+02:00</updated>
+    <id>https://werkstattkirche.de/supp-un-schwaetze-am-sonntag-21-juni-26-und-ganz-kleiner-musikalischer-sommer-der-werkstattkirche/</id>
+    <title>„Supp‘ un‘ Schwätze“ am Sonntag 21. Juni 26 und „ganz kleiner musikalischer Sommer der Werkstattkirche“</title>
+    <updated>2026-06-17T22:37:05+02:00</updated>
     <author>
       <name>Werkstatt-Kirche</name>
       <email>info@werkstattkirche.de</email>
     </author>
-    <link href="https://werkstattkirche.de/supp-un-schwaetze-in-der-zeitung/"/>
+    <link href="https://werkstattkirche.de/supp-un-schwaetze-am-sonntag-21-juni-26-und-ganz-kleiner-musikalischer-sommer-der-werkstattkirche/"/>
     <category term="nachhaltigkeit"/>
     <category term="gemeinschaft"/>
-    <published>2025-04-29T12:31:09+02:00</published>
+    <published>2026-06-17T22:37:05+02:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/supp-un-schwaetze-am-sonntag-21-juni-26-und-ganz-kleiner-musikalischer-sommer-der-werkstattkirche/</id>
+    <title>„Supp‘ un‘ Schwätze“ am Sonntag 21. Juni 26 und „ganz kleiner musikalischer Sommer der Werkstattkirche“</title>
+    <updated>2026-06-17T22:37:05+02:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/supp-un-schwaetze-am-sonntag-21-juni-26-und-ganz-kleiner-musikalischer-sommer-der-werkstattkirche/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
+    <published>2026-06-17T22:37:05+02:00</published>
   </entry>
 </feed>
