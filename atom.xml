@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-17T20:44:39.694245+00:00</updated>
+  <updated>2026-06-17T21:39:48.590813+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -546,32 +546,6 @@
     <published>2026-05-22T12:50:48+02:00</published>
   </entry>
   <entry>
-    <id>https://werkstattkirche.de/weihnachtsgruss-2023/</id>
-    <title>Weihnachtsgruß 2023</title>
-    <updated>2023-12-12T18:34:00+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/weihnachtsgruss-2023/"/>
-    <category term="nachhaltigkeit"/>
-    <category term="gemeinschaft"/>
-    <published>2023-12-12T18:34:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://werkstattkirche.de/supp-und-schwaetze-fruehjahr-2024/</id>
-    <title>Supp‘ un‘ Schwätze Frühjahr 2024</title>
-    <updated>2024-03-12T12:00:00+01:00</updated>
-    <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
-    </author>
-    <link href="https://werkstattkirche.de/supp-und-schwaetze-fruehjahr-2024/"/>
-    <category term="nachhaltigkeit"/>
-    <category term="gemeinschaft"/>
-    <published>2024-03-12T12:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
     <title>Es geht weiter mit Supp‘ un‘ Schwätze bis 2025</title>
     <updated>2024-05-08T20:03:32+02:00</updated>
@@ -687,6 +661,32 @@
     <category term="nachhaltigkeit"/>
     <category term="gemeinschaft"/>
     <published>2025-04-29T12:31:09+02:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/supp-un-schwaetze-sommer-herbst-2026/</id>
+    <title>Supp‘ un‘ Schwätze Sommer-Herbst 2026</title>
+    <updated>2026-04-02T11:00:00+02:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/supp-un-schwaetze-sommer-herbst-2026/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
+    <published>2026-04-02T11:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/mai-2026-barber-angels-in-der-werkstattkirche/</id>
+    <title>Mai 2026: Barber Angels in der Werkstattkirche</title>
+    <updated>2026-05-15T10:30:00+02:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/mai-2026-barber-angels-in-der-werkstattkirche/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
+    <published>2026-05-15T10:30:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-am-sonntag-21-juni-26-und-ganz-kleiner-musikalischer-sommer-der-werkstattkirche/</id>
