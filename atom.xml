@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-24T13:43:55.151685+00:00</updated>
+  <updated>2026-06-25T09:07:54.888112+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -383,18 +383,6 @@
     <published>2026-06-24T12:46:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/herzkopfuber-von-simone-saftig-erhalt-mulheimer-kinderstuckepreis-2026/</id>
-    <title>„herzkopfüber“ von Simone Saftig  erhält Mülheimer KinderStückePreis 2026 - &lt;p&gt;Einstimmig von der Jury entschieden wurde &lt;strong&gt;"herzko...</title>
-    <updated>2026-05-22T15:03:39+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/herzkopfuber-von-simone-saftig-erhalt-mulheimer-kinderstuckepreis-2026/"/>
-    <category term="kultur"/>
-    <published>2026-05-22T15:03:39+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/</id>
     <title>Künstliche Intelligenz, Empathie und eine nachhaltige Kultur der Zukunft - &lt;p&gt;Patrick Schimanski beleuchtet das Vordringen Künstlicher ...</title>
     <updated>2026-05-26T09:11:26+02:00</updated>
@@ -491,16 +479,28 @@
     <published>2026-05-22T12:50:48+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/sommerferien-das-haus-der-karten-ist-geoffnet/</id>
+    <title>Sommerferien: Das Haus der Karten ist geöffnet - &lt;p&gt;Ab Montag, 29. Juni gelten im Haus der Karten die Sommerf...</title>
+    <updated>2026-06-25T09:07:41.612179+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/sommerferien-das-haus-der-karten-ist-geoffnet/"/>
+    <category term="kultur"/>
+    <published>2026-06-25T09:07:41.612179+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/cyberangriff-aufs-stadttheater-vorstellungsbetrieb-lauft/</id>
     <title>Cyberangriff aufs Stadttheater: Vorstellungsbetrieb läuft - &lt;p&gt;Seit einem Cyberangriff am Donnerstag liegen im Stadtthea...</title>
-    <updated>2026-06-24T13:43:37.562721+02:00</updated>
+    <updated>2026-06-24T13:43:37+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/cyberangriff-aufs-stadttheater-vorstellungsbetrieb-lauft/"/>
     <category term="kultur"/>
-    <published>2026-06-24T13:43:37.562721+02:00</published>
+    <published>2026-06-24T13:43:37+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
