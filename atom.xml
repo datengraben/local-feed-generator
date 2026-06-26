@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-26T09:08:09.024167+00:00</updated>
+  <updated>2026-06-26T11:02:09.527002+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -383,18 +383,6 @@
     <published>2026-06-24T12:46:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/</id>
-    <title>Künstliche Intelligenz, Empathie und eine nachhaltige Kultur der Zukunft - &lt;p&gt;Patrick Schimanski beleuchtet das Vordringen Künstlicher ...</title>
-    <updated>2026-05-26T09:11:26+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kunstliche-intelligenz-empathie-und-eine-nachhaltige-kultur-der-zukunft/"/>
-    <category term="kultur"/>
-    <published>2026-05-26T09:11:26+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wenn-das-buhnenbild-lebendig-wird/</id>
     <title>Wenn das Bühnenbild lebendig wird - &lt;p&gt;Am 4. und 5. Juni 2026 lädt ArtesMobiles mit&lt;strong&gt; "Ver...</title>
     <updated>2026-05-12T09:55:17+02:00</updated>
@@ -489,6 +477,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/sommerferien-das-haus-der-karten-ist-geoffnet/"/>
     <category term="kultur"/>
     <published>2026-06-25T09:07:41+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/essay-echos/</id>
+    <title>Das Echo des Wassers - &lt;p&gt;In der diesjährigen Choreografischen Werkstatt &lt;strong&gt;&lt;a...</title>
+    <updated>2026-06-26T11:01:51.808220+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/essay-echos/"/>
+    <category term="kultur"/>
+    <published>2026-06-26T11:01:51.808220+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/cyberangriff-aufs-stadttheater-vorstellungsbetrieb-lauft/</id>
