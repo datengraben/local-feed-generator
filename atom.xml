@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-26T12:45:43.961872+00:00</updated>
+  <updated>2026-06-26T13:42:07.587080+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,6 +503,18 @@
     <published>2026-06-24T13:43:37+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Essensangebot-auf-Veranstaltungen-Gie%C3%9Fen-Marketing-startet-Umfrage.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76784.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Essensangebot auf Veranstaltungen - Gießen Marketing startet Umfrage</title>
+    <updated>2026-06-23T13:41:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Essensangebot-auf-Veranstaltungen-Gie%C3%9Fen-Marketing-startet-Umfrage.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76784.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-23T13:41:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-den-%C3%96PNV-in-Stadt-und-Landkreis-verbessern-jetzt-im-Fahrgastbeirat-mitwirken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76786.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Gemeinsam den ÖPNV in Stadt und Landkreis Gießen verbessern - jetzt im Fahrgastbeirat mitwirken</title>
     <updated>2026-06-23T09:07:00+02:00</updated>
@@ -511,18 +523,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-den-%C3%96PNV-in-Stadt-und-Landkreis-verbessern-jetzt-im-Fahrgastbeirat-mitwirken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76786.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-23T09:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-des-Bahn%C3%BCbergangs-Licher-Stra%C3%9Fe-vom-26-bis-29-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76788.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Vollsperrung des Bahnübergangs Licher Straße vom 26. bis 29. Juni</title>
-    <updated>2026-06-23T09:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-des-Bahn%C3%BCbergangs-Licher-Stra%C3%9Fe-vom-26-bis-29-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76788.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-23T09:07:00+02:00</published>
   </entry>
@@ -779,16 +779,16 @@
     <published>2026-06-26T09:07:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-die-Buslinien-2-und-Saturn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76833.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Umleitung für die Buslinien 2 und Saturn</title>
-    <updated>2026-06-26T12:45:00+02:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-des-Bahn%C3%BCbergangs-Licher-Stra%C3%9Fe-vom-26-bis-29-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76788.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Vollsperrung des Bahnübergangs Licher Straße vom 26. bis 29. Juni</title>
+    <updated>2026-06-23T09:07:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-die-Buslinien-2-und-Saturn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76833.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-des-Bahn%C3%BCbergangs-Licher-Stra%C3%9Fe-vom-26-bis-29-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76788.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
-    <published>2026-06-26T12:45:00+02:00</published>
+    <published>2026-06-23T09:07:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-macht-Schulwege-sicherer-mit-Tempo-30.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76834.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
