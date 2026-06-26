@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-26T11:02:09.527002+00:00</updated>
+  <updated>2026-06-26T12:45:43.961872+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -481,14 +481,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/essay-echos/</id>
     <title>Das Echo des Wassers - &lt;p&gt;In der diesjährigen Choreografischen Werkstatt &lt;strong&gt;&lt;a...</title>
-    <updated>2026-06-26T11:01:51.808220+02:00</updated>
+    <updated>2026-06-26T11:01:51+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/essay-echos/"/>
     <category term="kultur"/>
-    <published>2026-06-26T11:01:51.808220+02:00</published>
+    <published>2026-06-26T11:01:51+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/cyberangriff-aufs-stadttheater-vorstellungsbetrieb-lauft/</id>
@@ -501,18 +501,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/cyberangriff-aufs-stadttheater-vorstellungsbetrieb-lauft/"/>
     <category term="kultur"/>
     <published>2026-06-24T13:43:37+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Essensangebot-auf-Veranstaltungen-Gie%C3%9Fen-Marketing-startet-Umfrage.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76784.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Essensangebot auf Veranstaltungen - Gießen Marketing startet Umfrage</title>
-    <updated>2026-06-23T09:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Essensangebot-auf-Veranstaltungen-Gie%C3%9Fen-Marketing-startet-Umfrage.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76784.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-23T09:07:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-den-%C3%96PNV-in-Stadt-und-Landkreis-verbessern-jetzt-im-Fahrgastbeirat-mitwirken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76786.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -791,16 +779,28 @@
     <published>2026-06-26T09:07:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Essensangebot-auf-Veranstaltungen-Gie%C3%9Fen-Marketing-startet-Umfrage.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76832.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Essensangebot auf Veranstaltungen - Gießen Marketing startet Umfrage</title>
-    <updated>2026-06-26T09:07:00+02:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-die-Buslinien-2-und-Saturn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76833.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Umleitung für die Buslinien 2 und Saturn</title>
+    <updated>2026-06-26T12:45:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Essensangebot-auf-Veranstaltungen-Gie%C3%9Fen-Marketing-startet-Umfrage.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76832.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitung-f%C3%BCr-die-Buslinien-2-und-Saturn.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76833.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
-    <published>2026-06-26T09:07:00+02:00</published>
+    <published>2026-06-26T12:45:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-macht-Schulwege-sicherer-mit-Tempo-30.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76834.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Gießen macht Schulwege sicherer mit Tempo 30</title>
+    <updated>2026-06-26T12:45:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-macht-Schulwege-sicherer-mit-Tempo-30.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76834.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-26T12:45:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
