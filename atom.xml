@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-29T11:41:21.559682+00:00</updated>
+  <updated>2026-06-29T13:30:41.694669+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -383,18 +383,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Essensangebot-auf-Veranstaltungen-Gie%C3%9Fen-Marketing-startet-Umfrage.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76784.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Essensangebot auf Veranstaltungen - Gießen Marketing startet Umfrage</title>
-    <updated>2026-06-23T13:41:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Essensangebot-auf-Veranstaltungen-Gie%C3%9Fen-Marketing-startet-Umfrage.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76784.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-23T13:41:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-den-%C3%96PNV-in-Stadt-und-Landkreis-verbessern-jetzt-im-Fahrgastbeirat-mitwirken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76786.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Gemeinsam den ÖPNV in Stadt und Landkreis Gießen verbessern - jetzt im Fahrgastbeirat mitwirken</title>
     <updated>2026-06-23T09:07:00+02:00</updated>
@@ -647,18 +635,6 @@
     <published>2026-06-26T09:07:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-des-Bahn%C3%BCbergangs-Licher-Stra%C3%9Fe-vom-26-bis-29-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76788.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Vollsperrung des Bahnübergangs Licher Straße vom 26. bis 29. Juni</title>
-    <updated>2026-06-23T09:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-des-Bahn%C3%BCbergangs-Licher-Stra%C3%9Fe-vom-26-bis-29-Juni.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76788.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-23T09:07:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-macht-Schulwege-sicherer-mit-Tempo-30.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76834.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Gießen macht Schulwege sicherer mit Tempo 30</title>
     <updated>2026-06-26T12:45:00+02:00</updated>
@@ -681,6 +657,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oberb%C3%BCrgermeister-Becher-schickt-das-erste-Paket-von-Zalando-Gie%C3%9Fen-auf-die-Reise.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76835.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-29T07:45:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umgestaltung-und-neue-Ger%C3%A4te-Spielpl%C3%A4tze-Achstattring-und-Kirchweg-ab-sofort-wieder-offen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76837.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Umgestaltung und neue Geräte: Spielplätze Achstattring und Kirchweg ab sofort wieder offen</title>
+    <updated>2026-06-29T13:30:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umgestaltung-und-neue-Ger%C3%A4te-Spielpl%C3%A4tze-Achstattring-und-Kirchweg-ab-sofort-wieder-offen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76837.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-29T13:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-des-Bahn%C3%BCbergangs-Licher-Stra%C3%9Fe-vom-26-bis-1-Juli.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76788.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Vollsperrung des Bahnübergangs Licher Straße vom 26. bis 1. Juli</title>
+    <updated>2026-06-29T13:30:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-des-Bahn%C3%BCbergangs-Licher-Stra%C3%9Fe-vom-26-bis-1-Juli.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76788.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-29T13:30:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
