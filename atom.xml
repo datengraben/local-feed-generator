@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-30T11:03:09.454877+00:00</updated>
+  <updated>2026-06-30T12:43:26.082185+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -205,126 +205,6 @@
     <published>2026-01-17T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>https://universum-giessen.com/2024/07/07/erinnerungskultur-in-mittelhessen/</id>
-    <title>Erinnerungskultur in Mittelhessen</title>
-    <updated>2024-07-07T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2024/07/07/erinnerungskultur-in-mittelhessen/"/>
-    <category term="uni"/>
-    <published>2024-07-07T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2024/11/24/zuhause-aus-einer-anderen-perspektive-der-alltag-einer-milchkuh/</id>
-    <title>Zuhause aus einer anderen Perspektive: Der Alltag einer Milchkuh</title>
-    <updated>2024-11-24T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2024/11/24/zuhause-aus-einer-anderen-perspektive-der-alltag-einer-milchkuh/"/>
-    <category term="uni"/>
-    <published>2024-11-24T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/</id>
-    <title>UNIversum testet: Veganfreundliche und vegane Cafés in Gießen</title>
-    <updated>2025-02-15T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/"/>
-    <category term="uni"/>
-    <published>2025-02-15T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/</id>
-    <title>Audiobeitrag: Die Demokratische Republik Georgien und das Deutsche Kaiserreich</title>
-    <updated>2025-11-19T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/"/>
-    <category term="uni"/>
-    <published>2025-11-19T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/02/02/demo-gegen-afd-jugend-in-giessen-friedlich-kreativ-und-bunt/</id>
-    <title>Demo gegen AfD-Jugend in Gießen: Friedlich, kreativ und bunt</title>
-    <updated>2026-02-02T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/02/demo-gegen-afd-jugend-in-giessen-friedlich-kreativ-und-bunt/"/>
-    <category term="uni"/>
-    <published>2026-02-02T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/02/19/kuerzungen-am-fachbereich-04-fussnote/</id>
-    <title>Kürzungen am Fachbereich 04 – Fußnote</title>
-    <updated>2026-02-19T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/19/kuerzungen-am-fachbereich-04-fussnote/"/>
-    <category term="uni"/>
-    <published>2026-02-19T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/02/21/universum-unterwegs-dokumentar-und-animationsfilmfestival-leipzig/</id>
-    <title>UNIversum unterwegs: Dokumentar- und Animationsfilmfestival Leipzig</title>
-    <updated>2026-02-21T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/21/universum-unterwegs-dokumentar-und-animationsfilmfestival-leipzig/"/>
-    <category term="uni"/>
-    <published>2026-02-21T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/</id>
-    <title>„Trains“ – Ein Statement ohne Worte auf der DOK Leipzig</title>
-    <updated>2026-02-28T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/"/>
-    <category term="uni"/>
-    <published>2026-02-28T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/</id>
-    <title>DOK Leipzig: Wenn wir nicht lachen würden</title>
-    <updated>2026-04-15T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/"/>
-    <category term="uni"/>
-    <published>2026-04-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/06/29/bustickets-am-kuchenstand/</id>
-    <title>Bustickets am Kuchenstand</title>
-    <updated>2026-06-29T09:08:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/06/29/bustickets-am-kuchenstand/"/>
-    <category term="uni"/>
-    <published>2026-06-29T09:08:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzewelle-worauf-man-achten-sollte-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74054.1&amp;NavID=2874.584</id>
     <title>Hitzewelle - worauf man achten sollte!</title>
     <updated>2025-08-13T00:00:00+02:00</updated>
@@ -501,30 +381,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-juni-2026/"/>
     <category term="kultur"/>
     <published>2026-06-26T14:55:18+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Richtfest-bei-der-Erweiterung-der-K%C3%A4the-Kollwitz-Schule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76782.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Richtfest bei der Erweiterung der Käthe-Kollwitz-Schule</title>
-    <updated>2026-06-24T09:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Richtfest-bei-der-Erweiterung-der-K%C3%A4the-Kollwitz-Schule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76782.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-24T09:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Spiel-und-Spa%C3%9F-im-Freibad-Ringallee.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76790.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Spiel und Spaß im Freibad Ringallee</title>
-    <updated>2026-06-24T09:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Spiel-und-Spa%C3%9F-im-Freibad-Ringallee.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76790.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-24T09:07:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-neue-Zebrastreifen-f%C3%BCr-Sicherheit-von-Fu%C3%9Fg%C3%A4ngern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76791.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -801,6 +657,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mythen-und-falsche-Versprechen-zur-W%C3%A4rmed%C3%A4mmung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76839.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-30T11:02:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-vs-Wild-ab-in-den-Wald-f%C3%BCr-Jugendliche-von-14-bis-18-Jahren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76840.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Gießen vs. Wild - ab in den Wald für Jugendliche von 14 bis 18 Jahren</title>
+    <updated>2026-06-30T12:43:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-vs-Wild-ab-in-den-Wald-f%C3%BCr-Jugendliche-von-14-bis-18-Jahren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76840.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-30T12:43:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veranstaltungsreihe-Musikalischer-Sommer-29-05-19-07-2026-Wochenende-29-31-Mai-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76354.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Musikalischer Sommer am Wochenende - 3. bis 5. Juli</title>
+    <updated>2026-06-30T12:43:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veranstaltungsreihe-Musikalischer-Sommer-29-05-19-07-2026-Wochenende-29-31-Mai-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76354.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-30T12:43:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
