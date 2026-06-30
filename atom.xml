@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-30T12:43:26.082185+00:00</updated>
+  <updated>2026-06-30T13:37:22.322573+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -383,18 +383,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-neue-Zebrastreifen-f%C3%BCr-Sicherheit-von-Fu%C3%9Fg%C3%A4ngern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76791.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Zwei neue Zebrastreifen für Sicherheit von Fußgängern</title>
-    <updated>2026-06-24T09:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwei-neue-Zebrastreifen-f%C3%BCr-Sicherheit-von-Fu%C3%9Fg%C3%A4ngern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76791.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-24T09:07:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Von-STADTRADELN-K%C3%B6nig-innen-und-Stars.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76792.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Von STADTRADELN-König*innen und Stars</title>
     <updated>2026-06-24T09:07:00+02:00</updated>
@@ -681,6 +669,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veranstaltungsreihe-Musikalischer-Sommer-29-05-19-07-2026-Wochenende-29-31-Mai-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76354.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-30T12:43:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Flexibilit%C3%A4t-und-neue-R%C3%A4der-f%C3%BCr-das-Gie%C3%9Fener-Leihradsystem.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76841.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Mehr Flexibilität und neue Räder für das Gießener Leihradsystem</title>
+    <updated>2026-06-30T13:37:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Flexibilit%C3%A4t-und-neue-R%C3%A4der-f%C3%BCr-das-Gie%C3%9Fener-Leihradsystem.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76841.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-30T13:37:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
