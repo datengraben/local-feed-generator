@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-06-30T09:08:55.725302+00:00</updated>
+  <updated>2026-06-30T11:03:09.454877+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,18 +503,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-den-%C3%96PNV-in-Stadt-und-Landkreis-verbessern-jetzt-im-Fahrgastbeirat-mitwirken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76786.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Gemeinsam den ÖPNV in Stadt und Landkreis Gießen verbessern - jetzt im Fahrgastbeirat mitwirken</title>
-    <updated>2026-06-23T09:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gemeinsam-den-%C3%96PNV-in-Stadt-und-Landkreis-verbessern-jetzt-im-Fahrgastbeirat-mitwirken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76786.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-23T09:07:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Richtfest-bei-der-Erweiterung-der-K%C3%A4the-Kollwitz-Schule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76782.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Richtfest bei der Erweiterung der Käthe-Kollwitz-Schule</title>
     <updated>2026-06-24T09:07:00+02:00</updated>
@@ -801,6 +789,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ma%C3%9Fnahme-gegen-Verm%C3%BCllung-Stadt-entfernt-Altkleidercontainer-an-elf-Standorten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76838.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-30T09:08:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mythen-und-falsche-Versprechen-zur-W%C3%A4rmed%C3%A4mmung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76839.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Mythen und falsche Versprechen zur Wärmedämmung: Energiespartipp der Verbraucherzentrale Hessen</title>
+    <updated>2026-06-30T11:02:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mythen-und-falsche-Versprechen-zur-W%C3%A4rmed%C3%A4mmung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76839.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-30T11:02:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
