@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-02T05:56:31.252074+00:00</updated>
+  <updated>2026-07-02T13:52:28.607914+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,42 +503,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferien-Freizeit-Leseaktion-Hei%C3%9F-auf-B%C3%BCcher-der-Stadtbibliothek-startet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76793.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Ferien-Freizeit-Leseaktion »Heiß auf Bücher?!« der Stadtbibliothek startet</title>
-    <updated>2026-06-24T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferien-Freizeit-Leseaktion-Hei%C3%9F-auf-B%C3%BCcher-der-Stadtbibliothek-startet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76793.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-24T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sommerferien-im-Mathematikum-Illusionenwerkstatt-Exponatvorf%C3%BChrungen-und-interaktive-Ex-perimente.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76795.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Sommerferien im Mathematikum: Illusionenwerkstatt, Exponatvorführungen und interaktive Experimente</title>
-    <updated>2026-06-24T09:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sommerferien-im-Mathematikum-Illusionenwerkstatt-Exponatvorf%C3%BChrungen-und-interaktive-Ex-perimente.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76795.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-24T09:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Audiowalk-LINA-jetzt-mit-der-Apple-Vision-Pro-erleben-Das-Museum-f%C3%BCr-Gie%C3%9Fen-l%C3%A4dt-zum-Testen-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76796.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Audiowalk »LINA« jetzt mit der Apple Vision Pro erleben: Das Museum für Gießen lädt zum Testen ein</title>
-    <updated>2026-06-24T09:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Audiowalk-LINA-jetzt-mit-der-Apple-Vision-Pro-erleben-Das-Museum-f%C3%BCr-Gie%C3%9Fen-l%C3%A4dt-zum-Testen-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76796.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-24T09:07:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Detektive-gesucht-Das-erste-Innenstadt-Adventure-von-Gie%C3%9Fen-Marketing.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76797.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Detektive gesucht: Das erste Innenstadt-Adventure von Gießen Marketing</title>
     <updated>2026-06-24T09:07:00+02:00</updated>
@@ -801,6 +765,42 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nachttanzdemo-am-4-Juli-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76855.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-07-01T12:58:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweiter-Bauabschnitt-des-Deckenerneuerungs-Programms-Bauarbeiten-an-der-Gr%C3%BCnberger-Stra%C3%9Fe-ab-6-Juli-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76870.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Zweiter Bauabschnitt des Deckenerneuerungs-Programms: Bauarbeiten an der Grünberger Straße ab 6. Juli 2026</title>
+    <updated>2026-07-02T13:52:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweiter-Bauabschnitt-des-Deckenerneuerungs-Programms-Bauarbeiten-an-der-Gr%C3%BCnberger-Stra%C3%9Fe-ab-6-Juli-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76870.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-02T13:52:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infostand-und-Fahrradcodierung-in-Wieseck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76872.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Infostand und Fahrradcodierung in Wieseck</title>
+    <updated>2026-07-02T13:52:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infostand-und-Fahrradcodierung-in-Wieseck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76872.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-02T13:52:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tiefgarage-Rathaus-Einschr%C3%A4nkungen-wegen-Instandhaltungsarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76874.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Tiefgarage Rathaus: Einschränkungen wegen Instandhaltungsarbeiten</title>
+    <updated>2026-07-02T13:52:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tiefgarage-Rathaus-Einschr%C3%A4nkungen-wegen-Instandhaltungsarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76874.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-02T13:52:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
