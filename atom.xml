@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-03T17:22:04.446095+00:00</updated>
+  <updated>2026-07-05T14:39:41.646487+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,6 +503,18 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Detektive-gesucht-Das-erste-Innenstadt-Adventure-von-Gie%C3%9Fen-Marketing.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76797.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Detektive gesucht: Das erste Innenstadt-Adventure von Gießen Marketing</title>
+    <updated>2026-06-24T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Detektive-gesucht-Das-erste-Innenstadt-Adventure-von-Gie%C3%9Fen-Marketing.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76797.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-24T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Obacht-beim-Reisen-mit-Heimtier-im-Ausland.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76798.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Obacht beim Reisen mit Heimtier im Ausland</title>
     <updated>2026-06-24T09:07:00+02:00</updated>
@@ -741,18 +753,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinderhaus-Alter-Wetzlarer-Weg-erneut-als-Forscher-Haus-ausgezeichnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76842.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-06-30T14:53:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nachttanzdemo-am-4-Juli-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76855.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Nachttanzdemo am 4. Juli: Verkehrsbehinderungen in der Gießener Innenstadt möglich</title>
-    <updated>2026-07-01T12:58:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nachttanzdemo-am-4-Juli-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76855.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-01T12:58:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweiter-Bauabschnitt-des-Deckenerneuerungs-Programms-Bauarbeiten-an-der-Gr%C3%BCnberger-Stra%C3%9Fe-ab-6-Juli-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76870.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
