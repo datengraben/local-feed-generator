@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-07T08:20:26.379676+00:00</updated>
+  <updated>2026-07-07T17:11:00.977494+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,18 +503,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Detektive-gesucht-Das-erste-Innenstadt-Adventure-von-Gie%C3%9Fen-Marketing.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76797.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Detektive gesucht: Das erste Innenstadt-Adventure von Gießen Marketing</title>
-    <updated>2026-06-24T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Detektive-gesucht-Das-erste-Innenstadt-Adventure-von-Gie%C3%9Fen-Marketing.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76797.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-24T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Obacht-beim-Reisen-mit-Heimtier-im-Ausland.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76798.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Obacht beim Reisen mit Heimtier im Ausland</title>
     <updated>2026-06-24T09:07:00+02:00</updated>
@@ -789,6 +777,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jubil%C3%A4umsshow-beim-Gie%C3%9Fener-Stadtfest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76899.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-07-03T13:56:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gro%C3%9Fes-Interesse-an-Stadtm%C3%B6beln-f%C3%BCr-die-Steinstra%C3%9Fe-Rund-40-Anwohnende-informieren-sich-%C3%BCber-die-tempor%C3%A4re-Umgestaltung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76772.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Großes Interesse an Stadtmöbeln für die Steinstraße: Rund 40 Anwohnende informieren sich über die temporäre Umgestaltung</title>
+    <updated>2026-07-06T17:10:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gro%C3%9Fes-Interesse-an-Stadtm%C3%B6beln-f%C3%BCr-die-Steinstra%C3%9Fe-Rund-40-Anwohnende-informieren-sich-%C3%BCber-die-tempor%C3%A4re-Umgestaltung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76772.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-06T17:10:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veranstaltungsreihe-Musikalischer-Sommer-29-05-19-07-2026-Wochenende-29-31-Mai-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76354.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
