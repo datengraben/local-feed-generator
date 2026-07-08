@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-08T15:18:31.563031+00:00</updated>
+  <updated>2026-07-08T23:03:26.818963+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,6 +503,18 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-meets-S%C3%BCdkorea-S%C3%BCdkoreanische-Bildungsdelegationen-besucht-die-VHS-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76800.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Gießen meets Südkorea: Südkoreanische Bildungsdelegationen besucht die VHS Gießen</title>
+    <updated>2026-06-25T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-meets-S%C3%BCdkorea-S%C3%BCdkoreanische-Bildungsdelegationen-besucht-die-VHS-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76800.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-25T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreicher-Abschluss-der-Ausbildung-2026-bei-der-Stadt-Gie%C3%9Fen-Herzlichen-Gl%C3%BCckwunsch-an-die-Absolventinnen-und-Absolventen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76801.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Erfolgreicher Abschluss der Ausbildung 2026 bei der Stadt Gießen - Herzlichen Glückwunsch an die Absolventinnen und Absolventen!</title>
     <updated>2026-06-25T09:07:00+02:00</updated>
@@ -703,18 +715,6 @@
       <email>info@giessen.de</email>
     </author>
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweiter-Bauabschnitt-des-Deckenerneuerungs-Programms-Bauarbeiten-an-der-Gr%C3%BCnberger-Stra%C3%9Fe-ab-6-Juli-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76870.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-02T13:52:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infostand-und-Fahrradcodierung-in-Wieseck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76872.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Infostand und Fahrradcodierung in Wieseck</title>
-    <updated>2026-07-02T13:52:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Infostand-und-Fahrradcodierung-in-Wieseck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76872.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-07-02T13:52:00+02:00</published>
   </entry>
