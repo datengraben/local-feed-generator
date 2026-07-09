@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-08T23:03:26.818963+00:00</updated>
+  <updated>2026-07-09T13:46:54.395163+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,54 +503,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-meets-S%C3%BCdkorea-S%C3%BCdkoreanische-Bildungsdelegationen-besucht-die-VHS-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76800.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Gießen meets Südkorea: Südkoreanische Bildungsdelegationen besucht die VHS Gießen</title>
-    <updated>2026-06-25T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-meets-S%C3%BCdkorea-S%C3%BCdkoreanische-Bildungsdelegationen-besucht-die-VHS-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76800.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-25T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreicher-Abschluss-der-Ausbildung-2026-bei-der-Stadt-Gie%C3%9Fen-Herzlichen-Gl%C3%BCckwunsch-an-die-Absolventinnen-und-Absolventen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76801.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Erfolgreicher Abschluss der Ausbildung 2026 bei der Stadt Gießen - Herzlichen Glückwunsch an die Absolventinnen und Absolventen!</title>
-    <updated>2026-06-25T09:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreicher-Abschluss-der-Ausbildung-2026-bei-der-Stadt-Gie%C3%9Fen-Herzlichen-Gl%C3%BCckwunsch-an-die-Absolventinnen-und-Absolventen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76801.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-25T09:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausl%C3%A4nderbeh%C3%B6rde-%C3%96ffnungszeiten-in-den-Sommerferien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76802.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Ausländerbehörde: Öffnungszeiten in den Sommerferien</title>
-    <updated>2026-06-25T09:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausl%C3%A4nderbeh%C3%B6rde-%C3%96ffnungszeiten-in-den-Sommerferien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76802.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-25T09:07:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Parkscheinautomaten-in-Gie%C3%9Fen-bis-Ende-des-Jahres.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76803.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Neue Parkscheinautomaten in Gießen bis Ende des Jahres</title>
-    <updated>2026-06-25T09:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Parkscheinautomaten-in-Gie%C3%9Fen-bis-Ende-des-Jahres.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76803.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-25T09:07:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fahrbahnerneuerung-in-der-Sudetenlandstra%C3%9Fe-Vollsperrung-mit-Umleitung-ab-29-Juni-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76805.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Fahrbahnerneuerung in der Sudetenlandstraße: Vollsperrung mit Umleitung ab 29. Juni 2026</title>
     <updated>2026-06-25T09:07:00+02:00</updated>
@@ -801,6 +753,54 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreiches-Gesch%C3%A4ftsjahr-f%C3%BCr-die-SWG.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76921.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-07-08T15:18:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtm%C3%B6bel-laden-zum-Verweilen-und-Mitgestalten-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76922.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Stadtmöbel laden zum Verweilen und Mitgestalten ein</title>
+    <updated>2026-07-09T13:46:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtm%C3%B6bel-laden-zum-Verweilen-und-Mitgestalten-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76922.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-09T13:46:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-f%C3%BCnf-Stra%C3%9Fenz%C3%BCge-in-Gro%C3%9Fen-Linden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76923.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Fernwärme für fünf Straßenzüge in Großen-Linden</title>
+    <updated>2026-07-09T13:46:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-f%C3%BCnf-Stra%C3%9Fenz%C3%BCge-in-Gro%C3%9Fen-Linden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76923.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-09T13:46:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versammlungsaufzug-am-11-Juli-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76924.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Versammlungsaufzug am 11. Juli: Verkehrsbehinderungen in der Gießener Innenstadt möglich</title>
+    <updated>2026-07-09T13:46:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Versammlungsaufzug-am-11-Juli-Verkehrsbehinderungen-in-der-Gie%C3%9Fener-Innenstadt-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76924.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-09T13:46:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76925.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Bürgermeister Wright lädt zur Bürgersprechstunde ein</title>
+    <updated>2026-07-09T13:46:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76925.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-09T13:46:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
