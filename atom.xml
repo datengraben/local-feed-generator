@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-09T13:46:54.395163+00:00</updated>
+  <updated>2026-07-10T11:48:16.511827+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,18 +503,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fahrbahnerneuerung-in-der-Sudetenlandstra%C3%9Fe-Vollsperrung-mit-Umleitung-ab-29-Juni-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76805.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Fahrbahnerneuerung in der Sudetenlandstraße: Vollsperrung mit Umleitung ab 29. Juni 2026</title>
-    <updated>2026-06-25T09:07:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fahrbahnerneuerung-in-der-Sudetenlandstra%C3%9Fe-Vollsperrung-mit-Umleitung-ab-29-Juni-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76805.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-25T09:07:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mit-jedem-Stein-kehrt-ein-Name-zur%C3%BCck-Gie%C3%9Fen-verlegt-sechs-neue-Stolpersteine.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76806.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Mit jedem Stein kehrt ein Name zurück: Gießen verlegt sechs neue Stolpersteine</title>
     <updated>2026-06-25T09:07:00+02:00</updated>
@@ -801,6 +789,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76925.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-07-09T13:46:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienfreizeit-in-Gie%C3%9Fens-tschechische-Partnerstadt-Hradec-Kr%C3%A1lov%C3%A9.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76370.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Ferienfreizeit in Gießens tschechische Partnerstadt Hradec Králové</title>
+    <updated>2026-07-10T11:48:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienfreizeit-in-Gie%C3%9Fens-tschechische-Partnerstadt-Hradec-Kr%C3%A1lov%C3%A9.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76370.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-10T11:48:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
