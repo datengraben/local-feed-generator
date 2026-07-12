@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-12T18:01:21.598134+00:00</updated>
+  <updated>2026-07-12T22:43:28.057557+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,6 +503,18 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreicher-Abschluss-der-Ausbildung-2026-bei-der-Stadt-Gie%C3%9Fen-Herzlichen-Gl%C3%BCckwunsch-an-die-Absolventinnen-und-Absolventen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76801.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Erfolgreicher Abschluss der Ausbildung 2026 bei der Stadt Gießen - Herzlichen Glückwunsch an die Absolventinnen und Absolventen!</title>
+    <updated>2026-06-25T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreicher-Abschluss-der-Ausbildung-2026-bei-der-Stadt-Gie%C3%9Fen-Herzlichen-Gl%C3%BCckwunsch-an-die-Absolventinnen-und-Absolventen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76801.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-25T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausl%C3%A4nderbeh%C3%B6rde-%C3%96ffnungszeiten-in-den-Sommerferien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76802.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Ausländerbehörde: Öffnungszeiten in den Sommerferien</title>
     <updated>2026-06-25T00:00:00+02:00</updated>
@@ -705,18 +717,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gro%C3%9Fes-Interesse-an-Stadtm%C3%B6beln-f%C3%BCr-die-Steinstra%C3%9Fe-Rund-40-Anwohnende-informieren-sich-%C3%BCber-die-tempor%C3%A4re-Umgestaltung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76772.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-07-06T17:10:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veranstaltungsreihe-Musikalischer-Sommer-29-05-19-07-2026-Wochenende-29-31-Mai-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76354.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Musikalischer Sommer am Wochenende - 10. bis 12. Juli</title>
-    <updated>2026-07-07T08:20:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veranstaltungsreihe-Musikalischer-Sommer-29-05-19-07-2026-Wochenende-29-31-Mai-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76354.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-07T08:20:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Durch-Mittelhessen-von-Magdeburg-%C3%BCber-Halle-bis-Leipzig-Drei-Tage-im-Sattel-um-gemeinsam-Gutes-zu-tun.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76915.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
