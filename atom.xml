@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-11T18:57:36.431995+00:00</updated>
+  <updated>2026-07-12T11:56:31.535513+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -205,18 +205,6 @@
     <published>2026-01-17T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/</id>
-    <title>UNIversum testet: Veganfreundliche und vegane Cafés in Gießen</title>
-    <updated>2025-02-15T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2025/02/15/universum-testet-veganfreundliche-und-vegane-cafes-in-giessen/"/>
-    <category term="uni"/>
-    <published>2025-02-15T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>https://universum-giessen.com/2025/11/19/audiobeitrag-die-demokratische-republik-georgien-und-das-deutsche-kaiserreich/</id>
     <title>Audiobeitrag: Die Demokratische Republik Georgien und das Deutsche Kaiserreich</title>
     <updated>2025-11-19T00:00:00+01:00</updated>
@@ -323,6 +311,18 @@
     <link href="https://universum-giessen.com/2026/07/10/lernorte-in-giessen-die-fuenf-besten-cafes-zum-lernen/"/>
     <category term="uni"/>
     <published>2026-07-10T18:57:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/07/12/unisex-toiletten-an-der-jlu-ein-menschenrecht-und-demokratisches-grundrecht/</id>
+    <title>Unisex-Toiletten an der JLU: „Ein Menschenrecht und demokratisches Grundrecht“</title>
+    <updated>2026-07-12T11:56:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/07/12/unisex-toiletten-an-der-jlu-ein-menschenrecht-und-demokratisches-grundrecht/"/>
+    <category term="uni"/>
+    <published>2026-07-12T11:56:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzewelle-worauf-man-achten-sollte-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74054.1&amp;NavID=2874.584</id>
