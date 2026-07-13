@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-12T22:43:28.057557+00:00</updated>
+  <updated>2026-07-13T10:22:10.331167+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,18 +503,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreicher-Abschluss-der-Ausbildung-2026-bei-der-Stadt-Gie%C3%9Fen-Herzlichen-Gl%C3%BCckwunsch-an-die-Absolventinnen-und-Absolventen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76801.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Erfolgreicher Abschluss der Ausbildung 2026 bei der Stadt Gießen - Herzlichen Glückwunsch an die Absolventinnen und Absolventen!</title>
-    <updated>2026-06-25T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreicher-Abschluss-der-Ausbildung-2026-bei-der-Stadt-Gie%C3%9Fen-Herzlichen-Gl%C3%BCckwunsch-an-die-Absolventinnen-und-Absolventen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76801.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-25T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausl%C3%A4nderbeh%C3%B6rde-%C3%96ffnungszeiten-in-den-Sommerferien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76802.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Ausländerbehörde: Öffnungszeiten in den Sommerferien</title>
     <updated>2026-06-25T00:00:00+02:00</updated>
@@ -801,6 +789,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ferienfreizeit-in-Gie%C3%9Fens-tschechische-Partnerstadt-Hradec-Kr%C3%A1lov%C3%A9.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76370.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-07-10T11:48:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Start-als-Benefizveranstaltung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76930.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Start als Benefizveranstaltung</title>
+    <updated>2026-07-13T10:21:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Start-als-Benefizveranstaltung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76930.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-13T10:21:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
