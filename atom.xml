@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-19T10:24:45.111098+00:00</updated>
+  <updated>2026-07-19T14:52:22.279048+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,6 +503,30 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nachtleben-in-Gie%C3%9Fen-Zweite-Umfrage-startet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76831.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Nachtleben in Gießen: Zweite Umfrage startet</title>
+    <updated>2026-06-26T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nachtleben-in-Gie%C3%9Fen-Zweite-Umfrage-startet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76831.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-26T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-macht-Schulwege-sicherer-mit-Tempo-30.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76834.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Gießen macht Schulwege sicherer mit Tempo 30</title>
+    <updated>2026-06-26T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-macht-Schulwege-sicherer-mit-Tempo-30.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76834.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-06-26T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oberb%C3%BCrgermeister-Becher-schickt-das-erste-Paket-von-Zalando-Gie%C3%9Fen-auf-die-Reise.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76835.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Oberbürgermeister Becher schickt das erste Paket von Zalando Gießen auf die Reise</title>
     <updated>2026-06-29T07:45:00+02:00</updated>
@@ -551,18 +575,6 @@
     <published>2026-06-30T11:02:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-vs-Wild-ab-in-den-Wald-f%C3%BCr-Jugendliche-von-14-bis-18-Jahren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76840.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Gießen vs. Wild - ab in den Wald für Jugendliche von 14 bis 18 Jahren</title>
-    <updated>2026-06-30T12:43:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-vs-Wild-ab-in-den-Wald-f%C3%BCr-Jugendliche-von-14-bis-18-Jahren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76840.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-30T12:43:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Flexibilit%C3%A4t-und-neue-R%C3%A4der-f%C3%BCr-das-Gie%C3%9Fener-Leihradsystem.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76841.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Mehr Flexibilität und neue Räder für das Gießener Leihradsystem</title>
     <updated>2026-06-30T13:37:00+02:00</updated>
@@ -609,18 +621,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jubil%C3%A4umsshow-beim-Gie%C3%9Fener-Stadtfest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76899.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-07-03T13:56:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gro%C3%9Fes-Interesse-an-Stadtm%C3%B6beln-f%C3%BCr-die-Steinstra%C3%9Fe-Rund-40-Anwohnende-informieren-sich-%C3%BCber-die-tempor%C3%A4re-Umgestaltung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76772.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Großes Interesse an Stadtmöbeln für die Steinstraße: Rund 40 Anwohnende informieren sich über die temporäre Umgestaltung</title>
-    <updated>2026-07-06T17:10:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gro%C3%9Fes-Interesse-an-Stadtm%C3%B6beln-f%C3%BCr-die-Steinstra%C3%9Fe-Rund-40-Anwohnende-informieren-sich-%C3%BCber-die-tempor%C3%A4re-Umgestaltung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76772.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-06T17:10:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Durch-Mittelhessen-von-Magdeburg-%C3%BCber-Halle-bis-Leipzig-Drei-Tage-im-Sattel-um-gemeinsam-Gutes-zu-tun.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76915.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
