@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-19T22:48:29.282069+00:00</updated>
+  <updated>2026-07-21T13:41:27.790771+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,18 +503,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sozialministerin-Heike-Hofmann-%C3%BCbergibt-F%C3%B6rderbescheid-f%C3%BCr-barrierefreien-Umbau-der-Villa-Leutert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76808.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Sozialministerin Heike Hofmann übergibt Förderbescheid für barrierefreien Umbau der Villa Leutert</title>
-    <updated>2026-06-25T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sozialministerin-Heike-Hofmann-%C3%BCbergibt-F%C3%B6rderbescheid-f%C3%BCr-barrierefreien-Umbau-der-Villa-Leutert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76808.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-25T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nachtleben-in-Gie%C3%9Fen-Zweite-Umfrage-startet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76831.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Nachtleben in Gießen: Zweite Umfrage startet</title>
     <updated>2026-06-26T00:00:00+02:00</updated>
@@ -801,6 +789,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Keine-Wasserentnahme-aus-Seen-Fl%C3%BCssen-und-B%C3%A4chen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76989.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-07-17T10:43:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fahrbahnerneuerung-im-Wiesecker-Weg-ab-27-Juli-2026-Sperrung-bis-voraussichtlich-20-August.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76997.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Fahrbahnerneuerung im Wiesecker Weg ab 27. Juli 2026: Sperrung bis voraussichtlich 20. August</title>
+    <updated>2026-07-21T13:41:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fahrbahnerneuerung-im-Wiesecker-Weg-ab-27-Juli-2026-Sperrung-bis-voraussichtlich-20-August.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76997.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-21T13:41:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
