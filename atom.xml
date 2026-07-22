@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-21T13:41:27.790771+00:00</updated>
+  <updated>2026-07-22T15:38:04.151378+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,30 +503,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nachtleben-in-Gie%C3%9Fen-Zweite-Umfrage-startet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76831.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Nachtleben in Gießen: Zweite Umfrage startet</title>
-    <updated>2026-06-26T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nachtleben-in-Gie%C3%9Fen-Zweite-Umfrage-startet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76831.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-26T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-macht-Schulwege-sicherer-mit-Tempo-30.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76834.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Gießen macht Schulwege sicherer mit Tempo 30</title>
-    <updated>2026-06-26T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-macht-Schulwege-sicherer-mit-Tempo-30.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76834.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-26T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oberb%C3%BCrgermeister-Becher-schickt-das-erste-Paket-von-Zalando-Gie%C3%9Fen-auf-die-Reise.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76835.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Oberbürgermeister Becher schickt das erste Paket von Zalando Gießen auf die Reise</title>
     <updated>2026-06-29T07:45:00+02:00</updated>
@@ -801,6 +777,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fahrbahnerneuerung-im-Wiesecker-Weg-ab-27-Juli-2026-Sperrung-bis-voraussichtlich-20-August.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76997.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-07-21T13:41:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitungen-f%C3%BCr-drei-Buslinien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77035.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Umleitungen für drei Buslinien</title>
+    <updated>2026-07-22T15:37:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitungen-f%C3%BCr-drei-Buslinien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77035.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-22T15:37:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lkw-Brand-am-Ludwigsplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77036.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Lkw-Brand am Ludwigsplatz</title>
+    <updated>2026-07-22T15:37:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lkw-Brand-am-Ludwigsplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77036.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-22T15:37:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
