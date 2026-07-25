@@ -2,88 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-24T11:01:11.108932+00:00</updated>
+  <updated>2026-07-25T10:38:00.238768+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://hdn-giessen.de/oeft/</id>
-    <title>Ökofeldtage ’22</title>
-    <updated>2024-01-25T00:00:00+01:00</updated>
-    <author>
-      <name>Haus der Nachhaltigkeit</name>
-      <email>info@hdn-giessen.de</email>
-    </author>
-    <link href="https://hdn-giessen.de/oeft/"/>
-    <category term="nachhaltigkeit"/>
-    <category term="gemeinschaft"/>
-    <published>2024-01-25T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://hdn-giessen.de/fermentier-workshops/</id>
-    <title>Fermentier Workshops</title>
-    <updated>2024-01-25T00:00:00+01:00</updated>
-    <author>
-      <name>Haus der Nachhaltigkeit</name>
-      <email>info@hdn-giessen.de</email>
-    </author>
-    <link href="https://hdn-giessen.de/fermentier-workshops/"/>
-    <category term="nachhaltigkeit"/>
-    <category term="gemeinschaft"/>
-    <published>2024-01-25T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://hdn-giessen.de/gwoeakt/</id>
-    <title>Gemeinwohlökonomie</title>
-    <updated>2024-02-22T00:00:00+01:00</updated>
-    <author>
-      <name>Haus der Nachhaltigkeit</name>
-      <email>info@hdn-giessen.de</email>
-    </author>
-    <link href="https://hdn-giessen.de/gwoeakt/"/>
-    <category term="nachhaltigkeit"/>
-    <category term="gemeinschaft"/>
-    <published>2024-02-22T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://hdn-giessen.de/kochworkshop/</id>
-    <title>Kochworkshop</title>
-    <updated>2024-03-04T00:00:00+01:00</updated>
-    <author>
-      <name>Haus der Nachhaltigkeit</name>
-      <email>info@hdn-giessen.de</email>
-    </author>
-    <link href="https://hdn-giessen.de/kochworkshop/"/>
-    <category term="nachhaltigkeit"/>
-    <category term="gemeinschaft"/>
-    <published>2024-03-04T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://hdn-giessen.de/worldcafe/</id>
-    <title>World-Café</title>
-    <updated>2024-09-16T00:00:00+02:00</updated>
-    <author>
-      <name>Haus der Nachhaltigkeit</name>
-      <email>info@hdn-giessen.de</email>
-    </author>
-    <link href="https://hdn-giessen.de/worldcafe/"/>
-    <category term="nachhaltigkeit"/>
-    <category term="gemeinschaft"/>
-    <published>2024-09-16T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://hdn-giessen.de/zukunftsfaehigleben/</id>
-    <title>Rahmenprogramm abpflastern</title>
-    <updated>2025-03-29T00:00:00+01:00</updated>
-    <author>
-      <name>Haus der Nachhaltigkeit</name>
-      <email>info@hdn-giessen.de</email>
-    </author>
-    <link href="https://hdn-giessen.de/zukunftsfaehigleben/"/>
-    <category term="nachhaltigkeit"/>
-    <category term="gemeinschaft"/>
-    <published>2025-03-29T00:00:00+01:00</published>
-  </entry>
   <entry>
     <id>https://www.asta-giessen.de/9105-2/</id>
     <title>Neuer Beitrag</title>
@@ -802,7 +724,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folge-und-Erstanmeldungen-zur-Vergabe-der-Ehrenamts-Card-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74000.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Folgeanmeldung/Erstanmeldung zur Vergabe der Ehrenamts-Card</title>
+    <title>Anmeldungen für die Ehrenamts-Card ab August</title>
     <updated>2026-07-24T11:00:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
