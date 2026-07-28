@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-07-27T12:18:26.239490+00:00</updated>
+  <updated>2026-07-28T11:54:52.597504+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -447,18 +447,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Flexibilit%C3%A4t-und-neue-R%C3%A4der-f%C3%BCr-das-Gie%C3%9Fener-Leihradsystem.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76841.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Mehr Flexibilität und neue Räder für das Gießener Leihradsystem</title>
-    <updated>2026-06-30T13:37:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Flexibilit%C3%A4t-und-neue-R%C3%A4der-f%C3%BCr-das-Gie%C3%9Fener-Leihradsystem.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76841.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-06-30T13:37:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinderhaus-Alter-Wetzlarer-Weg-erneut-als-Forscher-Haus-ausgezeichnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76842.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Kinderhaus »Alter Wetzlarer Weg" erneut als Forscher-Haus ausgezeichnet</title>
     <updated>2026-06-30T14:53:00+02:00</updated>
@@ -699,18 +687,6 @@
     <published>2026-07-23T12:21:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweiter-Bauabschnitt-des-Deckenerneuerungs-Programms-Bauarbeiten-an-der-Gr%C3%BCnberger-Stra%C3%9Fe-ab-6-Juli-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76870.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Zweiter Bauabschnitt des Deckenerneuerungs-Programms: Bauarbeiten an der Grünberger Straße ab 6. Juli 2026</title>
-    <updated>2026-07-02T13:52:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweiter-Bauabschnitt-des-Deckenerneuerungs-Programms-Bauarbeiten-an-der-Gr%C3%BCnberger-Stra%C3%9Fe-ab-6-Juli-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76870.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-02T13:52:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folge-und-Erstanmeldungen-zur-Vergabe-der-Ehrenamts-Card-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74000.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Anmeldungen für die Ehrenamts-Card ab August</title>
     <updated>2026-07-24T11:00:00+02:00</updated>
@@ -745,6 +721,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Radrennen-Rund-um-das-Stadttheater-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77061.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-07-27T12:18:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweiter-Bauabschnitt-des-Deckenerneuerungs-Programms-Bauarbeiten-an-der-Gr%C3%BCnberger-Stra%C3%9Fe-ab-6-Juli-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76870.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Zweiter Bauabschnitt des Deckenerneuerungs-Programms: Bauarbeiten an der Grünberger Straße</title>
+    <updated>2026-07-02T13:52:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweiter-Bauabschnitt-des-Deckenerneuerungs-Programms-Bauarbeiten-an-der-Gr%C3%BCnberger-Stra%C3%9Fe-ab-6-Juli-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76870.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-02T13:52:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schadstoffmobil-startet-ab-August-wieder-seine-Tour-durch-den-Landkreis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16074.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Schadstoffmobil startet ab August wieder seine Tour durch den Landkreis</title>
+    <updated>2026-07-28T11:54:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schadstoffmobil-startet-ab-August-wieder-seine-Tour-durch-den-Landkreis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16074.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-07-28T11:54:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
