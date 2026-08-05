@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-04T12:59:03.044190+00:00</updated>
+  <updated>2026-08-05T16:38:39.197721+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -303,7 +303,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hohe-Waldbrandgefahr-Forstministerium-ruft-zweith%C3%B6chste-Alarmstufe-aus.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.77110.1&amp;NavID=2874.584</id>
-    <title>Hohe Waldbrandgefahr: Forstministerium ruft zweithöchste Alarmstufe aus</title>
+    <title>Hohe Waldbrandgefahr: Grillen auf öffentlichen Grillplätzen in der Stadt Gießen verboten</title>
     <updated>2026-08-04T12:58:00+02:00</updated>
     <author>
       <name>Stadt - Hitze und Trockenheit</name>
@@ -443,18 +443,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-juni-2026/"/>
     <category term="kultur"/>
     <published>2026-06-26T14:55:18+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mittelhessische-Wasserbetriebe-Vollsperrung-eines-Teilst%C3%BCcks-vom-Rabenweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76919.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Mittelhessische Wasserbetriebe: Vollsperrung eines Teilstücks vom Rabenweg</title>
-    <updated>2026-07-08T15:18:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mittelhessische-Wasserbetriebe-Vollsperrung-eines-Teilst%C3%BCcks-vom-Rabenweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76919.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-08T15:18:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erfolgreiches-Gesch%C3%A4ftsjahr-f%C3%BCr-die-SWG.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76921.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -721,18 +709,6 @@
     <published>2026-08-04T12:58:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hohe-Waldbrandgefahr-Forstministerium-ruft-zweith%C3%B6chste-Alarmstufe-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77110.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Hohe Waldbrandgefahr: Forstministerium ruft zweithöchste Alarmstufe aus</title>
-    <updated>2026-08-04T12:58:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hohe-Waldbrandgefahr-Forstministerium-ruft-zweith%C3%B6chste-Alarmstufe-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77110.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-04T12:58:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Orte-ver%C3%A4ndern-sich-die-Kraft-von-Ideen-ist-unverg%C3%A4nglich-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77111.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>»Orte verändern sich, die Kraft von Ideen ist unvergänglich«</title>
     <updated>2026-08-04T12:58:00+02:00</updated>
@@ -743,6 +719,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Orte-ver%C3%A4ndern-sich-die-Kraft-von-Ideen-ist-unverg%C3%A4nglich-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77111.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-04T12:58:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hohe-Waldbrandgefahr-Forstministerium-ruft-zweith%C3%B6chste-Alarmstufe-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77110.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Hohe Waldbrandgefahr: Grillen auf öffentlichen Grillplätzen in der Stadt Gießen verboten</title>
+    <updated>2026-08-04T12:58:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hohe-Waldbrandgefahr-Forstministerium-ruft-zweith%C3%B6chste-Alarmstufe-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77110.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-04T12:58:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenkmarkt-am-29-August-gibt-gut-erhaltenen-Dingen-eine-zweite-Chance.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77127.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Verschenkmarkt am 29. August gibt gut erhaltenen Dingen eine zweite Chance</title>
+    <updated>2026-08-05T16:38:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenkmarkt-am-29-August-gibt-gut-erhaltenen-Dingen-eine-zweite-Chance.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77127.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-05T16:38:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
