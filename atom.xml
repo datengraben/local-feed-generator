@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-06T13:59:06.577796+00:00</updated>
+  <updated>2026-08-07T00:39:13.660054+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -445,30 +445,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtm%C3%B6bel-laden-zum-Verweilen-und-Mitgestalten-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76922.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Stadtmöbel laden zum Verweilen und Mitgestalten ein</title>
-    <updated>2026-07-09T13:46:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtm%C3%B6bel-laden-zum-Verweilen-und-Mitgestalten-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76922.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-09T13:46:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-f%C3%BCnf-Stra%C3%9Fenz%C3%BCge-in-Gro%C3%9Fen-Linden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76923.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Fernwärme für fünf Straßenzüge in Großen-Linden</title>
-    <updated>2026-07-09T13:46:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fernw%C3%A4rme-f%C3%BCr-f%C3%BCnf-Stra%C3%9Fenz%C3%BCge-in-Gro%C3%9Fen-Linden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76923.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-09T13:46:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76925.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Bürgermeister Wright lädt zur Bürgersprechstunde ein</title>
     <updated>2026-07-09T13:46:00+02:00</updated>
@@ -743,6 +719,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Clean-Up-Walk-und-Feedback-Caf%C3%A9-f%C3%B6rdern-den-Austausch-im-Steinstra%C3%9Fenquartier.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77128.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-06T13:58:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinien-GI-25-und-ALT-GI-25-werden-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77129.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Buslinie GI-25 wird umgeleitet</title>
+    <updated>2026-08-06T00:38:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinien-GI-25-und-ALT-GI-25-werden-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77129.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-06T00:38:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtbusverkehr-mit-leichten-Einschr%C3%A4nkungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77130.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Stadtbusverkehr mit leichten Einschränkungen</title>
+    <updated>2026-08-06T00:38:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtbusverkehr-mit-leichten-Einschr%C3%A4nkungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77130.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-06T00:38:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
