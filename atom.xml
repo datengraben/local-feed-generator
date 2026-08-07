@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-07T00:39:13.660054+00:00</updated>
+  <updated>2026-08-07T08:55:24.910967+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -445,18 +445,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76925.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Bürgermeister Wright lädt zur Bürgersprechstunde ein</title>
-    <updated>2026-07-09T13:46:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76925.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-09T13:46:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Start-als-Benefizveranstaltung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76930.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Start als Benefizveranstaltung</title>
     <updated>2026-07-13T10:21:00+02:00</updated>
@@ -743,6 +731,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtbusverkehr-mit-leichten-Einschr%C3%A4nkungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77130.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-06T00:38:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwischen-Kreativit%C3%A4t-und-K%C3%BCnstlicher-Intelligenz-das-neue-Herbst-Winter-Programm-des-Jugendbildungswerks-der-Universit%C3%A4tsstadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77134.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Zwischen Kreativität und Künstlicher Intelligenz - das neue Herbst-Winter-Programm des Jugendbildungswerks</title>
+    <updated>2026-08-07T08:55:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwischen-Kreativit%C3%A4t-und-K%C3%BCnstlicher-Intelligenz-das-neue-Herbst-Winter-Programm-des-Jugendbildungswerks-der-Universit%C3%A4tsstadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77134.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-07T08:55:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
