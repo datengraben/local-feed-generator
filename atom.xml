@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-11T11:41:11.565300+00:00</updated>
+  <updated>2026-08-11T14:17:49.530804+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -456,18 +456,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-engagieren-sich-f%C3%BCr-den-Gie%C3%9Fener-Kultursommer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76950.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>SWG engagieren sich für den Gießener Kultursommer</title>
-    <updated>2026-07-14T10:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SWG-engagieren-sich-f%C3%BCr-den-Gie%C3%9Fener-Kultursommer.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76950.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-14T10:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Scheidemanns-Gie%C3%9Fener-Spuren-und-Sporen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76955.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Scheidemanns Gießener Spuren und Sporen</title>
     <updated>2026-07-15T08:02:00+02:00</updated>
@@ -754,6 +742,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gut-durch-hei%C3%9Fe-Tage-Workshops-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77144.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-11T08:50:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wichtige-Informationen-zum-Gie%C3%9Fener-Stadtfest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77149.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Wichtige Informationen zum Gießener Stadtfest</title>
+    <updated>2026-08-11T14:17:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wichtige-Informationen-zum-Gie%C3%9Fener-Stadtfest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77149.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-11T14:17:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
