@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-13T10:00:33.593154+00:00</updated>
+  <updated>2026-08-13T13:01:54.222167+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -467,18 +467,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitungen-f%C3%BCr-drei-Buslinien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77035.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Umleitungen für drei Buslinien</title>
-    <updated>2026-07-22T15:37:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Umleitungen-f%C3%BCr-drei-Buslinien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77035.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-22T15:37:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Blaualgen-im-Neuen-Teich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.67894.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Blaualgen im Neuen Teich</title>
     <updated>2026-07-23T12:21:00+02:00</updated>
@@ -765,6 +753,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Guide-ist-online-Neuer-digitaler-Wegweiser-f%C3%BCr-Zugewanderte-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77169.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-13T10:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77170.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Präventionsangebote des Ordnungsamtes in den Stadtteilen</title>
+    <updated>2026-08-13T13:01:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77170.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-13T13:01:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
