@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-12T13:01:12.532817+00:00</updated>
+  <updated>2026-08-13T08:17:32.063957+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -456,18 +456,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mit-dem-Bus-zu-den-Golden-Oldies.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76987.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Mit dem Bus zu den Golden Oldies</title>
-    <updated>2026-07-17T10:43:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mit-dem-Bus-zu-den-Golden-Oldies.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76987.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-17T10:43:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Keine-Wasserentnahme-aus-Seen-Fl%C3%BCssen-und-B%C3%A4chen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76989.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Keine Wasserentnahme aus Seen, Flüssen und Bächen</title>
     <updated>2026-07-17T10:43:00+02:00</updated>
@@ -754,6 +742,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/MWB-am-20-August-geschlossen-Rufbereitschaft-eingerichtet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77157.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-12T13:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lebenswichtige-Abk%C3%BChlung-f%C3%BCr-die-Fische-im-Schwanenteich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77161.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Lebenswichtige Abkühlung für die Fische im Schwanenteich</title>
+    <updated>2026-08-13T08:17:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lebenswichtige-Abk%C3%BChlung-f%C3%BCr-die-Fische-im-Schwanenteich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77161.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-13T08:17:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
