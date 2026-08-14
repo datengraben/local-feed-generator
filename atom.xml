@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-13T14:53:39.501832+00:00</updated>
+  <updated>2026-08-14T08:12:20.044558+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -478,18 +478,6 @@
     <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folge-und-Erstanmeldungen-zur-Vergabe-der-Ehrenamts-Card-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74000.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Anmeldungen für die Ehrenamts-Card ab August</title>
-    <updated>2026-07-24T11:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folge-und-Erstanmeldungen-zur-Vergabe-der-Ehrenamts-Card-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74000.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-24T11:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schadstoffmobil-startet-ab-August-wieder-seine-Tour-durch-den-Landkreis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16074.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Schadstoffmobil startet ab August wieder seine Tour durch den Landkreis</title>
     <updated>2026-07-28T11:54:00+02:00</updated>
@@ -776,6 +764,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Botanischer-Garten-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77171.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-13T14:53:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Preisverleihung-Kriminalpr%C3%A4vention-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77178.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Preisverleihung Kriminalprävention 2026</title>
+    <updated>2026-08-14T08:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Preisverleihung-Kriminalpr%C3%A4vention-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77178.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-14T08:12:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
