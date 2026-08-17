@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-14T11:43:26.057611+00:00</updated>
+  <updated>2026-08-17T09:36:47.041232+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -384,14 +384,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/</id>
     <title>Blick in die Spielzeit 2026/2027 - &lt;p&gt;Bei einer Pressekonferenz wurde heute, 8. Mai, das Progra...</title>
-    <updated>2026-08-14T11:43:12.142031+02:00</updated>
+    <updated>2026-08-14T11:43:12+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/"/>
     <category term="kultur"/>
-    <published>2026-08-14T11:43:12.142031+02:00</published>
+    <published>2026-08-14T11:43:12+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/</id>
@@ -408,14 +408,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/von-verwandlung-und-identitat/</id>
     <title>Von Verwandlung und Identität - Die Crossover Produktion „The Addams Family“ ist ein Abend v...</title>
-    <updated>2026-08-14T11:43:12.142031+02:00</updated>
+    <updated>2026-08-14T11:43:12+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/von-verwandlung-und-identitat/"/>
     <category term="kultur"/>
-    <published>2026-08-14T11:43:12.142031+02:00</published>
+    <published>2026-08-14T11:43:12+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
@@ -476,18 +476,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-juni-2026/"/>
     <category term="kultur"/>
     <published>2026-06-26T14:55:18+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hohe-Vegetationsbrandgefahr-durch-Trockenheit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60445.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Hohe Vegetations-Brandgefahr durch Trockenheit</title>
-    <updated>2026-07-28T16:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hohe-Vegetationsbrandgefahr-durch-Trockenheit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.60445.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-07-28T16:05:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stra%C3%9Fenausbau-im-Bereich-Gummiinsel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77057.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -776,6 +764,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mittwochs-live-in-Gie%C3%9Fen-S%C3%BCdviertel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77180.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-14T09:56:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Autofreier-Sonntag-im-Lumdatal-Landesstra%C3%9Fe-voll-gesperrt-Buslinie-371-von-Gie%C3%9Fen-Bahnhof-nur-bis-Daubringen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77183.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Autofreier Sonntag im Lumdatal: Landesstraße voll gesperrt - Buslinie 371 von Gießen Bahnhof nur bis Daubringen</title>
+    <updated>2026-08-17T09:36:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Autofreier-Sonntag-im-Lumdatal-Landesstra%C3%9Fe-voll-gesperrt-Buslinie-371-von-Gie%C3%9Fen-Bahnhof-nur-bis-Daubringen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77183.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-17T09:36:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
