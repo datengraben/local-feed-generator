@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-17T09:36:47.041232+00:00</updated>
+  <updated>2026-08-17T14:23:14.925375+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -634,18 +634,6 @@
     <published>2026-08-11T08:50:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wichtige-Informationen-zum-Gie%C3%9Fener-Stadtfest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77149.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Wichtige Informationen zum Gießener Stadtfest</title>
-    <updated>2026-08-11T14:17:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wichtige-Informationen-zum-Gie%C3%9Fener-Stadtfest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77149.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-11T14:17:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zukunftswerkstatt-zur-Quartiersentwicklung-der-N%C3%B6rdlichen-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77151.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Zukunftswerkstatt zur Quartiersentwicklung der Nördlichen Innenstadt</title>
     <updated>2026-08-12T08:13:00+02:00</updated>
@@ -776,6 +764,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Autofreier-Sonntag-im-Lumdatal-Landesstra%C3%9Fe-voll-gesperrt-Buslinie-371-von-Gie%C3%9Fen-Bahnhof-nur-bis-Daubringen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77183.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-17T09:36:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Haushalte-f%C3%BCr-die-LWR-2026-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77184.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Haushalte für die LWR 2026 gesucht</title>
+    <updated>2026-08-17T14:23:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Haushalte-f%C3%BCr-die-LWR-2026-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77184.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-17T14:23:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
