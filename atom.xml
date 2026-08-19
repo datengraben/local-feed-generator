@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-19T10:24:05.914368+00:00</updated>
+  <updated>2026-08-19T11:21:13.851477+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -405,18 +405,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wenn-das-buhnenbild-lebendig-wird/</id>
-    <title>Wenn das Bühnenbild lebendig wird - &lt;p&gt;Am 4. und 5. Juni 2026 lädt ArtesMobiles mit&lt;strong&gt; "Ver...</title>
-    <updated>2026-08-14T10:57:03+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wenn-das-buhnenbild-lebendig-wird/"/>
-    <category term="kultur"/>
-    <published>2026-08-14T10:57:03+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/interview-rakes-progress/</id>
     <title>Zwischen Realität, Fiktion und Projektion - &lt;p&gt;Dramaturgin Julia van der Horst im Gespräch mit Ausstatte...</title>
     <updated>2026-06-09T11:04:31+02:00</updated>
@@ -453,6 +441,18 @@
     <published>2026-05-22T12:50:48+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/</id>
+    <title>Feuerwerk im Kopf - &lt;p&gt;Im Tanzstück „&lt;strong&gt;Feuerwerkskörper“ &lt;/strong&gt;von Raim...</title>
+    <updated>2026-05-22T19:33:07+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/"/>
+    <category term="kultur"/>
+    <published>2026-05-22T19:33:07+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/von-verwandlung-und-identitat/</id>
     <title>Von Verwandlung und Identität - Die Crossover Produktion „The Addams Family“ ist ein Abend v...</title>
     <updated>2026-08-14T11:43:12+02:00</updated>
@@ -465,28 +465,16 @@
     <published>2026-08-14T11:43:12+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
-    <title>Schiffenberg Classics: Philharmonisches Orchester Gießen beim Kultursommer 2026 - &lt;p&gt;Geballter Orchestersound im einzigartigen Ambiente: Das P...</title>
-    <updated>2026-06-08T07:45:17+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-juni-2026/</id>
+    <title>Dieser Herzschlag setzt nie aus: Theater trotz Hackerangriff - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
+    <updated>2026-06-26T14:55:18+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/"/>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-juni-2026/"/>
     <category term="kultur"/>
-    <published>2026-06-08T07:45:17+02:00</published>
-  </entry>
-  <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/</id>
-    <title>Feuerwerk im Kopf - &lt;p&gt;Im Tanzstück „&lt;strong&gt;Feuerwerkskörper“ &lt;/strong&gt;von Raim...</title>
-    <updated>2026-05-22T19:33:07+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/"/>
-    <category term="kultur"/>
-    <published>2026-05-22T19:33:07+02:00</published>
+    <published>2026-06-26T14:55:18+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-eroffnet/</id>
@@ -513,28 +501,28 @@
     <published>2026-06-26T15:47:32+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-juni-2026/</id>
-    <title>Dieser Herzschlag setzt nie aus: Theater trotz Hackerangriff - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
-    <updated>2026-06-26T14:55:18+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
+    <title>Schiffenberg Classics: Philharmonisches Orchester Gießen beim Kultursommer 2026 - &lt;p&gt;Geballter Orchestersound im einzigartigen Ambiente: Das P...</title>
+    <updated>2026-06-08T07:45:17+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-juni-2026/"/>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/"/>
     <category term="kultur"/>
-    <published>2026-06-26T14:55:18+02:00</published>
+    <published>2026-06-08T07:45:17+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbildungsstart-bei-der-Stadt-Gie%C3%9Fen-Neue-Nachwuchskr%C3%A4fte-lernen-Verwaltung-Stadt-und-Team-kennen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74047.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Ausbildungsstart bei der Stadt Gießen: Neue Nachwuchskräfte lernen Verwaltung, Stadt und Team kennen</title>
-    <updated>2026-08-04T12:58:00+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/</id>
+    <title>"Alles wieder gut?" Spielzeitstart nach Hackerangriff ist steil, schnell und aufregend - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
+    <updated>2026-08-19T11:20:57.580251+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbildungsstart-bei-der-Stadt-Gie%C3%9Fen-Neue-Nachwuchskr%C3%A4fte-lernen-Verwaltung-Stadt-und-Team-kennen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74047.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-04T12:58:00+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/"/>
+    <category term="kultur"/>
+    <published>2026-08-19T11:20:57.580251+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenkmarkt-am-29-August-gibt-gut-erhaltenen-Dingen-eine-zweite-Chance.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77127.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -823,6 +811,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalsanierung-im-Uferweg.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77191.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-19T10:23:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fundsachen-werden-versteigert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73131.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Fundsachen werden versteigert</title>
+    <updated>2026-08-19T11:20:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fundsachen-werden-versteigert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.73131.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-19T11:20:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
