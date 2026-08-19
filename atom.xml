@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-19T13:40:54.674134+00:00</updated>
+  <updated>2026-08-19T14:29:03.757023+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -525,6 +525,30 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbildungsstart-bei-der-Stadt-Gie%C3%9Fen-Neue-Nachwuchskr%C3%A4fte-lernen-Verwaltung-Stadt-und-Team-kennen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74047.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Ausbildungsstart bei der Stadt Gießen: Neue Nachwuchskräfte lernen Verwaltung, Stadt und Team kennen</title>
+    <updated>2026-08-04T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbildungsstart-bei-der-Stadt-Gie%C3%9Fen-Neue-Nachwuchskr%C3%A4fte-lernen-Verwaltung-Stadt-und-Team-kennen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74047.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-04T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenkmarkt-am-29-August-gibt-gut-erhaltenen-Dingen-eine-zweite-Chance.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77127.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Verschenkmarkt am 29. August gibt gut erhaltenen Dingen eine zweite Chance</title>
+    <updated>2026-08-05T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenkmarkt-am-29-August-gibt-gut-erhaltenen-Dingen-eine-zweite-Chance.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77127.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-05T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Clean-Up-Walk-und-Feedback-Caf%C3%A9-f%C3%B6rdern-den-Austausch-im-Steinstra%C3%9Fenquartier.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77128.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Clean-Up-Walk und Feedback-Café fördern den Austausch im Steinstraßenquartier</title>
     <updated>2026-08-06T13:58:00+02:00</updated>
@@ -691,30 +715,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Guide-ist-online-Neuer-digitaler-Wegweiser-f%C3%BCr-Zugewanderte-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77169.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-13T10:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77170.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Präventionsangebote des Ordnungsamtes in den Stadtteilen</title>
-    <updated>2026-08-13T13:01:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebote-des-Ordnungsamtes-in-den-Stadtteilen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77170.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-13T13:01:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Botanischer-Garten-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77171.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Botanischer Garten vorübergehend geschlossen</title>
-    <updated>2026-08-13T14:53:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Botanischer-Garten-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77171.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-13T14:53:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Preisverleihung-Kriminalpr%C3%A4vention-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77178.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
