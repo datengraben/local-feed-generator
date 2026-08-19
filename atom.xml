@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-19T07:36:02.917497+00:00</updated>
+  <updated>2026-08-19T09:30:48.919251+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -550,18 +550,6 @@
     <published>2026-08-04T12:58:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hohe-Waldbrandgefahr-Forstministerium-ruft-zweith%C3%B6chste-Alarmstufe-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77110.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Hohe Waldbrandgefahr: Grillen auf öffentlichen Grillplätzen in der Stadt Gießen verboten</title>
-    <updated>2026-08-04T12:58:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Hohe-Waldbrandgefahr-Forstministerium-ruft-zweith%C3%B6chste-Alarmstufe-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77110.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-04T12:58:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenkmarkt-am-29-August-gibt-gut-erhaltenen-Dingen-eine-zweite-Chance.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77127.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Verschenkmarkt am 29. August gibt gut erhaltenen Dingen eine zweite Chance</title>
     <updated>2026-08-05T16:38:00+02:00</updated>
@@ -812,6 +800,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Haushalte-f%C3%BCr-die-LWR-2026-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77184.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-17T14:23:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-Gie%C3%9Fen-ver%C3%B6ffentlicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77189.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Neues Veranstaltungsprogramm der Stadtbibliothek Gießen veröffentlicht</title>
+    <updated>2026-08-19T09:30:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-Gie%C3%9Fen-ver%C3%B6ffentlicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77189.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-19T09:30:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
