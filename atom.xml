@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-19T16:28:12.246188+00:00</updated>
+  <updated>2026-08-19T22:20:41.006397+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -525,18 +525,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenkmarkt-am-29-August-gibt-gut-erhaltenen-Dingen-eine-zweite-Chance.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77127.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Verschenkmarkt am 29. August gibt gut erhaltenen Dingen eine zweite Chance</title>
-    <updated>2026-08-05T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenkmarkt-am-29-August-gibt-gut-erhaltenen-Dingen-eine-zweite-Chance.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77127.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-05T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Clean-Up-Walk-und-Feedback-Caf%C3%A9-f%C3%B6rdern-den-Austausch-im-Steinstra%C3%9Fenquartier.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77128.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Clean-Up-Walk und Feedback-Café fördern den Austausch im Steinstraßenquartier</title>
     <updated>2026-08-06T13:58:00+02:00</updated>
@@ -823,6 +811,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Europa-sch%C3%BCtzt-Natur-hier-in-Mittelhessen-Wanderausstellung-im-Gie%C3%9Fner-Rathaus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77193.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-19T16:27:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Informationen-der-Feuerwehr-Gie%C3%9Fen-zum-Unwetter-am-19-August.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77194.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Informationen der Feuerwehr Gießen zum Unwetter am 19. August</title>
+    <updated>2026-08-19T22:20:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Informationen-der-Feuerwehr-Gie%C3%9Fen-zum-Unwetter-am-19-August.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77194.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-19T22:20:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
