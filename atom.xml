@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-20T13:42:51.977665+00:00</updated>
+  <updated>2026-08-20T14:32:30.979803+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -525,6 +525,18 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stra%C3%9Fenfest-im-D%C3%B6nerdreieck-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77136.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Straßenfest im »Dönerdreieck«</title>
+    <updated>2026-08-10T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stra%C3%9Fenfest-im-D%C3%B6nerdreieck-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77136.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-10T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verleihung-der-Hedwig-Burgheim-Medaille.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77137.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Verleihung der Hedwig-Burgheim Medaille</title>
     <updated>2026-08-10T11:04:00+02:00</updated>
@@ -631,18 +643,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Preisverleihung-Kriminalpr%C3%A4vention-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77178.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-14T08:12:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mittwochs-live-in-Gie%C3%9Fen-S%C3%BCdviertel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77180.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Mittwochs live in Gießen... Südviertel</title>
-    <updated>2026-08-14T09:56:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mittwochs-live-in-Gie%C3%9Fen-S%C3%BCdviertel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77180.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-14T09:56:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Autofreier-Sonntag-im-Lumdatal-Landesstra%C3%9Fe-voll-gesperrt-Buslinie-371-von-Gie%C3%9Fen-Bahnhof-nur-bis-Daubringen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77183.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
