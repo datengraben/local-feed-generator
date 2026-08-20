@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-20T06:39:24.368350+00:00</updated>
+  <updated>2026-08-20T11:22:52.152537+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -441,6 +441,18 @@
     <published>2026-05-22T12:50:48+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
+    <title>Schiffenberg Classics: Philharmonisches Orchester Gießen beim Kultursommer 2026 - &lt;p&gt;Geballter Orchestersound im einzigartigen Ambiente: Das P...</title>
+    <updated>2026-06-08T07:45:17+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/"/>
+    <category term="kultur"/>
+    <published>2026-06-08T07:45:17+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/</id>
     <title>Feuerwerk im Kopf - &lt;p&gt;Im Tanzstück „&lt;strong&gt;Feuerwerkskörper“ &lt;/strong&gt;von Raim...</title>
     <updated>2026-05-22T19:33:07+02:00</updated>
@@ -501,18 +513,6 @@
     <published>2026-06-26T15:47:32+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
-    <title>Schiffenberg Classics: Philharmonisches Orchester Gießen beim Kultursommer 2026 - &lt;p&gt;Geballter Orchestersound im einzigartigen Ambiente: Das P...</title>
-    <updated>2026-06-08T07:45:17+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/"/>
-    <category term="kultur"/>
-    <published>2026-06-08T07:45:17+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/</id>
     <title>"Alles wieder gut?" Spielzeitstart nach Hackerangriff ist steil, schnell und aufregend - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
     <updated>2026-08-19T11:20:57+02:00</updated>
@@ -523,30 +523,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/"/>
     <category term="kultur"/>
     <published>2026-08-19T11:20:57+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinien-GI-25-und-ALT-GI-25-werden-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77129.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Buslinie GI-25 wird umgeleitet</title>
-    <updated>2026-08-06T00:38:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinien-GI-25-und-ALT-GI-25-werden-umgeleitet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77129.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-06T00:38:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtbusverkehr-mit-leichten-Einschr%C3%A4nkungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77130.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Stadtbusverkehr mit leichten Einschränkungen</title>
-    <updated>2026-08-06T00:38:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtbusverkehr-mit-leichten-Einschr%C3%A4nkungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77130.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-06T00:38:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zwischen-Kreativit%C3%A4t-und-K%C3%BCnstlicher-Intelligenz-das-neue-Herbst-Winter-Programm-des-Jugendbildungswerks-der-Universit%C3%A4tsstadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77134.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -823,6 +799,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sieben-neue-Tagesm%C3%BCtter-und-ein-Tagesvater-starten-als-neue-qualifizierte-Kindertagespflegepersonen-in-Gie%C3%9Fen-und-im-Landkreis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77195.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-20T06:39:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinderwege-im-Flussstra%C3%9Fenviertel-laden-zum-Klettern-und-Balancieren-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77200.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Kinderwege im Flussstraßenviertel laden zum Klettern und Balancieren ein</title>
+    <updated>2026-08-20T11:22:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinderwege-im-Flussstra%C3%9Fenviertel-laden-zum-Klettern-und-Balancieren-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77200.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-20T11:22:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-erinnert-an-Alt-Oberb%C3%BCrgermeister-Albert-Osswald.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77201.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Stadt Gießen erinnert an Alt-Oberbürgermeister Albert Osswald</title>
+    <updated>2026-08-20T11:22:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-erinnert-an-Alt-Oberb%C3%BCrgermeister-Albert-Osswald.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77201.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-20T11:22:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
