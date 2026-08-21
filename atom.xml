@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-21T09:32:46.712068+00:00</updated>
+  <updated>2026-08-21T11:21:36.180855+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -525,18 +525,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zukunftswerkstatt-zur-Quartiersentwicklung-der-N%C3%B6rdlichen-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77151.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Zukunftswerkstatt zur Quartiersentwicklung der Nördlichen Innenstadt</title>
-    <updated>2026-08-12T08:13:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zukunftswerkstatt-zur-Quartiersentwicklung-der-N%C3%B6rdlichen-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77151.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-12T08:13:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zweite-Bahnbr%C3%BCcke-in-der-Lahnstra%C3%9Fe-wird-vergr%C3%B6%C3%9Fert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77156.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Zweite Bahnbrücke in der Lahnstraße wird vergrößert</title>
     <updated>2026-08-12T11:01:00+02:00</updated>
@@ -823,6 +811,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schiffenberg-Classics-wegen-Unwetter-abgebrochen-Ersatztermin-wird-bereits-gesucht-Eintrittskarten-behalten-ihre-G%C3%BCltigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77209.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-21T09:32:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fahrbahnerneuerung-im-Wiesecker-Weg-ab-27-Juli-2026-Sperrung-bis-voraussichtlich-20-August.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76997.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Update: Sperrung bis voraussichtlich 27. August verlängert</title>
+    <updated>2026-08-21T11:21:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Fahrbahnerneuerung-im-Wiesecker-Weg-ab-27-Juli-2026-Sperrung-bis-voraussichtlich-20-August.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76997.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-21T11:21:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
