@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-21T08:35:46.488744+00:00</updated>
+  <updated>2026-08-21T09:32:46.712068+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -525,18 +525,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gut-durch-hei%C3%9Fe-Tage-Workshops-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77144.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Gut durch heiße Tage: Workshops für Seniorinnen und Senioren</title>
-    <updated>2026-08-11T08:50:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gut-durch-hei%C3%9Fe-Tage-Workshops-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77144.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-11T08:50:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zukunftswerkstatt-zur-Quartiersentwicklung-der-N%C3%B6rdlichen-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77151.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Zukunftswerkstatt zur Quartiersentwicklung der Nördlichen Innenstadt</title>
     <updated>2026-08-12T08:13:00+02:00</updated>
@@ -753,18 +741,6 @@
     <published>2026-08-20T11:22:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stra%C3%9Fenausbau-im-Bereich-Gummiinsel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77057.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Straßenausbau im Bereich Gummiinsel</title>
-    <updated>2026-08-20T12:40:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stra%C3%9Fenausbau-im-Bereich-Gummiinsel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77057.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-20T12:40:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenkmarkt-am-29-August-gibt-gut-erhaltenen-Dingen-eine-zweite-Chance.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77127.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Verschenkmarkt am 29. August gibt gut erhaltenen Dingen eine zweite Chance</title>
     <updated>2026-08-20T13:42:00+02:00</updated>
@@ -775,6 +751,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verschenkmarkt-am-29-August-gibt-gut-erhaltenen-Dingen-eine-zweite-Chance.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77127.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-20T13:42:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stra%C3%9Fenausbau-im-Bereich-Gummiinsel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77057.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Straßenausbau im Bereich Gummiinsel</title>
+    <updated>2026-08-20T12:40:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stra%C3%9Fenausbau-im-Bereich-Gummiinsel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77057.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-20T12:40:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schon-jetzt-den-neuen-F%C3%BChrerschein-beantragen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77202.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -823,6 +811,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wasserb%C3%BCffel-in-der-Wieseckaue.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77208.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-21T08:35:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schiffenberg-Classics-wegen-Unwetter-abgebrochen-Ersatztermin-wird-bereits-gesucht-Eintrittskarten-behalten-ihre-G%C3%BCltigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77209.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Kultursommer: Schiffenberg Classics wegen Unwetter abgebrochen - Eintrittskarten behalten Gültigkeit</title>
+    <updated>2026-08-21T09:32:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schiffenberg-Classics-wegen-Unwetter-abgebrochen-Ersatztermin-wird-bereits-gesucht-Eintrittskarten-behalten-ihre-G%C3%BCltigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77209.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-21T09:32:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
