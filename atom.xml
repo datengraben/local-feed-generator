@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-24T05:34:58.692133+00:00</updated>
+  <updated>2026-08-24T07:54:55.771655+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -801,18 +801,6 @@
     <published>2026-08-21T08:35:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schiffenberg-Classics-wegen-Unwetter-abgebrochen-Ersatztermin-wird-bereits-gesucht-Eintrittskarten-behalten-ihre-G%C3%BCltigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77209.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Kultursommer: Schiffenberg Classics wegen Unwetter abgebrochen - Eintrittskarten behalten Gültigkeit</title>
-    <updated>2026-08-21T09:32:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schiffenberg-Classics-wegen-Unwetter-abgebrochen-Ersatztermin-wird-bereits-gesucht-Eintrittskarten-behalten-ihre-G%C3%BCltigkeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77209.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-21T09:32:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mitmachen-am-Stadttheater-Spielklubs-starten-zum-Mitsingen-Mittanzen-und-Mitspielen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77210.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Mitmachen am Stadttheater: Spielklubs starten zum Mitsingen, Mittanzen und Mitspielen</title>
     <updated>2026-08-21T14:30:00+02:00</updated>
@@ -823,6 +811,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mitmachen-am-Stadttheater-Spielklubs-starten-zum-Mitsingen-Mittanzen-und-Mitspielen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77210.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-21T14:30:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schiffenberg-Classics-werden-am-1-September-nachgeholt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77209.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Schiffenberg Classics werden am 1. September nachgeholt</title>
+    <updated>2026-08-24T07:54:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schiffenberg-Classics-werden-am-1-September-nachgeholt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77209.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-24T07:54:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
