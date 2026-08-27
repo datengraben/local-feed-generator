@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-26T12:43:54.899077+00:00</updated>
+  <updated>2026-08-27T13:43:52.320508+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -525,18 +525,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-frei-f%C3%BCr-den-Kurs-Gewalt-Sehen-Helfen-GSH-am-11-09-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77167.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Noch Plätze frei für den Kurs Gewalt - Sehen - Helfen (GSH) am 11.09.2026</title>
-    <updated>2026-08-13T10:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Noch-Pl%C3%A4tze-frei-f%C3%BCr-den-Kurs-Gewalt-Sehen-Helfen-GSH-am-11-09-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77167.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-13T10:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Guide-ist-online-Neuer-digitaler-Wegweiser-f%C3%BCr-Zugewanderte-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77169.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Gießen Guide: Neuer digitaler Wegweiser für Zugewanderte in Gießen</title>
     <updated>2026-08-13T10:00:00+02:00</updated>
@@ -823,6 +811,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-%C3%96ffnungszeiten-der-Ausl%C3%A4nderbeh%C3%B6rde-ab-September.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77242.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-26T12:43:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsbehinderungen-in-der-%C3%B6stlichen-Innenstadt-wegen-Versammlung-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77248.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Verkehrsbehinderungen in östlicher Innenstadt wegen Versammlung am 01.09. möglich</title>
+    <updated>2026-08-27T13:43:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verkehrsbehinderungen-in-der-%C3%B6stlichen-Innenstadt-wegen-Versammlung-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77248.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-27T13:43:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
