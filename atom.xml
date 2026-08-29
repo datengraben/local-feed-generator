@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-28T20:42:19.346301+00:00</updated>
+  <updated>2026-08-29T10:44:28.723357+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -405,18 +405,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/interview-rakes-progress/</id>
-    <title>Zwischen Realität, Fiktion und Projektion - &lt;p&gt;Dramaturgin Julia van der Horst im Gespräch mit Ausstatte...</title>
-    <updated>2026-06-09T11:04:31+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/interview-rakes-progress/"/>
-    <category term="kultur"/>
-    <published>2026-06-09T11:04:31+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/</id>
     <title>Blick in die Spielzeit 2026/2027 - &lt;p&gt;Bei einer Pressekonferenz wurde heute, 8. Mai, das Progra...</title>
     <updated>2026-08-14T11:43:12+02:00</updated>
@@ -511,6 +499,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/sommerbuhne-2026/"/>
     <category term="kultur"/>
     <published>2026-06-26T15:47:32+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theatertag-am-25-september/</id>
+    <title>Theatertag am 25. September - &lt;p&gt;Der nächste Theatertag ist &lt;strong&gt;"Jakob der Lügner"&lt;/st...</title>
+    <updated>2026-08-29T10:44:14.168044+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theatertag-am-25-september/"/>
+    <category term="kultur"/>
+    <published>2026-08-29T10:44:14.168044+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/</id>
