@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-31T10:28:31.172680+00:00</updated>
+  <updated>2026-08-31T17:50:59.123161+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -125,6 +125,126 @@
     <link href="https://www.asta-giessen.de/zweites-planungstreffen-fuer-eine-gerechte-und-ausfinanzierte-hochschule-nocutsgiessen/"/>
     <category term="uni"/>
     <published>2026-01-17T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/02/19/kuerzungen-am-fachbereich-04-fussnote/</id>
+    <title>Kürzungen am Fachbereich 04 – Fußnote</title>
+    <updated>2026-02-19T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/02/19/kuerzungen-am-fachbereich-04-fussnote/"/>
+    <category term="uni"/>
+    <published>2026-02-19T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/02/21/universum-unterwegs-dokumentar-und-animationsfilmfestival-leipzig/</id>
+    <title>UNIversum unterwegs: Dokumentar- und Animationsfilmfestival Leipzig</title>
+    <updated>2026-02-21T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/02/21/universum-unterwegs-dokumentar-und-animationsfilmfestival-leipzig/"/>
+    <category term="uni"/>
+    <published>2026-02-21T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/</id>
+    <title>„Trains“ – Ein Statement ohne Worte auf der DOK Leipzig</title>
+    <updated>2026-02-28T00:00:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/"/>
+    <category term="uni"/>
+    <published>2026-02-28T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/</id>
+    <title>DOK Leipzig: Wenn wir nicht lachen würden</title>
+    <updated>2026-04-15T00:00:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/"/>
+    <category term="uni"/>
+    <published>2026-04-15T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/06/29/bustickets-am-kuchenstand/</id>
+    <title>Bustickets am Kuchenstand</title>
+    <updated>2026-06-29T00:00:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/06/29/bustickets-am-kuchenstand/"/>
+    <category term="uni"/>
+    <published>2026-06-29T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/07/02/meinung-bafoeg-reform-nur-ein-erster-schritt-in-die-richtige-richtung/</id>
+    <title>– MEINUNG – BAföG-Reform: Nur ein erster Schritt in die richtige Richtung</title>
+    <updated>2026-07-02T00:00:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/07/02/meinung-bafoeg-reform-nur-ein-erster-schritt-in-die-richtige-richtung/"/>
+    <category term="uni"/>
+    <published>2026-07-02T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/07/10/lernorte-in-giessen-die-fuenf-besten-cafes-zum-lernen/</id>
+    <title>Lernorte in Gießen: Die fünf besten Cafés zum Lernen</title>
+    <updated>2026-07-10T00:00:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/07/10/lernorte-in-giessen-die-fuenf-besten-cafes-zum-lernen/"/>
+    <category term="uni"/>
+    <published>2026-07-10T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/07/12/unisex-toiletten-an-der-jlu-ein-menschenrecht-und-demokratisches-grundrecht/</id>
+    <title>Unisex-Toiletten an der JLU: „Ein Menschenrecht und demokratisches Grundrecht“</title>
+    <updated>2026-07-12T00:00:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/07/12/unisex-toiletten-an-der-jlu-ein-menschenrecht-und-demokratisches-grundrecht/"/>
+    <category term="uni"/>
+    <published>2026-07-12T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/07/26/die-nightline-giessen-hilfe-von-studierenden-fuer-studierende/</id>
+    <title>Die Nightline Gießen: Hilfe von Studierenden für Studierende</title>
+    <updated>2026-07-26T00:00:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/07/26/die-nightline-giessen-hilfe-von-studierenden-fuer-studierende/"/>
+    <category term="uni"/>
+    <published>2026-07-26T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/08/31/wie-fange-ich-endlich-mit-dem-schreiben-der-hausarbeit-an/</id>
+    <title>Wie fange ich endlich mit dem Schreiben der Hausarbeit an?</title>
+    <updated>2026-08-31T17:50:00+02:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/08/31/wie-fange-ich-endlich-mit-dem-schreiben-der-hausarbeit-an/"/>
+    <category term="uni"/>
+    <published>2026-08-31T17:50:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzewelle-worauf-man-achten-sollte-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74054.1&amp;NavID=2874.584</id>
@@ -405,30 +525,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Guide-ist-online-Neuer-digitaler-Wegweiser-f%C3%BCr-Zugewanderte-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77169.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Gießen Guide: Neuer digitaler Wegweiser für Zugewanderte in Gießen</title>
-    <updated>2026-08-13T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-Guide-ist-online-Neuer-digitaler-Wegweiser-f%C3%BCr-Zugewanderte-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77169.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-13T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Preisverleihung-Kriminalpr%C3%A4vention-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77178.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Preisverleihung Kriminalprävention 2026</title>
-    <updated>2026-08-14T08:12:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Preisverleihung-Kriminalpr%C3%A4vention-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77178.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-14T08:12:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Haushalte-f%C3%BCr-die-LWR-2026-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77184.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Haushalte für die LWR 2026 gesucht</title>
     <updated>2026-08-17T14:23:00+02:00</updated>
@@ -703,6 +799,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Saisonende-in-den-Stadtteilb%C3%A4dern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74094.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-28T20:42:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Oktoberfest für Seniorinnen und Senioren in der Kongresshalle</title>
+    <updated>2026-08-31T17:50:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-31T17:50:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kostenlose-Energieberatung-im-Stadtteil-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77259.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Kostenlose Energieberatung im Stadtteil Lützellinden</title>
+    <updated>2026-08-31T17:50:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kostenlose-Energieberatung-im-Stadtteil-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77259.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-31T17:50:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
