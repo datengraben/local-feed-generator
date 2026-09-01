@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-08-31T17:50:59.123161+00:00</updated>
+  <updated>2026-09-01T13:02:40.472702+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -405,18 +405,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/</id>
-    <title>Blick in die Spielzeit 2026/2027 - &lt;p&gt;Bei einer Pressekonferenz wurde heute, 8. Mai, das Progra...</title>
-    <updated>2026-08-14T11:43:12+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/blickin-die-spielzeit-2026-2027/"/>
-    <category term="kultur"/>
-    <published>2026-08-14T11:43:12+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/</id>
     <title>Kreativer als KI? - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
     <updated>2026-05-22T12:50:48+02:00</updated>
@@ -501,6 +489,18 @@
     <published>2026-06-26T15:47:32+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/tanz-kann-mehr/</id>
+    <title>Tanz kann mehr! - &lt;p&gt;Das Gastspiel „Tanzselfies #unfiltered“ öffnet überrasche...</title>
+    <updated>2026-09-01T13:02:30.218051+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/tanz-kann-mehr/"/>
+    <category term="kultur"/>
+    <published>2026-09-01T13:02:30.218051+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theatertag-am-25-september/</id>
     <title>Theatertag am 25. September - &lt;p&gt;Der nächste Theatertag ist &lt;strong&gt;"Jakob der Lügner"&lt;/st...</title>
     <updated>2026-08-29T10:44:14+02:00</updated>
@@ -523,18 +523,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/"/>
     <category term="kultur"/>
     <published>2026-08-19T11:20:57+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Haushalte-f%C3%BCr-die-LWR-2026-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77184.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Haushalte für die LWR 2026 gesucht</title>
-    <updated>2026-08-17T14:23:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Haushalte-f%C3%BCr-die-LWR-2026-gesucht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77184.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-17T14:23:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-Gie%C3%9Fen-ver%C3%B6ffentlicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77189.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -823,6 +811,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kostenlose-Energieberatung-im-Stadtteil-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77259.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-31T17:50:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Nette-Toilette-Jetzt-31-Standorte-in-der-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77266.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>"Nette Toilette" - Jetzt 31 Standorte in der Innenstadt</title>
+    <updated>2026-09-01T13:02:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Nette-Toilette-Jetzt-31-Standorte-in-der-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77266.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-01T13:02:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
