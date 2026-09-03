@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-03T02:51:03.131496+00:00</updated>
+  <updated>2026-09-03T07:45:20.643813+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -525,18 +525,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-Gie%C3%9Fen-ver%C3%B6ffentlicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77189.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Neues Veranstaltungsprogramm der Stadtbibliothek Gießen veröffentlicht</title>
-    <updated>2026-08-19T09:30:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neues-Veranstaltungsprogramm-der-Stadtbibliothek-Gie%C3%9Fen-ver%C3%B6ffentlicht.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77189.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-19T09:30:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vorerst-Entspannung-der-Waldbrandgefahr-Vorsicht-aber-weiter-geboten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77190.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Vorerst Entspannung der Waldbrandgefahr - Vorsicht aber weiter geboten</title>
     <updated>2026-08-19T10:23:00+02:00</updated>
@@ -823,6 +811,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freie-Pl%C3%A4tze-bei-Stadtf%C3%BChrungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77273.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-02T14:56:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-10-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Nächster bundesweiter Warntag am 10. September - in Gießen 31 Sirenen auf Probe</title>
+    <updated>2026-09-03T07:45:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-10-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-03T07:45:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
