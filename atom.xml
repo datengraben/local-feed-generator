@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-04T10:32:12.947904+00:00</updated>
+  <updated>2026-09-04T14:45:52.102498+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -405,18 +405,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/</id>
-    <title>Kreativer als KI? - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
-    <updated>2026-05-22T12:50:48+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/kreativer-als-ki/"/>
-    <category term="kultur"/>
-    <published>2026-05-22T12:50:48+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
     <title>Schiffenberg Classics: Philharmonisches Orchester Gießen beim Kultursommer 2026 - &lt;p&gt;Geballter Orchestersound im einzigartigen Ambiente: Das P...</title>
     <updated>2026-06-08T07:45:17+02:00</updated>
@@ -511,6 +499,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theatertag-am-25-september/"/>
     <category term="kultur"/>
     <published>2026-08-29T10:44:14+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/familienzeit-die-drin-ist/</id>
+    <title>Familienzeit, die drin ist. - &lt;p&gt;Im Theater begegnen sich Menschen unterschiedlicher Gener...</title>
+    <updated>2026-09-04T14:45:38.434694+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/familienzeit-die-drin-ist/"/>
+    <category term="kultur"/>
+    <published>2026-09-04T14:45:38.434694+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/</id>
