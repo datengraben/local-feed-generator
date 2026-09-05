@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-04T14:45:52.102498+00:00</updated>
+  <updated>2026-09-05T14:31:39.088987+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,14 +503,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/familienzeit-die-drin-ist/</id>
     <title>Familienzeit, die drin ist. - &lt;p&gt;Im Theater begegnen sich Menschen unterschiedlicher Gener...</title>
-    <updated>2026-09-04T14:45:38.434694+02:00</updated>
+    <updated>2026-09-04T14:45:38+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/familienzeit-die-drin-ist/"/>
     <category term="kultur"/>
-    <published>2026-09-04T14:45:38.434694+02:00</published>
+    <published>2026-09-04T14:45:38+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/</id>
@@ -523,6 +523,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/"/>
     <category term="kultur"/>
     <published>2026-08-19T11:20:57+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sommerb%C3%BChne-auf-dem-Theatervorplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77192.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Sommerbühne auf dem Theatervorplatz</title>
+    <updated>2026-08-19T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sommerb%C3%BChne-auf-dem-Theatervorplatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77192.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-19T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Europa-sch%C3%BCtzt-Natur-hier-in-Mittelhessen-Wanderausstellung-im-Gie%C3%9Fner-Rathaus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77193.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -655,18 +667,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgerumfrage-zur-Krisenvorsorge-in-Gie%C3%9Fen-abgeschlossen-Hohes-Interesse-aber-weiterer-Informationsbedarf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77213.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-24T08:42:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/TV-Kanaluntersuchungen-in-Gie%C3%9Fen-Wieseck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77224.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>TV-Kanaluntersuchungen in Gießen-Wieseck</title>
-    <updated>2026-08-26T06:41:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/TV-Kanaluntersuchungen-in-Gie%C3%9Fen-Wieseck.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77224.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-26T06:41:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-%C3%96ffnungszeiten-der-Ausl%C3%A4nderbeh%C3%B6rde-ab-September.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77242.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
