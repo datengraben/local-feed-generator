@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-07T13:57:22.717080+00:00</updated>
+  <updated>2026-09-07T18:37:54.056979+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -491,14 +491,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/im-schneegestober-vom-herrlichen-sommertag-sprechen/</id>
     <title>Im Schneegestöber vom herrlichen Sommertag sprechen - &lt;p&gt;Jurek Beckers „Jakob der Lügner“ erzählt mit lakonischem ...</title>
-    <updated>2026-09-07T13:57:09.736503+02:00</updated>
+    <updated>2026-09-07T13:57:09+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/im-schneegestober-vom-herrlichen-sommertag-sprechen/"/>
     <category term="kultur"/>
-    <published>2026-09-07T13:57:09.736503+02:00</published>
+    <published>2026-09-07T13:57:09+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/familienzeit-die-drin-ist/</id>
@@ -523,18 +523,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/"/>
     <category term="kultur"/>
     <published>2026-08-19T11:20:57+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinderwege-im-Flussstra%C3%9Fenviertel-laden-zum-Klettern-und-Balancieren-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77200.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Kinderwege im Flussstraßenviertel laden zum Klettern und Balancieren ein</title>
-    <updated>2026-08-20T11:22:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinderwege-im-Flussstra%C3%9Fenviertel-laden-zum-Klettern-und-Balancieren-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77200.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-20T11:22:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-erinnert-an-Alt-Oberb%C3%BCrgermeister-Albert-Osswald.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77201.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -823,6 +811,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Aktionen-der-Stadt-Gie%C3%9Fen-zur-Woche-der-Klimaanpassung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77298.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-07T13:57:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auf-Streifzug-mit-der-R%C3%A4ubertochter-Cron-neue-Charakterf%C3%BChrung-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77299.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Auf Streifzug mit der Räubertochter "Cron" - neue Charakterführung in Gießen</title>
+    <updated>2026-09-07T18:37:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Auf-Streifzug-mit-der-R%C3%A4ubertochter-Cron-neue-Charakterf%C3%BChrung-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77299.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-07T18:37:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
