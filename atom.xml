@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-06T14:55:50.414177+00:00</updated>
+  <updated>2026-09-07T13:57:22.717080+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -405,18 +405,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/</id>
-    <title>Schiffenberg Classics: Philharmonisches Orchester Gießen beim Kultursommer 2026 - &lt;p&gt;Geballter Orchestersound im einzigartigen Ambiente: Das P...</title>
-    <updated>2026-06-08T07:45:17+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/schiffenberg-classics-philharmonisches-orchester-giessen-beim-kultursommer-2026/"/>
-    <category term="kultur"/>
-    <published>2026-06-08T07:45:17+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/feuerwerk-im-kopf/</id>
     <title>Feuerwerk im Kopf - &lt;p&gt;Im Tanzstück „&lt;strong&gt;Feuerwerkskörper“ &lt;/strong&gt;von Raim...</title>
     <updated>2026-05-22T19:33:07+02:00</updated>
@@ -501,6 +489,18 @@
     <published>2026-08-29T10:44:14+02:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/im-schneegestober-vom-herrlichen-sommertag-sprechen/</id>
+    <title>Im Schneegestöber vom herrlichen Sommertag sprechen - &lt;p&gt;Jurek Beckers „Jakob der Lügner“ erzählt mit lakonischem ...</title>
+    <updated>2026-09-07T13:57:09.736503+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/im-schneegestober-vom-herrlichen-sommertag-sprechen/"/>
+    <category term="kultur"/>
+    <published>2026-09-07T13:57:09.736503+02:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/familienzeit-die-drin-ist/</id>
     <title>Familienzeit, die drin ist. - &lt;p&gt;Im Theater begegnen sich Menschen unterschiedlicher Gener...</title>
     <updated>2026-09-04T14:45:38+02:00</updated>
@@ -523,30 +523,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/"/>
     <category term="kultur"/>
     <published>2026-08-19T11:20:57+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Europa-sch%C3%BCtzt-Natur-hier-in-Mittelhessen-Wanderausstellung-im-Gie%C3%9Fner-Rathaus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77193.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>"Europa schützt Natur - hier in Mittelhessen": Wanderausstellung im Gießener Rathaus</title>
-    <updated>2026-08-19T16:27:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Europa-sch%C3%BCtzt-Natur-hier-in-Mittelhessen-Wanderausstellung-im-Gie%C3%9Fner-Rathaus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77193.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-19T16:27:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sieben-neue-Tagesm%C3%BCtter-und-ein-Tagesvater-starten-als-neue-qualifizierte-Kindertagespflegepersonen-in-Gie%C3%9Fen-und-im-Landkreis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77195.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Sieben neue Tagesmütter und ein Tagesvater starten als neue qualifizierte Kindertagespflegepersonen in Gießen und im Landkreis</title>
-    <updated>2026-08-20T06:39:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sieben-neue-Tagesm%C3%BCtter-und-ein-Tagesvater-starten-als-neue-qualifizierte-Kindertagespflegepersonen-in-Gie%C3%9Fen-und-im-Landkreis.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77195.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-20T06:39:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kinderwege-im-Flussstra%C3%9Fenviertel-laden-zum-Klettern-und-Balancieren-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77200.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -823,6 +799,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadttheater-Vorverkauf-Oktober-l%C3%A4uft.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77283.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-06T14:55:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tourismus-im-Lahntal-ist-ein-Milliardenfaktor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77294.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Tourismus im Lahntal ist ein Milliardenfaktor</title>
+    <updated>2026-09-07T13:57:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tourismus-im-Lahntal-ist-ein-Milliardenfaktor.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77294.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-07T13:57:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Aktionen-der-Stadt-Gie%C3%9Fen-zur-Woche-der-Klimaanpassung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77298.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Aktionen der Stadt Gießen zur Woche der Klimaanpassung</title>
+    <updated>2026-09-07T13:57:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Aktionen-der-Stadt-Gie%C3%9Fen-zur-Woche-der-Klimaanpassung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77298.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-07T13:57:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
