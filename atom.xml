@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-09T20:22:08.459984+00:00</updated>
+  <updated>2026-09-10T14:47:40.278256+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -490,7 +490,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/im-schneegestober-vom-herrlichen-sommertag-sprechen/</id>
-    <title>Im Schneegestöber vom herrlichen Sommertag sprechen - &lt;p&gt;Jurek Beckers „Jakob der Lügner“ erzählt mit lakonischem ...</title>
+    <title>Im Schneegestöber vom herrlichen Sommertag sprechen - &lt;p&gt;Jurek Beckers &lt;a href="https://stadttheater-giessen.de/de...</title>
     <updated>2026-09-07T13:57:09+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -523,6 +523,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/"/>
     <category term="kultur"/>
     <published>2026-08-19T11:20:57+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Villa-Leutert-wird-barrierefrei-Parkpl%C3%A4tze-am-Standesamt-nur-noch-eingeschr%C3%A4nkt-vorhanden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77207.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Villa Leutert wird barrierefrei: Parkplätze am Standesamt nur noch eingeschränkt vorhanden</title>
+    <updated>2026-08-21T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Villa-Leutert-wird-barrierefrei-Parkpl%C3%A4tze-am-Standesamt-nur-noch-eingeschr%C3%A4nkt-vorhanden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77207.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-21T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wasserb%C3%BCffel-in-der-Wieseckaue.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77208.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -681,18 +693,6 @@
     <published>2026-09-03T12:33:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebot-des-Ordnungsamtes-in-Kleinlinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77219.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Präventionsangebot des Ordnungsamtes in Kleinlinden</title>
-    <updated>2026-09-04T12:43:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pr%C3%A4ventionsangebot-des-Ordnungsamtes-in-Kleinlinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77219.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-04T12:43:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Wasser-f%C3%BCr-die-alte-H%C3%A4ngebuche.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77278.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Mehr Wasser für die alte Hängebuche</title>
     <updated>2026-09-04T10:32:00+02:00</updated>
@@ -789,18 +789,6 @@
     <published>2026-09-09T12:43:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-10-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Nächster bundesweiter Warntag am 10. September - in Gießen 31 Sirenen auf Probe</title>
-    <updated>2026-09-03T07:45:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundeswarntag-am-10-September-in-Gie%C3%9Fen-31-Sirenen-auf-Probe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.40108.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-03T07:45:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Kongresshalle-feiert-60-Geburtstag-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77308.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Die Kongresshalle feiert 60. Geburtstag!</title>
     <updated>2026-09-09T12:43:00+02:00</updated>
@@ -823,6 +811,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wer-m%C3%B6chte-Pflegekinder-bei-sich-aufnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-09T12:43:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Liebig-Museum-bietet-wieder-%C3%B6ffentliche-Veranstaltungen-Experimente-Kindervorlesungen-und-F%C3%BChrungen-am-Tag-des-offenen-Denkmals.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77313.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Liebig-Museum bietet wieder öffentliche Veranstaltungen: Experimente, Kindervorlesungen und Führungen am Tag des offenen Denkmals</title>
+    <updated>2026-09-10T14:47:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Liebig-Museum-bietet-wieder-%C3%B6ffentliche-Veranstaltungen-Experimente-Kindervorlesungen-und-F%C3%BChrungen-am-Tag-des-offenen-Denkmals.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77313.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-10T14:47:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
