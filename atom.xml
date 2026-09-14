@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-14T11:43:23.074757+00:00</updated>
+  <updated>2026-09-14T17:37:44.034580+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -503,14 +503,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/pop-gegen-das-patriarchat-lyhre-dekonstruiert-macht/</id>
     <title>Pop gegen das Patriarchat: Lyhre zwischen Alt-Pop, Theater und Widerstand - &lt;p&gt;Zwischen Alt-Pop, Theater und posthumanistischem Feminism...</title>
-    <updated>2026-09-14T11:43:08.484362+02:00</updated>
+    <updated>2026-09-14T11:43:08+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/pop-gegen-das-patriarchat-lyhre-dekonstruiert-macht/"/>
     <category term="kultur"/>
-    <published>2026-09-14T11:43:08.484362+02:00</published>
+    <published>2026-09-14T11:43:08+02:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/</id>
@@ -547,18 +547,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgerumfrage-zur-Krisenvorsorge-in-Gie%C3%9Fen-abgeschlossen-Hohes-Interesse-aber-weiterer-Informationsbedarf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77213.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-08-24T08:42:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-%C3%96ffnungszeiten-der-Ausl%C3%A4nderbeh%C3%B6rde-ab-September.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77242.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Geänderte Öffnungszeiten der Ausländerbehörde ab September</title>
-    <updated>2026-08-26T12:43:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-%C3%96ffnungszeiten-der-Ausl%C3%A4nderbeh%C3%B6rde-ab-September.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77242.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-26T12:43:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Netzwerktreffen-Planet-Youth-an-Wiesecker-Schule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77255.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -823,6 +811,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verwaltungsstelle-in-Allendorf-vor%C3%BCbergehend-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=684.16073.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-14T11:43:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Erinnerungstafeln-erz%C3%A4hlen-Gie%C3%9Fens-Sportgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77321.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Neue Erinnerungstafeln erzählen Gießens Sportgeschichte</title>
+    <updated>2026-09-14T17:37:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Erinnerungstafeln-erz%C3%A4hlen-Gie%C3%9Fens-Sportgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77321.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-14T17:37:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
