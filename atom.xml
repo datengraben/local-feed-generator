@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-15T11:00:29.401921+00:00</updated>
+  <updated>2026-09-15T15:31:29.063578+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -525,6 +525,18 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Saisonende-in-den-Stadtteilb%C3%A4dern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74094.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Saisonende in den Stadtteilbädern</title>
+    <updated>2026-08-28T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Saisonende-in-den-Stadtteilb%C3%A4dern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74094.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-08-28T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Oktoberfest für Seniorinnen und Senioren in der Kongresshalle</title>
     <updated>2026-08-31T17:50:00+02:00</updated>
@@ -679,18 +691,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Zentrifuge-f%C3%BCr-das-Kl%C3%A4rwerk.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77303.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-08T13:17:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Freibadsaison-in-der-Ringallee-geht-zu-Ende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77306.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Die Freibadsaison in der Ringallee geht zu Ende</title>
-    <updated>2026-09-09T12:43:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Freibadsaison-in-der-Ringallee-geht-zu-Ende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77306.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-09T12:43:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Kongresshalle-feiert-60-Geburtstag-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77308.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
