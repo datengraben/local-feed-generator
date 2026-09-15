@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-14T17:37:44.034580+00:00</updated>
+  <updated>2026-09-15T11:00:29.401921+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -525,54 +525,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mitmachen-am-Stadttheater-Spielklubs-starten-zum-Mitsingen-Mittanzen-und-Mitspielen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77210.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Mitmachen am Stadttheater: Spielklubs starten zum Mitsingen, Mittanzen und Mitspielen</title>
-    <updated>2026-08-21T14:30:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mitmachen-am-Stadttheater-Spielklubs-starten-zum-Mitsingen-Mittanzen-und-Mitspielen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77210.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-21T14:30:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgerumfrage-zur-Krisenvorsorge-in-Gie%C3%9Fen-abgeschlossen-Hohes-Interesse-aber-weiterer-Informationsbedarf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77213.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Bürgerumfrage zur Krisenvorsorge in Gießen abgeschlossen: Hohes Interesse, aber weiterer Informationsbedarf</title>
-    <updated>2026-08-24T08:42:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgerumfrage-zur-Krisenvorsorge-in-Gie%C3%9Fen-abgeschlossen-Hohes-Interesse-aber-weiterer-Informationsbedarf.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77213.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-24T08:42:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Netzwerktreffen-Planet-Youth-an-Wiesecker-Schule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77255.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Netzwerktreffen Planet Youth an Wiesecker Schule</title>
-    <updated>2026-08-28T20:42:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Netzwerktreffen-Planet-Youth-an-Wiesecker-Schule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77255.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-28T20:42:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Saisonende-in-den-Stadtteilb%C3%A4dern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74094.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Saisonende in den Stadtteilbädern</title>
-    <updated>2026-08-28T20:42:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Saisonende-in-den-Stadtteilb%C3%A4dern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74094.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-28T20:42:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Oktoberfest für Seniorinnen und Senioren in der Kongresshalle</title>
     <updated>2026-08-31T17:50:00+02:00</updated>
@@ -823,6 +775,54 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Erinnerungstafeln-erz%C3%A4hlen-Gie%C3%9Fens-Sportgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77321.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-14T17:37:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Haushaltssperre-und-Nachtragshaushalt-Steigende-Kosten-in-Jugendhilfe-und-Personal-belasten-Haushalt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77323.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Haushaltssperre und Nachtragshaushalt: Steigende Kosten in Jugendhilfe und Personal belasten Haushalt</title>
+    <updated>2026-09-15T11:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Haushaltssperre-und-Nachtragshaushalt-Steigende-Kosten-in-Jugendhilfe-und-Personal-belasten-Haushalt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77323.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-15T11:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wie-fahrradfreundlich-ist-Gie%C3%9Fen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77324.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Wie fahrradfreundlich ist Gießen?</title>
+    <updated>2026-09-15T11:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wie-fahrradfreundlich-ist-Gie%C3%9Fen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77324.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-15T11:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ohne-Termin-Service-bei-der-Kfz-Zulassungsstelle-in-Gie%C3%9Fen-f%C3%A4llt-am-17-September-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77325.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Ohne-Termin-Service bei der Kfz-Zulassungsstelle in Gießen fällt am 17. September aus</title>
+    <updated>2026-09-15T11:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ohne-Termin-Service-bei-der-Kfz-Zulassungsstelle-in-Gie%C3%9Fen-f%C3%A4llt-am-17-September-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77325.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-15T11:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-bietet-Schulung-zur-Trichinenprobenentnahme-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77326.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Veterinäramt bietet Schulung zur Trichinenprobenentnahme an</title>
+    <updated>2026-09-15T11:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-bietet-Schulung-zur-Trichinenprobenentnahme-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77326.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-15T11:00:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
