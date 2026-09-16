@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-15T22:42:28.098696+00:00</updated>
+  <updated>2026-09-16T13:05:15.838745+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -525,30 +525,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Netzwerktreffen-Planet-Youth-an-Wiesecker-Schule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77255.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Netzwerktreffen Planet Youth an Wiesecker Schule</title>
-    <updated>2026-08-28T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Netzwerktreffen-Planet-Youth-an-Wiesecker-Schule.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77255.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-28T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Saisonende-in-den-Stadtteilb%C3%A4dern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74094.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Saisonende in den Stadtteilbädern</title>
-    <updated>2026-08-28T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Saisonende-in-den-Stadtteilb%C3%A4dern.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74094.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-28T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Oktoberfest für Seniorinnen und Senioren in der Kongresshalle</title>
     <updated>2026-08-31T17:50:00+02:00</updated>
@@ -823,6 +799,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-bietet-Schulung-zur-Trichinenprobenentnahme-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77326.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-15T11:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sanierung-Regenwasserkanal-Kreuzungsbereich-Moltkestra%C3%9Fe-Eichg%C3%A4rtenallee-wird-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77328.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Sanierung Regenwasserkanal: Kreuzungsbereich Moltkestraße/Eichgärtenallee wird voll gesperrt</title>
+    <updated>2026-09-16T13:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sanierung-Regenwasserkanal-Kreuzungsbereich-Moltkestra%C3%9Fe-Eichg%C3%A4rtenallee-wird-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77328.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-16T13:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Unterst%C3%BCtzung-f%C3%BCr-Studierende-bei-der-Wohnungssuche.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77331.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Unterstützung für Studierende bei der Wohnungssuche</title>
+    <updated>2026-09-16T13:05:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Unterst%C3%BCtzung-f%C3%BCr-Studierende-bei-der-Wohnungssuche.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77331.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-16T13:05:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
