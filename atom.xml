@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-17T18:47:32.066283+00:00</updated>
+  <updated>2026-09-18T13:22:36.685930+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -514,18 +514,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Oktoberfest für Seniorinnen und Senioren in der Kongresshalle</title>
-    <updated>2026-08-31T17:50:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Oktoberfest-f%C3%BCr-Seniorinnen-und-Senioren.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74082.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-31T17:50:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kostenlose-Energieberatung-im-Stadtteil-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77259.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Kostenlose Energieberatung im Stadtteil Lützellinden</title>
     <updated>2026-08-31T17:50:00+02:00</updated>
@@ -766,18 +754,6 @@
     <published>2026-09-15T11:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ohne-Termin-Service-bei-der-Kfz-Zulassungsstelle-in-Gie%C3%9Fen-f%C3%A4llt-am-17-September-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77325.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Ohne-Termin-Service bei der Kfz-Zulassungsstelle in Gießen fällt am 17. September aus</title>
-    <updated>2026-09-15T11:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ohne-Termin-Service-bei-der-Kfz-Zulassungsstelle-in-Gie%C3%9Fen-f%C3%A4llt-am-17-September-aus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77325.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-15T11:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-bietet-Schulung-zur-Trichinenprobenentnahme-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77326.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Veterinäramt bietet Schulung zur Trichinenprobenentnahme an</title>
     <updated>2026-09-15T11:00:00+02:00</updated>
@@ -812,6 +788,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Unterst%C3%BCtzung-f%C3%BCr-Studierende-bei-der-Wohnungssuche.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77331.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-16T13:05:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erneuerung-der-Eisenbahnbr%C3%BCcke-in-dr-Lahnstra%C3%9Fe-Sperrung-schon-ab-05-10-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77349.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Erneuerung der Eisenbahnbrücke in der Lahnstraße: Sperrung schon ab 05.10.</title>
+    <updated>2026-09-18T13:22:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erneuerung-der-Eisenbahnbr%C3%BCcke-in-dr-Lahnstra%C3%9Fe-Sperrung-schon-ab-05-10-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77349.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-18T13:22:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtm%C3%B6bel-gehen-in-die-n%C3%A4chste-Runde-Gie%C3%9Fener-Gastronomiebetriebe-k%C3%B6nnen-Au%C3%9Fengastronomie-auf-Probe-testen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77355.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Stadtmöbel gehen in die nächste Runde: Gießener Gastronomiebetriebe können Außengastronomie auf Probe testen</title>
+    <updated>2026-09-18T13:22:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtm%C3%B6bel-gehen-in-die-n%C3%A4chste-Runde-Gie%C3%9Fener-Gastronomiebetriebe-k%C3%B6nnen-Au%C3%9Fengastronomie-auf-Probe-testen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77355.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-18T13:22:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
