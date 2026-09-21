@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-21T11:55:55.528586+00:00</updated>
+  <updated>2026-09-21T17:50:34.752524+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -245,6 +245,17 @@
     <link href="https://universum-giessen.com/2026/08/31/wie-fange-ich-endlich-mit-dem-schreiben-der-hausarbeit-an/"/>
     <category term="uni"/>
     <published>2026-08-31T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Bundesweiter-Hitzeaktionstag-am-11-Juni.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.76652.1&amp;NavID=2874.584</id>
+    <title>Bundesweiter Hitzeaktionstag am 11. Juni</title>
+    <updated>2026-06-11T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Hitze und Trockenheit</name>
+    </author>
+    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Bundesweiter-Hitzeaktionstag-am-11-Juni.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.76652.1&amp;NavID=2874.584"/>
+    <category term="stadt"/>
+    <published>2026-06-11T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzewelle-worauf-man-achten-sollte-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74054.1&amp;NavID=2874.584</id>
@@ -512,30 +523,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/"/>
     <category term="kultur"/>
     <published>2026-08-19T11:20:57+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Nette-Toilette-Jetzt-31-Standorte-in-der-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77266.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>"Nette Toilette" - Jetzt 31 Standorte in der Innenstadt</title>
-    <updated>2026-09-01T13:02:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Nette-Toilette-Jetzt-31-Standorte-in-der-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77266.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-01T13:02:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bahn%C3%BCbergang-Aulweg-kann-wieder-genutzt-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75484.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Bahnübergang Aulweg kann ab 03.09. wieder genutzt werden</title>
-    <updated>2026-09-02T10:34:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bahn%C3%BCbergang-Aulweg-kann-wieder-genutzt-werden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75484.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-02T10:34:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freie-Pl%C3%A4tze-bei-Stadtf%C3%BChrungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77273.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -812,6 +799,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Unterst%C3%BCtzung-f%C3%BCr-Familien-Die-Runde-Sache-w%C3%A4chst.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77358.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-21T11:55:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/KAPLA-ist-zur%C3%BCck-im-Mathematikum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77359.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>KAPLA ist zurück im Mathematikum</title>
+    <updated>2026-09-21T17:50:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/KAPLA-ist-zur%C3%BCck-im-Mathematikum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77359.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-21T17:50:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Werden-Sie-ehrenamtliche-Familienbegleiter-in-bei-Hallo-Welt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75297.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Werden Sie Familienbegleiter*in bei Hallo Welt</title>
+    <updated>2026-09-21T17:50:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Werden-Sie-ehrenamtliche-Familienbegleiter-in-bei-Hallo-Welt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75297.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-21T17:50:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
