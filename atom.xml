@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-18T13:22:36.685930+00:00</updated>
+  <updated>2026-09-21T11:55:55.528586+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -514,18 +514,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kostenlose-Energieberatung-im-Stadtteil-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77259.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Kostenlose Energieberatung im Stadtteil Lützellinden</title>
-    <updated>2026-08-31T17:50:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kostenlose-Energieberatung-im-Stadtteil-L%C3%BCtzellinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77259.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-08-31T17:50:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/-Nette-Toilette-Jetzt-31-Standorte-in-der-Innenstadt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77266.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>"Nette Toilette" - Jetzt 31 Standorte in der Innenstadt</title>
     <updated>2026-09-01T13:02:00+02:00</updated>
@@ -812,6 +800,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtm%C3%B6bel-gehen-in-die-n%C3%A4chste-Runde-Gie%C3%9Fener-Gastronomiebetriebe-k%C3%B6nnen-Au%C3%9Fengastronomie-auf-Probe-testen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77355.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-18T13:22:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Unterst%C3%BCtzung-f%C3%BCr-Familien-Die-Runde-Sache-w%C3%A4chst.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77358.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Mehr Unterstützung für Familien: Die »Runde Sache« wächst</title>
+    <updated>2026-09-21T11:55:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Unterst%C3%BCtzung-f%C3%BCr-Familien-Die-Runde-Sache-w%C3%A4chst.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77358.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-21T11:55:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
