@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-21T17:50:34.752524+00:00</updated>
+  <updated>2026-09-22T10:55:43.134710+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -525,30 +525,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freie-Pl%C3%A4tze-bei-Stadtf%C3%BChrungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77273.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Freie Plätze bei Stadtführungen</title>
-    <updated>2026-09-02T14:56:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freie-Pl%C3%A4tze-bei-Stadtf%C3%BChrungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77273.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-02T14:56:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Botanischer-Garten-wieder-ge%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77171.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Botanischer Garten wieder geöffnet</title>
-    <updated>2026-09-03T12:33:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Botanischer-Garten-wieder-ge%C3%B6ffnet.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77171.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-03T12:33:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Wasser-f%C3%BCr-die-alte-H%C3%A4ngebuche.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77278.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Mehr Wasser für die alte Hängebuche</title>
     <updated>2026-09-04T10:32:00+02:00</updated>
@@ -823,6 +799,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Werden-Sie-ehrenamtliche-Familienbegleiter-in-bei-Hallo-Welt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.75297.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-21T17:50:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schulmesse-gibt-guten-%C3%9Cberblick.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77361.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Schulmesse gibt guten Überblick</title>
+    <updated>2026-09-22T10:55:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schulmesse-gibt-guten-%C3%9Cberblick.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77361.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-22T10:55:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freie-Pl%C3%A4tze-bei-Gie%C3%9Fener-Stadtf%C3%BChrungen-im-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77362.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Freie Plätze bei Gießener Stadtführungen im Oktober</title>
+    <updated>2026-09-22T10:55:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Freie-Pl%C3%A4tze-bei-Gie%C3%9Fener-Stadtf%C3%BChrungen-im-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77362.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-22T10:55:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
