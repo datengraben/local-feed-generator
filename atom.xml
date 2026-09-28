@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-27T23:36:53.493569+00:00</updated>
+  <updated>2026-09-28T18:24:40.454553+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -470,30 +470,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Freibadsaison-in-der-Ringallee-geht-zu-Ende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77306.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Die Freibadsaison in der Ringallee geht zu Ende</title>
-    <updated>2026-09-09T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Freibadsaison-in-der-Ringallee-geht-zu-Ende.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77306.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-09T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Kongresshalle-feiert-60-Geburtstag-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77308.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Die Kongresshalle feiert 60. Geburtstag!</title>
-    <updated>2026-09-09T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Kongresshalle-feiert-60-Geburtstag-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77308.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-09T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wer-m%C3%B6chte-Pflegekinder-bei-sich-aufnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Wer möchte Pflegekinder bei sich aufnehmen?</title>
     <updated>2026-09-09T00:00:00+02:00</updated>
@@ -626,18 +602,6 @@
     <published>2026-09-16T13:05:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erneuerung-der-Eisenbahnbr%C3%BCcke-in-dr-Lahnstra%C3%9Fe-Sperrung-schon-ab-05-10-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77349.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Erneuerung der Eisenbahnbrücke in der Lahnstraße: Sperrung schon ab 05.10.</title>
-    <updated>2026-09-18T13:22:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Erneuerung-der-Eisenbahnbr%C3%BCcke-in-dr-Lahnstra%C3%9Fe-Sperrung-schon-ab-05-10-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77349.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-18T13:22:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtm%C3%B6bel-gehen-in-die-n%C3%A4chste-Runde-Gie%C3%9Fener-Gastronomiebetriebe-k%C3%B6nnen-Au%C3%9Fengastronomie-auf-Probe-testen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77355.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Stadtmöbel gehen in die nächste Runde: Gießener Gastronomiebetriebe können Außengastronomie auf Probe testen</title>
     <updated>2026-09-18T13:22:00+02:00</updated>
@@ -768,6 +732,42 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-3-Oktober-kein-Wochenmarkt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77302.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-25T05:45:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Safe-Abortion-Day-2026-Tag-f%C3%BCr-sichere-Abtreibung-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77378.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Safe Abortion Day 2026: "Tag für sichere Abtreibung"</title>
+    <updated>2026-09-28T18:24:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Safe-Abortion-Day-2026-Tag-f%C3%BCr-sichere-Abtreibung-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77378.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-28T18:24:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Richtfest-f%C3%BCr-Forschungsneubau-an-der-Justus-Liebig-Universit%C3%A4t-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77379.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Richtfest für Forschungsneubau an der Justus-Liebig-Universität Gießen</title>
+    <updated>2026-09-28T18:24:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Richtfest-f%C3%BCr-Forschungsneubau-an-der-Justus-Liebig-Universit%C3%A4t-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77379.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-28T18:24:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lahnstra%C3%9Fe-schon-ab-1-Oktober-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77349.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Lahnstraße schon ab 1. Oktober voll gesperrt</title>
+    <updated>2026-09-28T18:24:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Lahnstra%C3%9Fe-schon-ab-1-Oktober-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77349.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-28T18:24:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
