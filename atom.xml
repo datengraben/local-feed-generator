@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-29T17:34:48.082966+00:00</updated>
+  <updated>2026-09-29T21:49:21.903130+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -470,6 +470,18 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Kongresshalle-feiert-60-Geburtstag-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77308.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Die Kongresshalle feiert 60. Geburtstag!</title>
+    <updated>2026-09-09T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Die-Kongresshalle-feiert-60-Geburtstag-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77308.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-09T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Liebig-Museum-bietet-wieder-%C3%B6ffentliche-Veranstaltungen-Experimente-Kindervorlesungen-und-F%C3%BChrungen-am-Tag-des-offenen-Denkmals.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77313.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Liebig-Museum bietet wieder öffentliche Veranstaltungen: Experimente, Kindervorlesungen und Führungen am Tag des offenen Denkmals</title>
     <updated>2026-09-10T14:47:00+02:00</updated>
@@ -708,18 +720,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Am-3-Oktober-kein-Wochenmarkt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77302.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-25T05:45:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Safe-Abortion-Day-2026-Tag-f%C3%BCr-sichere-Abtreibung-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77378.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Safe Abortion Day 2026: "Tag für sichere Abtreibung"</title>
-    <updated>2026-09-28T18:24:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Safe-Abortion-Day-2026-Tag-f%C3%BCr-sichere-Abtreibung-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77378.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-28T18:24:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Richtfest-f%C3%BCr-Forschungsneubau-an-der-Justus-Liebig-Universit%C3%A4t-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77379.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
