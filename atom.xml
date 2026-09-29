@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-09-29T11:03:36.866181+00:00</updated>
+  <updated>2026-09-29T17:34:48.082966+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -470,18 +470,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wer-m%C3%B6chte-Pflegekinder-bei-sich-aufnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Wer möchte Pflegekinder bei sich aufnehmen?</title>
-    <updated>2026-09-09T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wer-m%C3%B6chte-Pflegekinder-bei-sich-aufnehmen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.64059.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-09T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Liebig-Museum-bietet-wieder-%C3%B6ffentliche-Veranstaltungen-Experimente-Kindervorlesungen-und-F%C3%BChrungen-am-Tag-des-offenen-Denkmals.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77313.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Liebig-Museum bietet wieder öffentliche Veranstaltungen: Experimente, Kindervorlesungen und Führungen am Tag des offenen Denkmals</title>
     <updated>2026-09-10T14:47:00+02:00</updated>
@@ -768,6 +756,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Aufenthaltserlaubnis-ab-1-Oktober-2026-online-beantragen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77381.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-09-29T11:03:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Besser-vorbereitet-in-die-Heizsaison-Durch-den-Stromspar-Check-Heizkosten-senken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77384.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Besser vorbereitet in die Heizsaison: Durch den Stromspar-Check Heizkosten senken</title>
+    <updated>2026-09-29T17:34:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Besser-vorbereitet-in-die-Heizsaison-Durch-den-Stromspar-Check-Heizkosten-senken.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77384.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-09-29T17:34:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
