@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-10-01T17:15:34.207499+00:00</updated>
+  <updated>2026-10-02T08:13:14.150151+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -459,30 +459,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-bewerben-Denkmalpreis-2027.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74208.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Jetzt bewerben: Denkmalpreis 2027</title>
-    <updated>2026-09-11T16:53:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Jetzt-bewerben-Denkmalpreis-2027.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74208.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-11T16:53:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Erinnerungstafeln-erz%C3%A4hlen-Gie%C3%9Fens-Sportgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77321.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Neue Erinnerungstafeln erzählen Gießens Sportgeschichte</title>
-    <updated>2026-09-14T17:37:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Erinnerungstafeln-erz%C3%A4hlen-Gie%C3%9Fens-Sportgeschichte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77321.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-14T17:37:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Haushaltssperre-und-Nachtragshaushalt-Steigende-Kosten-in-Jugendhilfe-und-Personal-belasten-Haushalt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77323.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Haushaltssperre und Nachtragshaushalt: Steigende Kosten in Jugendhilfe und Personal belasten Haushalt</title>
     <updated>2026-09-15T11:00:00+02:00</updated>
@@ -757,6 +733,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-wenn-man-einfach-in-die-Innenstadt-kommt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77397.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-10-01T17:15:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Basis-Qualifizierung-f%C3%BCr-ehrenamtliche-Integrationslots-innen-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77402.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Neue Basis-Qualifizierung für ehrenamtliche Integrationslots*innen in Gießen</title>
+    <updated>2026-10-02T08:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Basis-Qualifizierung-f%C3%BCr-ehrenamtliche-Integrationslots-innen-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77402.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-02T08:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76925.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Bürgermeister Wright lädt zur Bürgersprechstunde ein</title>
+    <updated>2026-10-02T08:12:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76925.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-02T08:12:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
