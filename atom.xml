@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-10-02T08:13:14.150151+00:00</updated>
+  <updated>2026-10-02T15:20:50.468420+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -459,30 +459,6 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Haushaltssperre-und-Nachtragshaushalt-Steigende-Kosten-in-Jugendhilfe-und-Personal-belasten-Haushalt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77323.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Haushaltssperre und Nachtragshaushalt: Steigende Kosten in Jugendhilfe und Personal belasten Haushalt</title>
-    <updated>2026-09-15T11:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Haushaltssperre-und-Nachtragshaushalt-Steigende-Kosten-in-Jugendhilfe-und-Personal-belasten-Haushalt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77323.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-15T11:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wie-fahrradfreundlich-ist-Gie%C3%9Fen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77324.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Wie fahrradfreundlich ist Gießen?</title>
-    <updated>2026-09-15T11:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Wie-fahrradfreundlich-ist-Gie%C3%9Fen-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77324.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-15T11:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-bietet-Schulung-zur-Trichinenprobenentnahme-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77326.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Veterinäramt bietet Schulung zur Trichinenprobenentnahme an</title>
     <updated>2026-09-15T11:00:00+02:00</updated>
@@ -757,6 +733,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/B%C3%BCrgermeister-Wright-l%C3%A4dt-zur-B%C3%BCrgersprechstunde-ein.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.76925.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-10-02T08:12:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folge-und-Erstanmeldungen-zur-Vergabe-der-Ehrenamts-Card-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74000.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Anmeldungen für die Ehrenamts-Card noch bis Ende Oktober</title>
+    <updated>2026-10-02T15:20:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Folge-und-Erstanmeldungen-zur-Vergabe-der-Ehrenamts-Card-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74000.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-02T15:20:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bahn%C3%BCbergang-Gr%C3%BCnberger-Stra%C3%9Fe-Vollsperrung-vom-6-bis-11-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77406.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Bahnübergang Grünberger Straße: Vollsperrung vom 6. bis 11. Oktober</title>
+    <updated>2026-10-02T15:20:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bahn%C3%BCbergang-Gr%C3%BCnberger-Stra%C3%9Fe-Vollsperrung-vom-6-bis-11-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77406.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-02T15:20:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
