@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-10-05T08:15:58.059408+00:00</updated>
+  <updated>2026-10-05T17:50:14.035467+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -339,18 +339,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/von-verwandlung-und-identitat/</id>
-    <title>Von Verwandlung und Identität - Die Crossover Produktion „The Addams Family“ ist ein Abend v...</title>
-    <updated>2026-08-14T11:43:12+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/von-verwandlung-und-identitat/"/>
-    <category term="kultur"/>
-    <published>2026-08-14T11:43:12+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-juni-2026/</id>
     <title>Dieser Herzschlag setzt nie aus: Theater trotz Hackerangriff - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
     <updated>2026-06-26T14:55:18+02:00</updated>
@@ -459,28 +447,16 @@
     <published>2026-08-19T11:20:57+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-bietet-Schulung-zur-Trichinenprobenentnahme-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77326.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Veterinäramt bietet Schulung zur Trichinenprobenentnahme an</title>
-    <updated>2026-09-15T11:00:00+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/auszeichnung-zum-stuck-des-jahres-gluckwunsch-an-caren-jess/</id>
+    <title>Heartship-Autorin Caren Jeß erhält Auszeichnung zum „Stück des Jahres“ - &lt;p&gt;Caren Jeß wurde für ihren Text &lt;em&gt;To My Little Boy &lt;/em&gt;...</title>
+    <updated>2026-10-05T17:49:53.564897+02:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Veterin%C3%A4ramt-bietet-Schulung-zur-Trichinenprobenentnahme-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77326.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-15T11:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sanierung-Regenwasserkanal-Kreuzungsbereich-Moltkestra%C3%9Fe-Eichg%C3%A4rtenallee-wird-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77328.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Sanierung Regenwasserkanal: Kreuzungsbereich Moltkestraße/Eichgärtenallee wird voll gesperrt</title>
-    <updated>2026-09-16T13:05:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sanierung-Regenwasserkanal-Kreuzungsbereich-Moltkestra%C3%9Fe-Eichg%C3%A4rtenallee-wird-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77328.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-16T13:05:00+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/auszeichnung-zum-stuck-des-jahres-gluckwunsch-an-caren-jess/"/>
+    <category term="kultur"/>
+    <published>2026-10-05T17:49:53.564897+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Unterst%C3%BCtzung-f%C3%BCr-Studierende-bei-der-Wohnungssuche.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77331.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -687,18 +663,6 @@
     <published>2026-10-01T10:52:00+02:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-wenn-man-einfach-in-die-Innenstadt-kommt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77397.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Gießen ist, ... wenn man einfach in die Innenstadt kommt</title>
-    <updated>2026-10-01T17:15:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-wenn-man-einfach-in-die-Innenstadt-kommt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77397.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-01T17:15:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Basis-Qualifizierung-f%C3%BCr-ehrenamtliche-Integrationslots-innen-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77402.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Neue Basis-Qualifizierung für ehrenamtliche Integrationslots*innen in Gießen</title>
     <updated>2026-10-02T08:12:00+02:00</updated>
@@ -757,6 +721,42 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtelternbeirat-zieht-Bilanz-zur-Schulmesse-2026.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77407.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-10-05T08:15:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Kinderstadtrallye-startet-p%C3%BCnktlich-zu-den-Herbstferien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77409.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Neue Kinderstadtrallye startet pünktlich zu den Herbstferien</title>
+    <updated>2026-10-05T17:49:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-Kinderstadtrallye-startet-p%C3%BCnktlich-zu-den-Herbstferien.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77409.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-05T17:49:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gutenbergstra%C3%9Fe-wird-ab-M%C3%A4rz-2027-grundlegend-erneuert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77411.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Gutenbergstraße wird ab März 2027 grundlegend erneuert</title>
+    <updated>2026-10-05T17:49:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gutenbergstra%C3%9Fe-wird-ab-M%C3%A4rz-2027-grundlegend-erneuert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77411.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-05T17:49:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-wenn-man-einfach-in-die-Innenstadt-kommt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77397.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Gießen ist, ... wenn man einfach in die Innenstadt kommt</title>
+    <updated>2026-10-01T17:15:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gie%C3%9Fen-ist-wenn-man-einfach-in-die-Innenstadt-kommt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77397.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-01T17:15:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
