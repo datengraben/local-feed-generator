@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-10-07T17:13:14.351413+00:00</updated>
+  <updated>2026-10-07T22:39:18.785027+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -339,18 +339,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-juni-2026/</id>
-    <title>Dieser Herzschlag setzt nie aus: Theater trotz Hackerangriff - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
-    <updated>2026-06-26T14:55:18+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-juni-2026/"/>
-    <category term="kultur"/>
-    <published>2026-06-26T14:55:18+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/vorverkauf-eroffnet/</id>
     <title>Spielzeit 2026/2027 - &lt;p&gt;Die Vorfreude auf die neue Spielzeit darf gerne schon beg...</title>
     <updated>2026-06-02T09:28:26+02:00</updated>
@@ -449,14 +437,26 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theatertag-am-6-november/</id>
     <title>Theatertag am 6. November - &lt;p&gt;Der nächste Theatertag ist &lt;a href="/de/veranstaltungen/s...</title>
-    <updated>2026-10-07T17:12:57.361213+02:00</updated>
+    <updated>2026-10-07T17:12:57+02:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theatertag-am-6-november/"/>
     <category term="kultur"/>
-    <published>2026-10-07T17:12:57.361213+02:00</published>
+    <published>2026-10-07T17:12:57+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-tanzpreis-2027-fur-rafaele-giovanola/</id>
+    <title>Deutscher Tanzpreis 2027 für Rafaële Giovanola - &lt;p&gt;"In Anerkennung von 25 Jahren außergewöhnlicher künstleri...</title>
+    <updated>2026-10-07T22:38:59.930894+02:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-tanzpreis-2027-fur-rafaele-giovanola/"/>
+    <category term="kultur"/>
+    <published>2026-10-07T22:38:59.930894+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Unterst%C3%BCtzung-f%C3%BCr-Studierende-bei-der-Wohnungssuche.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77331.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
