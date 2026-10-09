@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-10-08T22:50:55.754965+00:00</updated>
+  <updated>2026-10-09T16:56:14.856928+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -125,126 +125,6 @@
     <link href="https://www.asta-giessen.de/zweites-planungstreffen-fuer-eine-gerechte-und-ausfinanzierte-hochschule-nocutsgiessen/"/>
     <category term="uni"/>
     <published>2026-01-17T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/</id>
-    <title>„Trains“ – Ein Statement ohne Worte auf der DOK Leipzig</title>
-    <updated>2026-02-28T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/"/>
-    <category term="uni"/>
-    <published>2026-02-28T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/</id>
-    <title>DOK Leipzig: Wenn wir nicht lachen würden</title>
-    <updated>2026-04-15T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/"/>
-    <category term="uni"/>
-    <published>2026-04-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/06/29/bustickets-am-kuchenstand/</id>
-    <title>Bustickets am Kuchenstand</title>
-    <updated>2026-06-29T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/06/29/bustickets-am-kuchenstand/"/>
-    <category term="uni"/>
-    <published>2026-06-29T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/07/02/meinung-bafoeg-reform-nur-ein-erster-schritt-in-die-richtige-richtung/</id>
-    <title>– MEINUNG – BAföG-Reform: Nur ein erster Schritt in die richtige Richtung</title>
-    <updated>2026-07-02T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/07/02/meinung-bafoeg-reform-nur-ein-erster-schritt-in-die-richtige-richtung/"/>
-    <category term="uni"/>
-    <published>2026-07-02T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/07/10/lernorte-in-giessen-die-fuenf-besten-cafes-zum-lernen/</id>
-    <title>Lernorte in Gießen: Die fünf besten Cafés zum Lernen</title>
-    <updated>2026-07-10T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/07/10/lernorte-in-giessen-die-fuenf-besten-cafes-zum-lernen/"/>
-    <category term="uni"/>
-    <published>2026-07-10T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/07/12/unisex-toiletten-an-der-jlu-ein-menschenrecht-und-demokratisches-grundrecht/</id>
-    <title>Unisex-Toiletten an der JLU: „Ein Menschenrecht und demokratisches Grundrecht“</title>
-    <updated>2026-07-12T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/07/12/unisex-toiletten-an-der-jlu-ein-menschenrecht-und-demokratisches-grundrecht/"/>
-    <category term="uni"/>
-    <published>2026-07-12T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/07/26/die-nightline-giessen-hilfe-von-studierenden-fuer-studierende/</id>
-    <title>Die Nightline Gießen: Hilfe von Studierenden für Studierende</title>
-    <updated>2026-07-26T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/07/26/die-nightline-giessen-hilfe-von-studierenden-fuer-studierende/"/>
-    <category term="uni"/>
-    <published>2026-07-26T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/08/31/wie-fange-ich-endlich-mit-dem-schreiben-der-hausarbeit-an/</id>
-    <title>Wie fange ich endlich mit dem Schreiben der Hausarbeit an?</title>
-    <updated>2026-08-31T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/08/31/wie-fange-ich-endlich-mit-dem-schreiben-der-hausarbeit-an/"/>
-    <category term="uni"/>
-    <published>2026-08-31T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/09/22/honorable-chair-distinguished-delegates/</id>
-    <title>Honorable Chair, distinguished Delegates…</title>
-    <updated>2026-09-22T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/09/22/honorable-chair-distinguished-delegates/"/>
-    <category term="uni"/>
-    <published>2026-09-22T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://universum-giessen.com/2026/10/08/studentisches-wohnen-wie-die-wohnungsnot-in-giessen-bekaempft-werden-soll/</id>
-    <title>Studentisches Wohnen: Wie die Wohnungsnot in Gießen bekämpft werden soll </title>
-    <updated>2026-10-08T22:50:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/10/08/studentisches-wohnen-wie-die-wohnungsnot-in-giessen-bekaempft-werden-soll/"/>
-    <category term="uni"/>
-    <published>2026-10-08T22:50:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzewelle-worauf-man-achten-sollte-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74054.1&amp;NavID=2874.584</id>
@@ -457,18 +337,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-tanzpreis-2027-fur-rafaele-giovanola/"/>
     <category term="kultur"/>
     <published>2026-10-07T22:38:59+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtm%C3%B6bel-gehen-in-die-n%C3%A4chste-Runde-Gie%C3%9Fener-Gastronomiebetriebe-k%C3%B6nnen-Au%C3%9Fengastronomie-auf-Probe-testen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77355.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Stadtmöbel gehen in die nächste Runde: Gießener Gastronomiebetriebe können Außengastronomie auf Probe testen</title>
-    <updated>2026-09-18T13:22:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadtm%C3%B6bel-gehen-in-die-n%C3%A4chste-Runde-Gie%C3%9Fener-Gastronomiebetriebe-k%C3%B6nnen-Au%C3%9Fengastronomie-auf-Probe-testen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77355.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-09-18T13:22:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Unterst%C3%BCtzung-f%C3%BCr-Familien-Die-Runde-Sache-w%C3%A4chst.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77358.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -759,17 +627,16 @@
     <published>2026-10-08T09:56:00+02:00</published>
   </entry>
   <entry>
-    <id>https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/</id>
-    <title>Es geht weiter mit Supp‘ un‘ Schwätze bis 2025</title>
-    <updated>2024-05-08T20:03:32+02:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Dienste-rund-um-die-Kfz-Zulassung-und-den-F%C3%BChrerschein-nutzen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77436.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Online-Dienste rund um die Kfz-Zulassung und den Führerschein nutzen</title>
+    <updated>2026-10-09T16:55:00+02:00</updated>
     <author>
-      <name>Werkstatt-Kirche</name>
-      <email>info@werkstattkirche.de</email>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
     </author>
-    <link href="https://werkstattkirche.de/es-geht-weiter-mit-supp-un-schwaetze-bis-2025/"/>
-    <category term="nachhaltigkeit"/>
-    <category term="gemeinschaft"/>
-    <published>2024-05-08T20:03:32+02:00</published>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Dienste-rund-um-die-Kfz-Zulassung-und-den-F%C3%BChrerschein-nutzen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77436.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-09T16:55:00+02:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
@@ -915,16 +782,29 @@
     <published>2026-06-17T22:37:05+02:00</published>
   </entry>
   <entry>
-    <id>https://werkstattkirche.de/supp-un-schwaetze-am-sonntag-21-juni-26-und-ganz-kleiner-musikalischer-sommer-der-werkstattkirche/</id>
-    <title>„Supp‘ un‘ Schwätze“ am Sonntag 21. Juni 26 und „ganz kleiner musikalischer Sommer der Werkstattkirche“</title>
-    <updated>2026-06-17T22:37:05+02:00</updated>
+    <id>https://werkstattkirche.de/letztes-mal-supp-und-schwaetze-2026-bei-der-werkstattkirche-mit-den-barber-angels/</id>
+    <title>Letztes Mal Supp‘ und Schwätze 2026 bei der Werkstattkirche mit den Barber Angels</title>
+    <updated>2026-10-04T18:33:08+02:00</updated>
     <author>
       <name>Werkstatt-Kirche</name>
       <email>info@werkstattkirche.de</email>
     </author>
-    <link href="https://werkstattkirche.de/supp-un-schwaetze-am-sonntag-21-juni-26-und-ganz-kleiner-musikalischer-sommer-der-werkstattkirche/"/>
+    <link href="https://werkstattkirche.de/letztes-mal-supp-und-schwaetze-2026-bei-der-werkstattkirche-mit-den-barber-angels/"/>
     <category term="nachhaltigkeit"/>
     <category term="gemeinschaft"/>
-    <published>2026-06-17T22:37:05+02:00</published>
+    <published>2026-10-04T18:33:08+02:00</published>
+  </entry>
+  <entry>
+    <id>https://werkstattkirche.de/letztes-mal-supp-und-schwaetze-2026-bei-der-werkstattkirche-mit-den-barber-angels/</id>
+    <title>Letztes Mal Supp‘ und Schwätze 2026 bei der Werkstattkirche mit den Barber Angels</title>
+    <updated>2026-10-04T18:33:08+02:00</updated>
+    <author>
+      <name>Werkstatt-Kirche</name>
+      <email>info@werkstattkirche.de</email>
+    </author>
+    <link href="https://werkstattkirche.de/letztes-mal-supp-und-schwaetze-2026-bei-der-werkstattkirche-mit-den-barber-angels/"/>
+    <category term="nachhaltigkeit"/>
+    <category term="gemeinschaft"/>
+    <published>2026-10-04T18:33:08+02:00</published>
   </entry>
 </feed>
