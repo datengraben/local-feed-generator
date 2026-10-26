@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-10-22T05:44:19.623093+00:00</updated>
+  <updated>2026-10-26T09:39:20.908682+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -328,20 +328,8 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/tanz-kann-mehr/</id>
-    <title>Tanz kann mehr! - &lt;p&gt;Das Gastspiel &lt;em&gt;&lt;a href="/de/veranstaltungen/stuecke/ta...</title>
-    <updated>2026-09-01T13:02:30+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/tanz-kann-mehr/"/>
-    <category term="kultur"/>
-    <published>2026-09-01T13:02:30+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/im-schneegestober-vom-herrlichen-sommertag-sprechen/</id>
-    <title>Im Schneegestöber vom herrlichen Sommertag sprechen - &lt;p&gt;Jurek Beckers &lt;em&gt;&lt;a href="https://stadttheater-giessen.d...</title>
+    <title>Im Schneegestöber vom herrlichen Sommertag sprechen - &lt;p&gt;Jurek Beckers „&lt;a href="https://stadttheater-giessen.de/d...</title>
     <updated>2026-09-07T13:57:09+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -389,7 +377,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/auszeichnung-zum-stuck-des-jahres-gluckwunsch-an-caren-jess/</id>
-    <title>Caren Jeß erhält Auszeichnung zum „Stück des Jahres“ - &lt;p&gt;Caren Jeß wurde für ihren Text &lt;em&gt;To My Little Boy &lt;/em&gt;...</title>
+    <title>Caren Jeß erhält Auszeichnung zum „Stück des Jahres“ - &lt;p&gt;Caren Jeß wurde für ihren Text „To My Little Boy&lt;em&gt;" &lt;/e...</title>
     <updated>2026-10-05T17:49:53+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -401,7 +389,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theatertag-am-6-november/</id>
-    <title>Theatertag am 6. November - &lt;p&gt;Der nächste Theatertag ist &lt;a href="/de/veranstaltungen/s...</title>
+    <title>Theatertag am 6. November - &lt;p&gt;Der nächste Theatertag ist „&lt;a href="https://stadttheater...</title>
     <updated>2026-10-07T17:12:57+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -425,7 +413,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/beitrag-talk3000/</id>
-    <title>Die AfD aufzuhalten, ist unsere erste Aufgabe - &lt;p&gt;Gedanken aus der Produktion &lt;a href="/de/veranstaltungen/...</title>
+    <title>Die AfD aufzuhalten, ist unsere erste Aufgabe - &lt;p&gt;Gedanken aus der Produktion „&lt;a href="/de/veranstaltungen...</title>
     <updated>2026-10-13T13:30:22+02:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -446,6 +434,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/interview-mit-rafaele-giovanola-rainald-endrass/"/>
     <category term="kultur"/>
     <published>2026-10-13T13:30:22+02:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/interview-mit-ferdinand-keller/</id>
+    <title>Zwischen Liebe, Freiheit und Abgründen - &lt;p&gt;Dramaturgin &lt;a href="/de/personen/julia-van-der-horst/"&gt;J...</title>
+    <updated>2026-10-26T09:39:06.367771+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/interview-mit-ferdinand-keller/"/>
+    <category term="kultur"/>
+    <published>2026-10-26T09:39:06.367771+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
@@ -501,7 +501,7 @@
   </entry>
   <entry>
     <id>https://werkstattkirche.de/letztes-mal-supp-und-schwaetze-fuer-2024-im-hof-der-werkstattkirche/</id>
-    <title>Letztes Mal Supp‘ und Schwätze für 2024 im Hof der Werkstattkirche</title>
+    <title>Letztes Mal Supp’ un’ Schwätze für 2024 im Hof der Werkstattkirche</title>
     <updated>2024-10-04T15:27:05+02:00</updated>
     <author>
       <name>Werkstatt-Kirche</name>
@@ -527,7 +527,7 @@
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-geht-in-die-naechste-runde/</id>
-    <title>Supp‘ un‘ Schwätze geht in die nächste Runde</title>
+    <title>Supp’ un’ Schwätze geht in die nächste Runde</title>
     <updated>2025-04-28T12:21:24+02:00</updated>
     <author>
       <name>Werkstatt-Kirche</name>
@@ -540,7 +540,7 @@
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-in-der-zeitung/</id>
-    <title>Supp‘ un‘ Schwätze in der Zeitung</title>
+    <title>Supp’ un’ Schwätze in der Zeitung</title>
     <updated>2025-04-29T12:31:09+02:00</updated>
     <author>
       <name>Werkstatt-Kirche</name>
@@ -553,7 +553,7 @@
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-sommer-herbst-2026/</id>
-    <title>Supp‘ un‘ Schwätze Sommer-Herbst 2026</title>
+    <title>Supp’ und Schwätze Sommer-Herbst 2026</title>
     <updated>2026-04-02T11:00:00+02:00</updated>
     <author>
       <name>Werkstatt-Kirche</name>
@@ -579,7 +579,7 @@
   </entry>
   <entry>
     <id>https://werkstattkirche.de/supp-un-schwaetze-am-sonntag-21-juni-26-und-ganz-kleiner-musikalischer-sommer-der-werkstattkirche/</id>
-    <title>„Supp‘ un‘ Schwätze“ am Sonntag 21. Juni 26 und „ganz kleiner musikalischer Sommer der Werkstattkirche“</title>
+    <title>„Supp’ und Schwätze“ am Sonntag 21. Juni 26 und „ganz kleiner musikalischer Sommer der Werkstattkirche“</title>
     <updated>2026-06-17T22:37:05+02:00</updated>
     <author>
       <name>Werkstatt-Kirche</name>
@@ -592,7 +592,7 @@
   </entry>
   <entry>
     <id>https://werkstattkirche.de/letztes-mal-supp-und-schwaetze-2026-bei-der-werkstattkirche-mit-den-barber-angels/</id>
-    <title>Letztes Mal Supp‘ und Schwätze 2026 bei der Werkstattkirche mit den Barber Angels</title>
+    <title>Letztes Mal Supp’ und Schwätze 2026 bei der Werkstattkirche mit den Barber Angels</title>
     <updated>2026-10-04T18:33:08+02:00</updated>
     <author>
       <name>Werkstatt-Kirche</name>
@@ -605,7 +605,7 @@
   </entry>
   <entry>
     <id>https://werkstattkirche.de/letztes-mal-supp-und-schwaetze-2026-bei-der-werkstattkirche-mit-den-barber-angels/</id>
-    <title>Letztes Mal Supp‘ und Schwätze 2026 bei der Werkstattkirche mit den Barber Angels</title>
+    <title>Letztes Mal Supp’ und Schwätze 2026 bei der Werkstattkirche mit den Barber Angels</title>
     <updated>2026-10-04T18:33:08+02:00</updated>
     <author>
       <name>Werkstatt-Kirche</name>
