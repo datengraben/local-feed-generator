@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-10-28T16:57:55.306059+00:00</updated>
+  <updated>2026-10-29T01:30:30.201027+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -267,17 +267,6 @@
     <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Lebenswichtige-Abk%C3%BChlung-f%C3%BCr-die-Fische-im-Schwanenteich.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.77161.1&amp;NavID=2874.584"/>
     <category term="stadt"/>
     <published>2026-08-13T10:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Vorerst-Entspannung-der-Waldbrandgefahr-Vorsicht-aber-weiter-geboten.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.77190.1&amp;NavID=2874.584</id>
-    <title>Vorerst Entspannung der Waldbrandgefahr - Vorsicht aber weiter geboten</title>
-    <updated>2026-08-19T10:23:00+02:00</updated>
-    <author>
-      <name>Stadt - Hitze und Trockenheit</name>
-    </author>
-    <link href="http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Vorerst-Entspannung-der-Waldbrandgefahr-Vorsicht-aber-weiter-geboten.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.77190.1&amp;NavID=2874.584"/>
-    <category term="stadt"/>
-    <published>2026-08-19T10:23:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Baumf%C3%A4llungen-im-Stadtgebiet-Sicherheit-und-Baumerhalt-im-Mittelpunkt.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.77497.1&amp;NavID=2874.584</id>
