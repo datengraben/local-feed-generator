@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-10-29T01:30:30.201027+00:00</updated>
+  <updated>2026-10-29T07:58:43.691991+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -460,18 +460,6 @@
     <published>2026-10-26T09:39:06+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bahn%C3%BCbergang-Gr%C3%BCnberger-Stra%C3%9Fe-Vollsperrung-vom-6-bis-11-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77406.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Update: Bahnübergang Grünberger Straße wird nicht gesperrt</title>
-    <updated>2026-10-06T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bahn%C3%BCbergang-Gr%C3%BCnberger-Stra%C3%9Fe-Vollsperrung-vom-6-bis-11-Oktober.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77406.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-06T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Dienste-rund-um-die-Kfz-Zulassung-und-den-F%C3%BChrerschein-nutzen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77436.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Online-Dienste rund um die Kfz-Zulassung und den Führerschein nutzen</title>
     <updated>2026-10-09T00:00:00+02:00</updated>
@@ -758,6 +746,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rettungswege-m%C3%BCssen-frei-bleiben-Stadtpolizei-verst%C3%A4rkt-Kontrollen-im-Flussstra%C3%9Fenviertel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77506.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-10-28T16:57:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Demokratie-made-in-Gie%C3%9Fen-Konferenz-an-der-JLU-zum-200-Geburtsjahr-Wilhelm-Liebknechts.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77511.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Demokratie made in Gießen: Konferenz an der JLU zum 200. Geburtsjahr Wilhelm Liebknechts</title>
+    <updated>2026-10-29T07:58:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Demokratie-made-in-Gie%C3%9Fen-Konferenz-an-der-JLU-zum-200-Geburtsjahr-Wilhelm-Liebknechts.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77511.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-29T07:58:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
