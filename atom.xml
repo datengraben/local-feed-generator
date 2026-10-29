@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-10-29T07:58:43.691991+00:00</updated>
+  <updated>2026-10-29T15:04:47.794005+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -127,18 +127,6 @@
     <published>2026-01-17T00:00:00+01:00</published>
   </entry>
   <entry>
-    <id>https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/</id>
-    <title>„Trains“ – Ein Statement ohne Worte auf der DOK Leipzig</title>
-    <updated>2026-02-28T00:00:00+01:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/02/28/trains-ein-statement-ohne-worte-auf-der-dok-leipzig/"/>
-    <category term="uni"/>
-    <published>2026-02-28T00:00:00+01:00</published>
-  </entry>
-  <entry>
     <id>https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/</id>
     <title>DOK Leipzig: Wenn wir nicht lachen würden</title>
     <updated>2026-04-15T00:00:00+02:00</updated>
@@ -245,6 +233,18 @@
     <link href="https://universum-giessen.com/2026/10/08/studentisches-wohnen-wie-die-wohnungsnot-in-giessen-bekaempft-werden-soll/"/>
     <category term="uni"/>
     <published>2026-10-08T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/10/29/studierende-fordern-neuverhandlung-des-hochschulpaktes/</id>
+    <title>Studierende fordern Neuverhandlung des Hochschulpaktes</title>
+    <updated>2026-10-29T15:04:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/10/29/studierende-fordern-neuverhandlung-des-hochschulpaktes/"/>
+    <category term="uni"/>
+    <published>2026-10-29T15:04:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzewelle-worauf-man-achten-sollte-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74054.1&amp;NavID=2874.584</id>
@@ -458,42 +458,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/interview-mit-ferdinand-keller/"/>
     <category term="kultur"/>
     <published>2026-10-26T09:39:06+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Dienste-rund-um-die-Kfz-Zulassung-und-den-F%C3%BChrerschein-nutzen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77436.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Online-Dienste rund um die Kfz-Zulassung und den Führerschein nutzen</title>
-    <updated>2026-10-09T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Dienste-rund-um-die-Kfz-Zulassung-und-den-F%C3%BChrerschein-nutzen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77436.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-09T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Unternehmersprechtag-bietet-Expertenrat-f%C3%BCr-Betriebe-und-Existenzgr%C3%BCndungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77438.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Unternehmersprechtag bietet Expertenrat für Betriebe und Existenzgründungen</title>
-    <updated>2026-10-12T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Unternehmersprechtag-bietet-Expertenrat-f%C3%BCr-Betriebe-und-Existenzgr%C3%BCndungen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77438.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-12T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nach-einem-erfolgreichen-Auftakt-am-30-09-findet-jeden-Mittwoch-von-15-bis-17-Uhr-im-REWE-Markt-Alexander-Marchel-im-Seltersweg-die-Stille-Stunde-statt-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77454.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>"Stille Stunde" im REWE-Markt Seltersweg </title>
-    <updated>2026-10-13T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nach-einem-erfolgreichen-Auftakt-am-30-09-findet-jeden-Mittwoch-von-15-bis-17-Uhr-im-REWE-Markt-Alexander-Marchel-im-Seltersweg-die-Stille-Stunde-statt-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77454.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-13T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Platz-und-Sicherheit-Stadt-Gie%C3%9Fen-entfernt-herrenlose-und-kaputte-Fahrr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -758,6 +722,42 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Demokratie-made-in-Gie%C3%9Fen-Konferenz-an-der-JLU-zum-200-Geburtsjahr-Wilhelm-Liebknechts.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77511.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-10-29T07:58:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gedenken-an-die-Novemberpogrome-Gemeinsames-Programmheft-f%C3%BCr-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77512.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Gedenken an die Novemberpogrome: Gemeinsames Programmheft für Gießen</title>
+    <updated>2026-10-29T15:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gedenken-an-die-Novemberpogrome-Gemeinsames-Programmheft-f%C3%BCr-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77512.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-29T15:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Sicherheit-durch-Sichtbarkeit-Gilt-nicht-nur-f%C3%BCr-Radfahren-im-Winter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74667.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Mehr Sicherheit durch Sichtbarkeit - nicht nur im Winter</title>
+    <updated>2026-10-29T15:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Sicherheit-durch-Sichtbarkeit-Gilt-nicht-nur-f%C3%BCr-Radfahren-im-Winter.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.74667.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-29T15:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rathaus-am-Samstag-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77513.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Geänderte Öffnungszeiten im Rathaus am Wochenende</title>
+    <updated>2026-10-29T15:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rathaus-am-Samstag-geschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77513.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-29T15:04:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
