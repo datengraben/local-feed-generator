@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-10-29T20:50:31.200713+00:00</updated>
+  <updated>2026-10-30T00:34:10.151273+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -472,6 +472,18 @@
     <published>2026-10-26T09:39:06+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nach-einem-erfolgreichen-Auftakt-am-30-09-findet-jeden-Mittwoch-von-15-bis-17-Uhr-im-REWE-Markt-Alexander-Marchel-im-Seltersweg-die-Stille-Stunde-statt-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77454.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>"Stille Stunde" im REWE-Markt Seltersweg </title>
+    <updated>2026-10-13T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nach-einem-erfolgreichen-Auftakt-am-30-09-findet-jeden-Mittwoch-von-15-bis-17-Uhr-im-REWE-Markt-Alexander-Marchel-im-Seltersweg-die-Stille-Stunde-statt-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77454.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-13T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Platz-und-Sicherheit-Stadt-Gie%C3%9Fen-entfernt-herrenlose-und-kaputte-Fahrr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Mehr Platz und Sicherheit: Stadt Gießen entfernt herrenlose und kaputte Fahrräder</title>
     <updated>2026-10-13T00:00:00+02:00</updated>
@@ -650,18 +662,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nur-eine-%C3%9Cbung-aber-eine-wichtige.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77483.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-10-23T16:57:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-offenen-Seniorentreffs-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77496.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Tag der offenen Seniorentreffs in Gießen</title>
-    <updated>2026-10-27T16:57:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Tag-der-offenen-Seniorentreffs-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77496.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-27T16:57:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Baumf%C3%A4llungen-im-Stadtgebiet-Sicherheit-und-Baumerhalt-im-Mittelpunkt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77497.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
