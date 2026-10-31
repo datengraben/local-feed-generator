@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-10-31T01:58:53.020116+00:00</updated>
+  <updated>2026-10-31T19:12:35.225125+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -496,16 +496,28 @@
     <published>2026-10-26T09:39:06+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortrag-Sicheres-Einkaufen-im-Internet-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77459.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Vortrag »Sicheres Einkaufen im Internet«</title>
-    <updated>2026-10-15T00:00:00+02:00</updated>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Platz-und-Sicherheit-Stadt-Gie%C3%9Fen-entfernt-herrenlose-und-kaputte-Fahrr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Mehr Platz und Sicherheit: Stadt Gießen entfernt herrenlose und kaputte Fahrräder</title>
+    <updated>2026-10-13T00:00:00+02:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
       <email>info@giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortrag-Sicheres-Einkaufen-im-Internet-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77459.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Mehr-Platz-und-Sicherheit-Stadt-Gie%C3%9Fen-entfernt-herrenlose-und-kaputte-Fahrr%C3%A4der.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.16610.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
-    <published>2026-10-15T00:00:00+02:00</published>
+    <published>2026-10-13T00:00:00+02:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Gedenk- und Veranstaltungsreihe zum 9. November – Erinnern, Mahnen, Wachsam sein</title>
+    <updated>2026-10-14T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-14T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubau-Hauptsammler-erfolgreich-abgeschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77461.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -530,18 +542,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verdacht-auf-Kampfmittelreste-in-der-Frankfurter-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77437.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-10-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundesweiter-Tag-der-Bibliotheken-Stadtbibliothek-Gie%C3%9Fen-feiert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77467.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Bundesweiter Tag der Bibliotheken - Stadtbibliothek Gießen feiert</title>
-    <updated>2026-10-16T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Bundesweiter-Tag-der-Bibliotheken-Stadtbibliothek-Gie%C3%9Fen-feiert.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77467.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-16T00:00:00+02:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Impulse-f%C3%BCr-die-Herausforderungen-unserer-Zeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77469.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
