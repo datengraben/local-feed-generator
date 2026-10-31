@@ -2,46 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-10-30T18:58:14.808864+00:00</updated>
+  <updated>2026-10-31T01:58:53.020116+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.asta-giessen.de/9105-2/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2024-06-15T00:00:00+02:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/9105-2/"/>
-    <category term="uni"/>
-    <published>2024-06-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/9131-2/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2024-06-30T00:00:00+02:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/9131-2/"/>
-    <category term="uni"/>
-    <published>2024-06-30T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/9370-2/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2024-09-25T00:00:00+02:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/9370-2/"/>
-    <category term="uni"/>
-    <published>2024-09-25T00:00:00+02:00</published>
-  </entry>
   <entry>
     <id>https://www.asta-giessen.de/mensa-takeover-2/</id>
     <title>Neuer Beitrag</title>
@@ -125,6 +89,42 @@
     <link href="https://www.asta-giessen.de/zweites-planungstreffen-fuer-eine-gerechte-und-ausfinanzierte-hochschule-nocutsgiessen/"/>
     <category term="uni"/>
     <published>2026-01-17T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/rueckmeldung-und-semesterbeitrag-sommersemester-2026/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2026-01-30T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/rueckmeldung-und-semesterbeitrag-sommersemester-2026/"/>
+    <category term="uni"/>
+    <published>2026-01-30T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/pressemitteilung-studierende-und-beschaeftigte-protestieren-in-giessen-gegen-kuerzungen-an-hochschulen/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2026-01-30T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/pressemitteilung-studierende-und-beschaeftigte-protestieren-in-giessen-gegen-kuerzungen-an-hochschulen/"/>
+    <category term="uni"/>
+    <published>2026-01-30T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/vollversammlung-aller-studentischen-hilfskraefte-biologischer-hoersaal-10-02-2026-1730-uhr/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2026-02-08T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/vollversammlung-aller-studentischen-hilfskraefte-biologischer-hoersaal-10-02-2026-1730-uhr/"/>
+    <category term="uni"/>
+    <published>2026-02-08T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/</id>
