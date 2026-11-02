@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-01T21:39:45.513264+00:00</updated>
+  <updated>2026-11-02T19:07:58.845980+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.asta-giessen.de/mensa-takeover-2/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2024-12-12T00:00:00+01:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/mensa-takeover-2/"/>
-    <category term="uni"/>
-    <published>2024-12-12T00:00:00+01:00</published>
-  </entry>
   <entry>
     <id>https://www.asta-giessen.de/mensa-takeover/</id>
     <title>Neuer Beitrag</title>
@@ -125,6 +113,18 @@
     <link href="https://www.asta-giessen.de/vollversammlung-aller-studentischen-hilfskraefte-biologischer-hoersaal-10-02-2026-1730-uhr/"/>
     <category term="uni"/>
     <published>2026-02-08T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/pressemitteilung-studierendenvertretungen-in-hessen-fordern-tarifvertrag-fuer-studentische-hilfskraefte/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2026-03-19T00:00:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/pressemitteilung-studierendenvertretungen-in-hessen-fordern-tarifvertrag-fuer-studentische-hilfskraefte/"/>
+    <category term="uni"/>
+    <published>2026-03-19T00:00:00+01:00</published>
   </entry>
   <entry>
     <id>https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/</id>
@@ -496,42 +496,6 @@
     <published>2026-10-26T09:39:06+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Gedenk- und Veranstaltungsreihe zum 9. November – Erinnern, Mahnen, Wachsam sein</title>
-    <updated>2026-10-14T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Pogromnacht-Vielf%C3%A4ltiges-Programm-rund-um-den-9-November-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.68316.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-14T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubau-Hauptsammler-erfolgreich-abgeschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77461.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Neubau Hauptsammler erfolgreich abgeschlossen</title>
-    <updated>2026-10-15T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neubau-Hauptsammler-erfolgreich-abgeschlossen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77461.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verdacht-auf-Kampfmittelreste-in-der-Frankfurter-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77437.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Entwarnung: Kampfmittelsondierung in der Frankfurter Straße beendet</title>
-    <updated>2026-10-15T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Verdacht-auf-Kampfmittelreste-in-der-Frankfurter-Stra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77437.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-15T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Impulse-f%C3%BCr-die-Herausforderungen-unserer-Zeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77469.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Impulse für die Herausforderungen unserer Zeit</title>
     <updated>2026-10-20T00:00:00+02:00</updated>
@@ -749,7 +713,7 @@
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ludwigstra%C3%9Fe-ab-4-November-abschnittsweise-voll-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77525.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Ludwigstraße ab 4. November abschnittsweise voll gesperrt</title>
+    <title>Ludwigstraße ab 5. November abschnittsweise voll gesperrt</title>
     <updated>2026-10-30T13:48:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
@@ -794,6 +758,42 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Frank-Tilo-Becher-bleibt-Vorsitzender-des-Gie%C3%9Fener-Forensikbeirats.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77530.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-11-01T11:39:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eines-der-sch%C3%B6nsten-Gottesh%C3%A4user-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77543.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Eines der schönsten Gotteshäuser in Gießen</title>
+    <updated>2026-11-02T19:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eines-der-sch%C3%B6nsten-Gottesh%C3%A4user-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77543.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-02T19:07:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinien-3-13-und-Saturn-fahren-Umleitung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77544.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Buslinien 3, 13 und Saturn fahren Umleitung</title>
+    <updated>2026-11-02T19:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Buslinien-3-13-und-Saturn-fahren-Umleitung.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77544.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-02T19:07:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/PIN-vergessen-oder-Brief-verlegt-Online-Ausweis-l%C3%A4sst-sich-wieder-per-Post-freischalten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77546.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>PIN vergessen oder Brief verlegt? Online-Ausweis lässt sich wieder per Post freischalten</title>
+    <updated>2026-11-02T19:07:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/PIN-vergessen-oder-Brief-verlegt-Online-Ausweis-l%C3%A4sst-sich-wieder-per-Post-freischalten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77546.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-02T19:07:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
