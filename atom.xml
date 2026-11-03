@@ -2,22 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-02T19:07:58.845980+00:00</updated>
+  <updated>2026-11-03T01:58:52.679181+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.asta-giessen.de/mensa-takeover/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2025-01-26T00:00:00+01:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/mensa-takeover/"/>
-    <category term="uni"/>
-    <published>2025-01-26T00:00:00+01:00</published>
-  </entry>
   <entry>
     <id>https://www.asta-giessen.de/9867-2/</id>
     <title>Neuer Beitrag</title>
@@ -125,6 +113,18 @@
     <link href="https://www.asta-giessen.de/pressemitteilung-studierendenvertretungen-in-hessen-fordern-tarifvertrag-fuer-studentische-hilfskraefte/"/>
     <category term="uni"/>
     <published>2026-03-19T00:00:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://www.asta-giessen.de/offener-brief-kommunikation/</id>
+    <title>Neuer Beitrag</title>
+    <updated>2026-10-31T01:58:00+01:00</updated>
+    <author>
+      <name>Asta - Uni Gießen</name>
+      <email>info@asta-giessen.de</email>
+    </author>
+    <link href="https://www.asta-giessen.de/offener-brief-kommunikation/"/>
+    <category term="uni"/>
+    <published>2026-10-31T01:58:00+01:00</published>
   </entry>
   <entry>
     <id>https://universum-giessen.com/2026/04/15/dok-leipzig-wenn-wir-nicht-lachen-wuerden/</id>
