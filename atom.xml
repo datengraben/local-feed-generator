@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-04T10:25:05.168268+00:00</updated>
+  <updated>2026-11-04T18:25:29.563210+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -376,18 +376,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/im-schneegestober-vom-herrlichen-sommertag-sprechen/</id>
-    <title>Im Schneegestöber vom herrlichen Sommertag sprechen - &lt;p&gt;Jurek Beckers „&lt;a href="https://stadttheater-giessen.de/d...</title>
-    <updated>2026-09-07T13:57:09+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/im-schneegestober-vom-herrlichen-sommertag-sprechen/"/>
-    <category term="kultur"/>
-    <published>2026-09-07T13:57:09+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/familienzeit-die-drin-ist/</id>
     <title>Familienzeit, die drin ist. - &lt;p&gt;Im Theater begegnen sich Menschen unterschiedlicher Gener...</title>
     <updated>2026-09-04T14:45:38+02:00</updated>
@@ -494,6 +482,18 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/interview-mit-ferdinand-keller/"/>
     <category term="kultur"/>
     <published>2026-10-26T09:39:06+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/mussen-alle-marchen-immer-gleich-sein/</id>
+    <title>Müssen alle Märchen immer gleich sein? – 7 Fragen an „Margaret: Heldin für alle Fälle“-Autorin Simone Sterr - &lt;p&gt;Seit Ende September 2026 ist Intendantin Simone Sterr im ...</title>
+    <updated>2026-11-04T18:25:17.406607+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/mussen-alle-marchen-immer-gleich-sein/"/>
+    <category term="kultur"/>
+    <published>2026-11-04T18:25:17.406607+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Naturpfad-f%C3%BCr-kleine-und-gro%C3%9Fe-Entdeckerinnen-und-Entdecker-Er%C3%B6ffnung-mit-Mitmach-Aktionen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77472.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
