@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-03T01:58:52.679181+00:00</updated>
+  <updated>2026-11-04T10:25:05.168268+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -496,18 +496,6 @@
     <published>2026-10-26T09:39:06+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Impulse-f%C3%BCr-die-Herausforderungen-unserer-Zeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77469.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Impulse für die Herausforderungen unserer Zeit</title>
-    <updated>2026-10-20T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Impulse-f%C3%BCr-die-Herausforderungen-unserer-Zeit.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77469.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-20T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Naturpfad-f%C3%BCr-kleine-und-gro%C3%9Fe-Entdeckerinnen-und-Entdecker-Er%C3%B6ffnung-mit-Mitmach-Aktionen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77472.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Ein Naturpfad für kleine und große Entdeckerinnen und Entdecker: Eröffnung mit Mitmach-Aktionen</title>
     <updated>2026-10-22T16:57:00+02:00</updated>
@@ -794,6 +782,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/PIN-vergessen-oder-Brief-verlegt-Online-Ausweis-l%C3%A4sst-sich-wieder-per-Post-freischalten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77546.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-11-02T19:07:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Endspurt-beim-ADFC-Fahrradklima-Test-2026-in-Gie%C3%9Fen-Noch-bis-zum-30-November-abstimmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77550.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Endspurt beim ADFC-Fahrradklima-Test 2026 in Gießen Noch bis zum 30. November abstimmen</title>
+    <updated>2026-11-04T10:24:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Endspurt-beim-ADFC-Fahrradklima-Test-2026-in-Gie%C3%9Fen-Noch-bis-zum-30-November-abstimmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77550.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-04T10:24:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
