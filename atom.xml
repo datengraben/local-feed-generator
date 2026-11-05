@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-04T18:25:29.563210+00:00</updated>
+  <updated>2026-11-05T16:04:16.277977+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -376,18 +376,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/familienzeit-die-drin-ist/</id>
-    <title>Familienzeit, die drin ist. - &lt;p&gt;Im Theater begegnen sich Menschen unterschiedlicher Gener...</title>
-    <updated>2026-09-04T14:45:38+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/familienzeit-die-drin-ist/"/>
-    <category term="kultur"/>
-    <published>2026-09-04T14:45:38+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/pop-gegen-das-patriarchat-lyhre-dekonstruiert-macht/</id>
     <title>Pop gegen das Patriarchat: Lyhre zwischen Alt-Pop, Theater und Widerstand - &lt;p&gt;Zwischen Alt-Pop, Theater und posthumanistischem Feminism...</title>
     <updated>2026-09-14T11:43:08+02:00</updated>
@@ -484,40 +472,28 @@
     <published>2026-10-26T09:39:06+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/wenn-du-mich-geliebt-hast-warum-hast-du-mich-verlassen/</id>
+    <title>Wenn du mich geliebt hast, warum hast du mich verlassen? - &lt;p&gt;Trauer ist weder linear, noch gibt es einen universellen ...</title>
+    <updated>2026-11-05T16:04:01.981987+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wenn-du-mich-geliebt-hast-warum-hast-du-mich-verlassen/"/>
+    <category term="kultur"/>
+    <published>2026-11-05T16:04:01.981987+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/mussen-alle-marchen-immer-gleich-sein/</id>
     <title>Müssen alle Märchen immer gleich sein? – 7 Fragen an „Margaret: Heldin für alle Fälle“-Autorin Simone Sterr - &lt;p&gt;Seit Ende September 2026 ist Intendantin Simone Sterr im ...</title>
-    <updated>2026-11-04T18:25:17.406607+01:00</updated>
+    <updated>2026-11-04T18:25:17+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/mussen-alle-marchen-immer-gleich-sein/"/>
     <category term="kultur"/>
-    <published>2026-11-04T18:25:17.406607+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Naturpfad-f%C3%BCr-kleine-und-gro%C3%9Fe-Entdeckerinnen-und-Entdecker-Er%C3%B6ffnung-mit-Mitmach-Aktionen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77472.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Ein Naturpfad für kleine und große Entdeckerinnen und Entdecker: Eröffnung mit Mitmach-Aktionen</title>
-    <updated>2026-10-22T16:57:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ein-Naturpfad-f%C3%BCr-kleine-und-gro%C3%9Fe-Entdeckerinnen-und-Entdecker-Er%C3%B6ffnung-mit-Mitmach-Aktionen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77472.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-22T16:57:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationaler-Tag-gegen-Gewalt-an-Frauen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77473.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Internationaler Tag gegen Gewalt an Frauen</title>
-    <updated>2026-10-22T16:57:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationaler-Tag-gegen-Gewalt-an-Frauen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77473.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-22T16:57:00+02:00</published>
+    <published>2026-11-04T18:25:17+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kaputte-Fahrr%C3%A4der-vor-dem-Schrottplatz-bewahren-Neue-Zusammenarbeit-mit-der-Radschmiede-e-V-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77476.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -794,6 +770,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Endspurt-beim-ADFC-Fahrradklima-Test-2026-in-Gie%C3%9Fen-Noch-bis-zum-30-November-abstimmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77550.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-11-04T10:24:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-der-Gefl%C3%BCgelpest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77557.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Schutz vor der Geflügelpest</title>
+    <updated>2026-11-05T16:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-der-Gefl%C3%BCgelpest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77557.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-05T16:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrerscheinumtausch-Rechtzeitig-an-die-Frist-denken-und-am-besten-schon-jetzt-beantragen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77558.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Führerscheinumtausch: Rechtzeitig an die Frist denken und am besten schon jetzt beantragen</title>
+    <updated>2026-11-05T16:04:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrerscheinumtausch-Rechtzeitig-an-die-Frist-denken-und-am-besten-schon-jetzt-beantragen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77558.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-05T16:04:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
