@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-06T11:46:42.121486+00:00</updated>
+  <updated>2026-11-06T18:51:22.396392+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -376,18 +376,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/</id>
-    <title>"Alles wieder gut?" Spielzeitstart nach Hackerangriff ist steil, schnell und aufregend - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
-    <updated>2026-08-19T11:20:57+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/"/>
-    <category term="kultur"/>
-    <published>2026-08-19T11:20:57+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/auszeichnung-zum-stuck-des-jahres-gluckwunsch-an-caren-jess/</id>
     <title>Caren Jeß erhält Auszeichnung zum „Stück des Jahres“ - &lt;p&gt;Caren Jeß wurde für ihren Text „To My Little Boy&lt;em&gt;" &lt;/e...</title>
     <updated>2026-10-05T17:49:53+02:00</updated>
@@ -472,6 +460,18 @@
     <published>2026-11-05T16:04:01+01:00</published>
   </entry>
   <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/rapp-punzels/</id>
+    <title>Die Rapp-Punzels - &lt;p&gt;Das Märchen, das nicht langweilig ist. Die Songs aus "&lt;a ...</title>
+    <updated>2026-11-06T18:51:07.070299+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/rapp-punzels/"/>
+    <category term="kultur"/>
+    <published>2026-11-06T18:51:07.070299+01:00</published>
+  </entry>
+  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/mussen-alle-marchen-immer-gleich-sein/</id>
     <title>Müssen alle Märchen immer gleich sein? – 7 Fragen an „Margaret: Heldin für alle Fälle“-Autorin Simone Sterr - &lt;p&gt;Seit Ende September 2026 ist Intendantin Simone Sterr im ...</title>
     <updated>2026-11-04T18:25:17+01:00</updated>
@@ -486,14 +486,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/open-call/</id>
     <title>Open Call - &lt;p&gt;Das Stadttheater Gießen lädt zur Bewerbung für seine komm...</title>
-    <updated>2026-11-06T11:46:28.445304+01:00</updated>
+    <updated>2026-11-06T11:46:28+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/open-call/"/>
     <category term="kultur"/>
-    <published>2026-11-06T11:46:28.445304+01:00</published>
+    <published>2026-11-06T11:46:28+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Land-f%C3%B6rdert-neues-Ger%C3%A4tehaus-f%C3%BCr-Freiwillige-Feuerwehr-Gie%C3%9Fen-Mitte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77477.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
