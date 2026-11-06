@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-05T16:04:16.277977+00:00</updated>
+  <updated>2026-11-06T11:46:42.121486+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -376,18 +376,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/pop-gegen-das-patriarchat-lyhre-dekonstruiert-macht/</id>
-    <title>Pop gegen das Patriarchat: Lyhre zwischen Alt-Pop, Theater und Widerstand - &lt;p&gt;Zwischen Alt-Pop, Theater und posthumanistischem Feminism...</title>
-    <updated>2026-09-14T11:43:08+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/pop-gegen-das-patriarchat-lyhre-dekonstruiert-macht/"/>
-    <category term="kultur"/>
-    <published>2026-09-14T11:43:08+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/liebes-publikum-august-2026/</id>
     <title>"Alles wieder gut?" Spielzeitstart nach Hackerangriff ist steil, schnell und aufregend - &lt;p&gt;In losen Abständen wendet sich Intendantin Simone Sterr a...</title>
     <updated>2026-08-19T11:20:57+02:00</updated>
@@ -473,15 +461,15 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/wenn-du-mich-geliebt-hast-warum-hast-du-mich-verlassen/</id>
-    <title>Wenn du mich geliebt hast, warum hast du mich verlassen? - &lt;p&gt;Trauer ist weder linear, noch gibt es einen universellen ...</title>
-    <updated>2026-11-05T16:04:01.981987+01:00</updated>
+    <title>Wenn du mich geliebt hast, warum hast du mich verlassen? - &lt;p&gt;Gedanken aus der Produktion "&lt;a href="/de/veranstaltungen...</title>
+    <updated>2026-11-05T16:04:01+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/wenn-du-mich-geliebt-hast-warum-hast-du-mich-verlassen/"/>
     <category term="kultur"/>
-    <published>2026-11-05T16:04:01.981987+01:00</published>
+    <published>2026-11-05T16:04:01+01:00</published>
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/mussen-alle-marchen-immer-gleich-sein/</id>
@@ -496,16 +484,16 @@
     <published>2026-11-04T18:25:17+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kaputte-Fahrr%C3%A4der-vor-dem-Schrottplatz-bewahren-Neue-Zusammenarbeit-mit-der-Radschmiede-e-V-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77476.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Kaputte Fahrräder vor dem Schrottplatz bewahren: Neue Zusammenarbeit mit der Radschmiede e. V.</title>
-    <updated>2026-10-22T16:57:00+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/open-call/</id>
+    <title>Open Call - &lt;p&gt;Das Stadttheater Gießen lädt zur Bewerbung für seine komm...</title>
+    <updated>2026-11-06T11:46:28.445304+01:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kaputte-Fahrr%C3%A4der-vor-dem-Schrottplatz-bewahren-Neue-Zusammenarbeit-mit-der-Radschmiede-e-V-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77476.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-22T16:57:00+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/open-call/"/>
+    <category term="kultur"/>
+    <published>2026-11-06T11:46:28.445304+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Land-f%C3%B6rdert-neues-Ger%C3%A4tehaus-f%C3%BCr-Freiwillige-Feuerwehr-Gie%C3%9Fen-Mitte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77477.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -794,6 +782,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrerscheinumtausch-Rechtzeitig-an-die-Frist-denken-und-am-besten-schon-jetzt-beantragen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77558.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-11-05T16:04:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-%C3%96ffnungszeiten-am-Abfallwirtschaftszentrum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77565.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Geänderte Öffnungszeiten am Abfallwirtschaftszentrum: Abgabestelle schließt am 11. November bereits um 14 Uhr</title>
+    <updated>2026-11-06T11:46:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-%C3%96ffnungszeiten-am-Abfallwirtschaftszentrum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77565.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-06T11:46:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
