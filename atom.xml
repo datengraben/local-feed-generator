@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-08T20:08:48.522614+00:00</updated>
+  <updated>2026-11-09T18:15:49.365126+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -496,18 +496,6 @@
     <published>2026-11-06T11:46:28+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationaler-Tag-gegen-Gewalt-an-Frauen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77473.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Internationaler Tag gegen Gewalt an Frauen</title>
-    <updated>2026-10-22T00:00:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationaler-Tag-gegen-Gewalt-an-Frauen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77473.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-22T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kaputte-Fahrr%C3%A4der-vor-dem-Schrottplatz-bewahren-Neue-Zusammenarbeit-mit-der-Radschmiede-e-V-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77476.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Kaputte Fahrräder vor dem Schrottplatz bewahren: Neue Zusammenarbeit mit der Radschmiede e. V.</title>
     <updated>2026-10-22T00:00:00+02:00</updated>
@@ -794,6 +782,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-%C3%96ffnungszeiten-am-Abfallwirtschaftszentrum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77565.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-11-06T11:46:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-der-Ederstra%C3%9Fe-wegen-Kanalarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77572.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Vollsperrung der Ederstraße wegen Kanalarbeiten</title>
+    <updated>2026-11-09T18:15:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-der-Ederstra%C3%9Fe-wegen-Kanalarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77572.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-09T18:15:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
