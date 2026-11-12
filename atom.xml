@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-11T18:20:30.100512+00:00</updated>
+  <updated>2026-11-12T01:16:59.335825+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -496,6 +496,18 @@
     <published>2026-11-06T11:46:28+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kaputte-Fahrr%C3%A4der-vor-dem-Schrottplatz-bewahren-Neue-Zusammenarbeit-mit-der-Radschmiede-e-V-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77476.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Kaputte Fahrräder vor dem Schrottplatz bewahren: Neue Zusammenarbeit mit der Radschmiede e. V.</title>
+    <updated>2026-10-22T00:00:00+02:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kaputte-Fahrr%C3%A4der-vor-dem-Schrottplatz-bewahren-Neue-Zusammenarbeit-mit-der-Radschmiede-e-V-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77476.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-10-22T00:00:00+02:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Land-f%C3%B6rdert-neues-Ger%C3%A4tehaus-f%C3%BCr-Freiwillige-Feuerwehr-Gie%C3%9Fen-Mitte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77477.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Land fördert neues Gerätehaus für Freiwillige Feuerwehr Gießen-Mitte</title>
     <updated>2026-10-22T16:57:00+02:00</updated>
@@ -758,18 +770,6 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrerscheinumtausch-Rechtzeitig-an-die-Frist-denken-und-am-besten-schon-jetzt-beantragen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77558.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-11-05T16:04:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-%C3%96ffnungszeiten-am-Abfallwirtschaftszentrum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77565.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Geänderte Öffnungszeiten am Abfallwirtschaftszentrum: Abgabestelle schließt am 11. November bereits um 14 Uhr</title>
-    <updated>2026-11-06T11:46:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ge%C3%A4nderte-%C3%96ffnungszeiten-am-Abfallwirtschaftszentrum.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77565.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-11-06T11:46:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-der-Ederstra%C3%9Fe-wegen-Kanalarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77572.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
