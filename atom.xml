@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-12T17:54:11.017455+00:00</updated>
+  <updated>2026-11-13T12:52:40.287330+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -127,18 +127,6 @@
     <published>2026-10-31T01:58:00+01:00</published>
   </entry>
   <entry>
-    <id>https://universum-giessen.com/2026/06/29/bustickets-am-kuchenstand/</id>
-    <title>Bustickets am Kuchenstand</title>
-    <updated>2026-06-29T00:00:00+02:00</updated>
-    <author>
-      <name>Universum - Onlinemagazin der JLU</name>
-      <email>universum.giessen@gmail.com</email>
-    </author>
-    <link href="https://universum-giessen.com/2026/06/29/bustickets-am-kuchenstand/"/>
-    <category term="uni"/>
-    <published>2026-06-29T00:00:00+02:00</published>
-  </entry>
-  <entry>
     <id>https://universum-giessen.com/2026/07/02/meinung-bafoeg-reform-nur-ein-erster-schritt-in-die-richtige-richtung/</id>
     <title>– MEINUNG – BAföG-Reform: Nur ein erster Schritt in die richtige Richtung</title>
     <updated>2026-07-02T00:00:00+02:00</updated>
@@ -245,6 +233,18 @@
     <link href="https://universum-giessen.com/2026/11/12/gen-z-demo-in-frankfurt-am-main-friedlicher-protest-ueberschattet-von-ausschreitungen/"/>
     <category term="uni"/>
     <published>2026-11-12T17:53:00+01:00</published>
+  </entry>
+  <entry>
+    <id>https://universum-giessen.com/2026/11/13/meinung-was-manche-nicht-sehen-und-hoeren-wollen/</id>
+    <title>– MEINUNG – Was manche nicht sehen und hören wollen</title>
+    <updated>2026-11-13T12:52:00+01:00</updated>
+    <author>
+      <name>Universum - Onlinemagazin der JLU</name>
+      <email>universum.giessen@gmail.com</email>
+    </author>
+    <link href="https://universum-giessen.com/2026/11/13/meinung-was-manche-nicht-sehen-und-hoeren-wollen/"/>
+    <category term="uni"/>
+    <published>2026-11-13T12:52:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Leben/Umwelt-und-Klima/Klimaanpassung/Hitze-und-Trockenheit/Hitzewelle-worauf-man-achten-sollte-.php?object=tx,2874.5&amp;ModID=7&amp;FID=2874.74054.1&amp;NavID=2874.584</id>
@@ -376,18 +376,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/auszeichnung-zum-stuck-des-jahres-gluckwunsch-an-caren-jess/</id>
-    <title>Caren Jeß erhält Auszeichnung zum „Stück des Jahres“ - &lt;p&gt;Caren Jeß wurde für ihren Text „To My Little Boy&lt;em&gt;" &lt;/e...</title>
-    <updated>2026-10-05T17:49:53+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/auszeichnung-zum-stuck-des-jahres-gluckwunsch-an-caren-jess/"/>
-    <category term="kultur"/>
-    <published>2026-10-05T17:49:53+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theatertag-am-6-november/</id>
     <title>Theatertag am 6. November - &lt;p&gt;Der nächste Theatertag ist „&lt;a href="https://stadttheater...</title>
     <updated>2026-10-07T17:12:57+02:00</updated>
@@ -496,16 +484,16 @@
     <published>2026-11-06T11:46:28+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Land-f%C3%B6rdert-neues-Ger%C3%A4tehaus-f%C3%BCr-Freiwillige-Feuerwehr-Gie%C3%9Fen-Mitte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77477.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Land fördert neues Gerätehaus für Freiwillige Feuerwehr Gießen-Mitte</title>
-    <updated>2026-10-22T16:57:00+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theatertag/</id>
+    <title>Theatertag am 20. Dezember - &lt;p&gt;Der nächste Theatertag ist das &lt;a href="/de/veranstaltung...</title>
+    <updated>2026-11-13T12:52:28.974570+01:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Land-f%C3%B6rdert-neues-Ger%C3%A4tehaus-f%C3%BCr-Freiwillige-Feuerwehr-Gie%C3%9Fen-Mitte.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77477.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-22T16:57:00+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theatertag/"/>
+    <category term="kultur"/>
+    <published>2026-11-13T12:52:28.974570+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Audiowalk-Von-Gie%C3%9Fen-nach-Theresienstadt-Die-letzte-Deportation-Gie%C3%9Fener-J%C3%BCdinnen-und-Juden-im-Februar-1945-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77478.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -760,18 +748,6 @@
     <published>2026-11-05T16:04:00+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-der-Ederstra%C3%9Fe-wegen-Kanalarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77572.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Vollsperrung der Ederstraße wegen Kanalarbeiten</title>
-    <updated>2026-11-09T18:15:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-der-Ederstra%C3%9Fe-wegen-Kanalarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77572.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-11-09T18:15:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-bietet-Wero-als-neue-Bezahlm%C3%B6glichkeit-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77576.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Stadt Gießen bietet Wero als neue Bezahlmöglichkeit an</title>
     <updated>2026-11-11T18:20:00+01:00</updated>
@@ -784,8 +760,32 @@
     <published>2026-11-11T18:20:00+01:00</published>
   </entry>
   <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kulturfonds-Gie%C3%9Fen-Wetzlar-Antr%C3%A4ge-f%C3%BCr-das-F%C3%B6rderjahr-2027-ab-sofort-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77579.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Kulturfonds Gießen-Wetzlar: Anträge für das Förderjahr 2027 ab sofort möglich</title>
+    <updated>2026-11-13T12:52:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kulturfonds-Gie%C3%9Fen-Wetzlar-Antr%C3%A4ge-f%C3%BCr-das-F%C3%B6rderjahr-2027-ab-sofort-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77579.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-13T12:52:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-der-Ederstra%C3%9Fe-wegen-Kanalarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77572.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Vollsperrung der Ederstraße wegen Kanalarbeiten</title>
+    <updated>2026-11-09T18:15:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vollsperrung-der-Ederstra%C3%9Fe-wegen-Kanalarbeiten.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77572.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-09T18:15:00+01:00</published>
+  </entry>
+  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Polizei-Mittelhessen-Unbekanntes-Pulver-in-Brief-an-Synagoge-freigesetzt-Polizei-und-Feuerwehr-im-Einsatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77577.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Polizei Mittelhessen: Unbekanntes Pulver in Brief an Synagoge freigesetzt - Polizei und Feuerwehr im Einsatz</title>
+    <title>Update vom 13. November 2026: Ermittlungen nach Drohschreiben an Gießener Synagoge</title>
     <updated>2026-11-12T17:53:00+01:00</updated>
     <author>
       <name>Stadt - Aktuelle Meldungen</name>
