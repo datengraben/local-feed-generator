@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-13T12:52:40.287330+00:00</updated>
+  <updated>2026-11-16T17:53:34.557988+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -486,38 +486,14 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/theatertag/</id>
     <title>Theatertag am 20. Dezember - &lt;p&gt;Der nächste Theatertag ist das &lt;a href="/de/veranstaltung...</title>
-    <updated>2026-11-13T12:52:28.974570+01:00</updated>
+    <updated>2026-11-13T12:52:28+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theatertag/"/>
     <category term="kultur"/>
-    <published>2026-11-13T12:52:28.974570+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Audiowalk-Von-Gie%C3%9Fen-nach-Theresienstadt-Die-letzte-Deportation-Gie%C3%9Fener-J%C3%BCdinnen-und-Juden-im-Februar-1945-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77478.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Audiowalk »Von Gießen nach Theresienstadt: Die letzte Deportation Gießener Jüdinnen und Juden im Februar 1945«</title>
-    <updated>2026-10-22T16:57:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Audiowalk-Von-Gie%C3%9Fen-nach-Theresienstadt-Die-letzte-Deportation-Gie%C3%9Fener-J%C3%BCdinnen-und-Juden-im-Februar-1945-.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77478.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-22T16:57:00+02:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Studierendenwerk-Gie%C3%9Fen-feiert-Teilinbetriebnahme-des-Wohnheims-Westside.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77479.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Studierendenwerk Gießen feiert Teilinbetriebnahme des Wohnheims Westside</title>
-    <updated>2026-10-22T16:57:00+02:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Studierendenwerk-Gie%C3%9Fen-feiert-Teilinbetriebnahme-des-Wohnheims-Westside.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77479.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-22T16:57:00+02:00</published>
+    <published>2026-11-13T12:52:28+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Feierstunde-f%C3%BCr-st%C3%A4dtische-Bedienstete.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77484.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -794,6 +770,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Polizei-Mittelhessen-Unbekanntes-Pulver-in-Brief-an-Synagoge-freigesetzt-Polizei-und-Feuerwehr-im-Einsatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77577.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-11-12T17:53:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zukunftssicher-und-komfortabel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77582.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Zukunftssicher und komfortabel</title>
+    <updated>2026-11-16T17:53:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zukunftssicher-und-komfortabel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77582.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-16T17:53:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Premieren-im-Dezember-2026-und-Januar-2027-am-Stadttheater-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77583.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Premieren im Dezember 2026 und Januar 2027 am Stadttheater Gießen</title>
+    <updated>2026-11-16T17:53:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Premieren-im-Dezember-2026-und-Januar-2027-am-Stadttheater-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77583.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-16T17:53:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
