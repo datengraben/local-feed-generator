@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-16T17:53:34.557988+00:00</updated>
+  <updated>2026-11-17T19:35:03.884181+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -376,18 +376,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/theatertag-am-6-november/</id>
-    <title>Theatertag am 6. November - &lt;p&gt;Der nächste Theatertag ist „&lt;a href="https://stadttheater...</title>
-    <updated>2026-10-07T17:12:57+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/theatertag-am-6-november/"/>
-    <category term="kultur"/>
-    <published>2026-10-07T17:12:57+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/deutscher-tanzpreis-2027-fur-rafaele-giovanola/</id>
     <title>Deutscher Tanzpreis 2027 für Rafaële Giovanola - &lt;p&gt;"In Anerkennung von 25 Jahren außergewöhnlicher künstleri...</title>
     <updated>2026-10-07T22:38:59+02:00</updated>
@@ -496,16 +484,16 @@
     <published>2026-11-13T12:52:28+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Feierstunde-f%C3%BCr-st%C3%A4dtische-Bedienstete.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77484.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Feierstunde für städtische Bedienstete</title>
-    <updated>2026-10-23T16:57:00+02:00</updated>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/unsere-diesjahrigen-weihnachtsangebote/</id>
+    <title>Unsere diesjährigen Weihnachtsangebote - &lt;p&gt;&lt;strong&gt;Jetzt ans Schenken denken&lt;/strong&gt;: Weihnachtssoc...</title>
+    <updated>2026-11-17T19:34:51.462493+01:00</updated>
     <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
     </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Feierstunde-f%C3%BCr-st%C3%A4dtische-Bedienstete.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77484.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-23T16:57:00+02:00</published>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/unsere-diesjahrigen-weihnachtsangebote/"/>
+    <category term="kultur"/>
+    <published>2026-11-17T19:34:51.462493+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Nur-eine-%C3%9Cbung-aber-eine-wichtige.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77483.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -794,6 +782,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Premieren-im-Dezember-2026-und-Januar-2027-am-Stadttheater-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77583.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-11-16T17:53:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Energiepreise-steigen-moderat.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77602.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Energiepreise steigen moderat</title>
+    <updated>2026-11-17T19:34:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Energiepreise-steigen-moderat.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77602.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-17T19:34:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
