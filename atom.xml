@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-19T01:42:17.113612+00:00</updated>
+  <updated>2026-11-19T18:50:17.643325+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -485,7 +485,7 @@
   </entry>
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/</id>
-    <title>Weil es in alle Herzen passt - &lt;p&gt;Am Freitag, 20. November feiert &lt;a href="/de/veranstaltun...</title>
+    <title>Weil es in alle Herzen passt - &lt;p&gt;Am Freitag, den 20. November, feiert „&lt;a href="/de/verans...</title>
     <updated>2026-11-18T11:03:29+01:00</updated>
     <author>
       <name>Stadttheater</name>
@@ -494,30 +494,6 @@
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/weil-es-in-alle-herzen-passt/"/>
     <category term="kultur"/>
     <published>2026-11-18T11:03:29+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Demokratie-ist-ein-dynamischer-Prozess.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77500.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Demokratie ist ein dynamischer Prozess: Wertvolle Impulse und Ideen bei der Ars Democratica</title>
-    <updated>2026-10-27T16:57:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Demokratie-ist-ein-dynamischer-Prozess.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77500.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-27T16:57:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-Zeitplan-und-neue-Anforderung-an-Haushalt-2027.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77499.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Neuer Zeitplan und neue Anforderung an Haushalt 2027</title>
-    <updated>2026-10-27T16:57:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neuer-Zeitplan-und-neue-Anforderung-an-Haushalt-2027.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77499.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-27T16:57:00+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rettungswege-m%C3%BCssen-frei-bleiben-Stadtpolizei-verst%C3%A4rkt-Kontrollen-im-Flussstra%C3%9Fenviertel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77506.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
@@ -794,6 +770,30 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sporthalle-Wieseck-gesperrt.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77608.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-11-18T19:56:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SolarLotsen-Gie%C3%9Fen-Erweiterung-des-kostenfreien-Beratungsangebots.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77609.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>SolarLotsen Gießen: Erweiterung des kostenfreien Beratungsangebots</title>
+    <updated>2026-11-19T18:49:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/SolarLotsen-Gie%C3%9Fen-Erweiterung-des-kostenfreien-Beratungsangebots.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77609.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-19T18:49:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbruch-der-Amerikanischen-Faulbrut-bei-Bienenv%C3%B6lkern-in-der-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77610.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Ausbruch der Amerikanischen Faulbrut bei Bienenvölkern in der Stadt Gießen</title>
+    <updated>2026-11-19T18:49:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbruch-der-Amerikanischen-Faulbrut-bei-Bienenv%C3%B6lkern-in-der-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77610.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-19T18:49:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
