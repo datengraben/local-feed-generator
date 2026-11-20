@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-19T18:50:17.643325+00:00</updated>
+  <updated>2026-11-20T08:21:54.167241+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -496,18 +496,6 @@
     <published>2026-11-18T11:03:29+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rettungswege-m%C3%BCssen-frei-bleiben-Stadtpolizei-verst%C3%A4rkt-Kontrollen-im-Flussstra%C3%9Fenviertel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77506.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Rettungswege müssen frei bleiben - Stadtpolizei verstärkt Kontrollen im Flussstraßenviertel</title>
-    <updated>2026-10-28T16:57:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Rettungswege-m%C3%BCssen-frei-bleiben-Stadtpolizei-verst%C3%A4rkt-Kontrollen-im-Flussstra%C3%9Fenviertel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77506.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-10-28T16:57:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gedenken-an-die-Novemberpogrome-Gemeinsames-Programmheft-f%C3%BCr-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77512.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Gedenken an die Novemberpogrome: Gemeinsames Programmheft für Gießen</title>
     <updated>2026-10-29T15:04:00+01:00</updated>
@@ -794,6 +782,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Ausbruch-der-Amerikanischen-Faulbrut-bei-Bienenv%C3%B6lkern-in-der-Stadt-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77610.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-11-19T18:49:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalsanierung-in-der-Jahnstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77611.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Kanalsanierung in der Jahnstraße</title>
+    <updated>2026-11-20T08:21:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kanalsanierung-in-der-Jahnstra%C3%9Fe.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77611.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-20T08:21:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
