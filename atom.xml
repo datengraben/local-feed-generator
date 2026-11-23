@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-20T17:30:52.808150+00:00</updated>
+  <updated>2026-11-23T11:45:18.085205+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -376,18 +376,6 @@
     <published>2026-07-15T00:00:00+02:00</published>
   </entry>
   <entry>
-    <id>http://stadttheater-giessen.de/de/magazin/beitrag/interview-mit-rafaele-giovanola-rainald-endrass/</id>
-    <title>Wir haben den Sturm verursacht - &lt;p&gt;Die Choreografin Rafaële Giovanola und der Dramaturgen Ra...</title>
-    <updated>2026-10-13T13:30:22+02:00</updated>
-    <author>
-      <name>Stadttheater</name>
-      <email>dialog@stadttheater-giessen.de</email>
-    </author>
-    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/interview-mit-rafaele-giovanola-rainald-endrass/"/>
-    <category term="kultur"/>
-    <published>2026-10-13T13:30:22+02:00</published>
-  </entry>
-  <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/interview-mit-ferdinand-keller/</id>
     <title>Zwischen Liebe, Freiheit und Abgründen - &lt;p&gt;Dramaturgin &lt;a href="/de/personen/julia-van-der-horst/"&gt;J...</title>
     <updated>2026-10-26T09:39:06+01:00</updated>
@@ -486,14 +474,26 @@
   <entry>
     <id>http://stadttheater-giessen.de/de/magazin/beitrag/transgender-day-of-remembrance-ein-tag-der-solidaritat-der-trauer-und-der-hoffnung/</id>
     <title>Transgender Day of Remembrance – Ein Tag der Solidarität, der Trauer und der Hoffnung - &lt;p&gt;Am 20.11. ist der „Transgender Day of Remembrance“ (TdoR)...</title>
-    <updated>2026-11-20T17:30:41.977816+01:00</updated>
+    <updated>2026-11-20T17:30:41+01:00</updated>
     <author>
       <name>Stadttheater</name>
       <email>dialog@stadttheater-giessen.de</email>
     </author>
     <link href="http://stadttheater-giessen.de/de/magazin/beitrag/transgender-day-of-remembrance-ein-tag-der-solidaritat-der-trauer-und-der-hoffnung/"/>
     <category term="kultur"/>
-    <published>2026-11-20T17:30:41.977816+01:00</published>
+    <published>2026-11-20T17:30:41+01:00</published>
+  </entry>
+  <entry>
+    <id>http://stadttheater-giessen.de/de/magazin/beitrag/sonderoffnungszeiten-im-haus-der-karten/</id>
+    <title>Sonderöffnungszeiten im Haus der Karten - &lt;p&gt;An allen &lt;strong&gt;Adventssamstagen &lt;/strong&gt;verlängern wir...</title>
+    <updated>2026-11-23T11:45:03.248374+01:00</updated>
+    <author>
+      <name>Stadttheater</name>
+      <email>dialog@stadttheater-giessen.de</email>
+    </author>
+    <link href="http://stadttheater-giessen.de/de/magazin/beitrag/sonderoffnungszeiten-im-haus-der-karten/"/>
+    <category term="kultur"/>
+    <published>2026-11-23T11:45:03.248374+01:00</published>
   </entry>
   <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Neue-%C3%96ffnungszeiten-im-Jugendzentrum-Jokus.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77523.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
