@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-23T23:21:06.480981+00:00</updated>
+  <updated>2026-11-24T19:55:11.838291+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
@@ -496,18 +496,6 @@
     <published>2026-11-23T11:45:03+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Frank-Tilo-Becher-bleibt-Vorsitzender-des-Gie%C3%9Fener-Forensikbeirats.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77530.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Frank-Tilo Becher bleibt Vorsitzender des Gießener Forensikbeirats</title>
-    <updated>2026-11-01T11:39:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Frank-Tilo-Becher-bleibt-Vorsitzender-des-Gie%C3%9Fener-Forensikbeirats.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77530.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-11-01T11:39:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Eines-der-sch%C3%B6nsten-Gottesh%C3%A4user-in-Gie%C3%9Fen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77543.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Eines der schönsten Gotteshäuser in Gießen</title>
     <updated>2026-11-02T19:07:00+01:00</updated>
@@ -794,6 +782,18 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Sicherheit-entsteht-durch-Zusammenarbeit-Zweites-Forum-Gefahrenabwehr-der-Stadt-Gie%C3%9Fen-setzt-wichtige-Impulse.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77623.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-11-23T23:20:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationaler-Tag-gegen-Gewalt-an-Frauen-Gemeinschaftsaktion-und-%C3%B6ffentliche-Gedenkstunde-an-die-Opfer-von-Femiziden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77624.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Internationaler Tag gegen Gewalt an Frauen - Gemeinschaftsaktion und öffentliche Gedenkstunde an die Opfer von Femiziden</title>
+    <updated>2026-11-24T19:54:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Internationaler-Tag-gegen-Gewalt-an-Frauen-Gemeinschaftsaktion-und-%C3%B6ffentliche-Gedenkstunde-an-die-Opfer-von-Femiziden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77624.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-24T19:54:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
