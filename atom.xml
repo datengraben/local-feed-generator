@@ -2,130 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="de">
   <id>http://datengraben.com/lokal</id>
   <title>Gießen lokal</title>
-  <updated>2026-11-26T14:43:08.016623+00:00</updated>
+  <updated>2026-11-27T17:12:25.910665+00:00</updated>
   <link href="http://datengraben.com" rel="alternate"/>
   <link href="http://datengraben.com/giessen-aktuelles.atom.xml" rel="self"/>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="1.0.0">python-feedgen</generator>
-  <entry>
-    <id>https://www.asta-giessen.de/9867-2/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2025-02-21T00:00:00+01:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/9867-2/"/>
-    <category term="uni"/>
-    <published>2025-02-21T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/9880-2/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2025-03-05T00:00:00+01:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/9880-2/"/>
-    <category term="uni"/>
-    <published>2025-03-05T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/pressemitteilung-sparmassnahmen-an-der-jlu-durch-den-hochschulpakt-und-aufruf-zum-protest-am-28-01-2026/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2025-12-17T00:00:00+01:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/pressemitteilung-sparmassnahmen-an-der-jlu-durch-den-hochschulpakt-und-aufruf-zum-protest-am-28-01-2026/"/>
-    <category term="uni"/>
-    <published>2025-12-17T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/infovortrag-rund-um-die-erste-wohnung/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2026-01-17T00:00:00+01:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/infovortrag-rund-um-die-erste-wohnung/"/>
-    <category term="uni"/>
-    <published>2026-01-17T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/zweites-planungstreffen-fuer-eine-gerechte-und-ausfinanzierte-hochschule-nocutsgiessen/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2026-01-17T00:00:00+01:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/zweites-planungstreffen-fuer-eine-gerechte-und-ausfinanzierte-hochschule-nocutsgiessen/"/>
-    <category term="uni"/>
-    <published>2026-01-17T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/rueckmeldung-und-semesterbeitrag-sommersemester-2026/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2026-01-30T00:00:00+01:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/rueckmeldung-und-semesterbeitrag-sommersemester-2026/"/>
-    <category term="uni"/>
-    <published>2026-01-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/pressemitteilung-studierende-und-beschaeftigte-protestieren-in-giessen-gegen-kuerzungen-an-hochschulen/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2026-01-30T00:00:00+01:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/pressemitteilung-studierende-und-beschaeftigte-protestieren-in-giessen-gegen-kuerzungen-an-hochschulen/"/>
-    <category term="uni"/>
-    <published>2026-01-30T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/vollversammlung-aller-studentischen-hilfskraefte-biologischer-hoersaal-10-02-2026-1730-uhr/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2026-02-08T00:00:00+01:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/vollversammlung-aller-studentischen-hilfskraefte-biologischer-hoersaal-10-02-2026-1730-uhr/"/>
-    <category term="uni"/>
-    <published>2026-02-08T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/pressemitteilung-studierendenvertretungen-in-hessen-fordern-tarifvertrag-fuer-studentische-hilfskraefte/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2026-03-19T00:00:00+01:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/pressemitteilung-studierendenvertretungen-in-hessen-fordern-tarifvertrag-fuer-studentische-hilfskraefte/"/>
-    <category term="uni"/>
-    <published>2026-03-19T00:00:00+01:00</published>
-  </entry>
-  <entry>
-    <id>https://www.asta-giessen.de/offener-brief-kommunikation/</id>
-    <title>Neuer Beitrag</title>
-    <updated>2026-10-31T00:00:00+01:00</updated>
-    <author>
-      <name>Asta - Uni Gießen</name>
-      <email>info@asta-giessen.de</email>
-    </author>
-    <link href="https://www.asta-giessen.de/offener-brief-kommunikation/"/>
-    <category term="uni"/>
-    <published>2026-10-31T00:00:00+01:00</published>
-  </entry>
   <entry>
     <id>https://universum-giessen.com/2026/07/10/lernorte-in-giessen-die-fuenf-besten-cafes-zum-lernen/</id>
     <title>Lernorte in Gießen: Die fünf besten Cafés zum Lernen</title>
@@ -496,66 +376,6 @@
     <published>2026-11-23T11:45:03+01:00</published>
   </entry>
   <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-der-Gefl%C3%BCgelpest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77557.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Schutz vor der Geflügelpest</title>
-    <updated>2026-11-05T16:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Schutz-vor-der-Gefl%C3%BCgelpest.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77557.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-11-05T16:04:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrerscheinumtausch-Rechtzeitig-an-die-Frist-denken-und-am-besten-schon-jetzt-beantragen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77558.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Führerscheinumtausch: Rechtzeitig an die Frist denken und am besten schon jetzt beantragen</title>
-    <updated>2026-11-05T16:04:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/F%C3%BChrerscheinumtausch-Rechtzeitig-an-die-Frist-denken-und-am-besten-schon-jetzt-beantragen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77558.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-11-05T16:04:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-bietet-Wero-als-neue-Bezahlm%C3%B6glichkeit-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77576.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Stadt Gießen bietet Wero als neue Bezahlmöglichkeit an</title>
-    <updated>2026-11-11T18:20:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Stadt-Gie%C3%9Fen-bietet-Wero-als-neue-Bezahlm%C3%B6glichkeit-an.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77576.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-11-11T18:20:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kulturfonds-Gie%C3%9Fen-Wetzlar-Antr%C3%A4ge-f%C3%BCr-das-F%C3%B6rderjahr-2027-ab-sofort-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77579.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Kulturfonds Gießen-Wetzlar: Anträge für das Förderjahr 2027 ab sofort möglich</title>
-    <updated>2026-11-13T12:52:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Kulturfonds-Gie%C3%9Fen-Wetzlar-Antr%C3%A4ge-f%C3%BCr-das-F%C3%B6rderjahr-2027-ab-sofort-m%C3%B6glich.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77579.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-11-13T12:52:00+01:00</published>
-  </entry>
-  <entry>
-    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Polizei-Mittelhessen-Unbekanntes-Pulver-in-Brief-an-Synagoge-freigesetzt-Polizei-und-Feuerwehr-im-Einsatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77577.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
-    <title>Update vom 13. November 2026: Ermittlungen nach Drohschreiben an Gießener Synagoge</title>
-    <updated>2026-11-12T17:53:00+01:00</updated>
-    <author>
-      <name>Stadt - Aktuelle Meldungen</name>
-      <email>info@giessen.de</email>
-    </author>
-    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Polizei-Mittelhessen-Unbekanntes-Pulver-in-Brief-an-Synagoge-freigesetzt-Polizei-und-Feuerwehr-im-Einsatz.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77577.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
-    <category term="stadt"/>
-    <published>2026-11-12T17:53:00+01:00</published>
-  </entry>
-  <entry>
     <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Zukunftssicher-und-komfortabel.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77582.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
     <title>Zukunftssicher und komfortabel</title>
     <updated>2026-11-16T17:53:00+01:00</updated>
@@ -794,6 +614,66 @@
     <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Radfahren-bei-Eis-und-Schnee-Winter-Radrouten-Gie%C3%9Fen-online.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77632.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
     <category term="stadt"/>
     <published>2026-11-26T14:41:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortrag-zum-EU-AI-Act-f%C3%BCr-mittelst%C3%A4ndische-Unternehmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77638.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Vortrag zum EU AI Act für mittelständische Unternehmen</title>
+    <updated>2026-11-27T17:12:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Vortrag-zum-EU-AI-Act-f%C3%BCr-mittelst%C3%A4ndische-Unternehmen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77638.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-27T17:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/17-neue-Integrations-Lotsen-f%C3%BCr-Gie%C3%9Fen-Zertifikate-feierlich-%C3%BCbergeben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77643.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>17 neue Integrations-Lotsen für Gießen: Zertifikate feierlich übergeben</title>
+    <updated>2026-11-27T17:12:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/17-neue-Integrations-Lotsen-f%C3%BCr-Gie%C3%9Fen-Zertifikate-feierlich-%C3%BCbergeben.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77643.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-27T17:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundsteuer-B-soll-steigen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77639.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Grundsteuer B soll steigen</title>
+    <updated>2026-11-27T17:12:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Grundsteuer-B-soll-steigen.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77639.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-27T17:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Beteiligung-auf-Gie%C3%9FenDIREKT-zum-Standortentwicklungskonzept-Sportpark-S%C3%BCd-in-Kleinlinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77640.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Online-Beteiligung auf GießenDIREKT zum Standortentwicklungskonzept »Sportpark Süd« in Kleinlinden</title>
+    <updated>2026-11-27T17:12:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Online-Beteiligung-auf-Gie%C3%9FenDIREKT-zum-Standortentwicklungskonzept-Sportpark-S%C3%BCd-in-Kleinlinden.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77640.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-27T17:12:00+01:00</published>
+  </entry>
+  <entry>
+    <id>http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gedenken-an-die-Bombardierung-Gie%C3%9Fens-am-6-Dezember-1944.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77642.1&amp;NavID=1894.87&amp;startkat=2874.229</id>
+    <title>Gedenken an die Bombardierung Gießens am 6. Dezember 1944</title>
+    <updated>2026-11-27T17:12:00+01:00</updated>
+    <author>
+      <name>Stadt - Aktuelle Meldungen</name>
+      <email>info@giessen.de</email>
+    </author>
+    <link href="http://giessen.de/Rathaus/Newsroom/Aktuelle-Meldungen/Gedenken-an-die-Bombardierung-Gie%C3%9Fens-am-6-Dezember-1944.php?object=tx,2874.5.1&amp;ModID=7&amp;FID=2874.77642.1&amp;NavID=1894.87&amp;startkat=2874.229"/>
+    <category term="stadt"/>
+    <published>2026-11-27T17:12:00+01:00</published>
   </entry>
   <entry>
     <id>https://werkstattkirche.de/kleidertauschparty-im-jokus/</id>
